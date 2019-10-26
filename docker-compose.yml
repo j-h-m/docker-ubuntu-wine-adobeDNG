@@ -1,0 +1,8 @@
+version: '2'
+services:
+  ubuntu:
+    build: .
+    image: ubuntu
+    command:
+      - /bin/bash
+    tty: true
