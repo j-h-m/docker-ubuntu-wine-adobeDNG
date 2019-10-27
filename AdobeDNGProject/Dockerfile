@@ -30,6 +30,6 @@ ADD AdobeDNGConverter_9.1.1.exe ./AdobeDNGConverter_9.1.1.exe
 # create alias for adobedng
 WORKDIR /root
 RUN touch .bash_aliases
-RUN echo "alias adobedng='wine /root/.wine/drive_c/Program\ Files\ \(x86\)/AdobeDNG/AdobeDNGConverter_9.1.1.exe'" > .bash_aliases
+RUN echo "alias adobedng='wine /root/.wine/drive_c/Program\ Files\ \(x86\)/AdobeDNGConverter_9.1.1.exe'" > .bash_aliases
 
 ENTRYPOINT ["/bin/bash"]

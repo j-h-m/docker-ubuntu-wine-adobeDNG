@@ -2,5 +2,3 @@
 Docker Ubuntu - WINE - AdobeDNG container
 
 Currently under construction, the EXE included needs to be replaced with the output from the installer!
-
-Will include a docker-compose.yml once completed.
