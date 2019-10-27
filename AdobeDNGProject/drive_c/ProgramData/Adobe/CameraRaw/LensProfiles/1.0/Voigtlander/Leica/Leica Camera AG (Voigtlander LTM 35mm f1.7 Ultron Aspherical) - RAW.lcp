@@ -1,0 +1,107 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156380, 2014/05/21-23:38:37        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="35mm f/1.7"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Voigtlander LTM 35mm f/1.7 Ultron Aspherical"
+       stCamera:ProfileName="Adobe (Voigtlander LTM 35mm f/1.7 Ultron Aspherical)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6048"
+       stCamera:ImageLength="4024"
+       stCamera:FocusDistance="1.918461">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.990309"
+        stCamera:FocalLengthY="0.990309"
+        stCamera:ImageXCenter="0.502475"
+        stCamera:ImageYCenter="0.498058"
+        stCamera:ResidualMeanError="0.000106"
+        stCamera:ResidualStandardDeviation="0.000102"
+        stCamera:RadialDistortParam1="0.000524"
+        stCamera:RadialDistortParam2="-0.083251"
+        stCamera:RadialDistortParam3="-0.047005">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.990431"
+        stCamera:FocalLengthY="0.990431"
+        stCamera:ImageXCenter="0.50249"
+        stCamera:ImageYCenter="0.497983"
+        stCamera:ResidualMeanError="0.000103"
+        stCamera:ResidualStandardDeviation="0.000101"
+        stCamera:ScaleFactor="1.000189"
+        stCamera:RadialDistortParam1="-0.000423"
+        stCamera:RadialDistortParam2="-0.002739"
+        stCamera:RadialDistortParam3="0.004104"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.990431"
+        stCamera:FocalLengthY="0.990431"
+        stCamera:ImageXCenter="0.50249"
+        stCamera:ImageYCenter="0.497983"
+        stCamera:ResidualMeanError="0.000102"
+        stCamera:ResidualStandardDeviation="0.000102"
+        stCamera:RadialDistortParam1="0.000328"
+        stCamera:RadialDistortParam2="-0.083504"
+        stCamera:RadialDistortParam3="-0.047158"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.990431"
+        stCamera:FocalLengthY="0.990431"
+        stCamera:ImageXCenter="0.50249"
+        stCamera:ImageYCenter="0.497983"
+        stCamera:ResidualMeanError="0.000104"
+        stCamera:ResidualStandardDeviation="0.000103"
+        stCamera:ScaleFactor="0.999778"
+        stCamera:RadialDistortParam1="0.000969"
+        stCamera:RadialDistortParam2="0.003642"
+        stCamera:RadialDistortParam3="-0.004123"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="35mm f/1.7"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Voigtlander LTM 35mm f/1.7 Ultron Aspherical"
+       stCamera:ProfileName="Adobe (Voigtlander LTM 35mm f/1.7 Ultron Aspherical)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6048"
+       stCamera:ImageLength="4024"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.990431"
+        stCamera:FocalLengthY="0.990431"
+        stCamera:ImageXCenter="0.50249"
+        stCamera:ImageYCenter="0.497983"
+        stCamera:RadialDistortParam1="0.000328"
+        stCamera:RadialDistortParam2="-0.083504"
+        stCamera:RadialDistortParam3="-0.047158">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.990431"
+        stCamera:FocalLengthY="0.990431"
+        stCamera:VignetteModelParam1="-2.547096"
+        stCamera:VignetteModelParam2="4.260411"
+        stCamera:VignetteModelParam3="-3.966676"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

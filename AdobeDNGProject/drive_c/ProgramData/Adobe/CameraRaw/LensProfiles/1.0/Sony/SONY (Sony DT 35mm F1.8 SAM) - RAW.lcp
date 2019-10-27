@@ -1,0 +1,372 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="62"
+       stCamera:Lens="DT 35mm F1.8 SAM"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 35mm F1.8 SAM"
+       stCamera:ProfileName="Adobe (Sony DT 35mm F1.8 SAM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:ScaleFactor="1.006262"
+       stCamera:RadialDistortParam1="-0.127566"
+       stCamera:RadialDistortParam2="0.105125"
+       stCamera:RadialDistortParam3="-0.253901"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="62"
+       stCamera:Lens="DT 35mm F1.8 SAM"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 35mm F1.8 SAM"
+       stCamera:ProfileName="Adobe (Sony DT 35mm F1.8 SAM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.006262"
+        stCamera:RadialDistortParam1="-0.127566"
+        stCamera:RadialDistortParam2="0.105125"
+        stCamera:RadialDistortParam3="-0.253901">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-3.671104"
+         stCamera:VignetteModelParam2="11.839206"
+         stCamera:VignetteModelParam3="-26.392515">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002644, 1.000000</rdf:li>
+          <rdf:li>0.071195, 0.983571</rdf:li>
+          <rdf:li>0.164891, 0.913006</rdf:li>
+          <rdf:li>0.302181, 0.743675</rdf:li>
+          <rdf:li>0.406273, 0.587189</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="62"
+       stCamera:Lens="DT 35mm F1.8 SAM"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 35mm F1.8 SAM"
+       stCamera:ProfileName="Adobe (Sony DT 35mm F1.8 SAM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.006262"
+        stCamera:RadialDistortParam1="-0.127566"
+        stCamera:RadialDistortParam2="0.105125"
+        stCamera:RadialDistortParam3="-0.253901">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-5.748311"
+         stCamera:VignetteModelParam2="26.254316"
+         stCamera:VignetteModelParam3="-60.1166">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002644, 1.000000</rdf:li>
+          <rdf:li>0.051339, 0.997313</rdf:li>
+          <rdf:li>0.091785, 0.961958</rdf:li>
+          <rdf:li>0.116250, 0.934152</rdf:li>
+          <rdf:li>0.406273, 0.489210</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="62"
+       stCamera:Lens="DT 35mm F1.8 SAM"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 35mm F1.8 SAM"
+       stCamera:ProfileName="Adobe (Sony DT 35mm F1.8 SAM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.006262"
+        stCamera:RadialDistortParam1="-0.127566"
+        stCamera:RadialDistortParam2="0.105125"
+        stCamera:RadialDistortParam3="-0.253901">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.015516"
+         stCamera:VignetteModelParam2="-9.797231"
+         stCamera:VignetteModelParam3="-8.093063">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002644, 1.000000</rdf:li>
+          <rdf:li>0.237984, 0.976470</rdf:li>
+          <rdf:li>0.286163, 0.933558</rdf:li>
+          <rdf:li>0.335551, 0.856655</rdf:li>
+          <rdf:li>0.406273, 0.681640</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="62"
+       stCamera:Lens="DT 35mm F1.8 SAM"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 35mm F1.8 SAM"
+       stCamera:ProfileName="Adobe (Sony DT 35mm F1.8 SAM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.006262"
+        stCamera:RadialDistortParam1="-0.127566"
+        stCamera:RadialDistortParam2="0.105125"
+        stCamera:RadialDistortParam3="-0.253901">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.734788"
+         stCamera:VignetteModelParam2="8.02281"
+         stCamera:VignetteModelParam3="-45.0537">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002644, 1.000000</rdf:li>
+          <rdf:li>0.153290, 0.991236</rdf:li>
+          <rdf:li>0.352024, 0.949831</rdf:li>
+          <rdf:li>0.374913, 0.934199</rdf:li>
+          <rdf:li>0.406273, 0.884459</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="62"
+       stCamera:Lens="DT 35mm F1.8 SAM"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 35mm F1.8 SAM"
+       stCamera:ProfileName="Adobe (Sony DT 35mm F1.8 SAM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.006262"
+        stCamera:RadialDistortParam1="-0.127566"
+        stCamera:RadialDistortParam2="0.105125"
+        stCamera:RadialDistortParam3="-0.253901">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.512241"
+         stCamera:VignetteModelParam2="1.306196"
+         stCamera:VignetteModelParam3="-2.957426">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002644, 1.000000</rdf:li>
+          <rdf:li>0.171704, 0.988506</rdf:li>
+          <rdf:li>0.406273, 0.935974</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="62"
+       stCamera:Lens="DT 35mm F1.8 SAM"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 35mm F1.8 SAM"
+       stCamera:ProfileName="Adobe (Sony DT 35mm F1.8 SAM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.006262"
+        stCamera:RadialDistortParam1="-0.127566"
+        stCamera:RadialDistortParam2="0.105125"
+        stCamera:RadialDistortParam3="-0.253901">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.625192"
+         stCamera:VignetteModelParam2="2.441146"
+         stCamera:VignetteModelParam3="-5.87074">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002644, 1.000000</rdf:li>
+          <rdf:li>0.208281, 0.979716</rdf:li>
+          <rdf:li>0.406273, 0.932900</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="62"
+       stCamera:Lens="DT 35mm F1.8 SAM"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 35mm F1.8 SAM"
+       stCamera:ProfileName="Adobe (Sony DT 35mm F1.8 SAM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.006262"
+        stCamera:RadialDistortParam1="-0.127566"
+        stCamera:RadialDistortParam2="0.105125"
+        stCamera:RadialDistortParam3="-0.253901">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.640939"
+         stCamera:VignetteModelParam2="2.629649"
+         stCamera:VignetteModelParam3="-6.512121">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002644, 1.000000</rdf:li>
+          <rdf:li>0.212337, 0.979160</rdf:li>
+          <rdf:li>0.406273, 0.932347</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="62"
+       stCamera:Lens="DT 35mm F1.8 SAM"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 35mm F1.8 SAM"
+       stCamera:ProfileName="Adobe (Sony DT 35mm F1.8 SAM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.006262"
+        stCamera:RadialDistortParam1="-0.127566"
+        stCamera:RadialDistortParam2="0.105125"
+        stCamera:RadialDistortParam3="-0.253901">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.751889"
+         stCamera:VignetteModelParam2="3.784906"
+         stCamera:VignetteModelParam3="-10.115952">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002644, 1.000000</rdf:li>
+          <rdf:li>0.227408, 0.975610</rdf:li>
+          <rdf:li>0.406273, 0.927686</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

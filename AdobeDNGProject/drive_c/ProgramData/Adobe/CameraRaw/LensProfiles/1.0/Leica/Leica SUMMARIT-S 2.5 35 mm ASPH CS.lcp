@@ -1,0 +1,3792 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.071153"
+        stCamera:RadialDistortParam2="0.078368"
+        stCamera:RadialDistortParam3="-0.013729">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000012"
+        stCamera:RadialDistortParam1="0.0002"
+        stCamera:RadialDistortParam2="-0.000128"
+        stCamera:RadialDistortParam3="-0.000258"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.071153"
+        stCamera:RadialDistortParam2="0.078368"
+        stCamera:RadialDistortParam3="-0.013729"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000234"
+        stCamera:RadialDistortParam1="-0.000261"
+        stCamera:RadialDistortParam2="0.000143"
+        stCamera:RadialDistortParam3="0.000329"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.071153"
+        stCamera:RadialDistortParam2="0.078364"
+        stCamera:RadialDistortParam3="-0.013722">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000012"
+        stCamera:RadialDistortParam1="0.0002"
+        stCamera:RadialDistortParam2="-0.000128"
+        stCamera:RadialDistortParam3="-0.000258"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.071153"
+        stCamera:RadialDistortParam2="0.078364"
+        stCamera:RadialDistortParam3="-0.013722"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000234"
+        stCamera:RadialDistortParam1="-0.000261"
+        stCamera:RadialDistortParam2="0.000144"
+        stCamera:RadialDistortParam3="0.000328"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.071152"
+        stCamera:RadialDistortParam2="0.07836"
+        stCamera:RadialDistortParam3="-0.013715">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000012"
+        stCamera:RadialDistortParam1="0.0002"
+        stCamera:RadialDistortParam2="-0.000129"
+        stCamera:RadialDistortParam3="-0.000257"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.071152"
+        stCamera:RadialDistortParam2="0.07836"
+        stCamera:RadialDistortParam3="-0.013715"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000234"
+        stCamera:RadialDistortParam1="-0.000261"
+        stCamera:RadialDistortParam2="0.000145"
+        stCamera:RadialDistortParam3="0.000327"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="8.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.071152"
+        stCamera:RadialDistortParam2="0.078358"
+        stCamera:RadialDistortParam3="-0.013711">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000012"
+        stCamera:RadialDistortParam1="0.0002"
+        stCamera:RadialDistortParam2="-0.000129"
+        stCamera:RadialDistortParam3="-0.000257"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.071152"
+        stCamera:RadialDistortParam2="0.078358"
+        stCamera:RadialDistortParam3="-0.013711"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000234"
+        stCamera:RadialDistortParam1="-0.000261"
+        stCamera:RadialDistortParam2="0.000145"
+        stCamera:RadialDistortParam3="0.000326"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.071216"
+        stCamera:RadialDistortParam2="0.078769"
+        stCamera:RadialDistortParam3="-0.014353">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999988"
+        stCamera:RadialDistortParam1="0.000343"
+        stCamera:RadialDistortParam2="-0.000469"
+        stCamera:RadialDistortParam3="-0.000001"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.071216"
+        stCamera:RadialDistortParam2="0.078769"
+        stCamera:RadialDistortParam3="-0.014353"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000238"
+        stCamera:RadialDistortParam1="-0.000308"
+        stCamera:RadialDistortParam2="0.000251"
+        stCamera:RadialDistortParam3="0.000256"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.071208"
+        stCamera:RadialDistortParam2="0.078733"
+        stCamera:RadialDistortParam3="-0.014312">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.000207"
+        stCamera:RadialDistortParam2="-0.000041"
+        stCamera:RadialDistortParam3="-0.000409"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.071208"
+        stCamera:RadialDistortParam2="0.078733"
+        stCamera:RadialDistortParam3="-0.014312"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000236"
+        stCamera:RadialDistortParam1="-0.000287"
+        stCamera:RadialDistortParam2="0.000184"
+        stCamera:RadialDistortParam3="0.00032"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.071152"
+        stCamera:RadialDistortParam2="0.078357"
+        stCamera:RadialDistortParam3="-0.013709">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000012"
+        stCamera:RadialDistortParam1="0.0002"
+        stCamera:RadialDistortParam2="-0.000129"
+        stCamera:RadialDistortParam3="-0.000257"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.071152"
+        stCamera:RadialDistortParam2="0.078357"
+        stCamera:RadialDistortParam3="-0.013709"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000234"
+        stCamera:RadialDistortParam1="-0.000261"
+        stCamera:RadialDistortParam2="0.000145"
+        stCamera:RadialDistortParam3="0.000326"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="3.53107">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.071188"
+        stCamera:RadialDistortParam2="0.078635"
+        stCamera:RadialDistortParam3="-0.014199">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.00001"
+        stCamera:RadialDistortParam1="0.000213"
+        stCamera:RadialDistortParam2="-0.000191"
+        stCamera:RadialDistortParam3="-0.000205"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.071188"
+        stCamera:RadialDistortParam2="0.078635"
+        stCamera:RadialDistortParam3="-0.014199"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000233"
+        stCamera:RadialDistortParam1="-0.000249"
+        stCamera:RadialDistortParam2="0.000059"
+        stCamera:RadialDistortParam3="0.000436"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.071165"
+        stCamera:RadialDistortParam2="0.078461"
+        stCamera:RadialDistortParam3="-0.013894">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000011"
+        stCamera:RadialDistortParam1="0.0002"
+        stCamera:RadialDistortParam2="-0.000124"
+        stCamera:RadialDistortParam3="-0.000269"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.071165"
+        stCamera:RadialDistortParam2="0.078461"
+        stCamera:RadialDistortParam3="-0.013894"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000234"
+        stCamera:RadialDistortParam1="-0.000261"
+        stCamera:RadialDistortParam2="0.000129"
+        stCamera:RadialDistortParam3="0.000352"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="4.526069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.071161"
+        stCamera:RadialDistortParam2="0.07843"
+        stCamera:RadialDistortParam3="-0.013839">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000011"
+        stCamera:RadialDistortParam1="0.0002"
+        stCamera:RadialDistortParam2="-0.000126"
+        stCamera:RadialDistortParam3="-0.000266"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.071161"
+        stCamera:RadialDistortParam2="0.07843"
+        stCamera:RadialDistortParam3="-0.013839"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000234"
+        stCamera:RadialDistortParam1="-0.000261"
+        stCamera:RadialDistortParam2="0.000134"
+        stCamera:RadialDistortParam3="0.000344"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.071159"
+        stCamera:RadialDistortParam2="0.078411"
+        stCamera:RadialDistortParam3="-0.013804">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000011"
+        stCamera:RadialDistortParam1="0.0002"
+        stCamera:RadialDistortParam2="-0.000126"
+        stCamera:RadialDistortParam3="-0.000263"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.071159"
+        stCamera:RadialDistortParam2="0.078411"
+        stCamera:RadialDistortParam3="-0.013804"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000234"
+        stCamera:RadialDistortParam1="-0.000261"
+        stCamera:RadialDistortParam2="0.000137"
+        stCamera:RadialDistortParam3="0.000339"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="5.531069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.071156"
+        stCamera:RadialDistortParam2="0.078393"
+        stCamera:RadialDistortParam3="-0.013772">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000012"
+        stCamera:RadialDistortParam1="0.0002"
+        stCamera:RadialDistortParam2="-0.000127"
+        stCamera:RadialDistortParam3="-0.000261"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.071156"
+        stCamera:RadialDistortParam2="0.078393"
+        stCamera:RadialDistortParam3="-0.013772"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000234"
+        stCamera:RadialDistortParam1="-0.000261"
+        stCamera:RadialDistortParam2="0.00014"
+        stCamera:RadialDistortParam3="0.000335"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.071155"
+        stCamera:RadialDistortParam2="0.078382"
+        stCamera:RadialDistortParam3="-0.013753">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000012"
+        stCamera:RadialDistortParam1="0.0002"
+        stCamera:RadialDistortParam2="-0.000128"
+        stCamera:RadialDistortParam3="-0.00026"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.071155"
+        stCamera:RadialDistortParam2="0.078382"
+        stCamera:RadialDistortParam3="-0.013753"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000234"
+        stCamera:RadialDistortParam1="-0.000261"
+        stCamera:RadialDistortParam2="0.000141"
+        stCamera:RadialDistortParam3="0.000332"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="6.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.071154"
+        stCamera:RadialDistortParam2="0.078374"
+        stCamera:RadialDistortParam3="-0.013738">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000012"
+        stCamera:RadialDistortParam1="0.0002"
+        stCamera:RadialDistortParam2="-0.000128"
+        stCamera:RadialDistortParam3="-0.000259"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.071154"
+        stCamera:RadialDistortParam2="0.078374"
+        stCamera:RadialDistortParam3="-0.013738"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000234"
+        stCamera:RadialDistortParam1="-0.000261"
+        stCamera:RadialDistortParam2="0.000143"
+        stCamera:RadialDistortParam3="0.00033"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.75"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.070478"
+        stCamera:RadialDistortParam2="0.086667"
+        stCamera:RadialDistortParam3="-0.014463">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000093"
+        stCamera:RadialDistortParam1="0.000212"
+        stCamera:RadialDistortParam2="-0.000214"
+        stCamera:RadialDistortParam3="-0.000224"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.070478"
+        stCamera:RadialDistortParam2="0.086667"
+        stCamera:RadialDistortParam3="-0.014463"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000152"
+        stCamera:RadialDistortParam1="-0.00028"
+        stCamera:RadialDistortParam2="0.000245"
+        stCamera:RadialDistortParam3="0.000295"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.75"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.070477"
+        stCamera:RadialDistortParam2="0.086661"
+        stCamera:RadialDistortParam3="-0.014453">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000093"
+        stCamera:RadialDistortParam1="0.000212"
+        stCamera:RadialDistortParam2="-0.000215"
+        stCamera:RadialDistortParam3="-0.000223"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.070477"
+        stCamera:RadialDistortParam2="0.086661"
+        stCamera:RadialDistortParam3="-0.014453"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000152"
+        stCamera:RadialDistortParam1="-0.00028"
+        stCamera:RadialDistortParam2="0.000246"
+        stCamera:RadialDistortParam3="0.000294"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.75"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.070476"
+        stCamera:RadialDistortParam2="0.086655"
+        stCamera:RadialDistortParam3="-0.014445">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000094"
+        stCamera:RadialDistortParam1="0.000212"
+        stCamera:RadialDistortParam2="-0.000215"
+        stCamera:RadialDistortParam3="-0.000223"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.070476"
+        stCamera:RadialDistortParam2="0.086655"
+        stCamera:RadialDistortParam3="-0.014445"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000152"
+        stCamera:RadialDistortParam1="-0.00028"
+        stCamera:RadialDistortParam2="0.000247"
+        stCamera:RadialDistortParam3="0.000292"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.75"
+       stCamera:ApertureValue="8.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.070475"
+        stCamera:RadialDistortParam2="0.086652"
+        stCamera:RadialDistortParam3="-0.014441">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000094"
+        stCamera:RadialDistortParam1="0.000212"
+        stCamera:RadialDistortParam2="-0.000215"
+        stCamera:RadialDistortParam3="-0.000222"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.070475"
+        stCamera:RadialDistortParam2="0.086652"
+        stCamera:RadialDistortParam3="-0.014441"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000152"
+        stCamera:RadialDistortParam1="-0.00028"
+        stCamera:RadialDistortParam2="0.000247"
+        stCamera:RadialDistortParam3="0.000292"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.75"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.070631"
+        stCamera:RadialDistortParam2="0.0875"
+        stCamera:RadialDistortParam3="-0.015576">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000069"
+        stCamera:RadialDistortParam1="0.000327"
+        stCamera:RadialDistortParam2="-0.00044"
+        stCamera:RadialDistortParam3="-0.000102"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.070631"
+        stCamera:RadialDistortParam2="0.0875"
+        stCamera:RadialDistortParam3="-0.015576"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000158"
+        stCamera:RadialDistortParam1="-0.00034"
+        stCamera:RadialDistortParam2="0.000341"
+        stCamera:RadialDistortParam3="0.000265"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.75"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.070625"
+        stCamera:RadialDistortParam2="0.087473"
+        stCamera:RadialDistortParam3="-0.015545">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.00008"
+        stCamera:RadialDistortParam1="0.00021"
+        stCamera:RadialDistortParam2="-0.000073"
+        stCamera:RadialDistortParam3="-0.000449"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.070625"
+        stCamera:RadialDistortParam2="0.087473"
+        stCamera:RadialDistortParam3="-0.015545"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000156"
+        stCamera:RadialDistortParam1="-0.000315"
+        stCamera:RadialDistortParam2="0.000261"
+        stCamera:RadialDistortParam3="0.000341"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.75"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.070475"
+        stCamera:RadialDistortParam2="0.08665"
+        stCamera:RadialDistortParam3="-0.014438">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000094"
+        stCamera:RadialDistortParam1="0.000212"
+        stCamera:RadialDistortParam2="-0.000215"
+        stCamera:RadialDistortParam3="-0.000222"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.070475"
+        stCamera:RadialDistortParam2="0.08665"
+        stCamera:RadialDistortParam3="-0.014438"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000152"
+        stCamera:RadialDistortParam1="-0.00028"
+        stCamera:RadialDistortParam2="0.000248"
+        stCamera:RadialDistortParam3="0.000291"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.75"
+       stCamera:ApertureValue="3.53107">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.070552"
+        stCamera:RadialDistortParam2="0.087145"
+        stCamera:RadialDistortParam3="-0.015189">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000092"
+        stCamera:RadialDistortParam1="0.000216"
+        stCamera:RadialDistortParam2="-0.000276"
+        stCamera:RadialDistortParam3="-0.000169"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.070552"
+        stCamera:RadialDistortParam2="0.087145"
+        stCamera:RadialDistortParam3="-0.015189"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000152"
+        stCamera:RadialDistortParam1="-0.000257"
+        stCamera:RadialDistortParam2="0.000068"
+        stCamera:RadialDistortParam3="0.000523"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.75"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.070527"
+        stCamera:RadialDistortParam2="0.086978"
+        stCamera:RadialDistortParam3="-0.014917">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000093"
+        stCamera:RadialDistortParam1="0.000189"
+        stCamera:RadialDistortParam2="-0.000099"
+        stCamera:RadialDistortParam3="-0.000383"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.070527"
+        stCamera:RadialDistortParam2="0.086978"
+        stCamera:RadialDistortParam3="-0.014917"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000153"
+        stCamera:RadialDistortParam1="-0.000286"
+        stCamera:RadialDistortParam2="0.000254"
+        stCamera:RadialDistortParam3="0.000288"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.75"
+       stCamera:ApertureValue="4.526069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.070493"
+        stCamera:RadialDistortParam2="0.086759"
+        stCamera:RadialDistortParam3="-0.014595">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000093"
+        stCamera:RadialDistortParam1="0.000212"
+        stCamera:RadialDistortParam2="-0.000209"
+        stCamera:RadialDistortParam3="-0.000236"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.070493"
+        stCamera:RadialDistortParam2="0.086759"
+        stCamera:RadialDistortParam3="-0.014595"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000152"
+        stCamera:RadialDistortParam1="-0.00028"
+        stCamera:RadialDistortParam2="0.000232"
+        stCamera:RadialDistortParam3="0.000316"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.75"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.070488"
+        stCamera:RadialDistortParam2="0.08673"
+        stCamera:RadialDistortParam3="-0.014553">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000093"
+        stCamera:RadialDistortParam1="0.000212"
+        stCamera:RadialDistortParam2="-0.000211"
+        stCamera:RadialDistortParam3="-0.000232"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.070488"
+        stCamera:RadialDistortParam2="0.08673"
+        stCamera:RadialDistortParam3="-0.014553"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000152"
+        stCamera:RadialDistortParam1="-0.00028"
+        stCamera:RadialDistortParam2="0.000236"
+        stCamera:RadialDistortParam3="0.000309"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.75"
+       stCamera:ApertureValue="5.531069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.070484"
+        stCamera:RadialDistortParam2="0.086703"
+        stCamera:RadialDistortParam3="-0.014514">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000093"
+        stCamera:RadialDistortParam1="0.000212"
+        stCamera:RadialDistortParam2="-0.000212"
+        stCamera:RadialDistortParam3="-0.000229"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.070484"
+        stCamera:RadialDistortParam2="0.086703"
+        stCamera:RadialDistortParam3="-0.014514"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000152"
+        stCamera:RadialDistortParam1="-0.00028"
+        stCamera:RadialDistortParam2="0.00024"
+        stCamera:RadialDistortParam3="0.000303"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.75"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.070481"
+        stCamera:RadialDistortParam2="0.086687"
+        stCamera:RadialDistortParam3="-0.014491">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000093"
+        stCamera:RadialDistortParam1="0.000212"
+        stCamera:RadialDistortParam2="-0.000213"
+        stCamera:RadialDistortParam3="-0.000227"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.070481"
+        stCamera:RadialDistortParam2="0.086687"
+        stCamera:RadialDistortParam3="-0.014491"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000152"
+        stCamera:RadialDistortParam1="-0.00028"
+        stCamera:RadialDistortParam2="0.000242"
+        stCamera:RadialDistortParam3="0.000299"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.75"
+       stCamera:ApertureValue="6.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.070479"
+        stCamera:RadialDistortParam2="0.086675"
+        stCamera:RadialDistortParam3="-0.014474">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000093"
+        stCamera:RadialDistortParam1="0.000212"
+        stCamera:RadialDistortParam2="-0.000214"
+        stCamera:RadialDistortParam3="-0.000225"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.070479"
+        stCamera:RadialDistortParam2="0.086675"
+        stCamera:RadialDistortParam3="-0.014474"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000152"
+        stCamera:RadialDistortParam1="-0.00028"
+        stCamera:RadialDistortParam2="0.000244"
+        stCamera:RadialDistortParam3="0.000297"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069846"
+        stCamera:RadialDistortParam2="0.090097"
+        stCamera:RadialDistortParam3="-0.014366">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000121"
+        stCamera:RadialDistortParam1="0.000222"
+        stCamera:RadialDistortParam2="-0.000259"
+        stCamera:RadialDistortParam3="-0.000202"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069846"
+        stCamera:RadialDistortParam2="0.090097"
+        stCamera:RadialDistortParam3="-0.014366"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000127"
+        stCamera:RadialDistortParam1="-0.000294"
+        stCamera:RadialDistortParam2="0.000298"
+        stCamera:RadialDistortParam3="0.000272"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069845"
+        stCamera:RadialDistortParam2="0.09009"
+        stCamera:RadialDistortParam3="-0.014356">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000121"
+        stCamera:RadialDistortParam1="0.000222"
+        stCamera:RadialDistortParam2="-0.000259"
+        stCamera:RadialDistortParam3="-0.000201"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069845"
+        stCamera:RadialDistortParam2="0.09009"
+        stCamera:RadialDistortParam3="-0.014356"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000127"
+        stCamera:RadialDistortParam1="-0.000294"
+        stCamera:RadialDistortParam2="0.000299"
+        stCamera:RadialDistortParam3="0.000271"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069844"
+        stCamera:RadialDistortParam2="0.090083"
+        stCamera:RadialDistortParam3="-0.014347">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000121"
+        stCamera:RadialDistortParam1="0.000222"
+        stCamera:RadialDistortParam2="-0.000259"
+        stCamera:RadialDistortParam3="-0.000201"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069844"
+        stCamera:RadialDistortParam2="0.090083"
+        stCamera:RadialDistortParam3="-0.014347"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000127"
+        stCamera:RadialDistortParam1="-0.000294"
+        stCamera:RadialDistortParam2="0.0003"
+        stCamera:RadialDistortParam3="0.000269"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="8.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069843"
+        stCamera:RadialDistortParam2="0.09008"
+        stCamera:RadialDistortParam3="-0.014342">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000121"
+        stCamera:RadialDistortParam1="0.000222"
+        stCamera:RadialDistortParam2="-0.00026"
+        stCamera:RadialDistortParam3="-0.0002"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069843"
+        stCamera:RadialDistortParam2="0.09008"
+        stCamera:RadialDistortParam3="-0.014342"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000127"
+        stCamera:RadialDistortParam1="-0.000294"
+        stCamera:RadialDistortParam2="0.0003"
+        stCamera:RadialDistortParam3="0.000268"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.070096"
+        stCamera:RadialDistortParam2="0.091274"
+        stCamera:RadialDistortParam3="-0.015838">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000096"
+        stCamera:RadialDistortParam1="0.000324"
+        stCamera:RadialDistortParam2="-0.000426"
+        stCamera:RadialDistortParam3="-0.00015"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.070096"
+        stCamera:RadialDistortParam2="0.091274"
+        stCamera:RadialDistortParam3="-0.015838"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000133"
+        stCamera:RadialDistortParam1="-0.00036"
+        stCamera:RadialDistortParam2="0.000381"
+        stCamera:RadialDistortParam3="0.000273"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.07009"
+        stCamera:RadialDistortParam2="0.091249"
+        stCamera:RadialDistortParam3="-0.01581">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000106"
+        stCamera:RadialDistortParam1="0.000216"
+        stCamera:RadialDistortParam2="-0.000087"
+        stCamera:RadialDistortParam3="-0.000471"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.07009"
+        stCamera:RadialDistortParam2="0.091249"
+        stCamera:RadialDistortParam3="-0.01581"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000131"
+        stCamera:RadialDistortParam1="-0.000333"
+        stCamera:RadialDistortParam2="0.000298"
+        stCamera:RadialDistortParam3="0.000353"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069843"
+        stCamera:RadialDistortParam2="0.090078"
+        stCamera:RadialDistortParam3="-0.014339">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000121"
+        stCamera:RadialDistortParam1="0.000222"
+        stCamera:RadialDistortParam2="-0.00026"
+        stCamera:RadialDistortParam3="-0.0002"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069843"
+        stCamera:RadialDistortParam2="0.090078"
+        stCamera:RadialDistortParam3="-0.014339"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000127"
+        stCamera:RadialDistortParam1="-0.000294"
+        stCamera:RadialDistortParam2="0.000301"
+        stCamera:RadialDistortParam3="0.000268"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="3.53107">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.069936"
+        stCamera:RadialDistortParam2="0.090572"
+        stCamera:RadialDistortParam3="-0.015089">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.00012"
+        stCamera:RadialDistortParam1="0.000211"
+        stCamera:RadialDistortParam2="-0.000275"
+        stCamera:RadialDistortParam3="-0.000193"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.069936"
+        stCamera:RadialDistortParam2="0.090572"
+        stCamera:RadialDistortParam3="-0.015089"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000126"
+        stCamera:RadialDistortParam1="-0.000268"
+        stCamera:RadialDistortParam2="0.000082"
+        stCamera:RadialDistortParam3="0.000556"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.069926"
+        stCamera:RadialDistortParam2="0.090584"
+        stCamera:RadialDistortParam3="-0.015081">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000121"
+        stCamera:RadialDistortParam1="0.000191"
+        stCamera:RadialDistortParam2="-0.000096"
+        stCamera:RadialDistortParam3="-0.000435"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.069926"
+        stCamera:RadialDistortParam2="0.090584"
+        stCamera:RadialDistortParam3="-0.015081"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000127"
+        stCamera:RadialDistortParam1="-0.000301"
+        stCamera:RadialDistortParam2="0.000311"
+        stCamera:RadialDistortParam3="0.000253"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4.526069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069867"
+        stCamera:RadialDistortParam2="0.090201"
+        stCamera:RadialDistortParam3="-0.014509">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.00012"
+        stCamera:RadialDistortParam1="0.000222"
+        stCamera:RadialDistortParam2="-0.000251"
+        stCamera:RadialDistortParam3="-0.000216"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069867"
+        stCamera:RadialDistortParam2="0.090201"
+        stCamera:RadialDistortParam3="-0.014509"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000127"
+        stCamera:RadialDistortParam1="-0.000294"
+        stCamera:RadialDistortParam2="0.000282"
+        stCamera:RadialDistortParam3="0.000297"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.06986"
+        stCamera:RadialDistortParam2="0.090168"
+        stCamera:RadialDistortParam3="-0.014463">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.00012"
+        stCamera:RadialDistortParam1="0.000222"
+        stCamera:RadialDistortParam2="-0.000254"
+        stCamera:RadialDistortParam3="-0.000212"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.06986"
+        stCamera:RadialDistortParam2="0.090168"
+        stCamera:RadialDistortParam3="-0.014463"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000127"
+        stCamera:RadialDistortParam1="-0.000294"
+        stCamera:RadialDistortParam2="0.000288"
+        stCamera:RadialDistortParam3="0.000289"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="5.531069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069854"
+        stCamera:RadialDistortParam2="0.090138"
+        stCamera:RadialDistortParam3="-0.014422">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.00012"
+        stCamera:RadialDistortParam1="0.000222"
+        stCamera:RadialDistortParam2="-0.000256"
+        stCamera:RadialDistortParam3="-0.000208"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069854"
+        stCamera:RadialDistortParam2="0.090138"
+        stCamera:RadialDistortParam3="-0.014422"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000127"
+        stCamera:RadialDistortParam1="-0.000294"
+        stCamera:RadialDistortParam2="0.000292"
+        stCamera:RadialDistortParam3="0.000282"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069851"
+        stCamera:RadialDistortParam2="0.09012"
+        stCamera:RadialDistortParam3="-0.014397">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000121"
+        stCamera:RadialDistortParam1="0.000222"
+        stCamera:RadialDistortParam2="-0.000257"
+        stCamera:RadialDistortParam3="-0.000205"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069851"
+        stCamera:RadialDistortParam2="0.09012"
+        stCamera:RadialDistortParam3="-0.014397"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000127"
+        stCamera:RadialDistortParam1="-0.000294"
+        stCamera:RadialDistortParam2="0.000295"
+        stCamera:RadialDistortParam3="0.000277"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069848"
+        stCamera:RadialDistortParam2="0.090106"
+        stCamera:RadialDistortParam3="-0.014378">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000121"
+        stCamera:RadialDistortParam1="0.000222"
+        stCamera:RadialDistortParam2="-0.000258"
+        stCamera:RadialDistortParam3="-0.000204"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069848"
+        stCamera:RadialDistortParam2="0.090106"
+        stCamera:RadialDistortParam3="-0.014378"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000127"
+        stCamera:RadialDistortParam1="-0.000294"
+        stCamera:RadialDistortParam2="0.000297"
+        stCamera:RadialDistortParam3="0.000274"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069067"
+        stCamera:RadialDistortParam2="0.094676"
+        stCamera:RadialDistortParam3="-0.014188">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000166"
+        stCamera:RadialDistortParam1="0.000223"
+        stCamera:RadialDistortParam2="-0.000313"
+        stCamera:RadialDistortParam3="-0.000173"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069067"
+        stCamera:RadialDistortParam2="0.094676"
+        stCamera:RadialDistortParam3="-0.014188"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000081"
+        stCamera:RadialDistortParam1="-0.000299"
+        stCamera:RadialDistortParam2="0.000364"
+        stCamera:RadialDistortParam3="0.000241"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069066"
+        stCamera:RadialDistortParam2="0.094666"
+        stCamera:RadialDistortParam3="-0.014176">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000167"
+        stCamera:RadialDistortParam1="0.000223"
+        stCamera:RadialDistortParam2="-0.000314"
+        stCamera:RadialDistortParam3="-0.000172"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069066"
+        stCamera:RadialDistortParam2="0.094666"
+        stCamera:RadialDistortParam3="-0.014176"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000081"
+        stCamera:RadialDistortParam1="-0.000299"
+        stCamera:RadialDistortParam2="0.000365"
+        stCamera:RadialDistortParam3="0.000239"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069064"
+        stCamera:RadialDistortParam2="0.094658"
+        stCamera:RadialDistortParam3="-0.014166">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000167"
+        stCamera:RadialDistortParam1="0.000223"
+        stCamera:RadialDistortParam2="-0.000314"
+        stCamera:RadialDistortParam3="-0.000171"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069064"
+        stCamera:RadialDistortParam2="0.094658"
+        stCamera:RadialDistortParam3="-0.014166"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000081"
+        stCamera:RadialDistortParam1="-0.000299"
+        stCamera:RadialDistortParam2="0.000366"
+        stCamera:RadialDistortParam3="0.000238"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="8.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069063"
+        stCamera:RadialDistortParam2="0.094654"
+        stCamera:RadialDistortParam3="-0.014161">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000167"
+        stCamera:RadialDistortParam1="0.000223"
+        stCamera:RadialDistortParam2="-0.000315"
+        stCamera:RadialDistortParam3="-0.000171"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069063"
+        stCamera:RadialDistortParam2="0.094654"
+        stCamera:RadialDistortParam3="-0.014161"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000081"
+        stCamera:RadialDistortParam1="-0.000299"
+        stCamera:RadialDistortParam2="0.000367"
+        stCamera:RadialDistortParam3="0.000237"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069386"
+        stCamera:RadialDistortParam2="0.096228"
+        stCamera:RadialDistortParam3="-0.015971">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000142"
+        stCamera:RadialDistortParam1="0.000308"
+        stCamera:RadialDistortParam2="-0.000403"
+        stCamera:RadialDistortParam3="-0.000215"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069386"
+        stCamera:RadialDistortParam2="0.096228"
+        stCamera:RadialDistortParam3="-0.015971"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000088"
+        stCamera:RadialDistortParam1="-0.000371"
+        stCamera:RadialDistortParam2="0.000425"
+        stCamera:RadialDistortParam3="0.000289"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.069382"
+        stCamera:RadialDistortParam2="0.096207"
+        stCamera:RadialDistortParam3="-0.015947">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000151"
+        stCamera:RadialDistortParam1="0.000212"
+        stCamera:RadialDistortParam2="-0.000103"
+        stCamera:RadialDistortParam3="-0.000498"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.069382"
+        stCamera:RadialDistortParam2="0.096207"
+        stCamera:RadialDistortParam3="-0.015947"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000086"
+        stCamera:RadialDistortParam1="-0.000344"
+        stCamera:RadialDistortParam2="0.000341"
+        stCamera:RadialDistortParam3="0.000368"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069063"
+        stCamera:RadialDistortParam2="0.094651"
+        stCamera:RadialDistortParam3="-0.014157">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000167"
+        stCamera:RadialDistortParam1="0.000223"
+        stCamera:RadialDistortParam2="-0.000315"
+        stCamera:RadialDistortParam3="-0.00017"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069063"
+        stCamera:RadialDistortParam2="0.094651"
+        stCamera:RadialDistortParam3="-0.014157"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000081"
+        stCamera:RadialDistortParam1="-0.000299"
+        stCamera:RadialDistortParam2="0.000367"
+        stCamera:RadialDistortParam3="0.000236"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="3.53107">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069213"
+        stCamera:RadialDistortParam2="0.095457"
+        stCamera:RadialDistortParam3="-0.015141">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000167"
+        stCamera:RadialDistortParam1="0.000188"
+        stCamera:RadialDistortParam2="-0.000245"
+        stCamera:RadialDistortParam3="-0.000255"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069213"
+        stCamera:RadialDistortParam2="0.095457"
+        stCamera:RadialDistortParam3="-0.015141"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000081"
+        stCamera:RadialDistortParam1="-0.000272"
+        stCamera:RadialDistortParam2="0.000105"
+        stCamera:RadialDistortParam3="0.000591"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.06914"
+        stCamera:RadialDistortParam2="0.095088"
+        stCamera:RadialDistortParam3="-0.014716">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000166"
+        stCamera:RadialDistortParam1="0.000195"
+        stCamera:RadialDistortParam2="-0.000146"
+        stCamera:RadialDistortParam3="-0.000434"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.06914"
+        stCamera:RadialDistortParam2="0.095088"
+        stCamera:RadialDistortParam3="-0.014716"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000081"
+        stCamera:RadialDistortParam1="-0.000295"
+        stCamera:RadialDistortParam2="0.000332"
+        stCamera:RadialDistortParam3="0.000262"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="4.526069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069093"
+        stCamera:RadialDistortParam2="0.094813"
+        stCamera:RadialDistortParam3="-0.014353">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000165"
+        stCamera:RadialDistortParam1="0.000223"
+        stCamera:RadialDistortParam2="-0.000304"
+        stCamera:RadialDistortParam3="-0.000191"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069093"
+        stCamera:RadialDistortParam2="0.094813"
+        stCamera:RadialDistortParam3="-0.014353"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000081"
+        stCamera:RadialDistortParam1="-0.000299"
+        stCamera:RadialDistortParam2="0.000346"
+        stCamera:RadialDistortParam3="0.00027"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069085"
+        stCamera:RadialDistortParam2="0.094769"
+        stCamera:RadialDistortParam3="-0.0143">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000166"
+        stCamera:RadialDistortParam1="0.000223"
+        stCamera:RadialDistortParam2="-0.000307"
+        stCamera:RadialDistortParam3="-0.000185"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069085"
+        stCamera:RadialDistortParam2="0.094769"
+        stCamera:RadialDistortParam3="-0.0143"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000081"
+        stCamera:RadialDistortParam1="-0.000299"
+        stCamera:RadialDistortParam2="0.000351"
+        stCamera:RadialDistortParam3="0.000261"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="5.531069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069077"
+        stCamera:RadialDistortParam2="0.094729"
+        stCamera:RadialDistortParam3="-0.014252">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000166"
+        stCamera:RadialDistortParam1="0.000223"
+        stCamera:RadialDistortParam2="-0.00031"
+        stCamera:RadialDistortParam3="-0.00018"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069077"
+        stCamera:RadialDistortParam2="0.094729"
+        stCamera:RadialDistortParam3="-0.014252"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000081"
+        stCamera:RadialDistortParam1="-0.000299"
+        stCamera:RadialDistortParam2="0.000357"
+        stCamera:RadialDistortParam3="0.000252"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069073"
+        stCamera:RadialDistortParam2="0.094705"
+        stCamera:RadialDistortParam3="-0.014223">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000166"
+        stCamera:RadialDistortParam1="0.000223"
+        stCamera:RadialDistortParam2="-0.000311"
+        stCamera:RadialDistortParam3="-0.000177"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.069073"
+        stCamera:RadialDistortParam2="0.094705"
+        stCamera:RadialDistortParam3="-0.014223"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000081"
+        stCamera:RadialDistortParam1="-0.000299"
+        stCamera:RadialDistortParam2="0.00036"
+        stCamera:RadialDistortParam3="0.000247"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="6.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.06907"
+        stCamera:RadialDistortParam2="0.094687"
+        stCamera:RadialDistortParam3="-0.014201">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000166"
+        stCamera:RadialDistortParam1="0.000223"
+        stCamera:RadialDistortParam2="-0.000312"
+        stCamera:RadialDistortParam3="-0.000175"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.06907"
+        stCamera:RadialDistortParam2="0.094687"
+        stCamera:RadialDistortParam3="-0.014201"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000081"
+        stCamera:RadialDistortParam1="-0.000299"
+        stCamera:RadialDistortParam2="0.000362"
+        stCamera:RadialDistortParam3="0.000244"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="4"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.06867"
+        stCamera:RadialDistortParam2="0.096711"
+        stCamera:RadialDistortParam3="-0.014012">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000187"
+        stCamera:RadialDistortParam1="0.000222"
+        stCamera:RadialDistortParam2="-0.000338"
+        stCamera:RadialDistortParam3="-0.000159"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.06867"
+        stCamera:RadialDistortParam2="0.096711"
+        stCamera:RadialDistortParam3="-0.014012"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000059"
+        stCamera:RadialDistortParam1="-0.0003"
+        stCamera:RadialDistortParam2="0.000394"
+        stCamera:RadialDistortParam3="0.000226"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="4"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068668"
+        stCamera:RadialDistortParam2="0.096701"
+        stCamera:RadialDistortParam3="-0.014">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000187"
+        stCamera:RadialDistortParam1="0.000222"
+        stCamera:RadialDistortParam2="-0.000338"
+        stCamera:RadialDistortParam3="-0.000158"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068668"
+        stCamera:RadialDistortParam2="0.096701"
+        stCamera:RadialDistortParam3="-0.014"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000059"
+        stCamera:RadialDistortParam1="-0.0003"
+        stCamera:RadialDistortParam2="0.000395"
+        stCamera:RadialDistortParam3="0.000224"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="4"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068667"
+        stCamera:RadialDistortParam2="0.096692"
+        stCamera:RadialDistortParam3="-0.01399">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000187"
+        stCamera:RadialDistortParam1="0.000222"
+        stCamera:RadialDistortParam2="-0.000339"
+        stCamera:RadialDistortParam3="-0.000157"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068667"
+        stCamera:RadialDistortParam2="0.096692"
+        stCamera:RadialDistortParam3="-0.01399"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000059"
+        stCamera:RadialDistortParam1="-0.0003"
+        stCamera:RadialDistortParam2="0.000396"
+        stCamera:RadialDistortParam3="0.000222"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="4"
+       stCamera:ApertureValue="8.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068666"
+        stCamera:RadialDistortParam2="0.096687"
+        stCamera:RadialDistortParam3="-0.013984">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000188"
+        stCamera:RadialDistortParam1="0.000222"
+        stCamera:RadialDistortParam2="-0.000339"
+        stCamera:RadialDistortParam3="-0.000156"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068666"
+        stCamera:RadialDistortParam2="0.096687"
+        stCamera:RadialDistortParam3="-0.013984"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000059"
+        stCamera:RadialDistortParam1="-0.0003"
+        stCamera:RadialDistortParam2="0.000397"
+        stCamera:RadialDistortParam3="0.000221"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="4"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.069014"
+        stCamera:RadialDistortParam2="0.098438"
+        stCamera:RadialDistortParam3="-0.015919">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000163"
+        stCamera:RadialDistortParam1="0.000299"
+        stCamera:RadialDistortParam2="-0.000392"
+        stCamera:RadialDistortParam3="-0.000246"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.069014"
+        stCamera:RadialDistortParam2="0.098438"
+        stCamera:RadialDistortParam3="-0.015919"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000068"
+        stCamera:RadialDistortParam1="-0.000374"
+        stCamera:RadialDistortParam2="0.000443"
+        stCamera:RadialDistortParam3="0.000297"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="4"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.06901"
+        stCamera:RadialDistortParam2="0.098419"
+        stCamera:RadialDistortParam3="-0.015897">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000171"
+        stCamera:RadialDistortParam1="0.000209"
+        stCamera:RadialDistortParam2="-0.00011"
+        stCamera:RadialDistortParam3="-0.00051"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.06901"
+        stCamera:RadialDistortParam2="0.098419"
+        stCamera:RadialDistortParam3="-0.015897"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000065"
+        stCamera:RadialDistortParam1="-0.000348"
+        stCamera:RadialDistortParam2="0.00036"
+        stCamera:RadialDistortParam3="0.000376"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="4"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068665"
+        stCamera:RadialDistortParam2="0.096683"
+        stCamera:RadialDistortParam3="-0.01398">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000188"
+        stCamera:RadialDistortParam1="0.000222"
+        stCamera:RadialDistortParam2="-0.00034"
+        stCamera:RadialDistortParam3="-0.000156"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068665"
+        stCamera:RadialDistortParam2="0.096683"
+        stCamera:RadialDistortParam3="-0.01398"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000059"
+        stCamera:RadialDistortParam1="-0.0003"
+        stCamera:RadialDistortParam2="0.000397"
+        stCamera:RadialDistortParam3="0.000221"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="4"
+       stCamera:ApertureValue="3.53107">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.068849"
+        stCamera:RadialDistortParam2="0.097697"
+        stCamera:RadialDistortParam3="-0.015116">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000188"
+        stCamera:RadialDistortParam1="0.000175"
+        stCamera:RadialDistortParam2="-0.000225"
+        stCamera:RadialDistortParam3="-0.00029"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.068849"
+        stCamera:RadialDistortParam2="0.097697"
+        stCamera:RadialDistortParam3="-0.015116"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.00006"
+        stCamera:RadialDistortParam1="-0.000273"
+        stCamera:RadialDistortParam2="0.000115"
+        stCamera:RadialDistortParam3="0.000606"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="4"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.068737"
+        stCamera:RadialDistortParam2="0.097056"
+        stCamera:RadialDistortParam3="-0.014359">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000187"
+        stCamera:RadialDistortParam1="0.000197"
+        stCamera:RadialDistortParam2="-0.000179"
+        stCamera:RadialDistortParam3="-0.000419"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.068737"
+        stCamera:RadialDistortParam2="0.097056"
+        stCamera:RadialDistortParam3="-0.014359"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000059"
+        stCamera:RadialDistortParam1="-0.000287"
+        stCamera:RadialDistortParam2="0.000322"
+        stCamera:RadialDistortParam3="0.000287"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="4"
+       stCamera:ApertureValue="4.526069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068699"
+        stCamera:RadialDistortParam2="0.096866"
+        stCamera:RadialDistortParam3="-0.014189">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000186"
+        stCamera:RadialDistortParam1="0.000222"
+        stCamera:RadialDistortParam2="-0.000328"
+        stCamera:RadialDistortParam3="-0.000178"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068699"
+        stCamera:RadialDistortParam2="0.096866"
+        stCamera:RadialDistortParam3="-0.014189"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.00006"
+        stCamera:RadialDistortParam1="-0.0003"
+        stCamera:RadialDistortParam2="0.000374"
+        stCamera:RadialDistortParam3="0.000257"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="4"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.06869"
+        stCamera:RadialDistortParam2="0.096816"
+        stCamera:RadialDistortParam3="-0.014132">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000187"
+        stCamera:RadialDistortParam1="0.000222"
+        stCamera:RadialDistortParam2="-0.000331"
+        stCamera:RadialDistortParam3="-0.000172"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.06869"
+        stCamera:RadialDistortParam2="0.096816"
+        stCamera:RadialDistortParam3="-0.014132"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.00006"
+        stCamera:RadialDistortParam1="-0.0003"
+        stCamera:RadialDistortParam2="0.000381"
+        stCamera:RadialDistortParam3="0.000247"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="4"
+       stCamera:ApertureValue="5.531069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068681"
+        stCamera:RadialDistortParam2="0.096771"
+        stCamera:RadialDistortParam3="-0.014081">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000187"
+        stCamera:RadialDistortParam1="0.000222"
+        stCamera:RadialDistortParam2="-0.000334"
+        stCamera:RadialDistortParam3="-0.000167"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068681"
+        stCamera:RadialDistortParam2="0.096771"
+        stCamera:RadialDistortParam3="-0.014081"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.00006"
+        stCamera:RadialDistortParam1="-0.0003"
+        stCamera:RadialDistortParam2="0.000386"
+        stCamera:RadialDistortParam3="0.000238"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="4"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068676"
+        stCamera:RadialDistortParam2="0.096744"
+        stCamera:RadialDistortParam3="-0.01405">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000187"
+        stCamera:RadialDistortParam1="0.000222"
+        stCamera:RadialDistortParam2="-0.000336"
+        stCamera:RadialDistortParam3="-0.000163"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068676"
+        stCamera:RadialDistortParam2="0.096744"
+        stCamera:RadialDistortParam3="-0.01405"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.00006"
+        stCamera:RadialDistortParam1="-0.0003"
+        stCamera:RadialDistortParam2="0.00039"
+        stCamera:RadialDistortParam3="0.000233"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="4"
+       stCamera:ApertureValue="6.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068673"
+        stCamera:RadialDistortParam2="0.096724"
+        stCamera:RadialDistortParam3="-0.014027">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000187"
+        stCamera:RadialDistortParam1="0.000222"
+        stCamera:RadialDistortParam2="-0.000337"
+        stCamera:RadialDistortParam3="-0.000161"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068673"
+        stCamera:RadialDistortParam2="0.096724"
+        stCamera:RadialDistortParam3="-0.014027"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.00006"
+        stCamera:RadialDistortParam1="-0.0003"
+        stCamera:RadialDistortParam2="0.000392"
+        stCamera:RadialDistortParam3="0.000229"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068438"
+        stCamera:RadialDistortParam2="0.098677"
+        stCamera:RadialDistortParam3="-0.013964">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000213"
+        stCamera:RadialDistortParam1="0.000215"
+        stCamera:RadialDistortParam2="-0.000357"
+        stCamera:RadialDistortParam3="-0.000149"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068438"
+        stCamera:RadialDistortParam2="0.098677"
+        stCamera:RadialDistortParam3="-0.013964"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000032"
+        stCamera:RadialDistortParam1="-0.000293"
+        stCamera:RadialDistortParam2="0.000417"
+        stCamera:RadialDistortParam3="0.000214"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068436"
+        stCamera:RadialDistortParam2="0.098665"
+        stCamera:RadialDistortParam3="-0.01395">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000213"
+        stCamera:RadialDistortParam1="0.000215"
+        stCamera:RadialDistortParam2="-0.000358"
+        stCamera:RadialDistortParam3="-0.000147"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068436"
+        stCamera:RadialDistortParam2="0.098665"
+        stCamera:RadialDistortParam3="-0.01395"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000032"
+        stCamera:RadialDistortParam1="-0.000293"
+        stCamera:RadialDistortParam2="0.000419"
+        stCamera:RadialDistortParam3="0.000212"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068435"
+        stCamera:RadialDistortParam2="0.098654"
+        stCamera:RadialDistortParam3="-0.013939">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000213"
+        stCamera:RadialDistortParam1="0.000215"
+        stCamera:RadialDistortParam2="-0.000358"
+        stCamera:RadialDistortParam3="-0.000146"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068435"
+        stCamera:RadialDistortParam2="0.098654"
+        stCamera:RadialDistortParam3="-0.013939"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000032"
+        stCamera:RadialDistortParam1="-0.000293"
+        stCamera:RadialDistortParam2="0.00042"
+        stCamera:RadialDistortParam3="0.00021"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="8.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068434"
+        stCamera:RadialDistortParam2="0.098648"
+        stCamera:RadialDistortParam3="-0.013933">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000213"
+        stCamera:RadialDistortParam1="0.000215"
+        stCamera:RadialDistortParam2="-0.000359"
+        stCamera:RadialDistortParam3="-0.000145"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068434"
+        stCamera:RadialDistortParam2="0.098648"
+        stCamera:RadialDistortParam3="-0.013933"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000032"
+        stCamera:RadialDistortParam1="-0.000293"
+        stCamera:RadialDistortParam2="0.000421"
+        stCamera:RadialDistortParam3="0.000209"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000006"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068764"
+        stCamera:RadialDistortParam2="0.100521"
+        stCamera:RadialDistortParam3="-0.015895">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000188"
+        stCamera:RadialDistortParam1="0.000286"
+        stCamera:RadialDistortParam2="-0.000381"
+        stCamera:RadialDistortParam3="-0.00027"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000006"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068764"
+        stCamera:RadialDistortParam2="0.100521"
+        stCamera:RadialDistortParam3="-0.015895"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000041"
+        stCamera:RadialDistortParam1="-0.000369"
+        stCamera:RadialDistortParam2="0.000456"
+        stCamera:RadialDistortParam3="0.000306"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.06876"
+        stCamera:RadialDistortParam2="0.100504"
+        stCamera:RadialDistortParam3="-0.015875">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000196"
+        stCamera:RadialDistortParam1="0.000201"
+        stCamera:RadialDistortParam2="-0.000118"
+        stCamera:RadialDistortParam3="-0.000517"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.06876"
+        stCamera:RadialDistortParam2="0.100504"
+        stCamera:RadialDistortParam3="-0.015875"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000038"
+        stCamera:RadialDistortParam1="-0.000343"
+        stCamera:RadialDistortParam2="0.000375"
+        stCamera:RadialDistortParam3="0.000382"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068433"
+        stCamera:RadialDistortParam2="0.098645"
+        stCamera:RadialDistortParam3="-0.013929">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000213"
+        stCamera:RadialDistortParam1="0.000215"
+        stCamera:RadialDistortParam2="-0.000359"
+        stCamera:RadialDistortParam3="-0.000145"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068433"
+        stCamera:RadialDistortParam2="0.098645"
+        stCamera:RadialDistortParam3="-0.013929"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000032"
+        stCamera:RadialDistortParam1="-0.000293"
+        stCamera:RadialDistortParam2="0.000421"
+        stCamera:RadialDistortParam3="0.000209"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="3.53107">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.06866"
+        stCamera:RadialDistortParam2="0.100037"
+        stCamera:RadialDistortParam3="-0.015358">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000214"
+        stCamera:RadialDistortParam1="0.000159"
+        stCamera:RadialDistortParam2="-0.000208"
+        stCamera:RadialDistortParam3="-0.000319"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.06866"
+        stCamera:RadialDistortParam2="0.100037"
+        stCamera:RadialDistortParam3="-0.015358"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000032"
+        stCamera:RadialDistortParam1="-0.000266"
+        stCamera:RadialDistortParam2="0.000125"
+        stCamera:RadialDistortParam3="0.000617"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068485"
+        stCamera:RadialDistortParam2="0.098842"
+        stCamera:RadialDistortParam3="-0.013864">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000212"
+        stCamera:RadialDistortParam1="0.000192"
+        stCamera:RadialDistortParam2="-0.000205"
+        stCamera:RadialDistortParam3="-0.000406"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068485"
+        stCamera:RadialDistortParam2="0.098842"
+        stCamera:RadialDistortParam3="-0.013864"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000031"
+        stCamera:RadialDistortParam1="-0.000272"
+        stCamera:RadialDistortParam2="0.000309"
+        stCamera:RadialDistortParam3="0.000314"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="4.526069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068467"
+        stCamera:RadialDistortParam2="0.098852"
+        stCamera:RadialDistortParam3="-0.014149">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000212"
+        stCamera:RadialDistortParam1="0.000214"
+        stCamera:RadialDistortParam2="-0.000342"
+        stCamera:RadialDistortParam3="-0.000174"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068467"
+        stCamera:RadialDistortParam2="0.098852"
+        stCamera:RadialDistortParam3="-0.014149"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000032"
+        stCamera:RadialDistortParam1="-0.000294"
+        stCamera:RadialDistortParam2="0.000398"
+        stCamera:RadialDistortParam3="0.000245"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068459"
+        stCamera:RadialDistortParam2="0.098799"
+        stCamera:RadialDistortParam3="-0.014094">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000212"
+        stCamera:RadialDistortParam1="0.000215"
+        stCamera:RadialDistortParam2="-0.00035"
+        stCamera:RadialDistortParam3="-0.000162"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068459"
+        stCamera:RadialDistortParam2="0.098799"
+        stCamera:RadialDistortParam3="-0.014094"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000032"
+        stCamera:RadialDistortParam1="-0.000293"
+        stCamera:RadialDistortParam2="0.000403"
+        stCamera:RadialDistortParam3="0.000237"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="5.531069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.06845"
+        stCamera:RadialDistortParam2="0.098746"
+        stCamera:RadialDistortParam3="-0.014038">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000212"
+        stCamera:RadialDistortParam1="0.000215"
+        stCamera:RadialDistortParam2="-0.000353"
+        stCamera:RadialDistortParam3="-0.000156"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.06845"
+        stCamera:RadialDistortParam2="0.098746"
+        stCamera:RadialDistortParam3="-0.014038"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000032"
+        stCamera:RadialDistortParam1="-0.000293"
+        stCamera:RadialDistortParam2="0.000409"
+        stCamera:RadialDistortParam3="0.000227"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068445"
+        stCamera:RadialDistortParam2="0.098715"
+        stCamera:RadialDistortParam3="-0.014005">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000212"
+        stCamera:RadialDistortParam1="0.000215"
+        stCamera:RadialDistortParam2="-0.000355"
+        stCamera:RadialDistortParam3="-0.000153"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068445"
+        stCamera:RadialDistortParam2="0.098715"
+        stCamera:RadialDistortParam3="-0.014005"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000032"
+        stCamera:RadialDistortParam1="-0.000293"
+        stCamera:RadialDistortParam2="0.000413"
+        stCamera:RadialDistortParam3="0.000221"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summarit-S 35 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-S 1:2.5/35mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-S 1:2.5/35mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="6.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068441"
+        stCamera:RadialDistortParam2="0.098692"
+        stCamera:RadialDistortParam3="-0.013979">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000213"
+        stCamera:RadialDistortParam1="0.000215"
+        stCamera:RadialDistortParam2="-0.000356"
+        stCamera:RadialDistortParam3="-0.00015"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.068441"
+        stCamera:RadialDistortParam2="0.098692"
+        stCamera:RadialDistortParam3="-0.013979"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000032"
+        stCamera:RadialDistortParam1="-0.000293"
+        stCamera:RadialDistortParam2="0.000416"
+        stCamera:RadialDistortParam3="0.000217"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

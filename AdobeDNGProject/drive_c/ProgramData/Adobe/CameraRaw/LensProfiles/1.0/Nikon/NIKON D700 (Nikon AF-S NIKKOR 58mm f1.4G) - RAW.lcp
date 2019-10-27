@@ -1,0 +1,1373 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.209611"
+        stCamera:FocalLengthY="2.209611"
+        stCamera:ResidualMeanError="0.000131"
+        stCamera:ResidualStandardDeviation="0.000102"
+        stCamera:RadialDistortParam1="-0.256444"
+        stCamera:RadialDistortParam2="-1.285863"
+        stCamera:RadialDistortParam3="11.164324">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="2.209178"
+        stCamera:FocalLengthY="2.209178"
+        stCamera:ResidualMeanError="0.000131"
+        stCamera:ResidualStandardDeviation="0.000102"
+        stCamera:ScaleFactor="1.000098"
+        stCamera:RadialDistortParam1="-0.000256"
+        stCamera:RadialDistortParam2="-0.003572"
+        stCamera:RadialDistortParam3="0.116135"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="2.209178"
+        stCamera:FocalLengthY="2.209178"
+        stCamera:ResidualMeanError="0.00013"
+        stCamera:ResidualStandardDeviation="0.000102"
+        stCamera:RadialDistortParam1="-0.256451"
+        stCamera:RadialDistortParam2="-1.289754"
+        stCamera:RadialDistortParam3="11.2064"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="2.209178"
+        stCamera:FocalLengthY="2.209178"
+        stCamera:ResidualMeanError="0.000131"
+        stCamera:ResidualStandardDeviation="0.000103"
+        stCamera:ScaleFactor="0.999995"
+        stCamera:RadialDistortParam1="0.000479"
+        stCamera:RadialDistortParam2="-0.010359"
+        stCamera:RadialDistortParam3="0.247222"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="1.06"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.820971"
+        stCamera:FocalLengthY="1.820971"
+        stCamera:ResidualMeanError="0.000056"
+        stCamera:ResidualStandardDeviation="0.000036"
+        stCamera:RadialDistortParam1="-0.189213"
+        stCamera:RadialDistortParam2="-0.081728"
+        stCamera:RadialDistortParam3="-0.466112">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.820571"
+        stCamera:FocalLengthY="1.820571"
+        stCamera:ResidualMeanError="0.000055"
+        stCamera:ResidualStandardDeviation="0.000036"
+        stCamera:ScaleFactor="1.000089"
+        stCamera:RadialDistortParam1="-0.00012"
+        stCamera:RadialDistortParam2="-0.002339"
+        stCamera:RadialDistortParam3="0.027301"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.820571"
+        stCamera:FocalLengthY="1.820571"
+        stCamera:ResidualMeanError="0.000055"
+        stCamera:ResidualStandardDeviation="0.000036"
+        stCamera:RadialDistortParam1="-0.189388"
+        stCamera:RadialDistortParam2="-0.081719"
+        stCamera:RadialDistortParam3="-0.463949"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.820571"
+        stCamera:FocalLengthY="1.820571"
+        stCamera:ResidualMeanError="0.000056"
+        stCamera:ResidualStandardDeviation="0.000037"
+        stCamera:ScaleFactor="0.99999"
+        stCamera:RadialDistortParam1="0.00099"
+        stCamera:RadialDistortParam2="-0.001929"
+        stCamera:RadialDistortParam3="0.005046"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="3.76"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.659867"
+        stCamera:FocalLengthY="1.659867"
+        stCamera:ResidualMeanError="0.000195"
+        stCamera:ResidualStandardDeviation="0.000286"
+        stCamera:RadialDistortParam1="-0.167636"
+        stCamera:RadialDistortParam2="0.54951"
+        stCamera:RadialDistortParam3="-2.816371">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.660027"
+        stCamera:FocalLengthY="1.660027"
+        stCamera:ResidualMeanError="0.000194"
+        stCamera:ResidualStandardDeviation="0.000286"
+        stCamera:ScaleFactor="1.000079"
+        stCamera:RadialDistortParam1="-0.000113"
+        stCamera:RadialDistortParam2="-0.003847"
+        stCamera:RadialDistortParam3="0.030226"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.660027"
+        stCamera:FocalLengthY="1.660027"
+        stCamera:ResidualMeanError="0.000194"
+        stCamera:ResidualStandardDeviation="0.000286"
+        stCamera:RadialDistortParam1="-0.167803"
+        stCamera:RadialDistortParam2="0.548652"
+        stCamera:RadialDistortParam3="-2.811425"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.660027"
+        stCamera:FocalLengthY="1.660027"
+        stCamera:ResidualMeanError="0.000196"
+        stCamera:ResidualStandardDeviation="0.000285"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.000855"
+        stCamera:RadialDistortParam2="0.003192"
+        stCamera:RadialDistortParam3="-0.0268"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.209178"
+        stCamera:FocalLengthY="2.209178"
+        stCamera:RadialDistortParam1="-0.256451"
+        stCamera:RadialDistortParam2="-1.289754"
+        stCamera:RadialDistortParam3="11.2064">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.209178"
+        stCamera:FocalLengthY="2.209178"
+        stCamera:VignetteModelParam1="-14.749632"
+        stCamera:VignetteModelParam2="166.918028"
+        stCamera:VignetteModelParam3="-1017.73023"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.209178"
+        stCamera:FocalLengthY="2.209178"
+        stCamera:RadialDistortParam1="-0.256451"
+        stCamera:RadialDistortParam2="-1.289754"
+        stCamera:RadialDistortParam3="11.2064">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.209178"
+        stCamera:FocalLengthY="2.209178"
+        stCamera:VignetteModelParam1="-1.971472"
+        stCamera:VignetteModelParam2="-59.038713"
+        stCamera:VignetteModelParam3="235.92901"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.209178"
+        stCamera:FocalLengthY="2.209178"
+        stCamera:RadialDistortParam1="-0.256451"
+        stCamera:RadialDistortParam2="-1.289754"
+        stCamera:RadialDistortParam3="11.2064">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.209178"
+        stCamera:FocalLengthY="2.209178"
+        stCamera:VignetteModelParam1="-3.041967"
+        stCamera:VignetteModelParam2="45.493846"
+        stCamera:VignetteModelParam3="-464.739836"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.209178"
+        stCamera:FocalLengthY="2.209178"
+        stCamera:RadialDistortParam1="-0.256451"
+        stCamera:RadialDistortParam2="-1.289754"
+        stCamera:RadialDistortParam3="11.2064">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.209178"
+        stCamera:FocalLengthY="2.209178"
+        stCamera:VignetteModelParam1="-2.598306"
+        stCamera:VignetteModelParam2="15.450724"
+        stCamera:VignetteModelParam3="-58.417473"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.209178"
+        stCamera:FocalLengthY="2.209178"
+        stCamera:RadialDistortParam1="-0.256451"
+        stCamera:RadialDistortParam2="-1.289754"
+        stCamera:RadialDistortParam3="11.2064">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.209178"
+        stCamera:FocalLengthY="2.209178"
+        stCamera:VignetteModelParam1="-2.52917"
+        stCamera:VignetteModelParam2="12.813338"
+        stCamera:VignetteModelParam3="-36.360615"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.209178"
+        stCamera:FocalLengthY="2.209178"
+        stCamera:RadialDistortParam1="-0.256451"
+        stCamera:RadialDistortParam2="-1.289754"
+        stCamera:RadialDistortParam3="11.2064">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.209178"
+        stCamera:FocalLengthY="2.209178"
+        stCamera:VignetteModelParam1="-2.685894"
+        stCamera:VignetteModelParam2="16.682093"
+        stCamera:VignetteModelParam3="-66.050409"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.209178"
+        stCamera:FocalLengthY="2.209178"
+        stCamera:RadialDistortParam1="-0.256451"
+        stCamera:RadialDistortParam2="-1.289754"
+        stCamera:RadialDistortParam3="11.2064">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.209178"
+        stCamera:FocalLengthY="2.209178"
+        stCamera:VignetteModelParam1="-2.433493"
+        stCamera:VignetteModelParam2="11.27887"
+        stCamera:VignetteModelParam3="-33.622428"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.209178"
+        stCamera:FocalLengthY="2.209178"
+        stCamera:RadialDistortParam1="-0.256451"
+        stCamera:RadialDistortParam2="-1.289754"
+        stCamera:RadialDistortParam3="11.2064">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.209178"
+        stCamera:FocalLengthY="2.209178"
+        stCamera:VignetteModelParam1="-2.770879"
+        stCamera:VignetteModelParam2="19.281572"
+        stCamera:VignetteModelParam3="-93.848214"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="1.06"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.820571"
+        stCamera:FocalLengthY="1.820571"
+        stCamera:RadialDistortParam1="-0.189388"
+        stCamera:RadialDistortParam2="-0.081719"
+        stCamera:RadialDistortParam3="-0.463949">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.820571"
+        stCamera:FocalLengthY="1.820571"
+        stCamera:VignetteModelParam1="-13.246665"
+        stCamera:VignetteModelParam2="128.182927"
+        stCamera:VignetteModelParam3="-564.085438"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="1.06"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.820571"
+        stCamera:FocalLengthY="1.820571"
+        stCamera:RadialDistortParam1="-0.189388"
+        stCamera:RadialDistortParam2="-0.081719"
+        stCamera:RadialDistortParam3="-0.463949">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.820571"
+        stCamera:FocalLengthY="1.820571"
+        stCamera:VignetteModelParam1="-1.256309"
+        stCamera:VignetteModelParam2="-39.976065"
+        stCamera:VignetteModelParam3="133.199548"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="1.06"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.820571"
+        stCamera:FocalLengthY="1.820571"
+        stCamera:RadialDistortParam1="-0.189388"
+        stCamera:RadialDistortParam2="-0.081719"
+        stCamera:RadialDistortParam3="-0.463949">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.820571"
+        stCamera:FocalLengthY="1.820571"
+        stCamera:VignetteModelParam1="-2.494945"
+        stCamera:VignetteModelParam2="28.910398"
+        stCamera:VignetteModelParam3="-216.004693"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="1.06"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.820571"
+        stCamera:FocalLengthY="1.820571"
+        stCamera:RadialDistortParam1="-0.189388"
+        stCamera:RadialDistortParam2="-0.081719"
+        stCamera:RadialDistortParam3="-0.463949">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.820571"
+        stCamera:FocalLengthY="1.820571"
+        stCamera:VignetteModelParam1="-2.078718"
+        stCamera:VignetteModelParam2="9.863698"
+        stCamera:VignetteModelParam3="-33.802733"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="1.06"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.820571"
+        stCamera:FocalLengthY="1.820571"
+        stCamera:RadialDistortParam1="-0.189388"
+        stCamera:RadialDistortParam2="-0.081719"
+        stCamera:RadialDistortParam3="-0.463949">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.820571"
+        stCamera:FocalLengthY="1.820571"
+        stCamera:VignetteModelParam1="-1.953614"
+        stCamera:VignetteModelParam2="7.473564"
+        stCamera:VignetteModelParam3="-22.316654"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="1.06"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.820571"
+        stCamera:FocalLengthY="1.820571"
+        stCamera:RadialDistortParam1="-0.189388"
+        stCamera:RadialDistortParam2="-0.081719"
+        stCamera:RadialDistortParam3="-0.463949">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.820571"
+        stCamera:FocalLengthY="1.820571"
+        stCamera:VignetteModelParam1="-1.993804"
+        stCamera:VignetteModelParam2="8.51469"
+        stCamera:VignetteModelParam3="-29.428469"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="1.06"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.820571"
+        stCamera:FocalLengthY="1.820571"
+        stCamera:RadialDistortParam1="-0.189388"
+        stCamera:RadialDistortParam2="-0.081719"
+        stCamera:RadialDistortParam3="-0.463949">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.820571"
+        stCamera:FocalLengthY="1.820571"
+        stCamera:VignetteModelParam1="-1.967194"
+        stCamera:VignetteModelParam2="8.201246"
+        stCamera:VignetteModelParam3="-28.798626"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="1.06"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.820571"
+        stCamera:FocalLengthY="1.820571"
+        stCamera:RadialDistortParam1="-0.189388"
+        stCamera:RadialDistortParam2="-0.081719"
+        stCamera:RadialDistortParam3="-0.463949">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.820571"
+        stCamera:FocalLengthY="1.820571"
+        stCamera:VignetteModelParam1="-2.015976"
+        stCamera:VignetteModelParam2="9.237094"
+        stCamera:VignetteModelParam3="-37.444611"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="2.11"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.709315"
+        stCamera:FocalLengthY="1.709315"
+        stCamera:RadialDistortParam1="-0.175945"
+        stCamera:RadialDistortParam2="0.494577"
+        stCamera:RadialDistortParam3="-2.806116">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.709315"
+        stCamera:FocalLengthY="1.709315"
+        stCamera:VignetteModelParam1="-13.028232"
+        stCamera:VignetteModelParam2="119.09395"
+        stCamera:VignetteModelParam3="-468.736594"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="2.11"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.709315"
+        stCamera:FocalLengthY="1.709315"
+        stCamera:RadialDistortParam1="-0.175945"
+        stCamera:RadialDistortParam2="0.494577"
+        stCamera:RadialDistortParam3="-2.806116">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.709315"
+        stCamera:FocalLengthY="1.709315"
+        stCamera:VignetteModelParam1="-1.090577"
+        stCamera:VignetteModelParam2="-37.336098"
+        stCamera:VignetteModelParam3="124.550391"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="2.11"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.709315"
+        stCamera:FocalLengthY="1.709315"
+        stCamera:RadialDistortParam1="-0.175945"
+        stCamera:RadialDistortParam2="0.494577"
+        stCamera:RadialDistortParam3="-2.806116">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.709315"
+        stCamera:FocalLengthY="1.709315"
+        stCamera:VignetteModelParam1="-2.398321"
+        stCamera:VignetteModelParam2="25.296323"
+        stCamera:VignetteModelParam3="-168.702464"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="2.11"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.709315"
+        stCamera:FocalLengthY="1.709315"
+        stCamera:RadialDistortParam1="-0.175945"
+        stCamera:RadialDistortParam2="0.494577"
+        stCamera:RadialDistortParam3="-2.806116">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.709315"
+        stCamera:FocalLengthY="1.709315"
+        stCamera:VignetteModelParam1="-1.897331"
+        stCamera:VignetteModelParam2="6.905772"
+        stCamera:VignetteModelParam3="-18.48214"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="2.11"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.709315"
+        stCamera:FocalLengthY="1.709315"
+        stCamera:RadialDistortParam1="-0.175945"
+        stCamera:RadialDistortParam2="0.494577"
+        stCamera:RadialDistortParam3="-2.806116">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.709315"
+        stCamera:FocalLengthY="1.709315"
+        stCamera:VignetteModelParam1="-1.869071"
+        stCamera:VignetteModelParam2="6.281948"
+        stCamera:VignetteModelParam3="-15.995042"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="2.11"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.709315"
+        stCamera:FocalLengthY="1.709315"
+        stCamera:RadialDistortParam1="-0.175945"
+        stCamera:RadialDistortParam2="0.494577"
+        stCamera:RadialDistortParam3="-2.806116">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.709315"
+        stCamera:FocalLengthY="1.709315"
+        stCamera:VignetteModelParam1="-1.943133"
+        stCamera:VignetteModelParam2="7.52473"
+        stCamera:VignetteModelParam3="-21.275808"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="2.11"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.709315"
+        stCamera:FocalLengthY="1.709315"
+        stCamera:RadialDistortParam1="-0.175945"
+        stCamera:RadialDistortParam2="0.494577"
+        stCamera:RadialDistortParam3="-2.806116">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.709315"
+        stCamera:FocalLengthY="1.709315"
+        stCamera:VignetteModelParam1="-1.953984"
+        stCamera:VignetteModelParam2="8.254812"
+        stCamera:VignetteModelParam3="-27.207012"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="2.11"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.709315"
+        stCamera:FocalLengthY="1.709315"
+        stCamera:RadialDistortParam1="-0.175945"
+        stCamera:RadialDistortParam2="0.494577"
+        stCamera:RadialDistortParam3="-2.806116">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.709315"
+        stCamera:FocalLengthY="1.709315"
+        stCamera:VignetteModelParam1="-1.997019"
+        stCamera:VignetteModelParam2="9.025249"
+        stCamera:VignetteModelParam3="-31.31529"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.660027"
+        stCamera:FocalLengthY="1.660027"
+        stCamera:RadialDistortParam1="-0.167803"
+        stCamera:RadialDistortParam2="0.548652"
+        stCamera:RadialDistortParam3="-2.811425">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.660027"
+        stCamera:FocalLengthY="1.660027"
+        stCamera:VignetteModelParam1="-12.684762"
+        stCamera:VignetteModelParam2="108.672076"
+        stCamera:VignetteModelParam3="-401.470438"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.660027"
+        stCamera:FocalLengthY="1.660027"
+        stCamera:RadialDistortParam1="-0.167803"
+        stCamera:RadialDistortParam2="0.548652"
+        stCamera:RadialDistortParam3="-2.811425">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.660027"
+        stCamera:FocalLengthY="1.660027"
+        stCamera:VignetteModelParam1="-1.029844"
+        stCamera:VignetteModelParam2="-39.389148"
+        stCamera:VignetteModelParam3="136.463176"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.660027"
+        stCamera:FocalLengthY="1.660027"
+        stCamera:RadialDistortParam1="-0.167803"
+        stCamera:RadialDistortParam2="0.548652"
+        stCamera:RadialDistortParam3="-2.811425">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.660027"
+        stCamera:FocalLengthY="1.660027"
+        stCamera:VignetteModelParam1="-2.461464"
+        stCamera:VignetteModelParam2="25.051711"
+        stCamera:VignetteModelParam3="-162.304413"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.660027"
+        stCamera:FocalLengthY="1.660027"
+        stCamera:RadialDistortParam1="-0.167803"
+        stCamera:RadialDistortParam2="0.548652"
+        stCamera:RadialDistortParam3="-2.811425">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.660027"
+        stCamera:FocalLengthY="1.660027"
+        stCamera:VignetteModelParam1="-1.983808"
+        stCamera:VignetteModelParam2="7.151332"
+        stCamera:VignetteModelParam3="-18.407799"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.660027"
+        stCamera:FocalLengthY="1.660027"
+        stCamera:RadialDistortParam1="-0.167803"
+        stCamera:RadialDistortParam2="0.548652"
+        stCamera:RadialDistortParam3="-2.811425">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.660027"
+        stCamera:FocalLengthY="1.660027"
+        stCamera:VignetteModelParam1="-1.87356"
+        stCamera:VignetteModelParam2="5.239652"
+        stCamera:VignetteModelParam3="-10.461529"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.660027"
+        stCamera:FocalLengthY="1.660027"
+        stCamera:RadialDistortParam1="-0.167803"
+        stCamera:RadialDistortParam2="0.548652"
+        stCamera:RadialDistortParam3="-2.811425">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.660027"
+        stCamera:FocalLengthY="1.660027"
+        stCamera:VignetteModelParam1="-1.846574"
+        stCamera:VignetteModelParam2="4.905434"
+        stCamera:VignetteModelParam3="-10.133496"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.660027"
+        stCamera:FocalLengthY="1.660027"
+        stCamera:RadialDistortParam1="-0.167803"
+        stCamera:RadialDistortParam2="0.548652"
+        stCamera:RadialDistortParam3="-2.811425">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.660027"
+        stCamera:FocalLengthY="1.660027"
+        stCamera:VignetteModelParam1="-1.815052"
+        stCamera:VignetteModelParam2="4.901014"
+        stCamera:VignetteModelParam3="-12.549375"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="161"
+       stCamera:Lens="58.0 mm f/1.4"
+       stCamera:LensInfo="580/10 580/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 58.0mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 58.0mm f/1.4G, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="58"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.660027"
+        stCamera:FocalLengthY="1.660027"
+        stCamera:RadialDistortParam1="-0.167803"
+        stCamera:RadialDistortParam2="0.548652"
+        stCamera:RadialDistortParam3="-2.811425">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.660027"
+        stCamera:FocalLengthY="1.660027"
+        stCamera:VignetteModelParam1="-1.929659"
+        stCamera:VignetteModelParam2="6.45487"
+        stCamera:VignetteModelParam3="-18.776458"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

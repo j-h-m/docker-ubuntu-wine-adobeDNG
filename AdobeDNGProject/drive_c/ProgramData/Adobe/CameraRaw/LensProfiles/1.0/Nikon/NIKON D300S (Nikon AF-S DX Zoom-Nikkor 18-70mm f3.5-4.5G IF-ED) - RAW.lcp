@@ -1,0 +1,4414 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c007 1.136881, 2010/06/10-18:11:35        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="0.535874"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.787976"
+        stCamera:FocalLengthY="0.787976"
+        stCamera:ResidualMeanError="0.000188"
+        stCamera:ResidualStandardDeviation="0.000132"
+        stCamera:RadialDistortParam1="-0.199081"
+        stCamera:RadialDistortParam2="0.180382">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.78792"
+        stCamera:FocalLengthY="0.78792"
+        stCamera:ResidualMeanError="0.000187"
+        stCamera:ResidualStandardDeviation="0.000131"
+        stCamera:ScaleFactor="1.000225"
+        stCamera:RadialDistortParam1="0.000217"
+        stCamera:RadialDistortParam2="-0.000774"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.78792"
+        stCamera:FocalLengthY="0.78792"
+        stCamera:ResidualMeanError="0.000185"
+        stCamera:ResidualStandardDeviation="0.000132"
+        stCamera:RadialDistortParam1="-0.199022"
+        stCamera:RadialDistortParam2="0.180389"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.78792"
+        stCamera:FocalLengthY="0.78792"
+        stCamera:ResidualMeanError="0.000183"
+        stCamera:ResidualStandardDeviation="0.000135"
+        stCamera:ScaleFactor="1.000404"
+        stCamera:RadialDistortParam1="-0.000576"
+        stCamera:RadialDistortParam2="0.001071"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.787976"
+        stCamera:FocalLengthY="0.787976"
+        stCamera:ResidualMeanError="0.011565"
+        stCamera:VignetteModelParam1="-0.908981"
+        stCamera:VignetteModelParam2="2.185489"
+        stCamera:VignetteModelParam3="-5.109427"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="1.215411"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.835149"
+        stCamera:FocalLengthY="0.835149"
+        stCamera:ResidualMeanError="0.000239"
+        stCamera:ResidualStandardDeviation="0.000135"
+        stCamera:RadialDistortParam1="-0.190991"
+        stCamera:RadialDistortParam2="0.208876">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.834985"
+        stCamera:FocalLengthY="0.834985"
+        stCamera:ResidualMeanError="0.000239"
+        stCamera:ResidualStandardDeviation="0.000134"
+        stCamera:ScaleFactor="1.000262"
+        stCamera:RadialDistortParam1="0.000325"
+        stCamera:RadialDistortParam2="-0.00095"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.834985"
+        stCamera:FocalLengthY="0.834985"
+        stCamera:ResidualMeanError="0.000238"
+        stCamera:ResidualStandardDeviation="0.000134"
+        stCamera:RadialDistortParam1="-0.190851"
+        stCamera:RadialDistortParam2="0.208795"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.834985"
+        stCamera:FocalLengthY="0.834985"
+        stCamera:ResidualMeanError="0.000237"
+        stCamera:ResidualStandardDeviation="0.000135"
+        stCamera:ScaleFactor="1.000289"
+        stCamera:RadialDistortParam1="-0.000651"
+        stCamera:RadialDistortParam2="0.001012"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.835149"
+        stCamera:FocalLengthY="0.835149"
+        stCamera:ResidualMeanError="0.009772"
+        stCamera:VignetteModelParam1="-0.995634"
+        stCamera:VignetteModelParam2="2.502778"
+        stCamera:VignetteModelParam3="-6.355892"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="0.536748"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.787829"
+        stCamera:FocalLengthY="0.787829"
+        stCamera:ResidualMeanError="0.000184"
+        stCamera:ResidualStandardDeviation="0.00013"
+        stCamera:RadialDistortParam1="-0.199491"
+        stCamera:RadialDistortParam2="0.179553">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.787782"
+        stCamera:FocalLengthY="0.787782"
+        stCamera:ResidualMeanError="0.000183"
+        stCamera:ResidualStandardDeviation="0.000128"
+        stCamera:ScaleFactor="1.000248"
+        stCamera:RadialDistortParam1="-0.000162"
+        stCamera:RadialDistortParam2="0.000029"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.787782"
+        stCamera:FocalLengthY="0.787782"
+        stCamera:ResidualMeanError="0.000181"
+        stCamera:ResidualStandardDeviation="0.000129"
+        stCamera:RadialDistortParam1="-0.199521"
+        stCamera:RadialDistortParam2="0.179748"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.787782"
+        stCamera:FocalLengthY="0.787782"
+        stCamera:ResidualMeanError="0.000179"
+        stCamera:ResidualStandardDeviation="0.000133"
+        stCamera:ScaleFactor="1.000352"
+        stCamera:RadialDistortParam1="0.000193"
+        stCamera:RadialDistortParam2="-0.000523"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.787829"
+        stCamera:FocalLengthY="0.787829"
+        stCamera:ResidualMeanError="0.005178"
+        stCamera:VignetteModelParam1="-0.464915"
+        stCamera:VignetteModelParam2="0.924318"
+        stCamera:VignetteModelParam3="-3.300002"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="1.220559"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.838471"
+        stCamera:FocalLengthY="0.838471"
+        stCamera:ResidualMeanError="0.000237"
+        stCamera:ResidualStandardDeviation="0.000135"
+        stCamera:RadialDistortParam1="-0.19409"
+        stCamera:RadialDistortParam2="0.212373">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.838315"
+        stCamera:FocalLengthY="0.838315"
+        stCamera:ResidualMeanError="0.000237"
+        stCamera:ResidualStandardDeviation="0.000134"
+        stCamera:ScaleFactor="1.000292"
+        stCamera:RadialDistortParam1="-0.000116"
+        stCamera:RadialDistortParam2="0.000035"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.838315"
+        stCamera:FocalLengthY="0.838315"
+        stCamera:ResidualMeanError="0.000235"
+        stCamera:ResidualStandardDeviation="0.000134"
+        stCamera:RadialDistortParam1="-0.194063"
+        stCamera:RadialDistortParam2="0.212531"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.838315"
+        stCamera:FocalLengthY="0.838315"
+        stCamera:ResidualMeanError="0.000235"
+        stCamera:ResidualStandardDeviation="0.000136"
+        stCamera:ScaleFactor="1.000232"
+        stCamera:RadialDistortParam1="0.000209"
+        stCamera:RadialDistortParam2="-0.000886"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.838471"
+        stCamera:FocalLengthY="0.838471"
+        stCamera:ResidualMeanError="0.004523"
+        stCamera:VignetteModelParam1="-0.48327"
+        stCamera:VignetteModelParam2="0.781577"
+        stCamera:VignetteModelParam3="-3.83134"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="0.536261"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.787869"
+        stCamera:FocalLengthY="0.787869"
+        stCamera:ResidualMeanError="0.000189"
+        stCamera:ResidualStandardDeviation="0.000133"
+        stCamera:RadialDistortParam1="-0.201154"
+        stCamera:RadialDistortParam2="0.181397">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.78779"
+        stCamera:FocalLengthY="0.78779"
+        stCamera:ResidualMeanError="0.000187"
+        stCamera:ResidualStandardDeviation="0.000132"
+        stCamera:ScaleFactor="1.000327"
+        stCamera:RadialDistortParam1="-0.000255"
+        stCamera:RadialDistortParam2="-0.00012"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.78779"
+        stCamera:FocalLengthY="0.78779"
+        stCamera:ResidualMeanError="0.000186"
+        stCamera:ResidualStandardDeviation="0.000132"
+        stCamera:RadialDistortParam1="-0.201232"
+        stCamera:RadialDistortParam2="0.181559"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.78779"
+        stCamera:FocalLengthY="0.78779"
+        stCamera:ResidualMeanError="0.000186"
+        stCamera:ResidualStandardDeviation="0.000136"
+        stCamera:ScaleFactor="1.000187"
+        stCamera:RadialDistortParam1="0.000473"
+        stCamera:RadialDistortParam2="-0.000309"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.787869"
+        stCamera:FocalLengthY="0.787869"
+        stCamera:ResidualMeanError="0.003862"
+        stCamera:VignetteModelParam1="-0.376783"
+        stCamera:VignetteModelParam2="0.150352"
+        stCamera:VignetteModelParam3="-0.559044"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="1.219503"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.838715"
+        stCamera:FocalLengthY="0.838715"
+        stCamera:ResidualMeanError="0.000237"
+        stCamera:ResidualStandardDeviation="0.000135"
+        stCamera:RadialDistortParam1="-0.196483"
+        stCamera:RadialDistortParam2="0.214576">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.838544"
+        stCamera:FocalLengthY="0.838544"
+        stCamera:ResidualMeanError="0.000236"
+        stCamera:ResidualStandardDeviation="0.000134"
+        stCamera:ScaleFactor="1.000387"
+        stCamera:RadialDistortParam1="-0.000286"
+        stCamera:RadialDistortParam2="-0.000106"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.838544"
+        stCamera:FocalLengthY="0.838544"
+        stCamera:ResidualMeanError="0.000235"
+        stCamera:ResidualStandardDeviation="0.000134"
+        stCamera:RadialDistortParam1="-0.196524"
+        stCamera:RadialDistortParam2="0.214736"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.838544"
+        stCamera:FocalLengthY="0.838544"
+        stCamera:ResidualMeanError="0.000235"
+        stCamera:ResidualStandardDeviation="0.000136"
+        stCamera:ScaleFactor="1.000061"
+        stCamera:RadialDistortParam1="0.000591"
+        stCamera:RadialDistortParam2="-0.000786"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.838715"
+        stCamera:FocalLengthY="0.838715"
+        stCamera:ResidualMeanError="0.00362"
+        stCamera:VignetteModelParam1="-0.388921"
+        stCamera:VignetteModelParam2="-0.046555"
+        stCamera:VignetteModelParam3="-0.372546"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="0.536494"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.788365"
+        stCamera:FocalLengthY="0.788365"
+        stCamera:ResidualMeanError="0.000194"
+        stCamera:ResidualStandardDeviation="0.000137"
+        stCamera:RadialDistortParam1="-0.20088"
+        stCamera:RadialDistortParam2="0.180614">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.788264"
+        stCamera:FocalLengthY="0.788264"
+        stCamera:ResidualMeanError="0.000192"
+        stCamera:ResidualStandardDeviation="0.000135"
+        stCamera:ScaleFactor="1.000374"
+        stCamera:RadialDistortParam1="-0.000264"
+        stCamera:RadialDistortParam2="-0.00024"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.788264"
+        stCamera:FocalLengthY="0.788264"
+        stCamera:ResidualMeanError="0.000192"
+        stCamera:ResidualStandardDeviation="0.000136"
+        stCamera:RadialDistortParam1="-0.200949"
+        stCamera:RadialDistortParam2="0.180728"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.788264"
+        stCamera:FocalLengthY="0.788264"
+        stCamera:ResidualMeanError="0.000191"
+        stCamera:ResidualStandardDeviation="0.000138"
+        stCamera:ScaleFactor="1.00011"
+        stCamera:RadialDistortParam1="0.000492"
+        stCamera:RadialDistortParam2="-0.000095"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.788365"
+        stCamera:FocalLengthY="0.788365"
+        stCamera:ResidualMeanError="0.005084"
+        stCamera:VignetteModelParam1="-0.407981"
+        stCamera:VignetteModelParam2="0.261009"
+        stCamera:VignetteModelParam3="-0.682142"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="1.217989"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.840665"
+        stCamera:FocalLengthY="0.840665"
+        stCamera:ResidualMeanError="0.000237"
+        stCamera:ResidualStandardDeviation="0.000136"
+        stCamera:RadialDistortParam1="-0.197268"
+        stCamera:RadialDistortParam2="0.216287">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.840499"
+        stCamera:FocalLengthY="0.840499"
+        stCamera:ResidualMeanError="0.000236"
+        stCamera:ResidualStandardDeviation="0.000134"
+        stCamera:ScaleFactor="1.000428"
+        stCamera:RadialDistortParam1="-0.000295"
+        stCamera:RadialDistortParam2="-0.000234"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.840499"
+        stCamera:FocalLengthY="0.840499"
+        stCamera:ResidualMeanError="0.000235"
+        stCamera:ResidualStandardDeviation="0.000134"
+        stCamera:RadialDistortParam1="-0.197312"
+        stCamera:RadialDistortParam2="0.216412"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.840499"
+        stCamera:FocalLengthY="0.840499"
+        stCamera:ResidualMeanError="0.000235"
+        stCamera:ResidualStandardDeviation="0.000135"
+        stCamera:ScaleFactor="0.999986"
+        stCamera:RadialDistortParam1="0.000603"
+        stCamera:RadialDistortParam2="-0.000495"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.840665"
+        stCamera:FocalLengthY="0.840665"
+        stCamera:ResidualMeanError="0.002936"
+        stCamera:VignetteModelParam1="-0.402316"
+        stCamera:VignetteModelParam2="-0.023948"
+        stCamera:VignetteModelParam3="-0.341341"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="0.53614"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.788264"
+        stCamera:FocalLengthY="0.788264"
+        stCamera:ResidualMeanError="0.000195"
+        stCamera:ResidualStandardDeviation="0.000137"
+        stCamera:RadialDistortParam1="-0.201287"
+        stCamera:RadialDistortParam2="0.180924">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.78817"
+        stCamera:FocalLengthY="0.78817"
+        stCamera:ResidualMeanError="0.000193"
+        stCamera:ResidualStandardDeviation="0.000136"
+        stCamera:ScaleFactor="1.000394"
+        stCamera:RadialDistortParam1="-0.000279"
+        stCamera:RadialDistortParam2="-0.000262"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.78817"
+        stCamera:FocalLengthY="0.78817"
+        stCamera:ResidualMeanError="0.000193"
+        stCamera:ResidualStandardDeviation="0.000136"
+        stCamera:RadialDistortParam1="-0.201361"
+        stCamera:RadialDistortParam2="0.181036"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.78817"
+        stCamera:FocalLengthY="0.78817"
+        stCamera:ResidualMeanError="0.000193"
+        stCamera:ResidualStandardDeviation="0.000138"
+        stCamera:ScaleFactor="1.000074"
+        stCamera:RadialDistortParam1="0.000515"
+        stCamera:RadialDistortParam2="-0.000052"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.788264"
+        stCamera:FocalLengthY="0.788264"
+        stCamera:ResidualMeanError="0.004037"
+        stCamera:VignetteModelParam1="-0.442497"
+        stCamera:VignetteModelParam2="0.527735"
+        stCamera:VignetteModelParam3="-1.158475"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="1.216303"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.84019"
+        stCamera:FocalLengthY="0.84019"
+        stCamera:ResidualMeanError="0.000237"
+        stCamera:ResidualStandardDeviation="0.000135"
+        stCamera:RadialDistortParam1="-0.198365"
+        stCamera:RadialDistortParam2="0.21726">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.840034"
+        stCamera:FocalLengthY="0.840034"
+        stCamera:ResidualMeanError="0.000235"
+        stCamera:ResidualStandardDeviation="0.000133"
+        stCamera:ScaleFactor="1.00045"
+        stCamera:RadialDistortParam1="-0.000301"
+        stCamera:RadialDistortParam2="-0.000288"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.840034"
+        stCamera:FocalLengthY="0.840034"
+        stCamera:ResidualMeanError="0.000234"
+        stCamera:ResidualStandardDeviation="0.000133"
+        stCamera:RadialDistortParam1="-0.198413"
+        stCamera:RadialDistortParam2="0.217382"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.840034"
+        stCamera:FocalLengthY="0.840034"
+        stCamera:ResidualMeanError="0.000234"
+        stCamera:ResidualStandardDeviation="0.000134"
+        stCamera:ScaleFactor="0.999954"
+        stCamera:RadialDistortParam1="0.000634"
+        stCamera:RadialDistortParam2="-0.000439"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.84019"
+        stCamera:FocalLengthY="0.84019"
+        stCamera:ResidualMeanError="0.004136"
+        stCamera:VignetteModelParam1="-0.461469"
+        stCamera:VignetteModelParam2="0.267269"
+        stCamera:VignetteModelParam3="-0.747606"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.547487"
+       stCamera:ApertureValue="3.851999">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.988599"
+        stCamera:FocalLengthY="0.988599"
+        stCamera:ImageXCenter="0.492515"
+        stCamera:ImageYCenter="0.525856"
+        stCamera:ResidualMeanError="0.000079"
+        stCamera:ResidualStandardDeviation="0.00005"
+        stCamera:RadialDistortParam1="-0.130133"
+        stCamera:RadialDistortParam2="0.191647"
+        stCamera:RadialDistortParam3="0.004807">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.988567"
+        stCamera:FocalLengthY="0.988567"
+        stCamera:ImageXCenter="0.492472"
+        stCamera:ImageYCenter="0.525888"
+        stCamera:ResidualMeanError="0.000072"
+        stCamera:ResidualStandardDeviation="0.000047"
+        stCamera:ScaleFactor="1.000109"
+        stCamera:RadialDistortParam1="0.000156"
+        stCamera:RadialDistortParam2="-0.001306"
+        stCamera:RadialDistortParam3="0.000705"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.988567"
+        stCamera:FocalLengthY="0.988567"
+        stCamera:ImageXCenter="0.492472"
+        stCamera:ImageYCenter="0.525888"
+        stCamera:ResidualMeanError="0.000071"
+        stCamera:ResidualStandardDeviation="0.000047"
+        stCamera:RadialDistortParam1="-0.129903"
+        stCamera:RadialDistortParam2="0.191073"
+        stCamera:RadialDistortParam3="0.005501"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.988567"
+        stCamera:FocalLengthY="0.988567"
+        stCamera:ImageXCenter="0.492472"
+        stCamera:ImageYCenter="0.525888"
+        stCamera:ResidualMeanError="0.000071"
+        stCamera:ResidualStandardDeviation="0.000048"
+        stCamera:ScaleFactor="1.000387"
+        stCamera:RadialDistortParam1="-0.000628"
+        stCamera:RadialDistortParam2="0.002111"
+        stCamera:RadialDistortParam3="-0.000589"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.988599"
+        stCamera:FocalLengthY="0.988599"
+        stCamera:ImageXCenter="0.492515"
+        stCamera:ImageYCenter="0.525856"
+        stCamera:ResidualMeanError="0.004194"
+        stCamera:VignetteModelParam1="-1.170752"
+        stCamera:VignetteModelParam2="1.721666"
+        stCamera:VignetteModelParam3="-2.791026"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1.027814"
+       stCamera:ApertureValue="3.851999">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.965459"
+        stCamera:FocalLengthY="0.965459"
+        stCamera:ImageXCenter="0.495333"
+        stCamera:ImageYCenter="0.533806"
+        stCamera:ResidualMeanError="0.00015"
+        stCamera:ResidualStandardDeviation="0.000144"
+        stCamera:RadialDistortParam1="-0.121019"
+        stCamera:RadialDistortParam2="0.238062"
+        stCamera:RadialDistortParam3="-0.056674">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.965217"
+        stCamera:FocalLengthY="0.965217"
+        stCamera:ImageXCenter="0.495334"
+        stCamera:ImageYCenter="0.533814"
+        stCamera:ResidualMeanError="0.00015"
+        stCamera:ResidualStandardDeviation="0.000142"
+        stCamera:ScaleFactor="1.000156"
+        stCamera:RadialDistortParam1="0.00024"
+        stCamera:RadialDistortParam2="-0.001628"
+        stCamera:RadialDistortParam3="0.001506"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.965217"
+        stCamera:FocalLengthY="0.965217"
+        stCamera:ImageXCenter="0.495334"
+        stCamera:ImageYCenter="0.533814"
+        stCamera:ResidualMeanError="0.000148"
+        stCamera:ResidualStandardDeviation="0.000143"
+        stCamera:RadialDistortParam1="-0.120811"
+        stCamera:RadialDistortParam2="0.237719"
+        stCamera:RadialDistortParam3="-0.05639"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.965217"
+        stCamera:FocalLengthY="0.965217"
+        stCamera:ImageXCenter="0.495334"
+        stCamera:ImageYCenter="0.533814"
+        stCamera:ResidualMeanError="0.000147"
+        stCamera:ResidualStandardDeviation="0.000144"
+        stCamera:ScaleFactor="1.000282"
+        stCamera:RadialDistortParam1="-0.000823"
+        stCamera:RadialDistortParam2="0.002934"
+        stCamera:RadialDistortParam3="-0.00329"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.965459"
+        stCamera:FocalLengthY="0.965459"
+        stCamera:ImageXCenter="0.495333"
+        stCamera:ImageYCenter="0.533806"
+        stCamera:ResidualMeanError="0.00763"
+        stCamera:VignetteModelParam1="-1.206007"
+        stCamera:VignetteModelParam2="1.607244"
+        stCamera:VignetteModelParam3="-1.795665"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.548473"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.989107"
+        stCamera:FocalLengthY="0.989107"
+        stCamera:ImageXCenter="0.492719"
+        stCamera:ImageYCenter="0.526213"
+        stCamera:ResidualMeanError="0.000082"
+        stCamera:ResidualStandardDeviation="0.000053"
+        stCamera:RadialDistortParam1="-0.130015"
+        stCamera:RadialDistortParam2="0.190407"
+        stCamera:RadialDistortParam3="0.008934">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.988976"
+        stCamera:FocalLengthY="0.988976"
+        stCamera:ImageXCenter="0.492686"
+        stCamera:ImageYCenter="0.526295"
+        stCamera:ResidualMeanError="0.000074"
+        stCamera:ResidualStandardDeviation="0.000049"
+        stCamera:ScaleFactor="1.000118"
+        stCamera:RadialDistortParam1="-0.000219"
+        stCamera:RadialDistortParam2="0.000606"
+        stCamera:RadialDistortParam3="-0.001994"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.988976"
+        stCamera:FocalLengthY="0.988976"
+        stCamera:ImageXCenter="0.492686"
+        stCamera:ImageYCenter="0.526295"
+        stCamera:ResidualMeanError="0.000073"
+        stCamera:ResidualStandardDeviation="0.000049"
+        stCamera:RadialDistortParam1="-0.129819"
+        stCamera:RadialDistortParam2="0.190177"
+        stCamera:RadialDistortParam3="0.008888"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.988976"
+        stCamera:FocalLengthY="0.988976"
+        stCamera:ImageXCenter="0.492686"
+        stCamera:ImageYCenter="0.526295"
+        stCamera:ResidualMeanError="0.000073"
+        stCamera:ResidualStandardDeviation="0.00005"
+        stCamera:ScaleFactor="1.000381"
+        stCamera:RadialDistortParam1="-0.000083"
+        stCamera:RadialDistortParam2="-0.000556"
+        stCamera:RadialDistortParam3="0.002948"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.989107"
+        stCamera:FocalLengthY="0.989107"
+        stCamera:ImageXCenter="0.492719"
+        stCamera:ImageYCenter="0.526213"
+        stCamera:ResidualMeanError="0.005374"
+        stCamera:VignetteModelParam1="-0.521369"
+        stCamera:VignetteModelParam2="-2.310425"
+        stCamera:VignetteModelParam3="4.942394"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1.016007"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.965244"
+        stCamera:FocalLengthY="0.965244"
+        stCamera:ImageXCenter="0.495308"
+        stCamera:ImageYCenter="0.533932"
+        stCamera:ResidualMeanError="0.000145"
+        stCamera:ResidualStandardDeviation="0.000133"
+        stCamera:RadialDistortParam1="-0.120995"
+        stCamera:RadialDistortParam2="0.235657"
+        stCamera:RadialDistortParam3="-0.051751">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.965041"
+        stCamera:FocalLengthY="0.965041"
+        stCamera:ImageXCenter="0.495305"
+        stCamera:ImageYCenter="0.533936"
+        stCamera:ResidualMeanError="0.000145"
+        stCamera:ResidualStandardDeviation="0.00013"
+        stCamera:ScaleFactor="1.000164"
+        stCamera:RadialDistortParam1="-0.000193"
+        stCamera:RadialDistortParam2="0.001014"
+        stCamera:RadialDistortParam3="-0.003201"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.965041"
+        stCamera:FocalLengthY="0.965041"
+        stCamera:ImageXCenter="0.495305"
+        stCamera:ImageYCenter="0.533936"
+        stCamera:ResidualMeanError="0.000143"
+        stCamera:ResidualStandardDeviation="0.000131"
+        stCamera:RadialDistortParam1="-0.120798"
+        stCamera:RadialDistortParam2="0.235253"
+        stCamera:RadialDistortParam3="-0.051139"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.965041"
+        stCamera:FocalLengthY="0.965041"
+        stCamera:ImageXCenter="0.495305"
+        stCamera:ImageYCenter="0.533936"
+        stCamera:ResidualMeanError="0.000142"
+        stCamera:ResidualStandardDeviation="0.000133"
+        stCamera:ScaleFactor="1.000272"
+        stCamera:RadialDistortParam1="-0.000228"
+        stCamera:RadialDistortParam2="-0.00003"
+        stCamera:RadialDistortParam3="0.001091"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.965244"
+        stCamera:FocalLengthY="0.965244"
+        stCamera:ImageXCenter="0.495308"
+        stCamera:ImageYCenter="0.533932"
+        stCamera:ResidualMeanError="0.005379"
+        stCamera:VignetteModelParam1="-0.543005"
+        stCamera:VignetteModelParam2="-2.170246"
+        stCamera:VignetteModelParam3="4.746979"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.547994"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.987626"
+        stCamera:FocalLengthY="0.987626"
+        stCamera:ImageXCenter="0.49276"
+        stCamera:ImageYCenter="0.526828"
+        stCamera:ResidualMeanError="0.000078"
+        stCamera:ResidualStandardDeviation="0.000052"
+        stCamera:RadialDistortParam1="-0.133641"
+        stCamera:RadialDistortParam2="0.198731"
+        stCamera:RadialDistortParam3="0.007557">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.987651"
+        stCamera:FocalLengthY="0.987651"
+        stCamera:ImageXCenter="0.492725"
+        stCamera:ImageYCenter="0.526815"
+        stCamera:ResidualMeanError="0.000074"
+        stCamera:ResidualStandardDeviation="0.000048"
+        stCamera:ScaleFactor="1.000226"
+        stCamera:RadialDistortParam1="-0.00091"
+        stCamera:RadialDistortParam2="0.002543"
+        stCamera:RadialDistortParam3="-0.00538"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.987651"
+        stCamera:FocalLengthY="0.987651"
+        stCamera:ImageXCenter="0.492725"
+        stCamera:ImageYCenter="0.526815"
+        stCamera:ResidualMeanError="0.000072"
+        stCamera:ResidualStandardDeviation="0.000049"
+        stCamera:RadialDistortParam1="-0.133622"
+        stCamera:RadialDistortParam2="0.198645"
+        stCamera:RadialDistortParam3="0.007901"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.987651"
+        stCamera:FocalLengthY="0.987651"
+        stCamera:ImageXCenter="0.492725"
+        stCamera:ImageYCenter="0.526815"
+        stCamera:ResidualMeanError="0.000073"
+        stCamera:ResidualStandardDeviation="0.00005"
+        stCamera:ScaleFactor="1.000184"
+        stCamera:RadialDistortParam1="0.001086"
+        stCamera:RadialDistortParam2="-0.003241"
+        stCamera:RadialDistortParam3="0.006922"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.987626"
+        stCamera:FocalLengthY="0.987626"
+        stCamera:ImageXCenter="0.49276"
+        stCamera:ImageYCenter="0.526828"
+        stCamera:ResidualMeanError="0.004924"
+        stCamera:VignetteModelParam1="-0.390232"
+        stCamera:VignetteModelParam2="-0.311079"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1.015666"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.965708"
+        stCamera:FocalLengthY="0.965708"
+        stCamera:ImageXCenter="0.495367"
+        stCamera:ImageYCenter="0.534129"
+        stCamera:ResidualMeanError="0.000147"
+        stCamera:ResidualStandardDeviation="0.000137"
+        stCamera:RadialDistortParam1="-0.124655"
+        stCamera:RadialDistortParam2="0.243655"
+        stCamera:RadialDistortParam3="-0.053341">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.965502"
+        stCamera:FocalLengthY="0.965502"
+        stCamera:ImageXCenter="0.495369"
+        stCamera:ImageYCenter="0.534099"
+        stCamera:ResidualMeanError="0.000147"
+        stCamera:ResidualStandardDeviation="0.000135"
+        stCamera:ScaleFactor="1.000268"
+        stCamera:RadialDistortParam1="-0.000687"
+        stCamera:RadialDistortParam2="0.001242"
+        stCamera:RadialDistortParam3="-0.002334"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.965502"
+        stCamera:FocalLengthY="0.965502"
+        stCamera:ImageXCenter="0.495369"
+        stCamera:ImageYCenter="0.534099"
+        stCamera:ResidualMeanError="0.000146"
+        stCamera:ResidualStandardDeviation="0.000136"
+        stCamera:RadialDistortParam1="-0.124623"
+        stCamera:RadialDistortParam2="0.243586"
+        stCamera:RadialDistortParam3="-0.053208"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.965502"
+        stCamera:FocalLengthY="0.965502"
+        stCamera:ImageXCenter="0.495369"
+        stCamera:ImageYCenter="0.534099"
+        stCamera:ResidualMeanError="0.000145"
+        stCamera:ResidualStandardDeviation="0.000138"
+        stCamera:ScaleFactor="1.00008"
+        stCamera:RadialDistortParam1="0.000764"
+        stCamera:RadialDistortParam2="-0.001389"
+        stCamera:RadialDistortParam3="0.002158"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.965708"
+        stCamera:FocalLengthY="0.965708"
+        stCamera:ImageXCenter="0.495367"
+        stCamera:ImageYCenter="0.534129"
+        stCamera:ResidualMeanError="0.003038"
+        stCamera:VignetteModelParam1="-0.501129"
+        stCamera:VignetteModelParam2="0.185881"
+        stCamera:VignetteModelParam3="-0.745005"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.547088"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.987534"
+        stCamera:FocalLengthY="0.987534"
+        stCamera:ImageXCenter="0.49303"
+        stCamera:ImageYCenter="0.526148"
+        stCamera:ResidualMeanError="0.000075"
+        stCamera:ResidualStandardDeviation="0.000049"
+        stCamera:RadialDistortParam1="-0.135865"
+        stCamera:RadialDistortParam2="0.205099"
+        stCamera:RadialDistortParam3="0.000099">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.987424"
+        stCamera:FocalLengthY="0.987424"
+        stCamera:ImageXCenter="0.493012"
+        stCamera:ImageYCenter="0.526168"
+        stCamera:ResidualMeanError="0.00007"
+        stCamera:ResidualStandardDeviation="0.000047"
+        stCamera:ScaleFactor="1.000263"
+        stCamera:RadialDistortParam1="-0.000819"
+        stCamera:RadialDistortParam2="0.001835"
+        stCamera:RadialDistortParam3="-0.004305"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.987424"
+        stCamera:FocalLengthY="0.987424"
+        stCamera:ImageXCenter="0.493012"
+        stCamera:ImageYCenter="0.526168"
+        stCamera:ResidualMeanError="0.000069"
+        stCamera:ResidualStandardDeviation="0.000047"
+        stCamera:RadialDistortParam1="-0.135922"
+        stCamera:RadialDistortParam2="0.205287"
+        stCamera:RadialDistortParam3="-0.000212"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.987424"
+        stCamera:FocalLengthY="0.987424"
+        stCamera:ImageXCenter="0.493012"
+        stCamera:ImageYCenter="0.526168"
+        stCamera:ResidualMeanError="0.000069"
+        stCamera:ResidualStandardDeviation="0.000048"
+        stCamera:ScaleFactor="1.00011"
+        stCamera:RadialDistortParam1="0.001167"
+        stCamera:RadialDistortParam2="-0.003195"
+        stCamera:RadialDistortParam3="0.007103"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.987534"
+        stCamera:FocalLengthY="0.987534"
+        stCamera:ImageXCenter="0.49303"
+        stCamera:ImageYCenter="0.526148"
+        stCamera:ResidualMeanError="0.004882"
+        stCamera:VignetteModelParam1="-0.447867"
+        stCamera:VignetteModelParam2="0.226324"
+        stCamera:VignetteModelParam3="-1.242142"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1.019954"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.966117"
+        stCamera:FocalLengthY="0.966117"
+        stCamera:ImageXCenter="0.495525"
+        stCamera:ImageYCenter="0.533741"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000144"
+        stCamera:RadialDistortParam1="-0.126353"
+        stCamera:RadialDistortParam2="0.247345"
+        stCamera:RadialDistortParam3="-0.056487">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.965946"
+        stCamera:FocalLengthY="0.965946"
+        stCamera:ImageXCenter="0.495532"
+        stCamera:ImageYCenter="0.533733"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000142"
+        stCamera:ScaleFactor="1.00031"
+        stCamera:RadialDistortParam1="-0.00072"
+        stCamera:RadialDistortParam2="0.001337"
+        stCamera:RadialDistortParam3="-0.002882"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.965946"
+        stCamera:FocalLengthY="0.965946"
+        stCamera:ImageXCenter="0.495532"
+        stCamera:ImageYCenter="0.533733"
+        stCamera:ResidualMeanError="0.000149"
+        stCamera:ResidualStandardDeviation="0.000143"
+        stCamera:RadialDistortParam1="-0.126336"
+        stCamera:RadialDistortParam2="0.247254"
+        stCamera:RadialDistortParam3="-0.056251"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.965946"
+        stCamera:FocalLengthY="0.965946"
+        stCamera:ImageXCenter="0.495532"
+        stCamera:ImageYCenter="0.533733"
+        stCamera:ResidualMeanError="0.000149"
+        stCamera:ResidualStandardDeviation="0.000144"
+        stCamera:ScaleFactor="1.000011"
+        stCamera:RadialDistortParam1="0.000748"
+        stCamera:RadialDistortParam2="-0.000817"
+        stCamera:RadialDistortParam3="0.001246"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.966117"
+        stCamera:FocalLengthY="0.966117"
+        stCamera:ImageXCenter="0.495525"
+        stCamera:ImageYCenter="0.533741"
+        stCamera:ResidualMeanError="0.002972"
+        stCamera:VignetteModelParam1="-0.528035"
+        stCamera:VignetteModelParam2="0.468965"
+        stCamera:VignetteModelParam3="-1.260444"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.54799"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.986013"
+        stCamera:FocalLengthY="0.986013"
+        stCamera:ImageXCenter="0.493279"
+        stCamera:ImageYCenter="0.526142"
+        stCamera:ResidualMeanError="0.000077"
+        stCamera:ResidualStandardDeviation="0.000052"
+        stCamera:RadialDistortParam1="-0.137872"
+        stCamera:RadialDistortParam2="0.211245"
+        stCamera:RadialDistortParam3="-0.008795">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.986016"
+        stCamera:FocalLengthY="0.986016"
+        stCamera:ImageXCenter="0.493258"
+        stCamera:ImageYCenter="0.526162"
+        stCamera:ResidualMeanError="0.000073"
+        stCamera:ResidualStandardDeviation="0.00005"
+        stCamera:ScaleFactor="1.000289"
+        stCamera:RadialDistortParam1="-0.000883"
+        stCamera:RadialDistortParam2="0.002137"
+        stCamera:RadialDistortParam3="-0.004949"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.986016"
+        stCamera:FocalLengthY="0.986016"
+        stCamera:ImageXCenter="0.493258"
+        stCamera:ImageYCenter="0.526162"
+        stCamera:ResidualMeanError="0.000072"
+        stCamera:ResidualStandardDeviation="0.00005"
+        stCamera:RadialDistortParam1="-0.13788"
+        stCamera:RadialDistortParam2="0.211156"
+        stCamera:RadialDistortParam3="-0.008495"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.986016"
+        stCamera:FocalLengthY="0.986016"
+        stCamera:ImageXCenter="0.493258"
+        stCamera:ImageYCenter="0.526162"
+        stCamera:ResidualMeanError="0.000072"
+        stCamera:ResidualStandardDeviation="0.000051"
+        stCamera:ScaleFactor="1.000072"
+        stCamera:RadialDistortParam1="0.001112"
+        stCamera:RadialDistortParam2="-0.002567"
+        stCamera:RadialDistortParam3="0.005959"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.986013"
+        stCamera:FocalLengthY="0.986013"
+        stCamera:ImageXCenter="0.493279"
+        stCamera:ImageYCenter="0.526142"
+        stCamera:ResidualMeanError="0.004245"
+        stCamera:VignetteModelParam1="-0.431805"
+        stCamera:VignetteModelParam2="0.090978"
+        stCamera:VignetteModelParam3="-0.890522"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1.021577"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.964073"
+        stCamera:FocalLengthY="0.964073"
+        stCamera:ImageXCenter="0.495407"
+        stCamera:ImageYCenter="0.53355"
+        stCamera:ResidualMeanError="0.000153"
+        stCamera:ResidualStandardDeviation="0.000145"
+        stCamera:RadialDistortParam1="-0.128249"
+        stCamera:RadialDistortParam2="0.249234"
+        stCamera:RadialDistortParam3="-0.05723">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.964019"
+        stCamera:FocalLengthY="0.964019"
+        stCamera:ImageXCenter="0.49542"
+        stCamera:ImageYCenter="0.533534"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000144"
+        stCamera:ScaleFactor="1.000332"
+        stCamera:RadialDistortParam1="-0.000694"
+        stCamera:RadialDistortParam2="0.001107"
+        stCamera:RadialDistortParam3="-0.002534"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.964019"
+        stCamera:FocalLengthY="0.964019"
+        stCamera:ImageXCenter="0.49542"
+        stCamera:ImageYCenter="0.533534"
+        stCamera:ResidualMeanError="0.00015"
+        stCamera:ResidualStandardDeviation="0.000145"
+        stCamera:RadialDistortParam1="-0.128283"
+        stCamera:RadialDistortParam2="0.249361"
+        stCamera:RadialDistortParam3="-0.057228"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.964019"
+        stCamera:FocalLengthY="0.964019"
+        stCamera:ImageXCenter="0.49542"
+        stCamera:ImageYCenter="0.533534"
+        stCamera:ResidualMeanError="0.00015"
+        stCamera:ResidualStandardDeviation="0.000145"
+        stCamera:ScaleFactor="0.999963"
+        stCamera:RadialDistortParam1="0.000911"
+        stCamera:RadialDistortParam2="-0.001553"
+        stCamera:RadialDistortParam3="0.002685"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.964073"
+        stCamera:FocalLengthY="0.964073"
+        stCamera:ImageXCenter="0.495407"
+        stCamera:ImageYCenter="0.53355"
+        stCamera:ResidualMeanError="0.003605"
+        stCamera:VignetteModelParam1="-0.555304"
+        stCamera:VignetteModelParam2="0.677911"
+        stCamera:VignetteModelParam3="-1.777855"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.642656"
+       stCamera:ApertureValue="4.140779">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.691564"
+        stCamera:FocalLengthY="1.691564"
+        stCamera:ImageXCenter="0.495015"
+        stCamera:ImageYCenter="0.52677"
+        stCamera:ResidualMeanError="0.000102"
+        stCamera:ResidualStandardDeviation="0.000072"
+        stCamera:RadialDistortParam1="-0.0559"
+        stCamera:RadialDistortParam2="0.57124"
+        stCamera:RadialDistortParam3="-0.899685">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.6918"
+        stCamera:FocalLengthY="1.6918"
+        stCamera:ImageXCenter="0.495021"
+        stCamera:ImageYCenter="0.526784"
+        stCamera:ResidualMeanError="0.000097"
+        stCamera:ResidualStandardDeviation="0.00007"
+        stCamera:ScaleFactor="0.99994"
+        stCamera:RadialDistortParam1="0.001392"
+        stCamera:RadialDistortParam2="-0.025353"
+        stCamera:RadialDistortParam3="0.112641"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.6918"
+        stCamera:FocalLengthY="1.6918"
+        stCamera:ImageXCenter="0.495021"
+        stCamera:ImageYCenter="0.526784"
+        stCamera:ResidualMeanError="0.000096"
+        stCamera:ResidualStandardDeviation="0.00007"
+        stCamera:RadialDistortParam1="-0.055301"
+        stCamera:RadialDistortParam2="0.565644"
+        stCamera:RadialDistortParam3="-0.877623"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.6918"
+        stCamera:FocalLengthY="1.6918"
+        stCamera:ImageXCenter="0.495021"
+        stCamera:ImageYCenter="0.526784"
+        stCamera:ResidualMeanError="0.000096"
+        stCamera:ResidualStandardDeviation="0.00007"
+        stCamera:ScaleFactor="1.00036"
+        stCamera:RadialDistortParam1="-0.003238"
+        stCamera:RadialDistortParam2="0.044634"
+        stCamera:RadialDistortParam3="-0.191593"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.691564"
+        stCamera:FocalLengthY="1.691564"
+        stCamera:ImageXCenter="0.495015"
+        stCamera:ImageYCenter="0.52677"
+        stCamera:ResidualMeanError="0.007925"
+        stCamera:VignetteModelParam1="-4.218054"
+        stCamera:VignetteModelParam2="24.687632"
+        stCamera:VignetteModelParam3="-96.296644"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1.135125"
+       stCamera:ApertureValue="4.140779">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.500809"
+        stCamera:FocalLengthY="1.500809"
+        stCamera:ResidualMeanError="0.000153"
+        stCamera:ResidualStandardDeviation="0.000103"
+        stCamera:RadialDistortParam1="-0.020589"
+        stCamera:RadialDistortParam2="0.371">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.500981"
+        stCamera:FocalLengthY="1.500981"
+        stCamera:ResidualMeanError="0.000154"
+        stCamera:ResidualStandardDeviation="0.000102"
+        stCamera:ScaleFactor="1.000009"
+        stCamera:RadialDistortParam1="0.000419"
+        stCamera:RadialDistortParam2="-0.004077"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.500981"
+        stCamera:FocalLengthY="1.500981"
+        stCamera:ResidualMeanError="0.000153"
+        stCamera:ResidualStandardDeviation="0.000103"
+        stCamera:RadialDistortParam1="-0.02023"
+        stCamera:RadialDistortParam2="0.370071"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.500981"
+        stCamera:FocalLengthY="1.500981"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000104"
+        stCamera:ScaleFactor="1.000181"
+        stCamera:RadialDistortParam1="-0.001443"
+        stCamera:RadialDistortParam2="0.007498"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.500809"
+        stCamera:FocalLengthY="1.500809"
+        stCamera:ResidualMeanError="0.009871"
+        stCamera:VignetteModelParam1="-3.425028"
+        stCamera:VignetteModelParam2="14.807161"
+        stCamera:VignetteModelParam3="-39.025423"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.647674"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.708753"
+        stCamera:FocalLengthY="1.708753"
+        stCamera:ImageXCenter="0.494338"
+        stCamera:ImageYCenter="0.526924"
+        stCamera:ResidualMeanError="0.000105"
+        stCamera:ResidualStandardDeviation="0.000063"
+        stCamera:RadialDistortParam1="0.0003">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.708836"
+        stCamera:FocalLengthY="1.708836"
+        stCamera:ImageXCenter="0.494339"
+        stCamera:ImageYCenter="0.52692"
+        stCamera:ResidualMeanError="0.000102"
+        stCamera:ResidualStandardDeviation="0.000061"
+        stCamera:ScaleFactor="1.000004"
+        stCamera:RadialDistortParam1="-0.000918"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.708836"
+        stCamera:FocalLengthY="1.708836"
+        stCamera:ImageXCenter="0.494339"
+        stCamera:ImageYCenter="0.52692"
+        stCamera:ResidualMeanError="0.000101"
+        stCamera:ResidualStandardDeviation="0.000061"
+        stCamera:RadialDistortParam1="0.000305"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.708836"
+        stCamera:FocalLengthY="1.708836"
+        stCamera:ImageXCenter="0.494339"
+        stCamera:ImageYCenter="0.52692"
+        stCamera:ResidualMeanError="0.0001"
+        stCamera:ResidualStandardDeviation="0.000061"
+        stCamera:ScaleFactor="1.000223"
+        stCamera:RadialDistortParam1="0.000943"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.708753"
+        stCamera:FocalLengthY="1.708753"
+        stCamera:ImageXCenter="0.494338"
+        stCamera:ImageYCenter="0.526924"
+        stCamera:ResidualMeanError="0.002551"
+        stCamera:VignetteModelParam1="-1.50957"
+        stCamera:VignetteModelParam2="13.983973"
+        stCamera:VignetteModelParam3="-173.964856"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.992676"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.304988"
+        stCamera:FocalLengthY="1.304988"
+        stCamera:ImageXCenter="0.504708"
+        stCamera:ImageYCenter="0.537935"
+        stCamera:ResidualMeanError="0.000147"
+        stCamera:ResidualStandardDeviation="0.000096"
+        stCamera:RadialDistortParam1="-0.015017"
+        stCamera:RadialDistortParam2="0.193543"
+        stCamera:RadialDistortParam3="0.11565">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.304792"
+        stCamera:FocalLengthY="1.304792"
+        stCamera:ImageXCenter="0.504724"
+        stCamera:ImageYCenter="0.537977"
+        stCamera:ResidualMeanError="0.000148"
+        stCamera:ResidualStandardDeviation="0.000094"
+        stCamera:ScaleFactor="1.000072"
+        stCamera:RadialDistortParam1="-0.001069"
+        stCamera:RadialDistortParam2="0.005184"
+        stCamera:RadialDistortParam3="-0.011099"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.304792"
+        stCamera:FocalLengthY="1.304792"
+        stCamera:ImageXCenter="0.504724"
+        stCamera:ImageYCenter="0.537977"
+        stCamera:ResidualMeanError="0.000146"
+        stCamera:ResidualStandardDeviation="0.000096"
+        stCamera:RadialDistortParam1="-0.015059"
+        stCamera:RadialDistortParam2="0.194231"
+        stCamera:RadialDistortParam3="0.113986"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.304792"
+        stCamera:FocalLengthY="1.304792"
+        stCamera:ImageXCenter="0.504724"
+        stCamera:ImageYCenter="0.537977"
+        stCamera:ResidualMeanError="0.000145"
+        stCamera:ResidualStandardDeviation="0.000098"
+        stCamera:ScaleFactor="1.000055"
+        stCamera:RadialDistortParam1="0.001172"
+        stCamera:RadialDistortParam2="-0.006545"
+        stCamera:RadialDistortParam3="0.012146"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.304988"
+        stCamera:FocalLengthY="1.304988"
+        stCamera:ImageXCenter="0.504708"
+        stCamera:ImageYCenter="0.537935"
+        stCamera:ResidualMeanError="0.003687"
+        stCamera:VignetteModelParam1="-0.92822"
+        stCamera:VignetteModelParam2="3.893876"
+        stCamera:VignetteModelParam3="-26.972487"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.639421"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.678691"
+        stCamera:FocalLengthY="1.678691"
+        stCamera:ImageXCenter="0.49479"
+        stCamera:ImageYCenter="0.52788"
+        stCamera:ResidualMeanError="0.000102"
+        stCamera:ResidualStandardDeviation="0.000086"
+        stCamera:RadialDistortParam1="-0.065236"
+        stCamera:RadialDistortParam2="0.673851"
+        stCamera:RadialDistortParam3="-1.179178">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.679004"
+        stCamera:FocalLengthY="1.679004"
+        stCamera:ImageXCenter="0.494772"
+        stCamera:ImageYCenter="0.527844"
+        stCamera:ResidualMeanError="0.000101"
+        stCamera:ResidualStandardDeviation="0.000084"
+        stCamera:ScaleFactor="1.000071"
+        stCamera:RadialDistortParam1="-0.00195"
+        stCamera:RadialDistortParam2="0.017082"
+        stCamera:RadialDistortParam3="-0.100767"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.679004"
+        stCamera:FocalLengthY="1.679004"
+        stCamera:ImageXCenter="0.494772"
+        stCamera:ImageYCenter="0.527844"
+        stCamera:ResidualMeanError="0.0001"
+        stCamera:ResidualStandardDeviation="0.000084"
+        stCamera:RadialDistortParam1="-0.06525"
+        stCamera:RadialDistortParam2="0.672559"
+        stCamera:RadialDistortParam3="-1.17027"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.679004"
+        stCamera:FocalLengthY="1.679004"
+        stCamera:ImageXCenter="0.494772"
+        stCamera:ImageYCenter="0.527844"
+        stCamera:ResidualMeanError="0.0001"
+        stCamera:ResidualStandardDeviation="0.000085"
+        stCamera:ScaleFactor="1.000112"
+        stCamera:RadialDistortParam1="0.002071"
+        stCamera:RadialDistortParam2="-0.014278"
+        stCamera:RadialDistortParam3="0.086127"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.678691"
+        stCamera:FocalLengthY="1.678691"
+        stCamera:ImageXCenter="0.49479"
+        stCamera:ImageYCenter="0.52788"
+        stCamera:ResidualMeanError="0.003162"
+        stCamera:VignetteModelParam1="-1.608523"
+        stCamera:VignetteModelParam2="12.855234"
+        stCamera:VignetteModelParam3="-95.479211"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1.132504"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.496435"
+        stCamera:FocalLengthY="1.496435"
+        stCamera:ResidualMeanError="0.000149"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.026389"
+        stCamera:RadialDistortParam2="0.396118">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.496464"
+        stCamera:FocalLengthY="1.496464"
+        stCamera:ResidualMeanError="0.000149"
+        stCamera:ResidualStandardDeviation="0.000098"
+        stCamera:ScaleFactor="1.00012"
+        stCamera:RadialDistortParam1="-0.00098"
+        stCamera:RadialDistortParam2="0.000836"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.496464"
+        stCamera:FocalLengthY="1.496464"
+        stCamera:ResidualMeanError="0.000148"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.026425"
+        stCamera:RadialDistortParam2="0.396592"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.496464"
+        stCamera:FocalLengthY="1.496464"
+        stCamera:ResidualMeanError="0.000148"
+        stCamera:ResidualStandardDeviation="0.000101"
+        stCamera:ScaleFactor="0.999966"
+        stCamera:RadialDistortParam1="0.001182"
+        stCamera:RadialDistortParam2="-0.00226"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.496435"
+        stCamera:FocalLengthY="1.496435"
+        stCamera:ResidualMeanError="0.002888"
+        stCamera:VignetteModelParam1="-1.229282"
+        stCamera:VignetteModelParam2="4.344184"
+        stCamera:VignetteModelParam3="-21.266389"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.638257"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.674753"
+        stCamera:FocalLengthY="1.674753"
+        stCamera:ImageXCenter="0.494854"
+        stCamera:ImageYCenter="0.526807"
+        stCamera:ResidualMeanError="0.000084"
+        stCamera:ResidualStandardDeviation="0.000051"
+        stCamera:RadialDistortParam1="-0.05794"
+        stCamera:RadialDistortParam2="0.500928"
+        stCamera:RadialDistortParam3="-0.209277">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.674883"
+        stCamera:FocalLengthY="1.674883"
+        stCamera:ImageXCenter="0.494858"
+        stCamera:ImageYCenter="0.526781"
+        stCamera:ResidualMeanError="0.000083"
+        stCamera:ResidualStandardDeviation="0.000051"
+        stCamera:ScaleFactor="1.000094"
+        stCamera:RadialDistortParam1="-0.001752"
+        stCamera:RadialDistortParam2="0.011426"
+        stCamera:RadialDistortParam3="-0.062365"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.674883"
+        stCamera:FocalLengthY="1.674883"
+        stCamera:ImageXCenter="0.494858"
+        stCamera:ImageYCenter="0.526781"
+        stCamera:ResidualMeanError="0.000082"
+        stCamera:ResidualStandardDeviation="0.000051"
+        stCamera:RadialDistortParam1="-0.058203"
+        stCamera:RadialDistortParam2="0.503002"
+        stCamera:RadialDistortParam3="-0.217828"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.674883"
+        stCamera:FocalLengthY="1.674883"
+        stCamera:ImageXCenter="0.494858"
+        stCamera:ImageYCenter="0.526781"
+        stCamera:ResidualMeanError="0.000083"
+        stCamera:ResidualStandardDeviation="0.000051"
+        stCamera:ScaleFactor="1.000062"
+        stCamera:RadialDistortParam1="0.00248"
+        stCamera:RadialDistortParam2="-0.018577"
+        stCamera:RadialDistortParam3="0.100499"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.674753"
+        stCamera:FocalLengthY="1.674753"
+        stCamera:ImageXCenter="0.494854"
+        stCamera:ImageYCenter="0.526807"
+        stCamera:ResidualMeanError="0.003392"
+        stCamera:VignetteModelParam1="-1.735963"
+        stCamera:VignetteModelParam2="15.371541"
+        stCamera:VignetteModelParam3="-106.191947"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1.129627"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.491448"
+        stCamera:FocalLengthY="1.491448"
+        stCamera:ResidualMeanError="0.000149"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.026316"
+        stCamera:RadialDistortParam2="0.381159">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.491484"
+        stCamera:FocalLengthY="1.491484"
+        stCamera:ResidualMeanError="0.000149"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:ScaleFactor="1.000146"
+        stCamera:RadialDistortParam1="-0.001073"
+        stCamera:RadialDistortParam2="0.001414"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.491484"
+        stCamera:FocalLengthY="1.491484"
+        stCamera:ResidualMeanError="0.000148"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.026393"
+        stCamera:RadialDistortParam2="0.38173"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.491484"
+        stCamera:FocalLengthY="1.491484"
+        stCamera:ResidualMeanError="0.000148"
+        stCamera:ResidualStandardDeviation="0.000101"
+        stCamera:ScaleFactor="0.999918"
+        stCamera:RadialDistortParam1="0.001382"
+        stCamera:RadialDistortParam2="-0.003037"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.491448"
+        stCamera:FocalLengthY="1.491448"
+        stCamera:ResidualMeanError="0.002918"
+        stCamera:VignetteModelParam1="-1.343634"
+        stCamera:VignetteModelParam2="6.999835"
+        stCamera:VignetteModelParam3="-35.128942"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.604363"
+       stCamera:ApertureValue="4.33985">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.018497"
+        stCamera:FocalLengthY="2.018497"
+        stCamera:ImageXCenter="0.494676"
+        stCamera:ImageYCenter="0.530299"
+        stCamera:ResidualMeanError="0.000076"
+        stCamera:ResidualStandardDeviation="0.000046"
+        stCamera:RadialDistortParam1="0.025064">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="2.015359"
+        stCamera:FocalLengthY="2.015359"
+        stCamera:ImageXCenter="0.494546"
+        stCamera:ImageYCenter="0.530483"
+        stCamera:ResidualMeanError="0.000069"
+        stCamera:ResidualStandardDeviation="0.000042"
+        stCamera:ScaleFactor="0.999826"
+        stCamera:RadialDistortParam1="-0.000166"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="2.015359"
+        stCamera:FocalLengthY="2.015359"
+        stCamera:ImageXCenter="0.494546"
+        stCamera:ImageYCenter="0.530483"
+        stCamera:ResidualMeanError="0.000068"
+        stCamera:ResidualStandardDeviation="0.000041"
+        stCamera:RadialDistortParam1="0.0252"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="2.015359"
+        stCamera:FocalLengthY="2.015359"
+        stCamera:ImageXCenter="0.494546"
+        stCamera:ImageYCenter="0.530483"
+        stCamera:ResidualMeanError="0.00007"
+        stCamera:ResidualStandardDeviation="0.000041"
+        stCamera:ScaleFactor="1.000237"
+        stCamera:RadialDistortParam1="-0.000476"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.018497"
+        stCamera:FocalLengthY="2.018497"
+        stCamera:ImageXCenter="0.494676"
+        stCamera:ImageYCenter="0.530299"
+        stCamera:ResidualMeanError="0.009042"
+        stCamera:VignetteModelParam1="-5.791869"
+        stCamera:VignetteModelParam2="35.08904"
+        stCamera:VignetteModelParam3="-102.285099"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1.239798"
+       stCamera:ApertureValue="4.33985">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.381571"
+        stCamera:FocalLengthY="2.381571"
+        stCamera:ImageXCenter="0.492956"
+        stCamera:ImageYCenter="0.517759"
+        stCamera:ResidualMeanError="0.000046"
+        stCamera:ResidualStandardDeviation="0.000028"
+        stCamera:RadialDistortParam1="0.183424">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="2.381262"
+        stCamera:FocalLengthY="2.381262"
+        stCamera:ImageXCenter="0.492961"
+        stCamera:ImageYCenter="0.517765"
+        stCamera:ResidualMeanError="0.000043"
+        stCamera:ResidualStandardDeviation="0.000027"
+        stCamera:ScaleFactor="0.999873"
+        stCamera:RadialDistortParam1="0.000261"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="2.381262"
+        stCamera:FocalLengthY="2.381262"
+        stCamera:ImageXCenter="0.492961"
+        stCamera:ImageYCenter="0.517765"
+        stCamera:ResidualMeanError="0.000043"
+        stCamera:ResidualStandardDeviation="0.000027"
+        stCamera:RadialDistortParam1="0.183575"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="2.381262"
+        stCamera:FocalLengthY="2.381262"
+        stCamera:ImageXCenter="0.492961"
+        stCamera:ImageYCenter="0.517765"
+        stCamera:ResidualMeanError="0.000043"
+        stCamera:ResidualStandardDeviation="0.000027"
+        stCamera:ScaleFactor="1.000071"
+        stCamera:RadialDistortParam1="-0.000937"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.381571"
+        stCamera:FocalLengthY="2.381571"
+        stCamera:ImageXCenter="0.492956"
+        stCamera:ImageYCenter="0.517759"
+        stCamera:ResidualMeanError="0.005295"
+        stCamera:VignetteModelParam1="-8.648912"
+        stCamera:VignetteModelParam2="98.0346"
+        stCamera:VignetteModelParam3="-712.442981"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.611764"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.045968"
+        stCamera:FocalLengthY="2.045968"
+        stCamera:ImageXCenter="0.496036"
+        stCamera:ImageYCenter="0.527744"
+        stCamera:ResidualMeanError="0.000077"
+        stCamera:ResidualStandardDeviation="0.000046"
+        stCamera:RadialDistortParam1="0.026358">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="2.043522"
+        stCamera:FocalLengthY="2.043522"
+        stCamera:ImageXCenter="0.495914"
+        stCamera:ImageYCenter="0.527817"
+        stCamera:ResidualMeanError="0.000072"
+        stCamera:ResidualStandardDeviation="0.000044"
+        stCamera:ScaleFactor="0.999855"
+        stCamera:RadialDistortParam1="-0.000605"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="2.043522"
+        stCamera:FocalLengthY="2.043522"
+        stCamera:ImageXCenter="0.495914"
+        stCamera:ImageYCenter="0.527817"
+        stCamera:ResidualMeanError="0.000071"
+        stCamera:ResidualStandardDeviation="0.000043"
+        stCamera:RadialDistortParam1="0.026487"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="2.043522"
+        stCamera:FocalLengthY="2.043522"
+        stCamera:ImageXCenter="0.495914"
+        stCamera:ImageYCenter="0.527817"
+        stCamera:ResidualMeanError="0.000073"
+        stCamera:ResidualStandardDeviation="0.000044"
+        stCamera:ScaleFactor="1.000164"
+        stCamera:RadialDistortParam1="0.000305"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.045968"
+        stCamera:FocalLengthY="2.045968"
+        stCamera:ImageXCenter="0.496036"
+        stCamera:ImageYCenter="0.527744"
+        stCamera:ResidualMeanError="0.002254"
+        stCamera:VignetteModelParam1="-1.292493"
+        stCamera:VignetteModelParam2="-16.045067"
+        stCamera:VignetteModelParam3="-145.396316"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1.237881"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.379413"
+        stCamera:FocalLengthY="2.379413"
+        stCamera:ImageXCenter="0.49425"
+        stCamera:ImageYCenter="0.517192"
+        stCamera:ResidualMeanError="0.000047"
+        stCamera:ResidualStandardDeviation="0.000028"
+        stCamera:RadialDistortParam1="0.179626">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="2.38016"
+        stCamera:FocalLengthY="2.38016"
+        stCamera:ImageXCenter="0.494221"
+        stCamera:ImageYCenter="0.517158"
+        stCamera:ResidualMeanError="0.000046"
+        stCamera:ResidualStandardDeviation="0.000027"
+        stCamera:ScaleFactor="0.999903"
+        stCamera:RadialDistortParam1="-0.000423"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="2.38016"
+        stCamera:FocalLengthY="2.38016"
+        stCamera:ImageXCenter="0.494221"
+        stCamera:ImageYCenter="0.517158"
+        stCamera:ResidualMeanError="0.000045"
+        stCamera:ResidualStandardDeviation="0.000027"
+        stCamera:RadialDistortParam1="0.179927"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="2.38016"
+        stCamera:FocalLengthY="2.38016"
+        stCamera:ImageXCenter="0.494221"
+        stCamera:ImageYCenter="0.517158"
+        stCamera:ResidualMeanError="0.000045"
+        stCamera:ResidualStandardDeviation="0.000028"
+        stCamera:ScaleFactor="1.000004"
+        stCamera:RadialDistortParam1="0.000046"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.379413"
+        stCamera:FocalLengthY="2.379413"
+        stCamera:ImageXCenter="0.49425"
+        stCamera:ImageYCenter="0.517192"
+        stCamera:ResidualMeanError="0.002485"
+        stCamera:VignetteModelParam1="-1.10226"
+        stCamera:VignetteModelParam2="-72.010529"
+        stCamera:VignetteModelParam3="341.869621"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.611955"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.047213"
+        stCamera:FocalLengthY="2.047213"
+        stCamera:ImageXCenter="0.496067"
+        stCamera:ImageYCenter="0.526954"
+        stCamera:ResidualMeanError="0.000076"
+        stCamera:ResidualStandardDeviation="0.000044"
+        stCamera:RadialDistortParam1="0.025995">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="2.043645"
+        stCamera:FocalLengthY="2.043645"
+        stCamera:ImageXCenter="0.495991"
+        stCamera:ImageYCenter="0.527105"
+        stCamera:ResidualMeanError="0.000074"
+        stCamera:ResidualStandardDeviation="0.000043"
+        stCamera:ScaleFactor="0.999896"
+        stCamera:RadialDistortParam1="-0.000869"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="2.043645"
+        stCamera:FocalLengthY="2.043645"
+        stCamera:ImageXCenter="0.495991"
+        stCamera:ImageYCenter="0.527105"
+        stCamera:ResidualMeanError="0.000073"
+        stCamera:ResidualStandardDeviation="0.000043"
+        stCamera:RadialDistortParam1="0.025815"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="2.043645"
+        stCamera:FocalLengthY="2.043645"
+        stCamera:ImageXCenter="0.495991"
+        stCamera:ImageYCenter="0.527105"
+        stCamera:ResidualMeanError="0.000074"
+        stCamera:ResidualStandardDeviation="0.000043"
+        stCamera:ScaleFactor="1.000073"
+        stCamera:RadialDistortParam1="0.001177"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.047213"
+        stCamera:FocalLengthY="2.047213"
+        stCamera:ImageXCenter="0.496067"
+        stCamera:ImageYCenter="0.526954"
+        stCamera:ResidualMeanError="0.003351"
+        stCamera:VignetteModelParam1="-2.328257"
+        stCamera:VignetteModelParam2="32.17662"
+        stCamera:VignetteModelParam3="-348.581244"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1.233306"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.363114"
+        stCamera:FocalLengthY="2.363114"
+        stCamera:ImageXCenter="0.494625"
+        stCamera:ImageYCenter="0.515795"
+        stCamera:ResidualMeanError="0.000045"
+        stCamera:ResidualStandardDeviation="0.000028"
+        stCamera:RadialDistortParam1="0.17364">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="2.363718"
+        stCamera:FocalLengthY="2.363718"
+        stCamera:ImageXCenter="0.494618"
+        stCamera:ImageYCenter="0.515762"
+        stCamera:ResidualMeanError="0.000044"
+        stCamera:ResidualStandardDeviation="0.000028"
+        stCamera:ScaleFactor="0.999951"
+        stCamera:RadialDistortParam1="-0.001307"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="2.363718"
+        stCamera:FocalLengthY="2.363718"
+        stCamera:ImageXCenter="0.494618"
+        stCamera:ImageYCenter="0.515762"
+        stCamera:ResidualMeanError="0.000044"
+        stCamera:ResidualStandardDeviation="0.000027"
+        stCamera:RadialDistortParam1="0.17381"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="2.363718"
+        stCamera:FocalLengthY="2.363718"
+        stCamera:ImageXCenter="0.494618"
+        stCamera:ImageYCenter="0.515762"
+        stCamera:ResidualMeanError="0.000044"
+        stCamera:ResidualStandardDeviation="0.000027"
+        stCamera:ScaleFactor="0.999919"
+        stCamera:RadialDistortParam1="0.001158"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.363114"
+        stCamera:FocalLengthY="2.363114"
+        stCamera:ImageXCenter="0.494625"
+        stCamera:ImageYCenter="0.515795"
+        stCamera:ResidualMeanError="0.002182"
+        stCamera:VignetteModelParam1="-3.000034"
+        stCamera:VignetteModelParam2="52.413075"
+        stCamera:VignetteModelParam3="-743.961462"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.613446"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.045825"
+        stCamera:FocalLengthY="2.045825"
+        stCamera:ImageXCenter="0.496314"
+        stCamera:ImageYCenter="0.526724"
+        stCamera:ResidualMeanError="0.000075"
+        stCamera:ResidualStandardDeviation="0.000044"
+        stCamera:RadialDistortParam1="0.026894">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="2.043327"
+        stCamera:FocalLengthY="2.043327"
+        stCamera:ImageXCenter="0.496223"
+        stCamera:ImageYCenter="0.526753"
+        stCamera:ResidualMeanError="0.000074"
+        stCamera:ResidualStandardDeviation="0.000043"
+        stCamera:ScaleFactor="0.999931"
+        stCamera:RadialDistortParam1="-0.001078"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="2.043327"
+        stCamera:FocalLengthY="2.043327"
+        stCamera:ImageXCenter="0.496223"
+        stCamera:ImageYCenter="0.526753"
+        stCamera:ResidualMeanError="0.000073"
+        stCamera:ResidualStandardDeviation="0.000043"
+        stCamera:RadialDistortParam1="0.026774"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="2.043327"
+        stCamera:FocalLengthY="2.043327"
+        stCamera:ImageXCenter="0.496223"
+        stCamera:ImageYCenter="0.526753"
+        stCamera:ResidualMeanError="0.000075"
+        stCamera:ResidualStandardDeviation="0.000043"
+        stCamera:ScaleFactor="1.000021"
+        stCamera:RadialDistortParam1="0.001309"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.045825"
+        stCamera:FocalLengthY="2.045825"
+        stCamera:ImageXCenter="0.496314"
+        stCamera:ImageYCenter="0.526724"
+        stCamera:ResidualMeanError="0.002287"
+        stCamera:VignetteModelParam1="-2.517878"
+        stCamera:VignetteModelParam2="38.168879"
+        stCamera:VignetteModelParam3="-400.927112"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1.227492"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.35063"
+        stCamera:FocalLengthY="2.35063"
+        stCamera:ImageXCenter="0.494829"
+        stCamera:ImageYCenter="0.515867"
+        stCamera:ResidualMeanError="0.000045"
+        stCamera:ResidualStandardDeviation="0.000027"
+        stCamera:RadialDistortParam1="0.173121">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="2.350405"
+        stCamera:FocalLengthY="2.350405"
+        stCamera:ImageXCenter="0.494823"
+        stCamera:ImageYCenter="0.515838"
+        stCamera:ResidualMeanError="0.000044"
+        stCamera:ResidualStandardDeviation="0.000027"
+        stCamera:ScaleFactor="0.999979"
+        stCamera:RadialDistortParam1="-0.001408"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="2.350405"
+        stCamera:FocalLengthY="2.350405"
+        stCamera:ImageXCenter="0.494823"
+        stCamera:ImageYCenter="0.515838"
+        stCamera:ResidualMeanError="0.000043"
+        stCamera:ResidualStandardDeviation="0.000027"
+        stCamera:RadialDistortParam1="0.173051"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="2.350405"
+        stCamera:FocalLengthY="2.350405"
+        stCamera:ImageXCenter="0.494823"
+        stCamera:ImageYCenter="0.515838"
+        stCamera:ResidualMeanError="0.000044"
+        stCamera:ResidualStandardDeviation="0.000027"
+        stCamera:ScaleFactor="0.999871"
+        stCamera:RadialDistortParam1="0.001312"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.35063"
+        stCamera:FocalLengthY="2.35063"
+        stCamera:ImageXCenter="0.494829"
+        stCamera:ImageYCenter="0.515867"
+        stCamera:ResidualMeanError="0.002532"
+        stCamera:VignetteModelParam1="-2.949497"
+        stCamera:VignetteModelParam2="44.358142"
+        stCamera:VignetteModelParam3="-570.216253"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="0.857347"
+       stCamera:ApertureValue="4.33985">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.544864"
+        stCamera:FocalLengthY="3.544864"
+        stCamera:ImageXCenter="0.463034"
+        stCamera:ImageYCenter="0.431631"
+        stCamera:ResidualMeanError="0.000106"
+        stCamera:ResidualStandardDeviation="0.000061"
+        stCamera:RadialDistortParam1="0.047031">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="3.541483"
+        stCamera:FocalLengthY="3.541483"
+        stCamera:ImageXCenter="0.462985"
+        stCamera:ImageYCenter="0.431695"
+        stCamera:ResidualMeanError="0.000089"
+        stCamera:ResidualStandardDeviation="0.000053"
+        stCamera:ScaleFactor="0.999602"
+        stCamera:RadialDistortParam1="0.00199"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="3.541483"
+        stCamera:FocalLengthY="3.541483"
+        stCamera:ImageXCenter="0.462985"
+        stCamera:ImageYCenter="0.431695"
+        stCamera:ResidualMeanError="0.000087"
+        stCamera:ResidualStandardDeviation="0.000049"
+        stCamera:RadialDistortParam1="0.047647"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="3.541483"
+        stCamera:FocalLengthY="3.541483"
+        stCamera:ImageXCenter="0.462985"
+        stCamera:ImageYCenter="0.431695"
+        stCamera:ResidualMeanError="0.000092"
+        stCamera:ResidualStandardDeviation="0.000048"
+        stCamera:ScaleFactor="1.000373"
+        stCamera:RadialDistortParam1="-0.004088"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.544863"
+        stCamera:FocalLengthY="3.544863"
+        stCamera:ImageXCenter="0.463034"
+        stCamera:ImageYCenter="0.431631"
+        stCamera:ResidualMeanError="0.01336"
+        stCamera:VignetteModelParam1="-17.012294"
+        stCamera:VignetteModelParam2="272.078909"
+        stCamera:VignetteModelParam3="-3295.90758"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="1.471126"
+       stCamera:ApertureValue="4.33985">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.483886"
+        stCamera:FocalLengthY="3.483886"
+        stCamera:ImageXCenter="0.512455"
+        stCamera:ImageYCenter="0.50077"
+        stCamera:ResidualMeanError="0.000078"
+        stCamera:ResidualStandardDeviation="0.000049"
+        stCamera:RadialDistortParam1="0.332716">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="3.48557"
+        stCamera:FocalLengthY="3.48557"
+        stCamera:ImageXCenter="0.512433"
+        stCamera:ImageYCenter="0.500843"
+        stCamera:ResidualMeanError="0.000065"
+        stCamera:ResidualStandardDeviation="0.000046"
+        stCamera:ScaleFactor="0.99963"
+        stCamera:RadialDistortParam1="0.000116"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="3.48557"
+        stCamera:FocalLengthY="3.48557"
+        stCamera:ImageXCenter="0.512433"
+        stCamera:ImageYCenter="0.500843"
+        stCamera:ResidualMeanError="0.000064"
+        stCamera:ResidualStandardDeviation="0.000045"
+        stCamera:RadialDistortParam1="0.334157"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="3.48557"
+        stCamera:FocalLengthY="3.48557"
+        stCamera:ImageXCenter="0.512433"
+        stCamera:ImageYCenter="0.500843"
+        stCamera:ResidualMeanError="0.000064"
+        stCamera:ResidualStandardDeviation="0.000045"
+        stCamera:ScaleFactor="1.000164"
+        stCamera:RadialDistortParam1="-0.003064"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.483886"
+        stCamera:FocalLengthY="3.483886"
+        stCamera:ImageXCenter="0.512455"
+        stCamera:ImageYCenter="0.500771"
+        stCamera:ResidualMeanError="0.00849"
+        stCamera:VignetteModelParam1="-18.49811"
+        stCamera:VignetteModelParam2="471.135068"
+        stCamera:VignetteModelParam3="-9179.215576"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="0.872257"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.610734"
+        stCamera:FocalLengthY="3.610734"
+        stCamera:ImageXCenter="0.46371"
+        stCamera:ImageYCenter="0.422162"
+        stCamera:ResidualMeanError="0.000104"
+        stCamera:ResidualStandardDeviation="0.000059"
+        stCamera:RadialDistortParam1="0.050057">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="3.612352"
+        stCamera:FocalLengthY="3.612352"
+        stCamera:ImageXCenter="0.463642"
+        stCamera:ImageYCenter="0.421624"
+        stCamera:ResidualMeanError="0.000091"
+        stCamera:ResidualStandardDeviation="0.000053"
+        stCamera:ScaleFactor="0.999644"
+        stCamera:RadialDistortParam1="-0.000248"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="3.612352"
+        stCamera:FocalLengthY="3.612352"
+        stCamera:ImageXCenter="0.463642"
+        stCamera:ImageYCenter="0.421624"
+        stCamera:ResidualMeanError="0.000088"
+        stCamera:ResidualStandardDeviation="0.000049"
+        stCamera:RadialDistortParam1="0.050792"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="3.612352"
+        stCamera:FocalLengthY="3.612352"
+        stCamera:ImageXCenter="0.463642"
+        stCamera:ImageYCenter="0.421624"
+        stCamera:ResidualMeanError="0.000091"
+        stCamera:ResidualStandardDeviation="0.000049"
+        stCamera:ScaleFactor="1.000298"
+        stCamera:RadialDistortParam1="-0.002158"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.610734"
+        stCamera:FocalLengthY="3.610734"
+        stCamera:ImageXCenter="0.46371"
+        stCamera:ImageYCenter="0.422162"
+        stCamera:ResidualMeanError="0.00381"
+        stCamera:VignetteModelParam1="-4.503463"
+        stCamera:VignetteModelParam2="-185.295668"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="1.484389"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.519597"
+        stCamera:FocalLengthY="3.519597"
+        stCamera:ImageXCenter="0.514353"
+        stCamera:ImageYCenter="0.501095"
+        stCamera:ResidualMeanError="0.000077"
+        stCamera:ResidualStandardDeviation="0.000049"
+        stCamera:RadialDistortParam1="0.336194">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="3.521679"
+        stCamera:FocalLengthY="3.521679"
+        stCamera:ImageXCenter="0.514308"
+        stCamera:ImageYCenter="0.501085"
+        stCamera:ResidualMeanError="0.000066"
+        stCamera:ResidualStandardDeviation="0.000046"
+        stCamera:ScaleFactor="0.999644"
+        stCamera:RadialDistortParam1="-0.000192"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="3.521679"
+        stCamera:FocalLengthY="3.521679"
+        stCamera:ImageXCenter="0.514308"
+        stCamera:ImageYCenter="0.501085"
+        stCamera:ResidualMeanError="0.000065"
+        stCamera:ResidualStandardDeviation="0.000046"
+        stCamera:RadialDistortParam1="0.337058"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="3.521679"
+        stCamera:FocalLengthY="3.521679"
+        stCamera:ImageXCenter="0.514308"
+        stCamera:ImageYCenter="0.501085"
+        stCamera:ResidualMeanError="0.000065"
+        stCamera:ResidualStandardDeviation="0.000046"
+        stCamera:ScaleFactor="1.000099"
+        stCamera:RadialDistortParam1="-0.001264"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.519598"
+        stCamera:FocalLengthY="3.519598"
+        stCamera:ImageXCenter="0.514353"
+        stCamera:ImageYCenter="0.501095"
+        stCamera:ResidualMeanError="0.004265"
+        stCamera:VignetteModelParam1="-3.627476"
+        stCamera:VignetteModelParam2="-326.780513"
+        stCamera:VignetteModelParam3="4235.152808"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="0.885843"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.674685"
+        stCamera:FocalLengthY="3.674685"
+        stCamera:ImageXCenter="0.461457"
+        stCamera:ImageYCenter="0.417473"
+        stCamera:ResidualMeanError="0.000102"
+        stCamera:ResidualStandardDeviation="0.000058"
+        stCamera:RadialDistortParam1="0.055064">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="3.672594"
+        stCamera:FocalLengthY="3.672594"
+        stCamera:ImageXCenter="0.461364"
+        stCamera:ImageYCenter="0.417237"
+        stCamera:ResidualMeanError="0.000093"
+        stCamera:ResidualStandardDeviation="0.000054"
+        stCamera:ScaleFactor="0.999679"
+        stCamera:RadialDistortParam1="-0.000279"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="3.672594"
+        stCamera:FocalLengthY="3.672594"
+        stCamera:ImageXCenter="0.461364"
+        stCamera:ImageYCenter="0.417237"
+        stCamera:ResidualMeanError="0.00009"
+        stCamera:ResidualStandardDeviation="0.000051"
+        stCamera:RadialDistortParam1="0.05515"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="3.672594"
+        stCamera:FocalLengthY="3.672594"
+        stCamera:ImageXCenter="0.461364"
+        stCamera:ImageYCenter="0.417237"
+        stCamera:ResidualMeanError="0.000092"
+        stCamera:ResidualStandardDeviation="0.000051"
+        stCamera:ScaleFactor="1.000221"
+        stCamera:RadialDistortParam1="-0.000708"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.674685"
+        stCamera:FocalLengthY="3.674685"
+        stCamera:ImageXCenter="0.461457"
+        stCamera:ImageYCenter="0.417473"
+        stCamera:ResidualMeanError="0.003712"
+        stCamera:VignetteModelParam1="-6.146368"
+        stCamera:VignetteModelParam2="159.125354"
+        stCamera:VignetteModelParam3="-5257.274902"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="1.467218"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.475082"
+        stCamera:FocalLengthY="3.475082"
+        stCamera:ImageXCenter="0.514012"
+        stCamera:ImageYCenter="0.499327"
+        stCamera:ResidualMeanError="0.000076"
+        stCamera:ResidualStandardDeviation="0.000048"
+        stCamera:RadialDistortParam1="0.280201"
+        stCamera:RadialDistortParam2="1.733945"
+        stCamera:RadialDistortParam3="-0.784669">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="3.476396"
+        stCamera:FocalLengthY="3.476396"
+        stCamera:ImageXCenter="0.513968"
+        stCamera:ImageYCenter="0.499355"
+        stCamera:ResidualMeanError="0.000068"
+        stCamera:ResidualStandardDeviation="0.000047"
+        stCamera:ScaleFactor="0.999691"
+        stCamera:RadialDistortParam1="-0.001539"
+        stCamera:RadialDistortParam2="-0.020767"
+        stCamera:RadialDistortParam3="0.786559"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="3.476396"
+        stCamera:FocalLengthY="3.476396"
+        stCamera:ImageXCenter="0.513968"
+        stCamera:ImageYCenter="0.499355"
+        stCamera:ResidualMeanError="0.000067"
+        stCamera:ResidualStandardDeviation="0.000047"
+        stCamera:RadialDistortParam1="0.280152"
+        stCamera:RadialDistortParam2="1.78898"
+        stCamera:RadialDistortParam3="-1.724259"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="3.476396"
+        stCamera:FocalLengthY="3.476396"
+        stCamera:ImageXCenter="0.513968"
+        stCamera:ImageYCenter="0.499355"
+        stCamera:ResidualMeanError="0.000067"
+        stCamera:ResidualStandardDeviation="0.000047"
+        stCamera:ScaleFactor="1.000022"
+        stCamera:RadialDistortParam1="0.001947"
+        stCamera:RadialDistortParam2="-0.124417"
+        stCamera:RadialDistortParam3="2.547853"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.475082"
+        stCamera:FocalLengthY="3.475082"
+        stCamera:ImageXCenter="0.514012"
+        stCamera:ImageYCenter="0.499327"
+        stCamera:ResidualMeanError="0.002829"
+        stCamera:VignetteModelParam1="-6.456655"
+        stCamera:VignetteModelParam2="216.423066"
+        stCamera:VignetteModelParam3="-6492.176318"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="0.895016"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.702492"
+        stCamera:FocalLengthY="3.702492"
+        stCamera:ImageXCenter="0.462764"
+        stCamera:ImageYCenter="0.417017"
+        stCamera:ResidualMeanError="0.0001"
+        stCamera:ResidualStandardDeviation="0.000057"
+        stCamera:RadialDistortParam1="0.061326">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="3.697304"
+        stCamera:FocalLengthY="3.697304"
+        stCamera:ImageXCenter="0.462708"
+        stCamera:ImageYCenter="0.416931"
+        stCamera:ResidualMeanError="0.000093"
+        stCamera:ResidualStandardDeviation="0.000054"
+        stCamera:ScaleFactor="0.999708"
+        stCamera:RadialDistortParam1="-0.00046"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="3.697304"
+        stCamera:FocalLengthY="3.697304"
+        stCamera:ImageXCenter="0.462708"
+        stCamera:ImageYCenter="0.416931"
+        stCamera:ResidualMeanError="0.000091"
+        stCamera:ResidualStandardDeviation="0.000051"
+        stCamera:RadialDistortParam1="0.061258"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="3.697304"
+        stCamera:FocalLengthY="3.697304"
+        stCamera:ImageXCenter="0.462708"
+        stCamera:ImageYCenter="0.416931"
+        stCamera:ResidualMeanError="0.000093"
+        stCamera:ResidualStandardDeviation="0.000051"
+        stCamera:ScaleFactor="1.000173"
+        stCamera:RadialDistortParam1="-0.000421"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.702492"
+        stCamera:FocalLengthY="3.702492"
+        stCamera:ImageXCenter="0.462764"
+        stCamera:ImageYCenter="0.417017"
+        stCamera:ResidualMeanError="0.003212"
+        stCamera:VignetteModelParam1="-7.458417"
+        stCamera:VignetteModelParam2="303.526912"
+        stCamera:VignetteModelParam3="-10151.009619"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="1.463507"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.460778"
+        stCamera:FocalLengthY="3.460778"
+        stCamera:ImageXCenter="0.514244"
+        stCamera:ImageYCenter="0.499183"
+        stCamera:ResidualMeanError="0.000074"
+        stCamera:ResidualStandardDeviation="0.000048"
+        stCamera:RadialDistortParam1="0.323427">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="3.461678"
+        stCamera:FocalLengthY="3.461678"
+        stCamera:ImageXCenter="0.51422"
+        stCamera:ImageYCenter="0.499176"
+        stCamera:ResidualMeanError="0.000068"
+        stCamera:ResidualStandardDeviation="0.000047"
+        stCamera:ScaleFactor="0.999708"
+        stCamera:RadialDistortParam1="-0.001657"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="3.461678"
+        stCamera:FocalLengthY="3.461678"
+        stCamera:ImageXCenter="0.51422"
+        stCamera:ImageYCenter="0.499176"
+        stCamera:ResidualMeanError="0.000067"
+        stCamera:ResidualStandardDeviation="0.000047"
+        stCamera:RadialDistortParam1="0.32379"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="3.461678"
+        stCamera:FocalLengthY="3.461678"
+        stCamera:ImageXCenter="0.51422"
+        stCamera:ImageYCenter="0.499176"
+        stCamera:ResidualMeanError="0.000067"
+        stCamera:ResidualStandardDeviation="0.000047"
+        stCamera:ScaleFactor="0.999986"
+        stCamera:RadialDistortParam1="0.000692"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.460778"
+        stCamera:FocalLengthY="3.460778"
+        stCamera:ImageXCenter="0.514244"
+        stCamera:ImageYCenter="0.499183"
+        stCamera:ResidualMeanError="0.003693"
+        stCamera:VignetteModelParam1="-6.99347"
+        stCamera:VignetteModelParam2="257.781358"
+        stCamera:VignetteModelParam3="-7308.871094"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="3.171963"
+       stCamera:ApertureValue="4.140779">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.765593"
+        stCamera:FocalLengthY="1.765593"
+        stCamera:ImageXCenter="0.490651"
+        stCamera:ImageYCenter="0.520019"
+        stCamera:ResidualMeanError="0.000118"
+        stCamera:ResidualStandardDeviation="0.000075"
+        stCamera:RadialDistortParam1="0.100378">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.765504"
+        stCamera:FocalLengthY="1.765504"
+        stCamera:ImageXCenter="0.490655"
+        stCamera:ImageYCenter="0.520056"
+        stCamera:ResidualMeanError="0.000118"
+        stCamera:ResidualStandardDeviation="0.000074"
+        stCamera:ScaleFactor="1.000051"
+        stCamera:RadialDistortParam1="-0.000095"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.765504"
+        stCamera:FocalLengthY="1.765504"
+        stCamera:ImageXCenter="0.490655"
+        stCamera:ImageYCenter="0.520056"
+        stCamera:ResidualMeanError="0.000117"
+        stCamera:ResidualStandardDeviation="0.000075"
+        stCamera:RadialDistortParam1="0.100659"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.765504"
+        stCamera:FocalLengthY="1.765504"
+        stCamera:ImageXCenter="0.490655"
+        stCamera:ImageYCenter="0.520056"
+        stCamera:ResidualMeanError="0.000118"
+        stCamera:ResidualStandardDeviation="0.000075"
+        stCamera:ScaleFactor="1.000065"
+        stCamera:RadialDistortParam1="-0.000684"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.765593"
+        stCamera:FocalLengthY="1.765593"
+        stCamera:ImageXCenter="0.490651"
+        stCamera:ImageYCenter="0.520019"
+        stCamera:ResidualMeanError="0.006032"
+        stCamera:VignetteModelParam1="-4.722445"
+        stCamera:VignetteModelParam2="29.23541"
+        stCamera:VignetteModelParam3="-115.53812"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="3.168386"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.764644"
+        stCamera:FocalLengthY="1.764644"
+        stCamera:ImageXCenter="0.491207"
+        stCamera:ImageYCenter="0.519372"
+        stCamera:ResidualMeanError="0.000118"
+        stCamera:ResidualStandardDeviation="0.000075"
+        stCamera:RadialDistortParam1="0.097307">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.76466"
+        stCamera:FocalLengthY="1.76466"
+        stCamera:ImageXCenter="0.491212"
+        stCamera:ImageYCenter="0.519365"
+        stCamera:ResidualMeanError="0.000119"
+        stCamera:ResidualStandardDeviation="0.000074"
+        stCamera:ScaleFactor="1.000082"
+        stCamera:RadialDistortParam1="-0.000795"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.76466"
+        stCamera:FocalLengthY="1.76466"
+        stCamera:ImageXCenter="0.491212"
+        stCamera:ImageYCenter="0.519365"
+        stCamera:ResidualMeanError="0.000118"
+        stCamera:ResidualStandardDeviation="0.000075"
+        stCamera:RadialDistortParam1="0.097454"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.76466"
+        stCamera:FocalLengthY="1.76466"
+        stCamera:ImageXCenter="0.491212"
+        stCamera:ImageYCenter="0.519365"
+        stCamera:ResidualMeanError="0.000117"
+        stCamera:ResidualStandardDeviation="0.000075"
+        stCamera:ScaleFactor="0.999995"
+        stCamera:RadialDistortParam1="0.000465"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.764645"
+        stCamera:FocalLengthY="1.764645"
+        stCamera:ImageXCenter="0.491207"
+        stCamera:ImageYCenter="0.519372"
+        stCamera:ResidualMeanError="0.003087"
+        stCamera:VignetteModelParam1="-1.460081"
+        stCamera:VignetteModelParam2="7.794389"
+        stCamera:VignetteModelParam3="-133.47057"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="3.160944"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.764607"
+        stCamera:FocalLengthY="1.764607"
+        stCamera:ImageXCenter="0.491098"
+        stCamera:ImageYCenter="0.518947"
+        stCamera:ResidualMeanError="0.000119"
+        stCamera:ResidualStandardDeviation="0.000075"
+        stCamera:RadialDistortParam1="0.095214">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.764751"
+        stCamera:FocalLengthY="1.764751"
+        stCamera:ImageXCenter="0.491104"
+        stCamera:ImageYCenter="0.518929"
+        stCamera:ResidualMeanError="0.000118"
+        stCamera:ResidualStandardDeviation="0.000075"
+        stCamera:ScaleFactor="1.000146"
+        stCamera:RadialDistortParam1="-0.001167"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.764751"
+        stCamera:FocalLengthY="1.764751"
+        stCamera:ImageXCenter="0.491104"
+        stCamera:ImageYCenter="0.518929"
+        stCamera:ResidualMeanError="0.000118"
+        stCamera:ResidualStandardDeviation="0.000075"
+        stCamera:RadialDistortParam1="0.0953"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.764751"
+        stCamera:FocalLengthY="1.764751"
+        stCamera:ImageXCenter="0.491104"
+        stCamera:ImageYCenter="0.518929"
+        stCamera:ResidualMeanError="0.000117"
+        stCamera:ResidualStandardDeviation="0.000075"
+        stCamera:ScaleFactor="0.999888"
+        stCamera:RadialDistortParam1="0.001082"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.764607"
+        stCamera:FocalLengthY="1.764607"
+        stCamera:ImageXCenter="0.491098"
+        stCamera:ImageYCenter="0.518947"
+        stCamera:ResidualMeanError="0.002316"
+        stCamera:VignetteModelParam1="-1.610678"
+        stCamera:VignetteModelParam2="7.650491"
+        stCamera:VignetteModelParam3="-57.927313"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="3.160874"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.761004"
+        stCamera:FocalLengthY="1.761004"
+        stCamera:ImageXCenter="0.490989"
+        stCamera:ImageYCenter="0.51878"
+        stCamera:ResidualMeanError="0.000119"
+        stCamera:ResidualStandardDeviation="0.000076"
+        stCamera:RadialDistortParam1="0.09267">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.761015"
+        stCamera:FocalLengthY="1.761015"
+        stCamera:ImageXCenter="0.491004"
+        stCamera:ImageYCenter="0.518774"
+        stCamera:ResidualMeanError="0.000118"
+        stCamera:ResidualStandardDeviation="0.000075"
+        stCamera:ScaleFactor="1.000165"
+        stCamera:RadialDistortParam1="-0.001174"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.761015"
+        stCamera:FocalLengthY="1.761015"
+        stCamera:ImageXCenter="0.491004"
+        stCamera:ImageYCenter="0.518774"
+        stCamera:ResidualMeanError="0.000117"
+        stCamera:ResidualStandardDeviation="0.000075"
+        stCamera:RadialDistortParam1="0.092697"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.761015"
+        stCamera:FocalLengthY="1.761015"
+        stCamera:ImageXCenter="0.491004"
+        stCamera:ImageYCenter="0.518774"
+        stCamera:ResidualMeanError="0.000117"
+        stCamera:ResidualStandardDeviation="0.000075"
+        stCamera:ScaleFactor="0.999851"
+        stCamera:RadialDistortParam1="0.001161"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.761004"
+        stCamera:FocalLengthY="1.761004"
+        stCamera:ImageXCenter="0.490989"
+        stCamera:ImageYCenter="0.51878"
+        stCamera:ResidualMeanError="0.002295"
+        stCamera:VignetteModelParam1="-1.728766"
+        stCamera:VignetteModelParam2="11.305225"
+        stCamera:VignetteModelParam3="-85.395202"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="2.447389"
+       stCamera:ApertureValue="4.33985">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.924208"
+        stCamera:FocalLengthY="1.924208"
+        stCamera:ImageXCenter="0.486395"
+        stCamera:ImageYCenter="0.527738"
+        stCamera:ResidualMeanError="0.000054"
+        stCamera:ResidualStandardDeviation="0.000034"
+        stCamera:RadialDistortParam1="0.162654">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.924174"
+        stCamera:FocalLengthY="1.924174"
+        stCamera:ImageXCenter="0.486425"
+        stCamera:ImageYCenter="0.527742"
+        stCamera:ResidualMeanError="0.000053"
+        stCamera:ResidualStandardDeviation="0.000033"
+        stCamera:ScaleFactor="0.999897"
+        stCamera:RadialDistortParam1="0.000151"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.924174"
+        stCamera:FocalLengthY="1.924174"
+        stCamera:ImageXCenter="0.486425"
+        stCamera:ImageYCenter="0.527742"
+        stCamera:ResidualMeanError="0.000052"
+        stCamera:ResidualStandardDeviation="0.000033"
+        stCamera:RadialDistortParam1="0.162712"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.924174"
+        stCamera:FocalLengthY="1.924174"
+        stCamera:ImageXCenter="0.486425"
+        stCamera:ImageYCenter="0.527742"
+        stCamera:ResidualMeanError="0.000053"
+        stCamera:ResidualStandardDeviation="0.000034"
+        stCamera:ScaleFactor="0.999955"
+        stCamera:RadialDistortParam1="-0.00077"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.924208"
+        stCamera:FocalLengthY="1.924208"
+        stCamera:ImageXCenter="0.486395"
+        stCamera:ImageYCenter="0.527738"
+        stCamera:ResidualMeanError="0.00348"
+        stCamera:VignetteModelParam1="-5.698901"
+        stCamera:VignetteModelParam2="42.602567"
+        stCamera:VignetteModelParam3="-204.361292"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="2.469918"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.944486"
+        stCamera:FocalLengthY="1.944486"
+        stCamera:ImageXCenter="0.487296"
+        stCamera:ImageYCenter="0.525912"
+        stCamera:ResidualMeanError="0.000058"
+        stCamera:ResidualStandardDeviation="0.000036"
+        stCamera:RadialDistortParam1="0.163858">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.944891"
+        stCamera:FocalLengthY="1.944891"
+        stCamera:ImageXCenter="0.487318"
+        stCamera:ImageYCenter="0.52587"
+        stCamera:ResidualMeanError="0.000057"
+        stCamera:ResidualStandardDeviation="0.000036"
+        stCamera:ScaleFactor="0.99992"
+        stCamera:RadialDistortParam1="-0.00026"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.944891"
+        stCamera:FocalLengthY="1.944891"
+        stCamera:ImageXCenter="0.487318"
+        stCamera:ImageYCenter="0.52587"
+        stCamera:ResidualMeanError="0.000056"
+        stCamera:ResidualStandardDeviation="0.000035"
+        stCamera:RadialDistortParam1="0.163999"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.944891"
+        stCamera:FocalLengthY="1.944891"
+        stCamera:ImageXCenter="0.487318"
+        stCamera:ImageYCenter="0.52587"
+        stCamera:ResidualMeanError="0.000057"
+        stCamera:ResidualStandardDeviation="0.000035"
+        stCamera:ScaleFactor="0.999895"
+        stCamera:RadialDistortParam1="-0.000262"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.944486"
+        stCamera:FocalLengthY="1.944486"
+        stCamera:ImageXCenter="0.487296"
+        stCamera:ImageYCenter="0.525912"
+        stCamera:ResidualMeanError="0.003295"
+        stCamera:VignetteModelParam1="-0.362424"
+        stCamera:VignetteModelParam2="-43.193955"
+        stCamera:VignetteModelParam3="194.106843"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="2.44991"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.927752"
+        stCamera:FocalLengthY="1.927752"
+        stCamera:ImageXCenter="0.487282"
+        stCamera:ImageYCenter="0.524891"
+        stCamera:ResidualMeanError="0.000057"
+        stCamera:ResidualStandardDeviation="0.000035"
+        stCamera:RadialDistortParam1="0.157033">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.92846"
+        stCamera:FocalLengthY="1.92846"
+        stCamera:ImageXCenter="0.487319"
+        stCamera:ImageYCenter="0.524838"
+        stCamera:ResidualMeanError="0.000054"
+        stCamera:ResidualStandardDeviation="0.000034"
+        stCamera:ScaleFactor="0.999966"
+        stCamera:RadialDistortParam1="-0.000744"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.92846"
+        stCamera:FocalLengthY="1.92846"
+        stCamera:ImageXCenter="0.487319"
+        stCamera:ImageYCenter="0.524838"
+        stCamera:ResidualMeanError="0.000054"
+        stCamera:ResidualStandardDeviation="0.000034"
+        stCamera:RadialDistortParam1="0.157175"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.92846"
+        stCamera:FocalLengthY="1.92846"
+        stCamera:ImageXCenter="0.487319"
+        stCamera:ImageYCenter="0.524838"
+        stCamera:ResidualMeanError="0.000055"
+        stCamera:ResidualStandardDeviation="0.000034"
+        stCamera:ScaleFactor="0.999812"
+        stCamera:RadialDistortParam1="0.000437"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.927752"
+        stCamera:FocalLengthY="1.927752"
+        stCamera:ImageXCenter="0.487282"
+        stCamera:ImageYCenter="0.524891"
+        stCamera:ResidualMeanError="0.002609"
+        stCamera:VignetteModelParam1="-1.861384"
+        stCamera:VignetteModelParam2="16.68614"
+        stCamera:VignetteModelParam3="-156.903442"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="2.450958"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.921633"
+        stCamera:FocalLengthY="1.921633"
+        stCamera:ImageXCenter="0.487303"
+        stCamera:ImageYCenter="0.524621"
+        stCamera:ResidualMeanError="0.000058"
+        stCamera:ResidualStandardDeviation="0.000036"
+        stCamera:RadialDistortParam1="0.155397">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.922126"
+        stCamera:FocalLengthY="1.922126"
+        stCamera:ImageXCenter="0.487318"
+        stCamera:ImageYCenter="0.524568"
+        stCamera:ResidualMeanError="0.000054"
+        stCamera:ResidualStandardDeviation="0.000034"
+        stCamera:ScaleFactor="0.999993"
+        stCamera:RadialDistortParam1="-0.000827"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.922126"
+        stCamera:FocalLengthY="1.922126"
+        stCamera:ImageXCenter="0.487318"
+        stCamera:ImageYCenter="0.524568"
+        stCamera:ResidualMeanError="0.000054"
+        stCamera:ResidualStandardDeviation="0.000033"
+        stCamera:RadialDistortParam1="0.155499"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.922126"
+        stCamera:FocalLengthY="1.922126"
+        stCamera:ImageXCenter="0.487318"
+        stCamera:ImageYCenter="0.524568"
+        stCamera:ResidualMeanError="0.000054"
+        stCamera:ResidualStandardDeviation="0.000033"
+        stCamera:ScaleFactor="0.999767"
+        stCamera:RadialDistortParam1="0.000549"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.921633"
+        stCamera:FocalLengthY="1.921633"
+        stCamera:ImageXCenter="0.487303"
+        stCamera:ImageYCenter="0.524621"
+        stCamera:ResidualMeanError="0.00367"
+        stCamera:VignetteModelParam1="-1.727128"
+        stCamera:VignetteModelParam2="11.04252"
+        stCamera:VignetteModelParam3="-92.846378"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="2.181523"
+       stCamera:ApertureValue="4.33985">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.239796"
+        stCamera:FocalLengthY="2.239796"
+        stCamera:ImageXCenter="0.518413"
+        stCamera:ImageYCenter="0.527377"
+        stCamera:ResidualMeanError="0.000065"
+        stCamera:ResidualStandardDeviation="0.000038"
+        stCamera:RadialDistortParam1="0.210446">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="2.24282"
+        stCamera:FocalLengthY="2.24282"
+        stCamera:ImageXCenter="0.518327"
+        stCamera:ImageYCenter="0.527258"
+        stCamera:ResidualMeanError="0.00005"
+        stCamera:ResidualStandardDeviation="0.000034"
+        stCamera:ScaleFactor="0.999613"
+        stCamera:RadialDistortParam1="0.000219"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="2.24282"
+        stCamera:FocalLengthY="2.24282"
+        stCamera:ImageXCenter="0.518327"
+        stCamera:ImageYCenter="0.527258"
+        stCamera:ResidualMeanError="0.00005"
+        stCamera:ResidualStandardDeviation="0.000033"
+        stCamera:RadialDistortParam1="0.21144"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="2.24282"
+        stCamera:FocalLengthY="2.24282"
+        stCamera:ImageXCenter="0.518327"
+        stCamera:ImageYCenter="0.527258"
+        stCamera:ResidualMeanError="0.00005"
+        stCamera:ResidualStandardDeviation="0.000033"
+        stCamera:ScaleFactor="1.00003"
+        stCamera:RadialDistortParam1="-0.001303"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.239796"
+        stCamera:FocalLengthY="2.239796"
+        stCamera:ImageXCenter="0.518413"
+        stCamera:ImageYCenter="0.527377"
+        stCamera:ResidualMeanError="0.007917"
+        stCamera:VignetteModelParam1="-7.99388"
+        stCamera:VignetteModelParam2="96.306559"
+        stCamera:VignetteModelParam3="-871.168445"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="2.247191"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.30915"
+        stCamera:FocalLengthY="2.30915"
+        stCamera:ImageXCenter="0.520821"
+        stCamera:ImageYCenter="0.522978"
+        stCamera:ResidualMeanError="0.000064"
+        stCamera:ResidualStandardDeviation="0.000039"
+        stCamera:RadialDistortParam1="0.218812">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="2.312098"
+        stCamera:FocalLengthY="2.312098"
+        stCamera:ImageXCenter="0.520746"
+        stCamera:ImageYCenter="0.522818"
+        stCamera:ResidualMeanError="0.000052"
+        stCamera:ResidualStandardDeviation="0.000035"
+        stCamera:ScaleFactor="0.999633"
+        stCamera:RadialDistortParam1="0.000015"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="2.312098"
+        stCamera:FocalLengthY="2.312098"
+        stCamera:ImageXCenter="0.520746"
+        stCamera:ImageYCenter="0.522818"
+        stCamera:ResidualMeanError="0.000052"
+        stCamera:ResidualStandardDeviation="0.000035"
+        stCamera:RadialDistortParam1="0.219668"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="2.312098"
+        stCamera:FocalLengthY="2.312098"
+        stCamera:ImageXCenter="0.520746"
+        stCamera:ImageYCenter="0.522818"
+        stCamera:ResidualMeanError="0.000053"
+        stCamera:ResidualStandardDeviation="0.000035"
+        stCamera:ScaleFactor="0.999965"
+        stCamera:RadialDistortParam1="-0.000594"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.30915"
+        stCamera:FocalLengthY="2.30915"
+        stCamera:ImageXCenter="0.520821"
+        stCamera:ImageYCenter="0.522978"
+        stCamera:ResidualMeanError="0.005154"
+        stCamera:VignetteModelParam1="-1.375337"
+        stCamera:VignetteModelParam2="-67.118774"
+        stCamera:VignetteModelParam3="460.80874"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="2.2382"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.298997"
+        stCamera:FocalLengthY="2.298997"
+        stCamera:ImageXCenter="0.521229"
+        stCamera:ImageYCenter="0.522403"
+        stCamera:ResidualMeanError="0.000063"
+        stCamera:ResidualStandardDeviation="0.000039"
+        stCamera:RadialDistortParam1="0.21439">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="2.301128"
+        stCamera:FocalLengthY="2.301128"
+        stCamera:ImageXCenter="0.521142"
+        stCamera:ImageYCenter="0.522235"
+        stCamera:ResidualMeanError="0.000053"
+        stCamera:ResidualStandardDeviation="0.000035"
+        stCamera:ScaleFactor="0.999669"
+        stCamera:RadialDistortParam1="-0.000505"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="2.301128"
+        stCamera:FocalLengthY="2.301128"
+        stCamera:ImageXCenter="0.521142"
+        stCamera:ImageYCenter="0.522235"
+        stCamera:ResidualMeanError="0.000053"
+        stCamera:ResidualStandardDeviation="0.000035"
+        stCamera:RadialDistortParam1="0.21504"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="2.301128"
+        stCamera:FocalLengthY="2.301128"
+        stCamera:ImageXCenter="0.521142"
+        stCamera:ImageYCenter="0.522235"
+        stCamera:ResidualMeanError="0.000054"
+        stCamera:ResidualStandardDeviation="0.000036"
+        stCamera:ScaleFactor="0.999902"
+        stCamera:RadialDistortParam1="0.000011"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.298997"
+        stCamera:FocalLengthY="2.298997"
+        stCamera:ImageXCenter="0.521229"
+        stCamera:ImageYCenter="0.522403"
+        stCamera:ResidualMeanError="0.003424"
+        stCamera:VignetteModelParam1="-2.730474"
+        stCamera:VignetteModelParam2="30.080675"
+        stCamera:VignetteModelParam3="-355.882533"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="2.230725"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.291129"
+        stCamera:FocalLengthY="2.291129"
+        stCamera:ImageXCenter="0.521585"
+        stCamera:ImageYCenter="0.523105"
+        stCamera:ResidualMeanError="0.000062"
+        stCamera:ResidualStandardDeviation="0.000039"
+        stCamera:RadialDistortParam1="0.21437">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="2.294331"
+        stCamera:FocalLengthY="2.294331"
+        stCamera:ImageXCenter="0.5215"
+        stCamera:ImageYCenter="0.522892"
+        stCamera:ResidualMeanError="0.000054"
+        stCamera:ResidualStandardDeviation="0.000036"
+        stCamera:ScaleFactor="0.999692"
+        stCamera:RadialDistortParam1="-0.000612"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="2.294331"
+        stCamera:FocalLengthY="2.294331"
+        stCamera:ImageXCenter="0.5215"
+        stCamera:ImageYCenter="0.522892"
+        stCamera:ResidualMeanError="0.000053"
+        stCamera:ResidualStandardDeviation="0.000036"
+        stCamera:RadialDistortParam1="0.215138"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="2.294331"
+        stCamera:FocalLengthY="2.294331"
+        stCamera:ImageXCenter="0.5215"
+        stCamera:ImageYCenter="0.522892"
+        stCamera:ResidualMeanError="0.000055"
+        stCamera:ResidualStandardDeviation="0.000036"
+        stCamera:ScaleFactor="0.999864"
+        stCamera:RadialDistortParam1="0.000139"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.291129"
+        stCamera:FocalLengthY="2.291129"
+        stCamera:ImageXCenter="0.521585"
+        stCamera:ImageYCenter="0.523105"
+        stCamera:ResidualMeanError="0.004656"
+        stCamera:VignetteModelParam1="-2.71961"
+        stCamera:VignetteModelParam2="27.237065"
+        stCamera:VignetteModelParam3="-282.750134"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="2.492609"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.781084"
+        stCamera:FocalLengthY="0.781084"
+        stCamera:ResidualMeanError="0.000228"
+        stCamera:ResidualStandardDeviation="0.000148"
+        stCamera:RadialDistortParam1="-0.163273"
+        stCamera:RadialDistortParam2="0.145078">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.780928"
+        stCamera:FocalLengthY="0.780928"
+        stCamera:ResidualMeanError="0.000226"
+        stCamera:ResidualStandardDeviation="0.000147"
+        stCamera:ScaleFactor="1.000276"
+        stCamera:RadialDistortParam1="0.00031"
+        stCamera:RadialDistortParam2="-0.000728"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.780928"
+        stCamera:FocalLengthY="0.780928"
+        stCamera:ResidualMeanError="0.000226"
+        stCamera:ResidualStandardDeviation="0.000147"
+        stCamera:RadialDistortParam1="-0.163148"
+        stCamera:RadialDistortParam2="0.145073"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.780928"
+        stCamera:FocalLengthY="0.780928"
+        stCamera:ResidualMeanError="0.000225"
+        stCamera:ResidualStandardDeviation="0.000148"
+        stCamera:ScaleFactor="1.000217"
+        stCamera:RadialDistortParam1="-0.00052"
+        stCamera:RadialDistortParam2="0.000601"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.781084"
+        stCamera:FocalLengthY="0.781084"
+        stCamera:ResidualMeanError="0.003973"
+        stCamera:VignetteModelParam1="-0.851549"
+        stCamera:VignetteModelParam2="1.925718"
+        stCamera:VignetteModelParam3="-4.05244"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="2.490858"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.780929"
+        stCamera:FocalLengthY="0.780929"
+        stCamera:ResidualMeanError="0.000229"
+        stCamera:ResidualStandardDeviation="0.000149"
+        stCamera:RadialDistortParam1="-0.164203"
+        stCamera:RadialDistortParam2="0.145324">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.780838"
+        stCamera:FocalLengthY="0.780838"
+        stCamera:ResidualMeanError="0.000228"
+        stCamera:ResidualStandardDeviation="0.000148"
+        stCamera:ScaleFactor="1.000295"
+        stCamera:RadialDistortParam1="0.000007"
+        stCamera:RadialDistortParam2="-0.000145"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.780838"
+        stCamera:FocalLengthY="0.780838"
+        stCamera:ResidualMeanError="0.000227"
+        stCamera:ResidualStandardDeviation="0.000148"
+        stCamera:RadialDistortParam1="-0.164141"
+        stCamera:RadialDistortParam2="0.145468"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.780838"
+        stCamera:FocalLengthY="0.780838"
+        stCamera:ResidualMeanError="0.000227"
+        stCamera:ResidualStandardDeviation="0.000149"
+        stCamera:ScaleFactor="1.000182"
+        stCamera:RadialDistortParam1="0.000008"
+        stCamera:RadialDistortParam2="-0.000411"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.780929"
+        stCamera:FocalLengthY="0.780929"
+        stCamera:ResidualMeanError="0.004595"
+        stCamera:VignetteModelParam1="-0.538422"
+        stCamera:VignetteModelParam2="1.258864"
+        stCamera:VignetteModelParam3="-3.254139"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="2.494241"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.781905"
+        stCamera:FocalLengthY="0.781905"
+        stCamera:ResidualMeanError="0.00023"
+        stCamera:ResidualStandardDeviation="0.000149"
+        stCamera:RadialDistortParam1="-0.166571"
+        stCamera:RadialDistortParam2="0.147496">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.781878"
+        stCamera:FocalLengthY="0.781878"
+        stCamera:ResidualMeanError="0.000228"
+        stCamera:ResidualStandardDeviation="0.000148"
+        stCamera:ScaleFactor="1.000392"
+        stCamera:RadialDistortParam1="-0.000201"
+        stCamera:RadialDistortParam2="-0.000133"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.781878"
+        stCamera:FocalLengthY="0.781878"
+        stCamera:ResidualMeanError="0.000227"
+        stCamera:ResidualStandardDeviation="0.000148"
+        stCamera:RadialDistortParam1="-0.16661"
+        stCamera:RadialDistortParam2="0.147731"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.781878"
+        stCamera:FocalLengthY="0.781878"
+        stCamera:ResidualMeanError="0.000227"
+        stCamera:ResidualStandardDeviation="0.00015"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.000496"
+        stCamera:RadialDistortParam2="-0.000636"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.781905"
+        stCamera:FocalLengthY="0.781905"
+        stCamera:ResidualMeanError="0.002674"
+        stCamera:VignetteModelParam1="-0.323477"
+        stCamera:VignetteModelParam2="0.144408"
+        stCamera:VignetteModelParam3="-0.587909"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="2.498224"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.782751"
+        stCamera:FocalLengthY="0.782751"
+        stCamera:ResidualMeanError="0.000231"
+        stCamera:ResidualStandardDeviation="0.00015"
+        stCamera:RadialDistortParam1="-0.167794"
+        stCamera:RadialDistortParam2="0.148236">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.782695"
+        stCamera:FocalLengthY="0.782695"
+        stCamera:ResidualMeanError="0.000228"
+        stCamera:ResidualStandardDeviation="0.000148"
+        stCamera:ScaleFactor="1.000434"
+        stCamera:RadialDistortParam1="-0.0002"
+        stCamera:RadialDistortParam2="-0.000248"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.782695"
+        stCamera:FocalLengthY="0.782695"
+        stCamera:ResidualMeanError="0.000227"
+        stCamera:ResidualStandardDeviation="0.000148"
+        stCamera:RadialDistortParam1="-0.167832"
+        stCamera:RadialDistortParam2="0.148424"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.782695"
+        stCamera:FocalLengthY="0.782695"
+        stCamera:ResidualMeanError="0.000227"
+        stCamera:ResidualStandardDeviation="0.000149"
+        stCamera:ScaleFactor="0.999926"
+        stCamera:RadialDistortParam1="0.000532"
+        stCamera:RadialDistortParam2="-0.000474"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.782751"
+        stCamera:FocalLengthY="0.782751"
+        stCamera:ResidualMeanError="0.002343"
+        stCamera:VignetteModelParam1="-0.30445"
+        stCamera:VignetteModelParam2="0.015633"
+        stCamera:VignetteModelParam3="-0.317727"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="2.511834"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.784117"
+        stCamera:FocalLengthY="0.784117"
+        stCamera:ResidualMeanError="0.000232"
+        stCamera:ResidualStandardDeviation="0.00015"
+        stCamera:RadialDistortParam1="-0.168528"
+        stCamera:RadialDistortParam2="0.149515">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.784055"
+        stCamera:FocalLengthY="0.784055"
+        stCamera:ResidualMeanError="0.000228"
+        stCamera:ResidualStandardDeviation="0.000148"
+        stCamera:ScaleFactor="1.000453"
+        stCamera:RadialDistortParam1="-0.000219"
+        stCamera:RadialDistortParam2="-0.000263"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.784055"
+        stCamera:FocalLengthY="0.784055"
+        stCamera:ResidualMeanError="0.000227"
+        stCamera:ResidualStandardDeviation="0.000148"
+        stCamera:RadialDistortParam1="-0.168571"
+        stCamera:RadialDistortParam2="0.149682"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.784055"
+        stCamera:FocalLengthY="0.784055"
+        stCamera:ResidualMeanError="0.000227"
+        stCamera:ResidualStandardDeviation="0.000149"
+        stCamera:ScaleFactor="0.9999"
+        stCamera:RadialDistortParam1="0.000523"
+        stCamera:RadialDistortParam2="-0.00037"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.784117"
+        stCamera:FocalLengthY="0.784117"
+        stCamera:ResidualMeanError="0.002402"
+        stCamera:VignetteModelParam1="-0.311682"
+        stCamera:VignetteModelParam2="0.027165"
+        stCamera:VignetteModelParam3="-0.314752"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="2.65925"
+       stCamera:ApertureValue="3.851999">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.024669"
+        stCamera:FocalLengthY="1.024669"
+        stCamera:ResidualMeanError="0.000268"
+        stCamera:ResidualStandardDeviation="0.000166"
+        stCamera:RadialDistortParam1="-0.099479"
+        stCamera:RadialDistortParam2="0.207079">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.024403"
+        stCamera:FocalLengthY="1.024403"
+        stCamera:ResidualMeanError="0.000268"
+        stCamera:ResidualStandardDeviation="0.000166"
+        stCamera:ScaleFactor="1.000185"
+        stCamera:RadialDistortParam1="0.000388"
+        stCamera:RadialDistortParam2="-0.001722"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.024403"
+        stCamera:FocalLengthY="1.024403"
+        stCamera:ResidualMeanError="0.000267"
+        stCamera:ResidualStandardDeviation="0.000166"
+        stCamera:RadialDistortParam1="-0.099371"
+        stCamera:RadialDistortParam2="0.207132"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.024403"
+        stCamera:FocalLengthY="1.024403"
+        stCamera:ResidualMeanError="0.000267"
+        stCamera:ResidualStandardDeviation="0.000167"
+        stCamera:ScaleFactor="1.000187"
+        stCamera:RadialDistortParam1="-0.000608"
+        stCamera:RadialDistortParam2="0.001186"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.024669"
+        stCamera:FocalLengthY="1.024669"
+        stCamera:ResidualMeanError="0.004572"
+        stCamera:VignetteModelParam1="-1.339376"
+        stCamera:VignetteModelParam2="2.148993"
+        stCamera:VignetteModelParam3="-3.372431"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="2.651204"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.024351"
+        stCamera:FocalLengthY="1.024351"
+        stCamera:ResidualMeanError="0.000268"
+        stCamera:ResidualStandardDeviation="0.000166"
+        stCamera:RadialDistortParam1="-0.100149"
+        stCamera:RadialDistortParam2="0.207324">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.024031"
+        stCamera:FocalLengthY="1.024031"
+        stCamera:ResidualMeanError="0.000268"
+        stCamera:ResidualStandardDeviation="0.000166"
+        stCamera:ScaleFactor="1.00019"
+        stCamera:RadialDistortParam1="0.000124"
+        stCamera:RadialDistortParam2="-0.000862"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.024031"
+        stCamera:FocalLengthY="1.024031"
+        stCamera:ResidualMeanError="0.000267"
+        stCamera:ResidualStandardDeviation="0.000166"
+        stCamera:RadialDistortParam1="-0.100067"
+        stCamera:RadialDistortParam2="0.207416"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.024031"
+        stCamera:FocalLengthY="1.024031"
+        stCamera:ResidualMeanError="0.000267"
+        stCamera:ResidualStandardDeviation="0.000167"
+        stCamera:ScaleFactor="1.000186"
+        stCamera:RadialDistortParam1="-0.000276"
+        stCamera:RadialDistortParam2="0.000133"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.024351"
+        stCamera:FocalLengthY="1.024351"
+        stCamera:ResidualMeanError="0.004857"
+        stCamera:VignetteModelParam1="-0.645719"
+        stCamera:VignetteModelParam2="-2.337542"
+        stCamera:VignetteModelParam3="5.50044"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="2.653024"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.024077"
+        stCamera:FocalLengthY="1.024077"
+        stCamera:ResidualMeanError="0.000267"
+        stCamera:ResidualStandardDeviation="0.000165"
+        stCamera:RadialDistortParam1="-0.10451"
+        stCamera:RadialDistortParam2="0.214776">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.023971"
+        stCamera:FocalLengthY="1.023971"
+        stCamera:ResidualMeanError="0.000266"
+        stCamera:ResidualStandardDeviation="0.000165"
+        stCamera:ScaleFactor="1.000297"
+        stCamera:RadialDistortParam1="-0.000475"
+        stCamera:RadialDistortParam2="-0.000162"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.023971"
+        stCamera:FocalLengthY="1.023971"
+        stCamera:ResidualMeanError="0.000266"
+        stCamera:ResidualStandardDeviation="0.000165"
+        stCamera:RadialDistortParam1="-0.104555"
+        stCamera:RadialDistortParam2="0.215052"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.023971"
+        stCamera:FocalLengthY="1.023971"
+        stCamera:ResidualMeanError="0.000266"
+        stCamera:ResidualStandardDeviation="0.000166"
+        stCamera:ScaleFactor="1.000008"
+        stCamera:RadialDistortParam1="0.000676"
+        stCamera:RadialDistortParam2="-0.000792"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.024077"
+        stCamera:FocalLengthY="1.024077"
+        stCamera:ResidualMeanError="0.003149"
+        stCamera:VignetteModelParam1="-0.537768"
+        stCamera:VignetteModelParam2="0.160307"
+        stCamera:VignetteModelParam3="-1.113185"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="2.66289"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.027533"
+        stCamera:FocalLengthY="1.027533"
+        stCamera:ResidualMeanError="0.000268"
+        stCamera:ResidualStandardDeviation="0.000165"
+        stCamera:RadialDistortParam1="-0.106043"
+        stCamera:RadialDistortParam2="0.219001">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.027426"
+        stCamera:FocalLengthY="1.027426"
+        stCamera:ResidualMeanError="0.000266"
+        stCamera:ResidualStandardDeviation="0.000165"
+        stCamera:ScaleFactor="1.000334"
+        stCamera:RadialDistortParam1="-0.000447"
+        stCamera:RadialDistortParam2="-0.000406"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.027426"
+        stCamera:FocalLengthY="1.027426"
+        stCamera:ResidualMeanError="0.000266"
+        stCamera:ResidualStandardDeviation="0.000165"
+        stCamera:RadialDistortParam1="-0.106108"
+        stCamera:RadialDistortParam2="0.219268"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.027426"
+        stCamera:FocalLengthY="1.027426"
+        stCamera:ResidualMeanError="0.000266"
+        stCamera:ResidualStandardDeviation="0.000165"
+        stCamera:ScaleFactor="0.999936"
+        stCamera:RadialDistortParam1="0.00073"
+        stCamera:RadialDistortParam2="-0.000583"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.027533"
+        stCamera:FocalLengthY="1.027533"
+        stCamera:ResidualMeanError="0.002713"
+        stCamera:VignetteModelParam1="-0.572565"
+        stCamera:VignetteModelParam2="0.255333"
+        stCamera:VignetteModelParam3="-1.23154"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D300S"
+       stCamera:UniqueCameraModel="Nikon D300S"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="127"
+       stCamera:Lens="18.0-70.0 mm f/3.5-4.5"
+       stCamera:LensInfo="180/10 700/10 35/10 45/10"
+       stCamera:CameraPrettyName="NIKON D300S"
+       stCamera:LensPrettyName="Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S DX Zoom-Nikkor 18-70mm f/3.5-4.5G IF-ED)"
+       stCamera:ImageWidth="4320"
+       stCamera:ImageLength="2868"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="2.667671"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.029844"
+        stCamera:FocalLengthY="1.029844"
+        stCamera:ResidualMeanError="0.000269"
+        stCamera:ResidualStandardDeviation="0.000165"
+        stCamera:RadialDistortParam1="-0.107266"
+        stCamera:RadialDistortParam2="0.222915">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.029734"
+        stCamera:FocalLengthY="1.029734"
+        stCamera:ResidualMeanError="0.000267"
+        stCamera:ResidualStandardDeviation="0.000165"
+        stCamera:ScaleFactor="1.000357"
+        stCamera:RadialDistortParam1="-0.000466"
+        stCamera:RadialDistortParam2="-0.000462"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.029734"
+        stCamera:FocalLengthY="1.029734"
+        stCamera:ResidualMeanError="0.000267"
+        stCamera:ResidualStandardDeviation="0.000165"
+        stCamera:RadialDistortParam1="-0.107341"
+        stCamera:RadialDistortParam2="0.223165"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.029734"
+        stCamera:FocalLengthY="1.029734"
+        stCamera:ResidualMeanError="0.000267"
+        stCamera:ResidualStandardDeviation="0.000165"
+        stCamera:ScaleFactor="0.999898"
+        stCamera:RadialDistortParam1="0.000761"
+        stCamera:RadialDistortParam2="-0.000481"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.029844"
+        stCamera:FocalLengthY="1.029844"
+        stCamera:ResidualMeanError="0.003181"
+        stCamera:VignetteModelParam1="-0.610392"
+        stCamera:VignetteModelParam2="0.781744"
+        stCamera:VignetteModelParam3="-2.71356"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

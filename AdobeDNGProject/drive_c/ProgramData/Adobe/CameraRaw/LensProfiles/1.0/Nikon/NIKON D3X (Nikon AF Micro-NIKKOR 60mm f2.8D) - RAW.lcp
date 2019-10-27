@@ -1,0 +1,968 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.2-c004 1.136881, 2010/06/10-18:11:35        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>60.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>600/10 600/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF Micro-NIKKOR 60mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF Micro-NIKKOR 60mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.4</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.055254</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.055254</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.00019</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000102</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>0.040953</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.076663</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>1.767634</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.055274</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.055274</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.00019</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000102</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000025</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.000939</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.013597</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.174441</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.055274</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.055274</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.00019</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000102</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>0.041066</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.069383</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>1.836301</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.055274</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.055274</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.00019</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000102</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999885</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.000159</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.018649</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.123343</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>60.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>600/10 600/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF Micro-NIKKOR 60mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF Micro-NIKKOR 60mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.12</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.712111</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.712111</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000239</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000369</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.012898</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.870267</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-4.4391</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.712118</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.712118</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000238</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000369</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000096</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.000643</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.001014</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.019429</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.712118</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.712118</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000236</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.00037</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.01295</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.869412</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-4.437655</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.712118</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.712118</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000237</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.00037</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999818</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.000645</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.001721</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.016819</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>60.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>600/10 600/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF Micro-NIKKOR 60mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF Micro-NIKKOR 60mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>4294967296</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.602347</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.602347</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000755</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.001159</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.142337</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.023476</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-7.991392</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.602417</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.602417</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000753</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.001158</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000108</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.000416</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.000135</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.014036</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.602417</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.602417</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000754</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.001158</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.142167</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>2.020782</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-7.982377</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.602417</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.602417</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000755</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.001158</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999817</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.000256</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.004746</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.000556</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>60.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>600/10 600/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF Micro-NIKKOR 60mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF Micro-NIKKOR 60mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.21</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.643856</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.055274</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.055274</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.041066</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.069383</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>1.836301</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.055274</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.055274</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-6.049103</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>50.50348</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-401.788383</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>60.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>600/10 600/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF Micro-NIKKOR 60mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF Micro-NIKKOR 60mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.21</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.055274</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.055274</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.041066</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.069383</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>1.836301</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.055274</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.055274</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.73591</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>35.293475</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-583.978813</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>60.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>600/10 600/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF Micro-NIKKOR 60mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF Micro-NIKKOR 60mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.21</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.055274</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.055274</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.041066</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.069383</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>1.836301</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.055274</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.055274</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.512617</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>12.297558</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-107.604501</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>60.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>600/10 600/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF Micro-NIKKOR 60mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF Micro-NIKKOR 60mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.21</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.055274</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.055274</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.041066</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.069383</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>1.836301</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.055274</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.055274</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.683247</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>12.912955</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-83.006343</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>60.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>600/10 600/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF Micro-NIKKOR 60mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF Micro-NIKKOR 60mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.21</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.055274</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.055274</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.041066</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.069383</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>1.836301</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.055274</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.055274</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.714138</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>13.888884</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-96.327499</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>60.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>600/10 600/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF Micro-NIKKOR 60mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF Micro-NIKKOR 60mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>3.61471</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.055274</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.055274</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.041066</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.069383</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>1.836301</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.055274</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.055274</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-5.452178</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-7.279185</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>126.524395</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>60.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>600/10 600/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF Micro-NIKKOR 60mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF Micro-NIKKOR 60mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.055274</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.055274</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.041066</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.069383</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>1.836301</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.055274</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.055274</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>0.287215</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-113.856378</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>758.758388</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>60.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>600/10 600/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF Micro-NIKKOR 60mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF Micro-NIKKOR 60mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.055274</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.055274</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.041066</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.069383</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>1.836301</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.055274</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.055274</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.142972</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>7.827888</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-172.353157</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>60.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>600/10 600/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF Micro-NIKKOR 60mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF Micro-NIKKOR 60mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.055274</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.055274</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.041066</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.069383</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>1.836301</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.055274</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.055274</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.941453</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-3.69935</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-29.783009</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>60.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>600/10 600/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF Micro-NIKKOR 60mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF Micro-NIKKOR 60mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.055274</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.055274</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.041066</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.069383</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>1.836301</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.055274</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.055274</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.984604</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-3.277845</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-28.706795</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>60.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>600/10 600/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF Micro-NIKKOR 60mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF Micro-NIKKOR 60mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.055274</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.055274</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.041066</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.069383</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>1.836301</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.055274</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.055274</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.0243</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-3.197204</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-25.201724</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>60.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>600/10 600/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF Micro-NIKKOR 60mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF Micro-NIKKOR 60mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.89</stCamera:FocusDistance>
+      <stCamera:ApertureValue>3.356144</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.761385</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.761385</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.009863</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.891853</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-4.736507</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.761385</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.761385</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-4.171715</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-5.309883</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>58.63796</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>60.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>600/10 600/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF Micro-NIKKOR 60mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF Micro-NIKKOR 60mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.89</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.761385</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.761385</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.009863</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.891853</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-4.736507</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.761385</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.761385</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.628018</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-22.433107</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>51.915223</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>60.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>600/10 600/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF Micro-NIKKOR 60mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF Micro-NIKKOR 60mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.89</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.761385</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.761385</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.009863</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.891853</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-4.736507</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.761385</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.761385</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.80497</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>13.068868</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-78.481323</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>60.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>600/10 600/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF Micro-NIKKOR 60mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF Micro-NIKKOR 60mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.89</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.761385</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.761385</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.009863</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.891853</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-4.736507</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.761385</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.761385</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.662254</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>10.209369</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-62.224377</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>60.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>600/10 600/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF Micro-NIKKOR 60mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF Micro-NIKKOR 60mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.89</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.761385</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.761385</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.009863</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.891853</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-4.736507</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.761385</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.761385</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.719484</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>11.281757</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-69.412667</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>60.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>600/10 600/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF Micro-NIKKOR 60mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF Micro-NIKKOR 60mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.89</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.761385</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.761385</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.009863</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.891853</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-4.736507</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.761385</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.761385</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.629404</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>8.983946</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-55.808938</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>60.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>600/10 600/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF Micro-NIKKOR 60mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF Micro-NIKKOR 60mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.602429</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.602429</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.142161</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.020763</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-7.982445</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.602429</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.602429</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-3.190403</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-7.45349</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>45.469487</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>60.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>600/10 600/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF Micro-NIKKOR 60mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF Micro-NIKKOR 60mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.602429</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.602429</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.142161</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.020763</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-7.982445</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.602429</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.602429</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.778467</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>16.813597</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-108.119529</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>60.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>600/10 600/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF Micro-NIKKOR 60mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF Micro-NIKKOR 60mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.602429</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.602429</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.142161</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.020763</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-7.982445</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.602429</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.602429</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.4758</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>7.653668</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-37.386396</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>60.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>600/10 600/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF Micro-NIKKOR 60mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF Micro-NIKKOR 60mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.602429</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.602429</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.142161</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.020763</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-7.982445</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.602429</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.602429</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.5171</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>8.240434</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-41.054577</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>60.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>600/10 600/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF Micro-NIKKOR 60mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF Micro-NIKKOR 60mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.602429</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.602429</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.142161</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.020763</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-7.982445</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.602429</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.602429</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.596439</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>9.228786</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-44.939484</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>60.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>600/10 600/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF Micro-NIKKOR 60mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF Micro-NIKKOR 60mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>60</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.602429</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.602429</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.142161</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.020763</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-7.982445</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.602429</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.602429</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.703046</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>9.879365</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-44.701388</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

@@ -1,0 +1,4597 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.705397"
+        stCamera:FocalLengthY="2.705397"
+        stCamera:ResidualMeanError="0.00015"
+        stCamera:ResidualStandardDeviation="0.000122"
+        stCamera:RadialDistortParam1="-0.075379"
+        stCamera:RadialDistortParam2="0.836863"
+        stCamera:RadialDistortParam3="9.479588">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="2.705307"
+        stCamera:FocalLengthY="2.705307"
+        stCamera:ResidualMeanError="0.000144"
+        stCamera:ResidualStandardDeviation="0.000124"
+        stCamera:ScaleFactor="1.000302"
+        stCamera:RadialDistortParam1="-0.002798"
+        stCamera:RadialDistortParam2="0.050204"
+        stCamera:RadialDistortParam3="-0.822359"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="2.705307"
+        stCamera:FocalLengthY="2.705307"
+        stCamera:ResidualMeanError="0.000146"
+        stCamera:ResidualStandardDeviation="0.000121"
+        stCamera:RadialDistortParam1="-0.075586"
+        stCamera:RadialDistortParam2="0.845198"
+        stCamera:RadialDistortParam3="9.354226"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="2.705307"
+        stCamera:FocalLengthY="2.705307"
+        stCamera:ResidualMeanError="0.000149"
+        stCamera:ResidualStandardDeviation="0.00012"
+        stCamera:ScaleFactor="0.99994"
+        stCamera:RadialDistortParam1="0.00292"
+        stCamera:RadialDistortParam2="-0.025839"
+        stCamera:RadialDistortParam3="0.35549"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="1.68"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.698036"
+        stCamera:FocalLengthY="1.698036"
+        stCamera:ResidualMeanError="0.000602"
+        stCamera:ResidualStandardDeviation="0.000939"
+        stCamera:RadialDistortParam1="-0.114318"
+        stCamera:RadialDistortParam2="-1.616745"
+        stCamera:RadialDistortParam3="8.893594">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.698019"
+        stCamera:FocalLengthY="1.698019"
+        stCamera:ResidualMeanError="0.000599"
+        stCamera:ResidualStandardDeviation="0.000941"
+        stCamera:ScaleFactor="1.000326"
+        stCamera:RadialDistortParam1="-0.001455"
+        stCamera:RadialDistortParam2="0.013589"
+        stCamera:RadialDistortParam3="-0.078711"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.698019"
+        stCamera:FocalLengthY="1.698019"
+        stCamera:ResidualMeanError="0.0006"
+        stCamera:ResidualStandardDeviation="0.00094"
+        stCamera:RadialDistortParam1="-0.114478"
+        stCamera:RadialDistortParam2="-1.617239"
+        stCamera:RadialDistortParam3="8.899784"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.698019"
+        stCamera:FocalLengthY="1.698019"
+        stCamera:ResidualMeanError="0.000602"
+        stCamera:ResidualStandardDeviation="0.000939"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.00127"
+        stCamera:RadialDistortParam2="-0.00608"
+        stCamera:RadialDistortParam3="0.044765"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="7.5"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.070779"
+        stCamera:FocalLengthY="2.070779"
+        stCamera:ResidualMeanError="0.000275"
+        stCamera:ResidualStandardDeviation="0.000332"
+        stCamera:RadialDistortParam1="-0.268288"
+        stCamera:RadialDistortParam2="2.261987"
+        stCamera:RadialDistortParam3="-10.412823">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="2.082428"
+        stCamera:FocalLengthY="2.082428"
+        stCamera:ResidualMeanError="0.000271"
+        stCamera:ResidualStandardDeviation="0.000329"
+        stCamera:ScaleFactor="1.000278"
+        stCamera:RadialDistortParam1="-0.001181"
+        stCamera:RadialDistortParam2="0.008898"
+        stCamera:RadialDistortParam3="-0.082127"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="2.082428"
+        stCamera:FocalLengthY="2.082428"
+        stCamera:ResidualMeanError="0.000271"
+        stCamera:ResidualStandardDeviation="0.000329"
+        stCamera:RadialDistortParam1="-0.269137"
+        stCamera:RadialDistortParam2="2.297204"
+        stCamera:RadialDistortParam3="-10.688128"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="2.082428"
+        stCamera:FocalLengthY="2.082428"
+        stCamera:ResidualMeanError="0.000272"
+        stCamera:ResidualStandardDeviation="0.000328"
+        stCamera:ScaleFactor="0.999983"
+        stCamera:RadialDistortParam1="0.002227"
+        stCamera:RadialDistortParam2="-0.009943"
+        stCamera:RadialDistortParam3="0.093989"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.24217"
+        stCamera:FocalLengthY="3.24217"
+        stCamera:ResidualMeanError="0.000181"
+        stCamera:ResidualStandardDeviation="0.000145"
+        stCamera:RadialDistortParam1="0.108688"
+        stCamera:RadialDistortParam2="4.307272"
+        stCamera:RadialDistortParam3="9.24325">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="3.242094"
+        stCamera:FocalLengthY="3.242094"
+        stCamera:ResidualMeanError="0.000175"
+        stCamera:ResidualStandardDeviation="0.000148"
+        stCamera:ScaleFactor="1.000248"
+        stCamera:RadialDistortParam1="-0.002463"
+        stCamera:RadialDistortParam2="0.023693"
+        stCamera:RadialDistortParam3="-0.582078"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="3.242094"
+        stCamera:FocalLengthY="3.242094"
+        stCamera:ResidualMeanError="0.000178"
+        stCamera:ResidualStandardDeviation="0.000145"
+        stCamera:RadialDistortParam1="0.109054"
+        stCamera:RadialDistortParam2="4.286416"
+        stCamera:RadialDistortParam3="9.774789"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="3.242094"
+        stCamera:FocalLengthY="3.242094"
+        stCamera:ResidualMeanError="0.000181"
+        stCamera:ResidualStandardDeviation="0.000143"
+        stCamera:ScaleFactor="0.999901"
+        stCamera:RadialDistortParam1="0.001448"
+        stCamera:RadialDistortParam2="0.057293"
+        stCamera:RadialDistortParam3="-1.428775"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.68"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.265326"
+        stCamera:FocalLengthY="3.265326"
+        stCamera:ResidualMeanError="0.000474"
+        stCamera:ResidualStandardDeviation="0.000827"
+        stCamera:RadialDistortParam1="0.115493"
+        stCamera:RadialDistortParam2="-22.89348"
+        stCamera:RadialDistortParam3="540.662298">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="3.266019"
+        stCamera:FocalLengthY="3.266019"
+        stCamera:ResidualMeanError="0.000471"
+        stCamera:ResidualStandardDeviation="0.000828"
+        stCamera:ScaleFactor="1.000293"
+        stCamera:RadialDistortParam1="-0.004725"
+        stCamera:RadialDistortParam2="0.132077"
+        stCamera:RadialDistortParam3="-2.506299"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="3.266019"
+        stCamera:FocalLengthY="3.266019"
+        stCamera:ResidualMeanError="0.000471"
+        stCamera:ResidualStandardDeviation="0.000828"
+        stCamera:RadialDistortParam1="0.115592"
+        stCamera:RadialDistortParam2="-22.932843"
+        stCamera:RadialDistortParam3="541.8368"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="3.266019"
+        stCamera:FocalLengthY="3.266019"
+        stCamera:ResidualMeanError="0.000473"
+        stCamera:ResidualStandardDeviation="0.000827"
+        stCamera:ScaleFactor="0.999933"
+        stCamera:RadialDistortParam1="0.004796"
+        stCamera:RadialDistortParam2="-0.123432"
+        stCamera:RadialDistortParam3="2.628188"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="7.5"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.056481"
+        stCamera:FocalLengthY="1.056481"
+        stCamera:ResidualMeanError="0.000469"
+        stCamera:ResidualStandardDeviation="0.000675"
+        stCamera:RadialDistortParam1="-0.074985"
+        stCamera:RadialDistortParam2="0.326787"
+        stCamera:RadialDistortParam3="-0.446662">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.056405"
+        stCamera:FocalLengthY="1.056405"
+        stCamera:ResidualMeanError="0.000467"
+        stCamera:ResidualStandardDeviation="0.000675"
+        stCamera:ScaleFactor="1.00024"
+        stCamera:RadialDistortParam1="-0.000107"
+        stCamera:RadialDistortParam2="-0.000537"
+        stCamera:RadialDistortParam3="0.000897"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.056405"
+        stCamera:FocalLengthY="1.056405"
+        stCamera:ResidualMeanError="0.000467"
+        stCamera:ResidualStandardDeviation="0.000675"
+        stCamera:RadialDistortParam1="-0.0749"
+        stCamera:RadialDistortParam2="0.326674"
+        stCamera:RadialDistortParam3="-0.446418"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.056405"
+        stCamera:FocalLengthY="1.056405"
+        stCamera:ResidualMeanError="0.000469"
+        stCamera:ResidualStandardDeviation="0.000674"
+        stCamera:ScaleFactor="0.999929"
+        stCamera:RadialDistortParam1="0.00048"
+        stCamera:RadialDistortParam2="-0.000154"
+        stCamera:RadialDistortParam3="-0.000024"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.494315"
+        stCamera:FocalLengthY="4.494315"
+        stCamera:ResidualMeanError="0.000083"
+        stCamera:ResidualStandardDeviation="0.000082"
+        stCamera:RadialDistortParam1="0.777093"
+        stCamera:RadialDistortParam2="4.697045"
+        stCamera:RadialDistortParam3="528.787001">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="4.49477"
+        stCamera:FocalLengthY="4.49477"
+        stCamera:ResidualMeanError="0.000078"
+        stCamera:ResidualStandardDeviation="0.000079"
+        stCamera:ScaleFactor="1.000141"
+        stCamera:RadialDistortParam1="-0.000775"
+        stCamera:RadialDistortParam2="-0.324654"
+        stCamera:RadialDistortParam3="19.321511"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="4.49477"
+        stCamera:FocalLengthY="4.49477"
+        stCamera:ResidualMeanError="0.000078"
+        stCamera:ResidualStandardDeviation="0.000079"
+        stCamera:RadialDistortParam1="0.777138"
+        stCamera:RadialDistortParam2="4.890272"
+        stCamera:RadialDistortParam3="518.319666"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="4.49477"
+        stCamera:FocalLengthY="4.49477"
+        stCamera:ResidualMeanError="0.00008"
+        stCamera:ResidualStandardDeviation="0.000078"
+        stCamera:ScaleFactor="0.999846"
+        stCamera:RadialDistortParam1="0.000269"
+        stCamera:RadialDistortParam2="-0.206569"
+        stCamera:RadialDistortParam3="11.649607"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="1.68"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.221391"
+        stCamera:FocalLengthY="4.221391"
+        stCamera:ResidualMeanError="0.000089"
+        stCamera:ResidualStandardDeviation="0.000087"
+        stCamera:RadialDistortParam1="0.54892"
+        stCamera:RadialDistortParam2="6.166038"
+        stCamera:RadialDistortParam3="267.783182">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="4.21822"
+        stCamera:FocalLengthY="4.21822"
+        stCamera:ResidualMeanError="0.000086"
+        stCamera:ResidualStandardDeviation="0.000085"
+        stCamera:ScaleFactor="1.000183"
+        stCamera:RadialDistortParam1="0.001056"
+        stCamera:RadialDistortParam2="-0.532486"
+        stCamera:RadialDistortParam3="20.577749"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="4.21822"
+        stCamera:FocalLengthY="4.21822"
+        stCamera:ResidualMeanError="0.000084"
+        stCamera:ResidualStandardDeviation="0.000085"
+        stCamera:RadialDistortParam1="0.547162"
+        stCamera:RadialDistortParam2="6.253348"
+        stCamera:RadialDistortParam3="263.644119"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="4.21822"
+        stCamera:FocalLengthY="4.21822"
+        stCamera:ResidualMeanError="0.000086"
+        stCamera:ResidualStandardDeviation="0.000085"
+        stCamera:ScaleFactor="0.999896"
+        stCamera:RadialDistortParam1="-0.001586"
+        stCamera:RadialDistortParam2="0.436312"
+        stCamera:RadialDistortParam3="-16.291938"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="7.5"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.640447"
+        stCamera:FocalLengthY="4.640447"
+        stCamera:ResidualMeanError="0.000193"
+        stCamera:ResidualStandardDeviation="0.000206"
+        stCamera:RadialDistortParam1="0.826612"
+        stCamera:RadialDistortParam2="49.407318"
+        stCamera:RadialDistortParam3="-1292.287691">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="4.64192"
+        stCamera:FocalLengthY="4.64192"
+        stCamera:ResidualMeanError="0.00019"
+        stCamera:ResidualStandardDeviation="0.000206"
+        stCamera:ScaleFactor="1.000183"
+        stCamera:RadialDistortParam1="-0.004716"
+        stCamera:RadialDistortParam2="0.233041"
+        stCamera:RadialDistortParam3="-11.902943"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="4.64192"
+        stCamera:FocalLengthY="4.64192"
+        stCamera:ResidualMeanError="0.00019"
+        stCamera:ResidualStandardDeviation="0.000205"
+        stCamera:RadialDistortParam1="0.827289"
+        stCamera:RadialDistortParam2="49.37891"
+        stCamera:RadialDistortParam3="-1289.936767"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="4.64192"
+        stCamera:FocalLengthY="4.64192"
+        stCamera:ResidualMeanError="0.000192"
+        stCamera:ResidualStandardDeviation="0.000204"
+        stCamera:ScaleFactor="0.999876"
+        stCamera:RadialDistortParam1="0.006269"
+        stCamera:RadialDistortParam2="0.010152"
+        stCamera:RadialDistortParam3="-4.653736"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.038887"
+        stCamera:FocalLengthY="6.038887"
+        stCamera:ResidualMeanError="0.000082"
+        stCamera:ResidualStandardDeviation="0.000065"
+        stCamera:RadialDistortParam1="2.164762"
+        stCamera:RadialDistortParam2="21.826961"
+        stCamera:RadialDistortParam3="2523.277829">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="6.040046"
+        stCamera:FocalLengthY="6.040046"
+        stCamera:ResidualMeanError="0.000069"
+        stCamera:ResidualStandardDeviation="0.000052"
+        stCamera:ScaleFactor="0.999968"
+        stCamera:RadialDistortParam1="0.010031"
+        stCamera:RadialDistortParam2="-2.532608"
+        stCamera:RadialDistortParam3="209.095922"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="6.040046"
+        stCamera:FocalLengthY="6.040046"
+        stCamera:ResidualMeanError="0.000069"
+        stCamera:ResidualStandardDeviation="0.00005"
+        stCamera:RadialDistortParam1="2.084929"
+        stCamera:RadialDistortParam2="49.226325"
+        stCamera:RadialDistortParam3="0.324464"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="6.040046"
+        stCamera:FocalLengthY="6.040046"
+        stCamera:ResidualMeanError="0.000073"
+        stCamera:ResidualStandardDeviation="0.000049"
+        stCamera:ScaleFactor="0.999817"
+        stCamera:RadialDistortParam1="-0.024431"
+        stCamera:RadialDistortParam2="3.611196"
+        stCamera:RadialDistortParam3="-295.093382"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.68"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="11.121478"
+        stCamera:FocalLengthY="11.121478"
+        stCamera:ResidualMeanError="0.000096"
+        stCamera:ResidualStandardDeviation="0.000074"
+        stCamera:RadialDistortParam1="6.674978"
+        stCamera:RadialDistortParam2="377.446978"
+        stCamera:RadialDistortParam3="5841.244207">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="11.122324"
+        stCamera:FocalLengthY="11.122324"
+        stCamera:ResidualMeanError="0.000095"
+        stCamera:ResidualStandardDeviation="0.000072"
+        stCamera:ScaleFactor="1.000054"
+        stCamera:RadialDistortParam1="-0.006245"
+        stCamera:RadialDistortParam2="-6.992515"
+        stCamera:RadialDistortParam3="2935.408178"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="11.122324"
+        stCamera:FocalLengthY="11.122324"
+        stCamera:ResidualMeanError="0.000093"
+        stCamera:ResidualStandardDeviation="0.000072"
+        stCamera:RadialDistortParam1="6.662698"
+        stCamera:RadialDistortParam2="397.719835"
+        stCamera:RadialDistortParam3="0.070618"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="11.122324"
+        stCamera:FocalLengthY="11.122324"
+        stCamera:ResidualMeanError="0.000095"
+        stCamera:ResidualStandardDeviation="0.000073"
+        stCamera:ScaleFactor="0.999853"
+        stCamera:RadialDistortParam1="-0.036701"
+        stCamera:RadialDistortParam2="32.257517"
+        stCamera:RadialDistortParam3="-10425.327551"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="7.5"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="7.683112"
+        stCamera:FocalLengthY="7.683112"
+        stCamera:ResidualMeanError="0.000189"
+        stCamera:ResidualStandardDeviation="0.000139"
+        stCamera:RadialDistortParam1="2.520595"
+        stCamera:RadialDistortParam2="116.698867"
+        stCamera:RadialDistortParam3="14704.003128">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="7.684143"
+        stCamera:FocalLengthY="7.684143"
+        stCamera:ResidualMeanError="0.000178"
+        stCamera:ResidualStandardDeviation="0.000118"
+        stCamera:ScaleFactor="1.000077"
+        stCamera:RadialDistortParam1="-0.005714"
+        stCamera:RadialDistortParam2="-0.486244"
+        stCamera:RadialDistortParam3="57.53889"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="7.684143"
+        stCamera:FocalLengthY="7.684143"
+        stCamera:ResidualMeanError="0.000177"
+        stCamera:ResidualStandardDeviation="0.000118"
+        stCamera:RadialDistortParam1="2.300713"
+        stCamera:RadialDistortParam2="222.612526"
+        stCamera:RadialDistortParam3="0.761906"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="7.684143"
+        stCamera:FocalLengthY="7.684143"
+        stCamera:ResidualMeanError="0.000178"
+        stCamera:ResidualStandardDeviation="0.000119"
+        stCamera:ScaleFactor="0.999855"
+        stCamera:RadialDistortParam1="0.00121"
+        stCamera:RadialDistortParam2="2.513288"
+        stCamera:RadialDistortParam3="-388.085385"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="1.19"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.768734"
+        stCamera:FocalLengthY="10.768734"
+        stCamera:ResidualMeanError="0.000119"
+        stCamera:ResidualStandardDeviation="0.000117"
+        stCamera:RadialDistortParam1="9.617975"
+        stCamera:RadialDistortParam2="162.034599"
+        stCamera:RadialDistortParam3="-13955.165345">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="10.778643"
+        stCamera:FocalLengthY="10.778643"
+        stCamera:ResidualMeanError="0.000116"
+        stCamera:ResidualStandardDeviation="0.000116"
+        stCamera:ScaleFactor="0.999767"
+        stCamera:RadialDistortParam1="-0.003655"
+        stCamera:RadialDistortParam2="-2.996586"
+        stCamera:RadialDistortParam3="1525.673419"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="10.778643"
+        stCamera:FocalLengthY="10.778643"
+        stCamera:ResidualMeanError="0.000116"
+        stCamera:ResidualStandardDeviation="0.000116"
+        stCamera:RadialDistortParam1="9.696353"
+        stCamera:RadialDistortParam2="115.733927"
+        stCamera:RadialDistortParam3="-6.017884"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="10.778643"
+        stCamera:FocalLengthY="10.778643"
+        stCamera:ResidualMeanError="0.000118"
+        stCamera:ResidualStandardDeviation="0.000115"
+        stCamera:ScaleFactor="0.999811"
+        stCamera:RadialDistortParam1="-0.055913"
+        stCamera:RadialDistortParam2="15.463005"
+        stCamera:RadialDistortParam3="-5740.724585"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="1.78"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="12.090183"
+        stCamera:FocalLengthY="12.090183"
+        stCamera:ResidualMeanError="0.000083"
+        stCamera:ResidualStandardDeviation="0.000066"
+        stCamera:RadialDistortParam1="11.726961"
+        stCamera:RadialDistortParam2="579.260854"
+        stCamera:RadialDistortParam3="-1705.966261">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="12.090524"
+        stCamera:FocalLengthY="12.090524"
+        stCamera:ResidualMeanError="0.000081"
+        stCamera:ResidualStandardDeviation="0.000066"
+        stCamera:ScaleFactor="0.999828"
+        stCamera:RadialDistortParam1="-0.017024"
+        stCamera:RadialDistortParam2="6.473226"
+        stCamera:RadialDistortParam3="-977.28294"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="12.090524"
+        stCamera:FocalLengthY="12.090524"
+        stCamera:ResidualMeanError="0.00008"
+        stCamera:ResidualStandardDeviation="0.000065"
+        stCamera:RadialDistortParam1="11.741152"
+        stCamera:RadialDistortParam2="575.865684"
+        stCamera:RadialDistortParam3="-0.009929"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="12.090524"
+        stCamera:FocalLengthY="12.090524"
+        stCamera:ResidualMeanError="0.000083"
+        stCamera:ResidualStandardDeviation="0.000065"
+        stCamera:ScaleFactor="0.999828"
+        stCamera:RadialDistortParam1="-0.014808"
+        stCamera:RadialDistortParam2="-9.911556"
+        stCamera:RadialDistortParam3="1124.391287"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="10"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.047476"
+        stCamera:FocalLengthY="10.047476"
+        stCamera:ResidualMeanError="0.000207"
+        stCamera:ResidualStandardDeviation="0.000149"
+        stCamera:RadialDistortParam1="6.699662"
+        stCamera:RadialDistortParam2="362.909795"
+        stCamera:RadialDistortParam3="2878.614222">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="10.048201"
+        stCamera:FocalLengthY="10.048201"
+        stCamera:ResidualMeanError="0.000206"
+        stCamera:ResidualStandardDeviation="0.000148"
+        stCamera:ScaleFactor="0.999894"
+        stCamera:RadialDistortParam1="0.002829"
+        stCamera:RadialDistortParam2="-10.208494"
+        stCamera:RadialDistortParam3="2428.831149"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="10.048201"
+        stCamera:FocalLengthY="10.048201"
+        stCamera:ResidualMeanError="0.000206"
+        stCamera:ResidualStandardDeviation="0.000148"
+        stCamera:RadialDistortParam1="6.68754"
+        stCamera:RadialDistortParam2="375.801534"
+        stCamera:RadialDistortParam3="0.054982"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="10.048201"
+        stCamera:FocalLengthY="10.048201"
+        stCamera:ResidualMeanError="0.000208"
+        stCamera:ResidualStandardDeviation="0.000149"
+        stCamera:ScaleFactor="0.99988"
+        stCamera:RadialDistortParam1="-0.027095"
+        stCamera:RadialDistortParam2="22.718682"
+        stCamera:RadialDistortParam3="-5524.085949"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.49477"
+        stCamera:FocalLengthY="4.49477"
+        stCamera:RadialDistortParam1="0.777138"
+        stCamera:RadialDistortParam2="4.890272"
+        stCamera:RadialDistortParam3="518.319666">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.49477"
+        stCamera:FocalLengthY="4.49477"
+        stCamera:VignetteModelParam1="-22.568975"
+        stCamera:VignetteModelParam2="-3097.904125"
+        stCamera:VignetteModelParam3="114822.00754"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.49477"
+        stCamera:FocalLengthY="4.49477"
+        stCamera:RadialDistortParam1="0.777138"
+        stCamera:RadialDistortParam2="4.890272"
+        stCamera:RadialDistortParam3="518.319666">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.49477"
+        stCamera:FocalLengthY="4.49477"
+        stCamera:VignetteModelParam1="7.076034"
+        stCamera:VignetteModelParam2="-3210.743838"
+        stCamera:VignetteModelParam3="58647.844947"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.49477"
+        stCamera:FocalLengthY="4.49477"
+        stCamera:RadialDistortParam1="0.777138"
+        stCamera:RadialDistortParam2="4.890272"
+        stCamera:RadialDistortParam3="518.319666">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.49477"
+        stCamera:FocalLengthY="4.49477"
+        stCamera:VignetteModelParam1="-9.218041"
+        stCamera:VignetteModelParam2="1192.183125"
+        stCamera:VignetteModelParam3="-130166.776623"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.49477"
+        stCamera:FocalLengthY="4.49477"
+        stCamera:RadialDistortParam1="0.777138"
+        stCamera:RadialDistortParam2="4.890272"
+        stCamera:RadialDistortParam3="518.319666">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.49477"
+        stCamera:FocalLengthY="4.49477"
+        stCamera:VignetteModelParam1="-19.09758"
+        stCamera:VignetteModelParam2="3592.078275"
+        stCamera:VignetteModelParam3="-227079.536759"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.49477"
+        stCamera:FocalLengthY="4.49477"
+        stCamera:RadialDistortParam1="0.777138"
+        stCamera:RadialDistortParam2="4.890272"
+        stCamera:RadialDistortParam3="518.319666">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.49477"
+        stCamera:FocalLengthY="4.49477"
+        stCamera:VignetteModelParam1="-17.615444"
+        stCamera:VignetteModelParam2="2777.261368"
+        stCamera:VignetteModelParam3="-147745.601638"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="1.78"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.248894"
+        stCamera:FocalLengthY="4.248894"
+        stCamera:RadialDistortParam1="0.593954"
+        stCamera:RadialDistortParam2="14.375063"
+        stCamera:RadialDistortParam3="-15.439727">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.248894"
+        stCamera:FocalLengthY="4.248894"
+        stCamera:VignetteModelParam1="-24.260125"
+        stCamera:VignetteModelParam2="-140.596466"
+        stCamera:VignetteModelParam3="-5153.065586"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="1.78"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.248894"
+        stCamera:FocalLengthY="4.248894"
+        stCamera:RadialDistortParam1="0.593954"
+        stCamera:RadialDistortParam2="14.375063"
+        stCamera:RadialDistortParam3="-15.439727">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.248894"
+        stCamera:FocalLengthY="4.248894"
+        stCamera:VignetteModelParam1="-10.014743"
+        stCamera:VignetteModelParam2="1111.505583"
+        stCamera:VignetteModelParam3="-77087.556246"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="1.78"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.248894"
+        stCamera:FocalLengthY="4.248894"
+        stCamera:RadialDistortParam1="0.593954"
+        stCamera:RadialDistortParam2="14.375063"
+        stCamera:RadialDistortParam3="-15.439727">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.248894"
+        stCamera:FocalLengthY="4.248894"
+        stCamera:VignetteModelParam1="-11.883926"
+        stCamera:VignetteModelParam2="1271.940662"
+        stCamera:VignetteModelParam3="-58032.091666"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="1.78"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.248894"
+        stCamera:FocalLengthY="4.248894"
+        stCamera:RadialDistortParam1="0.593954"
+        stCamera:RadialDistortParam2="14.375063"
+        stCamera:RadialDistortParam3="-15.439727">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.248894"
+        stCamera:FocalLengthY="4.248894"
+        stCamera:VignetteModelParam1="-8.047892"
+        stCamera:VignetteModelParam2="247.792648"
+        stCamera:VignetteModelParam3="-3598.104063"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="1.78"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.248894"
+        stCamera:FocalLengthY="4.248894"
+        stCamera:RadialDistortParam1="0.593954"
+        stCamera:RadialDistortParam2="14.375063"
+        stCamera:RadialDistortParam3="-15.439727">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.248894"
+        stCamera:FocalLengthY="4.248894"
+        stCamera:VignetteModelParam1="-7.74714"
+        stCamera:VignetteModelParam2="170.989401"
+        stCamera:VignetteModelParam3="488.464648"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="3.98"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.533751"
+        stCamera:FocalLengthY="4.533751"
+        stCamera:RadialDistortParam1="0.769261"
+        stCamera:RadialDistortParam2="40.294924"
+        stCamera:RadialDistortParam3="-926.239547">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.533751"
+        stCamera:FocalLengthY="4.533751"
+        stCamera:VignetteModelParam1="-32.602538"
+        stCamera:VignetteModelParam2="1268.63142"
+        stCamera:VignetteModelParam3="-70137.92741"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="3.98"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.533751"
+        stCamera:FocalLengthY="4.533751"
+        stCamera:RadialDistortParam1="0.769261"
+        stCamera:RadialDistortParam2="40.294924"
+        stCamera:RadialDistortParam3="-926.239547">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.533751"
+        stCamera:FocalLengthY="4.533751"
+        stCamera:VignetteModelParam1="-14.557444"
+        stCamera:VignetteModelParam2="2183.812828"
+        stCamera:VignetteModelParam3="-139455.73157"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="3.98"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.533751"
+        stCamera:FocalLengthY="4.533751"
+        stCamera:RadialDistortParam1="0.769261"
+        stCamera:RadialDistortParam2="40.294924"
+        stCamera:RadialDistortParam3="-926.239547">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.533751"
+        stCamera:FocalLengthY="4.533751"
+        stCamera:VignetteModelParam1="-11.302871"
+        stCamera:VignetteModelParam2="1016.546071"
+        stCamera:VignetteModelParam3="-47453.758956"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="3.98"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.533751"
+        stCamera:FocalLengthY="4.533751"
+        stCamera:RadialDistortParam1="0.769261"
+        stCamera:RadialDistortParam2="40.294924"
+        stCamera:RadialDistortParam3="-926.239547">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.533751"
+        stCamera:FocalLengthY="4.533751"
+        stCamera:VignetteModelParam1="-8.533166"
+        stCamera:VignetteModelParam2="225.168846"
+        stCamera:VignetteModelParam3="-1096.042019"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="3.98"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.533751"
+        stCamera:FocalLengthY="4.533751"
+        stCamera:RadialDistortParam1="0.769261"
+        stCamera:RadialDistortParam2="40.294924"
+        stCamera:RadialDistortParam3="-926.239547">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.533751"
+        stCamera:FocalLengthY="4.533751"
+        stCamera:VignetteModelParam1="-8.383855"
+        stCamera:VignetteModelParam2="231.022838"
+        stCamera:VignetteModelParam3="-1800.75634"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.64192"
+        stCamera:FocalLengthY="4.64192"
+        stCamera:RadialDistortParam1="0.827289"
+        stCamera:RadialDistortParam2="49.37891"
+        stCamera:RadialDistortParam3="-1289.936767">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.64192"
+        stCamera:FocalLengthY="4.64192"
+        stCamera:VignetteModelParam1="-36.983069"
+        stCamera:VignetteModelParam2="2032.617787"
+        stCamera:VignetteModelParam3="-104149.897994"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.64192"
+        stCamera:FocalLengthY="4.64192"
+        stCamera:RadialDistortParam1="0.827289"
+        stCamera:RadialDistortParam2="49.37891"
+        stCamera:RadialDistortParam3="-1289.936767">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.64192"
+        stCamera:FocalLengthY="4.64192"
+        stCamera:VignetteModelParam1="-15.936375"
+        stCamera:VignetteModelParam2="2470.010286"
+        stCamera:VignetteModelParam3="-152932.901939"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.64192"
+        stCamera:FocalLengthY="4.64192"
+        stCamera:RadialDistortParam1="0.827289"
+        stCamera:RadialDistortParam2="49.37891"
+        stCamera:RadialDistortParam3="-1289.936767">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.64192"
+        stCamera:FocalLengthY="4.64192"
+        stCamera:VignetteModelParam1="-10.281643"
+        stCamera:VignetteModelParam2="586.406589"
+        stCamera:VignetteModelParam3="-20895.92212"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.64192"
+        stCamera:FocalLengthY="4.64192"
+        stCamera:RadialDistortParam1="0.827289"
+        stCamera:RadialDistortParam2="49.37891"
+        stCamera:RadialDistortParam3="-1289.936767">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.64192"
+        stCamera:FocalLengthY="4.64192"
+        stCamera:VignetteModelParam1="-9.203689"
+        stCamera:VignetteModelParam2="245.240379"
+        stCamera:VignetteModelParam3="219.628313"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.64192"
+        stCamera:FocalLengthY="4.64192"
+        stCamera:RadialDistortParam1="0.827289"
+        stCamera:RadialDistortParam2="49.37891"
+        stCamera:RadialDistortParam3="-1289.936767">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.64192"
+        stCamera:FocalLengthY="4.64192"
+        stCamera:VignetteModelParam1="-9.357948"
+        stCamera:VignetteModelParam2="299.103715"
+        stCamera:VignetteModelParam3="-2622.753466"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.040046"
+        stCamera:FocalLengthY="6.040046"
+        stCamera:RadialDistortParam1="2.084929"
+        stCamera:RadialDistortParam2="49.226325"
+        stCamera:RadialDistortParam3="0.324464">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.040046"
+        stCamera:FocalLengthY="6.040046"
+        stCamera:VignetteModelParam1="-91.244438"
+        stCamera:VignetteModelParam2="-1272.139801"
+        stCamera:VignetteModelParam3="291317.161405"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.040046"
+        stCamera:FocalLengthY="6.040046"
+        stCamera:RadialDistortParam1="2.084929"
+        stCamera:RadialDistortParam2="49.226325"
+        stCamera:RadialDistortParam3="0.324464">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.040046"
+        stCamera:FocalLengthY="6.040046"
+        stCamera:VignetteModelParam1="10.102786"
+        stCamera:VignetteModelParam2="-14576.440513"
+        stCamera:VignetteModelParam3="792971.537344"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.040046"
+        stCamera:FocalLengthY="6.040046"
+        stCamera:RadialDistortParam1="2.084929"
+        stCamera:RadialDistortParam2="49.226325"
+        stCamera:RadialDistortParam3="0.324464">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.040046"
+        stCamera:FocalLengthY="6.040046"
+        stCamera:VignetteModelParam1="2.194581"
+        stCamera:VignetteModelParam2="-4797.304086"
+        stCamera:VignetteModelParam3="-53875.437827"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.040046"
+        stCamera:FocalLengthY="6.040046"
+        stCamera:RadialDistortParam1="2.084929"
+        stCamera:RadialDistortParam2="49.226325"
+        stCamera:RadialDistortParam3="0.324464">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.040046"
+        stCamera:FocalLengthY="6.040046"
+        stCamera:VignetteModelParam1="-23.163213"
+        stCamera:VignetteModelParam2="6972.029867"
+        stCamera:VignetteModelParam3="-963361.18651"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.040046"
+        stCamera:FocalLengthY="6.040046"
+        stCamera:RadialDistortParam1="2.084929"
+        stCamera:RadialDistortParam2="49.226325"
+        stCamera:RadialDistortParam3="0.324464">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.040046"
+        stCamera:FocalLengthY="6.040046"
+        stCamera:VignetteModelParam1="-29.49109"
+        stCamera:VignetteModelParam2="8058.395518"
+        stCamera:VignetteModelParam3="-774637.036961"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.78"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.873411"
+        stCamera:FocalLengthY="10.873411"
+        stCamera:RadialDistortParam1="5.969502"
+        stCamera:RadialDistortParam2="483.005976"
+        stCamera:RadialDistortParam3="1.431265">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.873411"
+        stCamera:FocalLengthY="10.873411"
+        stCamera:VignetteModelParam1="-170.888309"
+        stCamera:VignetteModelParam2="-56500.18413"
+        stCamera:VignetteModelParam3="14441390.120138"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.78"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.873411"
+        stCamera:FocalLengthY="10.873411"
+        stCamera:RadialDistortParam1="5.969502"
+        stCamera:RadialDistortParam2="483.005976"
+        stCamera:RadialDistortParam3="1.431265">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.873411"
+        stCamera:FocalLengthY="10.873411"
+        stCamera:VignetteModelParam1="3.772759"
+        stCamera:VignetteModelParam2="-58390.291306"
+        stCamera:VignetteModelParam3="4395373.869321"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.78"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.873411"
+        stCamera:FocalLengthY="10.873411"
+        stCamera:RadialDistortParam1="5.969502"
+        stCamera:RadialDistortParam2="483.005976"
+        stCamera:RadialDistortParam3="1.431265">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.873411"
+        stCamera:FocalLengthY="10.873411"
+        stCamera:VignetteModelParam1="-85.350116"
+        stCamera:VignetteModelParam2="70010.204987"
+        stCamera:VignetteModelParam3="-24488478.538125"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.78"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.873411"
+        stCamera:FocalLengthY="10.873411"
+        stCamera:RadialDistortParam1="5.969502"
+        stCamera:RadialDistortParam2="483.005976"
+        stCamera:RadialDistortParam3="1.431265">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.873411"
+        stCamera:FocalLengthY="10.873411"
+        stCamera:VignetteModelParam1="-70.235563"
+        stCamera:VignetteModelParam2="40598.904217"
+        stCamera:VignetteModelParam3="-11216407.07602"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.78"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.873411"
+        stCamera:FocalLengthY="10.873411"
+        stCamera:RadialDistortParam1="5.969502"
+        stCamera:RadialDistortParam2="483.005976"
+        stCamera:RadialDistortParam3="1.431265">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.873411"
+        stCamera:FocalLengthY="10.873411"
+        stCamera:VignetteModelParam1="-49.847993"
+        stCamera:VignetteModelParam2="7253.170645"
+        stCamera:VignetteModelParam3="100780.996272"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="3.98"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="8.561901"
+        stCamera:FocalLengthY="8.561901"
+        stCamera:RadialDistortParam1="3.055582"
+        stCamera:RadialDistortParam2="305.996694"
+        stCamera:RadialDistortParam3="1.19462">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="8.561901"
+        stCamera:FocalLengthY="8.561901"
+        stCamera:VignetteModelParam1="-97.232948"
+        stCamera:VignetteModelParam2="-16362.779881"
+        stCamera:VignetteModelParam3="2393534.742228"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="3.98"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="8.561901"
+        stCamera:FocalLengthY="8.561901"
+        stCamera:RadialDistortParam1="3.055582"
+        stCamera:RadialDistortParam2="305.996694"
+        stCamera:RadialDistortParam3="1.19462">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="8.561901"
+        stCamera:FocalLengthY="8.561901"
+        stCamera:VignetteModelParam1="-19.384589"
+        stCamera:VignetteModelParam2="-1112.463889"
+        stCamera:VignetteModelParam3="-2008081.512304"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="3.98"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="8.561901"
+        stCamera:FocalLengthY="8.561901"
+        stCamera:RadialDistortParam1="3.055582"
+        stCamera:RadialDistortParam2="305.996694"
+        stCamera:RadialDistortParam3="1.19462">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="8.561901"
+        stCamera:FocalLengthY="8.561901"
+        stCamera:VignetteModelParam1="-50.91183"
+        stCamera:VignetteModelParam2="23582.239481"
+        stCamera:VignetteModelParam3="-4485089.858274"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="3.98"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="8.561901"
+        stCamera:FocalLengthY="8.561901"
+        stCamera:RadialDistortParam1="3.055582"
+        stCamera:RadialDistortParam2="305.996694"
+        stCamera:RadialDistortParam3="1.19462">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="8.561901"
+        stCamera:FocalLengthY="8.561901"
+        stCamera:VignetteModelParam1="-31.28889"
+        stCamera:VignetteModelParam2="4844.680535"
+        stCamera:VignetteModelParam3="-498775.399361"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="3.98"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="8.561901"
+        stCamera:FocalLengthY="8.561901"
+        stCamera:RadialDistortParam1="3.055582"
+        stCamera:RadialDistortParam2="305.996694"
+        stCamera:RadialDistortParam3="1.19462">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="8.561901"
+        stCamera:FocalLengthY="8.561901"
+        stCamera:VignetteModelParam1="-32.282245"
+        stCamera:VignetteModelParam2="4292.929097"
+        stCamera:VignetteModelParam3="-266640.995474"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="7.684143"
+        stCamera:FocalLengthY="7.684143"
+        stCamera:RadialDistortParam1="2.300713"
+        stCamera:RadialDistortParam2="222.612526"
+        stCamera:RadialDistortParam3="0.761906">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="7.684143"
+        stCamera:FocalLengthY="7.684143"
+        stCamera:VignetteModelParam1="-71.547482"
+        stCamera:VignetteModelParam2="-8444.433272"
+        stCamera:VignetteModelParam3="806526.307489"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="7.684143"
+        stCamera:FocalLengthY="7.684143"
+        stCamera:RadialDistortParam1="2.300713"
+        stCamera:RadialDistortParam2="222.612526"
+        stCamera:RadialDistortParam3="0.761906">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="7.684143"
+        stCamera:FocalLengthY="7.684143"
+        stCamera:VignetteModelParam1="-20.344053"
+        stCamera:VignetteModelParam2="3333.757034"
+        stCamera:VignetteModelParam3="-1598680.087628"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="7.684143"
+        stCamera:FocalLengthY="7.684143"
+        stCamera:RadialDistortParam1="2.300713"
+        stCamera:RadialDistortParam2="222.612526"
+        stCamera:RadialDistortParam3="0.761906">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="7.684143"
+        stCamera:FocalLengthY="7.684143"
+        stCamera:VignetteModelParam1="-35.002044"
+        stCamera:VignetteModelParam2="11090.835657"
+        stCamera:VignetteModelParam3="-1626797.895168"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="7.684143"
+        stCamera:FocalLengthY="7.684143"
+        stCamera:RadialDistortParam1="2.300713"
+        stCamera:RadialDistortParam2="222.612526"
+        stCamera:RadialDistortParam3="0.761906">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="7.684143"
+        stCamera:FocalLengthY="7.684143"
+        stCamera:VignetteModelParam1="-24.669266"
+        stCamera:VignetteModelParam2="1974.738668"
+        stCamera:VignetteModelParam3="-39892.101239"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="7.684143"
+        stCamera:FocalLengthY="7.684143"
+        stCamera:RadialDistortParam1="2.300713"
+        stCamera:RadialDistortParam2="222.612526"
+        stCamera:RadialDistortParam3="0.761906">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="7.684143"
+        stCamera:FocalLengthY="7.684143"
+        stCamera:VignetteModelParam1="-24.051459"
+        stCamera:VignetteModelParam2="1961.613933"
+        stCamera:VignetteModelParam3="-48259.754052"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.778643"
+        stCamera:FocalLengthY="10.778643"
+        stCamera:RadialDistortParam1="9.696353"
+        stCamera:RadialDistortParam2="115.733927"
+        stCamera:RadialDistortParam3="-6.017884">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.778643"
+        stCamera:FocalLengthY="10.778643"
+        stCamera:VignetteModelParam1="-566.947862"
+        stCamera:VignetteModelParam2="205917.450471"
+        stCamera:VignetteModelParam3="-30585196.407989"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.778643"
+        stCamera:FocalLengthY="10.778643"
+        stCamera:RadialDistortParam1="9.696353"
+        stCamera:RadialDistortParam2="115.733927"
+        stCamera:RadialDistortParam3="-6.017884">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.778643"
+        stCamera:FocalLengthY="10.778643"
+        stCamera:VignetteModelParam1="-171.893339"
+        stCamera:VignetteModelParam2="-17284.541306"
+        stCamera:VignetteModelParam3="5567542.507115"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.778643"
+        stCamera:FocalLengthY="10.778643"
+        stCamera:RadialDistortParam1="9.696353"
+        stCamera:RadialDistortParam2="115.733927"
+        stCamera:RadialDistortParam3="-6.017884">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.778643"
+        stCamera:FocalLengthY="10.778643"
+        stCamera:VignetteModelParam1="26.398884"
+        stCamera:VignetteModelParam2="-105167.05913"
+        stCamera:VignetteModelParam3="17872645.543543"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.778643"
+        stCamera:FocalLengthY="10.778643"
+        stCamera:RadialDistortParam1="9.696353"
+        stCamera:RadialDistortParam2="115.733927"
+        stCamera:RadialDistortParam3="-6.017884">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.778643"
+        stCamera:FocalLengthY="10.778643"
+        stCamera:VignetteModelParam1="-45.608328"
+        stCamera:VignetteModelParam2="23610.205429"
+        stCamera:VignetteModelParam3="-14530193.746578"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.778643"
+        stCamera:FocalLengthY="10.778643"
+        stCamera:RadialDistortParam1="9.696353"
+        stCamera:RadialDistortParam2="115.733927"
+        stCamera:RadialDistortParam3="-6.017884">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.778643"
+        stCamera:FocalLengthY="10.778643"
+        stCamera:VignetteModelParam1="-49.756081"
+        stCamera:VignetteModelParam2="11828.160789"
+        stCamera:VignetteModelParam3="-1726062.475138"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="1.78"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="12.090524"
+        stCamera:FocalLengthY="12.090524"
+        stCamera:RadialDistortParam1="11.741152"
+        stCamera:RadialDistortParam2="575.865684"
+        stCamera:RadialDistortParam3="-0.009929">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="12.090524"
+        stCamera:FocalLengthY="12.090524"
+        stCamera:VignetteModelParam1="-707.646347"
+        stCamera:VignetteModelParam2="337285.28736"
+        stCamera:VignetteModelParam3="-64217391.849798"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="1.78"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="12.090524"
+        stCamera:FocalLengthY="12.090524"
+        stCamera:RadialDistortParam1="11.741152"
+        stCamera:RadialDistortParam2="575.865684"
+        stCamera:RadialDistortParam3="-0.009929">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="12.090524"
+        stCamera:FocalLengthY="12.090524"
+        stCamera:VignetteModelParam1="-56.708093"
+        stCamera:VignetteModelParam2="-116612.166217"
+        stCamera:VignetteModelParam3="27838591.297248"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="1.78"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="12.090524"
+        stCamera:FocalLengthY="12.090524"
+        stCamera:RadialDistortParam1="11.741152"
+        stCamera:RadialDistortParam2="575.865684"
+        stCamera:RadialDistortParam3="-0.009929">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="12.090524"
+        stCamera:FocalLengthY="12.090524"
+        stCamera:VignetteModelParam1="-39.079735"
+        stCamera:VignetteModelParam2="-10297.345651"
+        stCamera:VignetteModelParam3="-8633118.711178"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="1.78"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="12.090524"
+        stCamera:FocalLengthY="12.090524"
+        stCamera:RadialDistortParam1="11.741152"
+        stCamera:RadialDistortParam2="575.865684"
+        stCamera:RadialDistortParam3="-0.009929">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="12.090524"
+        stCamera:FocalLengthY="12.090524"
+        stCamera:VignetteModelParam1="-85.912539"
+        stCamera:VignetteModelParam2="67701.75603"
+        stCamera:VignetteModelParam3="-25007310.628362"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="1.78"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="12.090524"
+        stCamera:FocalLengthY="12.090524"
+        stCamera:RadialDistortParam1="11.741152"
+        stCamera:RadialDistortParam2="575.865684"
+        stCamera:RadialDistortParam3="-0.009929">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="12.090524"
+        stCamera:FocalLengthY="12.090524"
+        stCamera:VignetteModelParam1="-62.591261"
+        stCamera:VignetteModelParam2="14962.985405"
+        stCamera:VignetteModelParam3="-1327548.474053"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="3.98"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.717139"
+        stCamera:FocalLengthY="10.717139"
+        stCamera:RadialDistortParam1="7.94078"
+        stCamera:RadialDistortParam2="459.377017"
+        stCamera:RadialDistortParam3="0.063277">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.717139"
+        stCamera:FocalLengthY="10.717139"
+        stCamera:VignetteModelParam1="-475.891265"
+        stCamera:VignetteModelParam2="158893.754062"
+        stCamera:VignetteModelParam3="-22698759.766156"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="3.98"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.717139"
+        stCamera:FocalLengthY="10.717139"
+        stCamera:RadialDistortParam1="7.94078"
+        stCamera:RadialDistortParam2="459.377017"
+        stCamera:RadialDistortParam3="0.063277">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.717139"
+        stCamera:FocalLengthY="10.717139"
+        stCamera:VignetteModelParam1="-19.252411"
+        stCamera:VignetteModelParam2="-74136.478221"
+        stCamera:VignetteModelParam3="13111172.786033"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="3.98"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.717139"
+        stCamera:FocalLengthY="10.717139"
+        stCamera:RadialDistortParam1="7.94078"
+        stCamera:RadialDistortParam2="459.377017"
+        stCamera:RadialDistortParam3="0.063277">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.717139"
+        stCamera:FocalLengthY="10.717139"
+        stCamera:VignetteModelParam1="-51.223882"
+        stCamera:VignetteModelParam2="24434.603752"
+        stCamera:VignetteModelParam3="-10515868.598537"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="3.98"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.717139"
+        stCamera:FocalLengthY="10.717139"
+        stCamera:RadialDistortParam1="7.94078"
+        stCamera:RadialDistortParam2="459.377017"
+        stCamera:RadialDistortParam3="0.063277">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.717139"
+        stCamera:FocalLengthY="10.717139"
+        stCamera:VignetteModelParam1="-53.902366"
+        stCamera:VignetteModelParam2="18100.769271"
+        stCamera:VignetteModelParam3="-3761798.305202"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="3.98"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.717139"
+        stCamera:FocalLengthY="10.717139"
+        stCamera:RadialDistortParam1="7.94078"
+        stCamera:RadialDistortParam2="459.377017"
+        stCamera:RadialDistortParam3="0.063277">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.717139"
+        stCamera:FocalLengthY="10.717139"
+        stCamera:VignetteModelParam1="-47.218083"
+        stCamera:VignetteModelParam2="7164.126353"
+        stCamera:VignetteModelParam3="-174259.312858"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.048201"
+        stCamera:FocalLengthY="10.048201"
+        stCamera:RadialDistortParam1="6.68754"
+        stCamera:RadialDistortParam2="375.801534"
+        stCamera:RadialDistortParam3="0.054982">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.048201"
+        stCamera:FocalLengthY="10.048201"
+        stCamera:VignetteModelParam1="-356.422877"
+        stCamera:VignetteModelParam2="91373.384424"
+        stCamera:VignetteModelParam3="-10897158.006005"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.048201"
+        stCamera:FocalLengthY="10.048201"
+        stCamera:RadialDistortParam1="6.68754"
+        stCamera:RadialDistortParam2="375.801534"
+        stCamera:RadialDistortParam3="0.054982">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.048201"
+        stCamera:FocalLengthY="10.048201"
+        stCamera:VignetteModelParam1="-2.951052"
+        stCamera:VignetteModelParam2="-50673.532603"
+        stCamera:VignetteModelParam3="7097323.11471"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.048201"
+        stCamera:FocalLengthY="10.048201"
+        stCamera:RadialDistortParam1="6.68754"
+        stCamera:RadialDistortParam2="375.801534"
+        stCamera:RadialDistortParam3="0.054982">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.048201"
+        stCamera:FocalLengthY="10.048201"
+        stCamera:VignetteModelParam1="-58.591628"
+        stCamera:VignetteModelParam2="31525.372271"
+        stCamera:VignetteModelParam3="-8555235.342376"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.048201"
+        stCamera:FocalLengthY="10.048201"
+        stCamera:RadialDistortParam1="6.68754"
+        stCamera:RadialDistortParam2="375.801534"
+        stCamera:RadialDistortParam3="0.054982">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.048201"
+        stCamera:FocalLengthY="10.048201"
+        stCamera:VignetteModelParam1="-41.276416"
+        stCamera:VignetteModelParam2="6056.862106"
+        stCamera:VignetteModelParam3="-355679.611707"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="10.048201"
+        stCamera:FocalLengthY="10.048201"
+        stCamera:RadialDistortParam1="6.68754"
+        stCamera:RadialDistortParam2="375.801534"
+        stCamera:RadialDistortParam3="0.054982">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="10.048201"
+        stCamera:FocalLengthY="10.048201"
+        stCamera:VignetteModelParam1="-41.295941"
+        stCamera:VignetteModelParam2="5648.588402"
+        stCamera:VignetteModelParam3="-161988.339407"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.705307"
+        stCamera:FocalLengthY="2.705307"
+        stCamera:RadialDistortParam1="-0.075586"
+        stCamera:RadialDistortParam2="0.845198"
+        stCamera:RadialDistortParam3="9.354226">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.705307"
+        stCamera:FocalLengthY="2.705307"
+        stCamera:VignetteModelParam1="-14.098912"
+        stCamera:VignetteModelParam2="222.230913"
+        stCamera:VignetteModelParam3="-3117.18574"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.705307"
+        stCamera:FocalLengthY="2.705307"
+        stCamera:RadialDistortParam1="-0.075586"
+        stCamera:RadialDistortParam2="0.845198"
+        stCamera:RadialDistortParam3="9.354226">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.705307"
+        stCamera:FocalLengthY="2.705307"
+        stCamera:VignetteModelParam1="-5.249922"
+        stCamera:VignetteModelParam2="279.724076"
+        stCamera:VignetteModelParam3="-5218.806932"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.705307"
+        stCamera:FocalLengthY="2.705307"
+        stCamera:RadialDistortParam1="-0.075586"
+        stCamera:RadialDistortParam2="0.845198"
+        stCamera:RadialDistortParam3="9.354226">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.705307"
+        stCamera:FocalLengthY="2.705307"
+        stCamera:VignetteModelParam1="-4.178071"
+        stCamera:VignetteModelParam2="117.597513"
+        stCamera:VignetteModelParam3="-1651.941834"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.705307"
+        stCamera:FocalLengthY="2.705307"
+        stCamera:RadialDistortParam1="-0.075586"
+        stCamera:RadialDistortParam2="0.845198"
+        stCamera:RadialDistortParam3="9.354226">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.705307"
+        stCamera:FocalLengthY="2.705307"
+        stCamera:VignetteModelParam1="-3.239671"
+        stCamera:VignetteModelParam2="34.039888"
+        stCamera:VignetteModelParam3="11.116223"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.705307"
+        stCamera:FocalLengthY="2.705307"
+        stCamera:RadialDistortParam1="-0.075586"
+        stCamera:RadialDistortParam2="0.845198"
+        stCamera:RadialDistortParam3="9.354226">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.705307"
+        stCamera:FocalLengthY="2.705307"
+        stCamera:VignetteModelParam1="-3.860713"
+        stCamera:VignetteModelParam2="69.995457"
+        stCamera:VignetteModelParam3="-573.047904"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="1.78"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.725849"
+        stCamera:FocalLengthY="1.725849"
+        stCamera:RadialDistortParam1="-0.137945"
+        stCamera:RadialDistortParam2="-0.895483"
+        stCamera:RadialDistortParam3="5.888093">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.725849"
+        stCamera:FocalLengthY="1.725849"
+        stCamera:VignetteModelParam1="-5.660256"
+        stCamera:VignetteModelParam2="28.458066"
+        stCamera:VignetteModelParam3="-132.677607"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="1.78"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.725849"
+        stCamera:FocalLengthY="1.725849"
+        stCamera:RadialDistortParam1="-0.137945"
+        stCamera:RadialDistortParam2="-0.895483"
+        stCamera:RadialDistortParam3="5.888093">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.725849"
+        stCamera:FocalLengthY="1.725849"
+        stCamera:VignetteModelParam1="-1.731461"
+        stCamera:VignetteModelParam2="28.001161"
+        stCamera:VignetteModelParam3="-256.122046"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="1.78"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.725849"
+        stCamera:FocalLengthY="1.725849"
+        stCamera:RadialDistortParam1="-0.137945"
+        stCamera:RadialDistortParam2="-0.895483"
+        stCamera:RadialDistortParam3="5.888093">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.725849"
+        stCamera:FocalLengthY="1.725849"
+        stCamera:VignetteModelParam1="-1.154786"
+        stCamera:VignetteModelParam2="2.232169"
+        stCamera:VignetteModelParam3="12.997075"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="1.78"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.725849"
+        stCamera:FocalLengthY="1.725849"
+        stCamera:RadialDistortParam1="-0.137945"
+        stCamera:RadialDistortParam2="-0.895483"
+        stCamera:RadialDistortParam3="5.888093">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.725849"
+        stCamera:FocalLengthY="1.725849"
+        stCamera:VignetteModelParam1="-1.173448"
+        stCamera:VignetteModelParam2="2.307588"
+        stCamera:VignetteModelParam3="14.420913"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="1.78"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.725849"
+        stCamera:FocalLengthY="1.725849"
+        stCamera:RadialDistortParam1="-0.137945"
+        stCamera:RadialDistortParam2="-0.895483"
+        stCamera:RadialDistortParam3="5.888093">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.725849"
+        stCamera:FocalLengthY="1.725849"
+        stCamera:VignetteModelParam1="-1.217614"
+        stCamera:VignetteModelParam2="3.771778"
+        stCamera:VignetteModelParam3="4.546396"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="3.98"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.984289"
+        stCamera:FocalLengthY="1.984289"
+        stCamera:RadialDistortParam1="-0.234159"
+        stCamera:RadialDistortParam2="1.324508"
+        stCamera:RadialDistortParam3="-4.444581">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.984289"
+        stCamera:FocalLengthY="1.984289"
+        stCamera:VignetteModelParam1="-7.416304"
+        stCamera:VignetteModelParam2="47.810929"
+        stCamera:VignetteModelParam3="-290.936221"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="3.98"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.984289"
+        stCamera:FocalLengthY="1.984289"
+        stCamera:RadialDistortParam1="-0.234159"
+        stCamera:RadialDistortParam2="1.324508"
+        stCamera:RadialDistortParam3="-4.444581">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.984289"
+        stCamera:FocalLengthY="1.984289"
+        stCamera:VignetteModelParam1="-2.390762"
+        stCamera:VignetteModelParam2="50.158368"
+        stCamera:VignetteModelParam3="-591.398525"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="3.98"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.984289"
+        stCamera:FocalLengthY="1.984289"
+        stCamera:RadialDistortParam1="-0.234159"
+        stCamera:RadialDistortParam2="1.324508"
+        stCamera:RadialDistortParam3="-4.444581">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.984289"
+        stCamera:FocalLengthY="1.984289"
+        stCamera:VignetteModelParam1="-1.665532"
+        stCamera:VignetteModelParam2="5.19124"
+        stCamera:VignetteModelParam3="35.724602"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="3.98"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.984289"
+        stCamera:FocalLengthY="1.984289"
+        stCamera:RadialDistortParam1="-0.234159"
+        stCamera:RadialDistortParam2="1.324508"
+        stCamera:RadialDistortParam3="-4.444581">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.984289"
+        stCamera:FocalLengthY="1.984289"
+        stCamera:VignetteModelParam1="-1.61199"
+        stCamera:VignetteModelParam2="3.958984"
+        stCamera:VignetteModelParam3="44.217492"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="3.98"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.984289"
+        stCamera:FocalLengthY="1.984289"
+        stCamera:RadialDistortParam1="-0.234159"
+        stCamera:RadialDistortParam2="1.324508"
+        stCamera:RadialDistortParam3="-4.444581">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.984289"
+        stCamera:FocalLengthY="1.984289"
+        stCamera:VignetteModelParam1="-1.613833"
+        stCamera:VignetteModelParam2="5.992914"
+        stCamera:VignetteModelParam3="18.549357"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.082428"
+        stCamera:FocalLengthY="2.082428"
+        stCamera:RadialDistortParam1="-0.269137"
+        stCamera:RadialDistortParam2="2.297204"
+        stCamera:RadialDistortParam3="-10.688128">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.082428"
+        stCamera:FocalLengthY="2.082428"
+        stCamera:VignetteModelParam1="-8.04803"
+        stCamera:VignetteModelParam2="54.30285"
+        stCamera:VignetteModelParam3="-358.858509"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.082428"
+        stCamera:FocalLengthY="2.082428"
+        stCamera:RadialDistortParam1="-0.269137"
+        stCamera:RadialDistortParam2="2.297204"
+        stCamera:RadialDistortParam3="-10.688128">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.082428"
+        stCamera:FocalLengthY="2.082428"
+        stCamera:VignetteModelParam1="-2.28038"
+        stCamera:VignetteModelParam2="48.03031"
+        stCamera:VignetteModelParam3="-716.358288"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.082428"
+        stCamera:FocalLengthY="2.082428"
+        stCamera:RadialDistortParam1="-0.269137"
+        stCamera:RadialDistortParam2="2.297204"
+        stCamera:RadialDistortParam3="-10.688128">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.082428"
+        stCamera:FocalLengthY="2.082428"
+        stCamera:VignetteModelParam1="-1.756621"
+        stCamera:VignetteModelParam2="3.251868"
+        stCamera:VignetteModelParam3="78.325097"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.082428"
+        stCamera:FocalLengthY="2.082428"
+        stCamera:RadialDistortParam1="-0.269137"
+        stCamera:RadialDistortParam2="2.297204"
+        stCamera:RadialDistortParam3="-10.688128">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.082428"
+        stCamera:FocalLengthY="2.082428"
+        stCamera:VignetteModelParam1="-1.695054"
+        stCamera:VignetteModelParam2="2.367217"
+        stCamera:VignetteModelParam3="79.636229"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.082428"
+        stCamera:FocalLengthY="2.082428"
+        stCamera:RadialDistortParam1="-0.269137"
+        stCamera:RadialDistortParam2="2.297204"
+        stCamera:RadialDistortParam3="-10.688128">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.082428"
+        stCamera:FocalLengthY="2.082428"
+        stCamera:VignetteModelParam1="-1.727002"
+        stCamera:VignetteModelParam2="4.59256"
+        stCamera:VignetteModelParam3="54.754123"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.242094"
+        stCamera:FocalLengthY="3.242094"
+        stCamera:RadialDistortParam1="0.109054"
+        stCamera:RadialDistortParam2="4.286416"
+        stCamera:RadialDistortParam3="9.774789">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.242094"
+        stCamera:FocalLengthY="3.242094"
+        stCamera:VignetteModelParam1="-15.558509"
+        stCamera:VignetteModelParam2="22.732719"
+        stCamera:VignetteModelParam3="-4062.054119"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.242094"
+        stCamera:FocalLengthY="3.242094"
+        stCamera:RadialDistortParam1="0.109054"
+        stCamera:RadialDistortParam2="4.286416"
+        stCamera:RadialDistortParam3="9.774789">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.242094"
+        stCamera:FocalLengthY="3.242094"
+        stCamera:VignetteModelParam1="-4.553098"
+        stCamera:VignetteModelParam2="279.333112"
+        stCamera:VignetteModelParam3="-16419.423217"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.242094"
+        stCamera:FocalLengthY="3.242094"
+        stCamera:RadialDistortParam1="0.109054"
+        stCamera:RadialDistortParam2="4.286416"
+        stCamera:RadialDistortParam3="9.774789">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.242094"
+        stCamera:FocalLengthY="3.242094"
+        stCamera:VignetteModelParam1="-10.297781"
+        stCamera:VignetteModelParam2="905.760862"
+        stCamera:VignetteModelParam3="-27151.352588"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.242094"
+        stCamera:FocalLengthY="3.242094"
+        stCamera:RadialDistortParam1="0.109054"
+        stCamera:RadialDistortParam2="4.286416"
+        stCamera:RadialDistortParam3="9.774789">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.242094"
+        stCamera:FocalLengthY="3.242094"
+        stCamera:VignetteModelParam1="-9.235712"
+        stCamera:VignetteModelParam2="693.493087"
+        stCamera:VignetteModelParam3="-18689.427155"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.242094"
+        stCamera:FocalLengthY="3.242094"
+        stCamera:RadialDistortParam1="0.109054"
+        stCamera:RadialDistortParam2="4.286416"
+        stCamera:RadialDistortParam3="9.774789">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.242094"
+        stCamera:FocalLengthY="3.242094"
+        stCamera:VignetteModelParam1="-4.86883"
+        stCamera:VignetteModelParam2="92.799854"
+        stCamera:VignetteModelParam3="-777.822024"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.78"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.10605"
+        stCamera:FocalLengthY="3.10605"
+        stCamera:RadialDistortParam1="-0.013462"
+        stCamera:RadialDistortParam2="-11.984797"
+        stCamera:RadialDistortParam3="292.713138">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.10605"
+        stCamera:FocalLengthY="3.10605"
+        stCamera:VignetteModelParam1="-17.885986"
+        stCamera:VignetteModelParam2="379.153831"
+        stCamera:VignetteModelParam3="-6365.035105"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.78"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.10605"
+        stCamera:FocalLengthY="3.10605"
+        stCamera:RadialDistortParam1="-0.013462"
+        stCamera:RadialDistortParam2="-11.984797"
+        stCamera:RadialDistortParam3="292.713138">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.10605"
+        stCamera:FocalLengthY="3.10605"
+        stCamera:VignetteModelParam1="-6.54984"
+        stCamera:VignetteModelParam2="375.978041"
+        stCamera:VignetteModelParam3="-9578.392875"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.78"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.10605"
+        stCamera:FocalLengthY="3.10605"
+        stCamera:RadialDistortParam1="-0.013462"
+        stCamera:RadialDistortParam2="-11.984797"
+        stCamera:RadialDistortParam3="292.713138">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.10605"
+        stCamera:FocalLengthY="3.10605"
+        stCamera:VignetteModelParam1="-3.741682"
+        stCamera:VignetteModelParam2="39.404963"
+        stCamera:VignetteModelParam3="-45.214611"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.78"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.10605"
+        stCamera:FocalLengthY="3.10605"
+        stCamera:RadialDistortParam1="-0.013462"
+        stCamera:RadialDistortParam2="-11.984797"
+        stCamera:RadialDistortParam3="292.713138">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.10605"
+        stCamera:FocalLengthY="3.10605"
+        stCamera:VignetteModelParam1="-3.968949"
+        stCamera:VignetteModelParam2="47.677104"
+        stCamera:VignetteModelParam3="-76.354602"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.78"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.10605"
+        stCamera:FocalLengthY="3.10605"
+        stCamera:RadialDistortParam1="-0.013462"
+        stCamera:RadialDistortParam2="-11.984797"
+        stCamera:RadialDistortParam3="292.713138">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.10605"
+        stCamera:FocalLengthY="3.10605"
+        stCamera:VignetteModelParam1="-4.201748"
+        stCamera:VignetteModelParam2="64.272174"
+        stCamera:VignetteModelParam3="-385.969699"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3.98"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.620513"
+        stCamera:FocalLengthY="1.620513"
+        stCamera:RadialDistortParam1="-0.114173"
+        stCamera:RadialDistortParam2="0.838839"
+        stCamera:RadialDistortParam3="-1.601113">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.620513"
+        stCamera:FocalLengthY="1.620513"
+        stCamera:VignetteModelParam1="-4.610838"
+        stCamera:VignetteModelParam2="20.986531"
+        stCamera:VignetteModelParam3="-80.72444"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3.98"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.620513"
+        stCamera:FocalLengthY="1.620513"
+        stCamera:RadialDistortParam1="-0.114173"
+        stCamera:RadialDistortParam2="0.838839"
+        stCamera:RadialDistortParam3="-1.601113">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.620513"
+        stCamera:FocalLengthY="1.620513"
+        stCamera:VignetteModelParam1="-1.556279"
+        stCamera:VignetteModelParam2="19.218601"
+        stCamera:VignetteModelParam3="-127.139117"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3.98"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.620513"
+        stCamera:FocalLengthY="1.620513"
+        stCamera:RadialDistortParam1="-0.114173"
+        stCamera:RadialDistortParam2="0.838839"
+        stCamera:RadialDistortParam3="-1.601113">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.620513"
+        stCamera:FocalLengthY="1.620513"
+        stCamera:VignetteModelParam1="-1.161685"
+        stCamera:VignetteModelParam2="2.845123"
+        stCamera:VignetteModelParam3="10.564266"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3.98"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.620513"
+        stCamera:FocalLengthY="1.620513"
+        stCamera:RadialDistortParam1="-0.114173"
+        stCamera:RadialDistortParam2="0.838839"
+        stCamera:RadialDistortParam3="-1.601113">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.620513"
+        stCamera:FocalLengthY="1.620513"
+        stCamera:VignetteModelParam1="-1.173343"
+        stCamera:VignetteModelParam2="3.431988"
+        stCamera:VignetteModelParam3="6.267602"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3.98"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.620513"
+        stCamera:FocalLengthY="1.620513"
+        stCamera:RadialDistortParam1="-0.114173"
+        stCamera:RadialDistortParam2="0.838839"
+        stCamera:RadialDistortParam3="-1.601113">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.620513"
+        stCamera:FocalLengthY="1.620513"
+        stCamera:VignetteModelParam1="-1.176771"
+        stCamera:VignetteModelParam2="4.020639"
+        stCamera:VignetteModelParam3="1.353754"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.056405"
+        stCamera:FocalLengthY="1.056405"
+        stCamera:RadialDistortParam1="-0.0749"
+        stCamera:RadialDistortParam2="0.326674"
+        stCamera:RadialDistortParam3="-0.446418">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.056405"
+        stCamera:FocalLengthY="1.056405"
+        stCamera:VignetteModelParam1="-1.972178"
+        stCamera:VignetteModelParam2="3.726511"
+        stCamera:VignetteModelParam3="-5.717525"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.056405"
+        stCamera:FocalLengthY="1.056405"
+        stCamera:RadialDistortParam1="-0.0749"
+        stCamera:RadialDistortParam2="0.326674"
+        stCamera:RadialDistortParam3="-0.446418">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.056405"
+        stCamera:FocalLengthY="1.056405"
+        stCamera:VignetteModelParam1="-0.630675"
+        stCamera:VignetteModelParam2="3.077132"
+        stCamera:VignetteModelParam3="-9.185929"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.056405"
+        stCamera:FocalLengthY="1.056405"
+        stCamera:RadialDistortParam1="-0.0749"
+        stCamera:RadialDistortParam2="0.326674"
+        stCamera:RadialDistortParam3="-0.446418">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.056405"
+        stCamera:FocalLengthY="1.056405"
+        stCamera:VignetteModelParam1="-0.472346"
+        stCamera:VignetteModelParam2="0.342683"
+        stCamera:VignetteModelParam3="1.224918"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.056405"
+        stCamera:FocalLengthY="1.056405"
+        stCamera:RadialDistortParam1="-0.0749"
+        stCamera:RadialDistortParam2="0.326674"
+        stCamera:RadialDistortParam3="-0.446418">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.056405"
+        stCamera:FocalLengthY="1.056405"
+        stCamera:VignetteModelParam1="-0.481833"
+        stCamera:VignetteModelParam2="0.51158"
+        stCamera:VignetteModelParam3="0.69128"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D700"
+       stCamera:UniqueCameraModel="Nikon D700"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="178"
+       stCamera:Lens="70.0-200.0 mm f/4.0"
+       stCamera:LensInfo="700/10 2000/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON D700"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 70-200mm f/4G ED VR"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 70-200mm f/4G ED VR)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.056405"
+        stCamera:FocalLengthY="1.056405"
+        stCamera:RadialDistortParam1="-0.0749"
+        stCamera:RadialDistortParam2="0.326674"
+        stCamera:RadialDistortParam3="-0.446418">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.056405"
+        stCamera:FocalLengthY="1.056405"
+        stCamera:VignetteModelParam1="-0.465991"
+        stCamera:VignetteModelParam2="0.507668"
+        stCamera:VignetteModelParam3="0.493392"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

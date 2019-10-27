@@ -1,0 +1,1100 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156380, 2014/05/21-23:38:37        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="OLYMPUS CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="SIGMA 30mm F1.4 DC DN | C 016"
+       stCamera:LensInfo="30/1 30/1 14/10 14/10"
+       stCamera:CameraPrettyName="OLYMPUS CORPORATION"
+       stCamera:LensPrettyName="SIGMA 30mm F1.4 DC DN C016"
+       stCamera:ProfileName="Adobe (SIGMA 30mm F1.4 DC DN C016, Olympus)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.17908"
+        stCamera:RadialDistortParam2="-0.200169"
+        stCamera:RadialDistortParam3="-0.391452">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.018444"
+         stCamera:VignetteModelParam1="-7.218988"
+         stCamera:VignetteModelParam2="40.119308"
+         stCamera:VignetteModelParam3="-117.564445">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.106789, 0.884600</rdf:li>
+          <rdf:li>0.230891, 0.728600</rdf:li>
+          <rdf:li>0.297626, 0.609500</rdf:li>
+          <rdf:li>0.384693, 0.412900</rdf:li>
+          <rdf:li>0.447510, 0.254000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="OLYMPUS CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="SIGMA 30mm F1.4 DC DN | C 016"
+       stCamera:LensInfo="30/1 30/1 14/10 14/10"
+       stCamera:CameraPrettyName="OLYMPUS CORPORATION"
+       stCamera:LensPrettyName="SIGMA 30mm F1.4 DC DN C016"
+       stCamera:ProfileName="Adobe (SIGMA 30mm F1.4 DC DN C016, Olympus)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.16482"
+        stCamera:RadialDistortParam2="-0.188454"
+        stCamera:RadialDistortParam3="-0.364318">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.01508"
+         stCamera:VignetteModelParam1="-6.789066"
+         stCamera:VignetteModelParam2="35.330139"
+         stCamera:VignetteModelParam3="-101.870148">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.034777, 0.978400</rdf:li>
+          <rdf:li>0.167107, 0.820200</rdf:li>
+          <rdf:li>0.241487, 0.721500</rdf:li>
+          <rdf:li>0.289091, 0.636900</rdf:li>
+          <rdf:li>0.342265, 0.524200</rdf:li>
+          <rdf:li>0.387193, 0.418400</rdf:li>
+          <rdf:li>0.449443, 0.262000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="OLYMPUS CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="SIGMA 30mm F1.4 DC DN | C 016"
+       stCamera:LensInfo="30/1 30/1 14/10 14/10"
+       stCamera:CameraPrettyName="OLYMPUS CORPORATION"
+       stCamera:LensPrettyName="SIGMA 30mm F1.4 DC DN C016"
+       stCamera:ProfileName="Adobe (SIGMA 30mm F1.4 DC DN C016, Olympus)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.133826"
+        stCamera:RadialDistortParam2="-0.164313"
+        stCamera:RadialDistortParam3="-0.302001">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.009701"
+         stCamera:VignetteModelParam1="-5.986698"
+         stCamera:VignetteModelParam2="26.999468"
+         stCamera:VignetteModelParam3="-75.199188">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.053946, 0.973500</rdf:li>
+          <rdf:li>0.120179, 0.900500</rdf:li>
+          <rdf:li>0.254640, 0.718700</rdf:li>
+          <rdf:li>0.289720, 0.657800</rdf:li>
+          <rdf:li>0.369591, 0.486500</rdf:li>
+          <rdf:li>0.453632, 0.280000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="OLYMPUS CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="SIGMA 30mm F1.4 DC DN | C 016"
+       stCamera:LensInfo="30/1 30/1 14/10 14/10"
+       stCamera:CameraPrettyName="OLYMPUS CORPORATION"
+       stCamera:LensPrettyName="SIGMA 30mm F1.4 DC DN C016"
+       stCamera:ProfileName="Adobe (SIGMA 30mm F1.4 DC DN C016, Olympus)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.098952"
+        stCamera:RadialDistortParam2="-0.138334"
+        stCamera:RadialDistortParam3="-0.230152">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.005647"
+         stCamera:VignetteModelParam1="-5.313922"
+         stCamera:VignetteModelParam2="20.827112"
+         stCamera:VignetteModelParam3="-55.726307">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.038591, 0.993000</rdf:li>
+          <rdf:li>0.111033, 0.930800</rdf:li>
+          <rdf:li>0.221400, 0.781500</rdf:li>
+          <rdf:li>0.302957, 0.655600</rdf:li>
+          <rdf:li>0.382149, 0.487800</rdf:li>
+          <rdf:li>0.458326, 0.304000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="OLYMPUS CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="SIGMA 30mm F1.4 DC DN | C 016"
+       stCamera:LensInfo="30/1 30/1 14/10 14/10"
+       stCamera:CameraPrettyName="OLYMPUS CORPORATION"
+       stCamera:LensPrettyName="SIGMA 30mm F1.4 DC DN C016"
+       stCamera:ProfileName="Adobe (SIGMA 30mm F1.4 DC DN C016, Olympus)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.43"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.059647"
+        stCamera:RadialDistortParam2="-0.110769"
+        stCamera:RadialDistortParam3="-0.14875">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.002456"
+         stCamera:VignetteModelParam1="-4.768687"
+         stCamera:VignetteModelParam2="16.093729"
+         stCamera:VignetteModelParam3="-39.761688">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.051994, 0.990400</rdf:li>
+          <rdf:li>0.132868, 0.921300</rdf:li>
+          <rdf:li>0.207201, 0.818900</rdf:li>
+          <rdf:li>0.325257, 0.633900</rdf:li>
+          <rdf:li>0.383835, 0.517400</rdf:li>
+          <rdf:li>0.463580, 0.334000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="OLYMPUS CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="SIGMA 30mm F1.4 DC DN | C 016"
+       stCamera:LensInfo="30/1 30/1 14/10 14/10"
+       stCamera:CameraPrettyName="OLYMPUS CORPORATION"
+       stCamera:LensPrettyName="SIGMA 30mm F1.4 DC DN C016"
+       stCamera:ProfileName="Adobe (SIGMA 30mm F1.4 DC DN C016, Olympus)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.33"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.010786"
+        stCamera:RadialDistortParam2="-0.077318"
+        stCamera:RadialDistortParam3="-0.054791">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003314"
+        stCamera:VignetteModelParam1="-4.165315"
+        stCamera:VignetteModelParam2="9.290504"
+        stCamera:VignetteModelParam3="-14.329929"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="OLYMPUS CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="SIGMA 30mm F1.4 DC DN | C 016"
+       stCamera:LensInfo="30/1 30/1 14/10 14/10"
+       stCamera:CameraPrettyName="OLYMPUS CORPORATION"
+       stCamera:LensPrettyName="SIGMA 30mm F1.4 DC DN C016"
+       stCamera:ProfileName="Adobe (SIGMA 30mm F1.4 DC DN C016, Olympus)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.3"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.01293"
+        stCamera:RadialDistortParam2="-0.061142"
+        stCamera:RadialDistortParam3="-0.013094">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003653"
+         stCamera:VignetteModelParam1="-3.813693"
+         stCamera:VignetteModelParam2="4.609827"
+         stCamera:VignetteModelParam3="1.980656">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.081362, 0.982300</rdf:li>
+          <rdf:li>0.150733, 0.922300</rdf:li>
+          <rdf:li>0.192139, 0.868000</rdf:li>
+          <rdf:li>0.440913, 0.450400</rdf:li>
+          <rdf:li>0.473175, 0.389000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="OLYMPUS CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="SIGMA 30mm F1.4 DC DN | C 016"
+       stCamera:LensInfo="30/1 30/1 14/10 14/10"
+       stCamera:CameraPrettyName="OLYMPUS CORPORATION"
+       stCamera:LensPrettyName="SIGMA 30mm F1.4 DC DN C016"
+       stCamera:ProfileName="Adobe (SIGMA 30mm F1.4 DC DN C016, Olympus)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.17908"
+        stCamera:RadialDistortParam2="-0.200169"
+        stCamera:RadialDistortParam3="-0.391452">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.005661"
+         stCamera:VignetteModelParam1="0.02336"
+         stCamera:VignetteModelParam2="-11.76492"
+         stCamera:VignetteModelParam3="-10.814561">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.232121, 0.967800</rdf:li>
+          <rdf:li>0.312553, 0.891800</rdf:li>
+          <rdf:li>0.351878, 0.800100</rdf:li>
+          <rdf:li>0.388239, 0.688900</rdf:li>
+          <rdf:li>0.419666, 0.576700</rdf:li>
+          <rdf:li>0.447510, 0.464000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="OLYMPUS CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="SIGMA 30mm F1.4 DC DN | C 016"
+       stCamera:LensInfo="30/1 30/1 14/10 14/10"
+       stCamera:CameraPrettyName="OLYMPUS CORPORATION"
+       stCamera:LensPrettyName="SIGMA 30mm F1.4 DC DN C016"
+       stCamera:ProfileName="Adobe (SIGMA 30mm F1.4 DC DN C016, Olympus)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.16482"
+        stCamera:RadialDistortParam2="-0.188454"
+        stCamera:RadialDistortParam3="-0.364318">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.005386"
+         stCamera:VignetteModelParam1="-0.086974"
+         stCamera:VignetteModelParam2="-9.717896"
+         stCamera:VignetteModelParam3="-15.547115">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.234554, 0.964900</rdf:li>
+          <rdf:li>0.316851, 0.888500</rdf:li>
+          <rdf:li>0.353704, 0.805700</rdf:li>
+          <rdf:li>0.391790, 0.690900</rdf:li>
+          <rdf:li>0.422921, 0.581700</rdf:li>
+          <rdf:li>0.449443, 0.476000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="OLYMPUS CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="SIGMA 30mm F1.4 DC DN | C 016"
+       stCamera:LensInfo="30/1 30/1 14/10 14/10"
+       stCamera:CameraPrettyName="OLYMPUS CORPORATION"
+       stCamera:LensPrettyName="SIGMA 30mm F1.4 DC DN C016"
+       stCamera:ProfileName="Adobe (SIGMA 30mm F1.4 DC DN C016, Olympus)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.133826"
+        stCamera:RadialDistortParam2="-0.164313"
+        stCamera:RadialDistortParam3="-0.302001">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.00479"
+         stCamera:VignetteModelParam1="-0.330296"
+         stCamera:VignetteModelParam2="-5.63502"
+         stCamera:VignetteModelParam3="-23.950232">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.120179, 0.989600</rdf:li>
+          <rdf:li>0.248250, 0.955500</rdf:li>
+          <rdf:li>0.325432, 0.883400</rdf:li>
+          <rdf:li>0.355821, 0.820800</rdf:li>
+          <rdf:li>0.393295, 0.716100</rdf:li>
+          <rdf:li>0.429323, 0.595600</rdf:li>
+          <rdf:li>0.453632, 0.503000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="OLYMPUS CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="SIGMA 30mm F1.4 DC DN | C 016"
+       stCamera:LensInfo="30/1 30/1 14/10 14/10"
+       stCamera:CameraPrettyName="OLYMPUS CORPORATION"
+       stCamera:LensPrettyName="SIGMA 30mm F1.4 DC DN C016"
+       stCamera:ProfileName="Adobe (SIGMA 30mm F1.4 DC DN C016, Olympus)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.098952"
+        stCamera:RadialDistortParam2="-0.138334"
+        stCamera:RadialDistortParam3="-0.230152">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003456"
+         stCamera:VignetteModelParam1="-0.577196"
+         stCamera:VignetteModelParam2="-2.108524"
+         stCamera:VignetteModelParam3="-28.8521">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.126566, 0.987300</rdf:li>
+          <rdf:li>0.253009, 0.948400</rdf:li>
+          <rdf:li>0.290784, 0.922800</rdf:li>
+          <rdf:li>0.338200, 0.869400</rdf:li>
+          <rdf:li>0.361104, 0.828800</rdf:li>
+          <rdf:li>0.396010, 0.739400</rdf:li>
+          <rdf:li>0.433827, 0.621600</rdf:li>
+          <rdf:li>0.458326, 0.535000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="OLYMPUS CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="SIGMA 30mm F1.4 DC DN | C 016"
+       stCamera:LensInfo="30/1 30/1 14/10 14/10"
+       stCamera:CameraPrettyName="OLYMPUS CORPORATION"
+       stCamera:LensPrettyName="SIGMA 30mm F1.4 DC DN C016"
+       stCamera:ProfileName="Adobe (SIGMA 30mm F1.4 DC DN C016, Olympus)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.43"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.059647"
+        stCamera:RadialDistortParam2="-0.110769"
+        stCamera:RadialDistortParam3="-0.14875">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.001902"
+         stCamera:VignetteModelParam1="-0.84478"
+         stCamera:VignetteModelParam2="0.945225"
+         stCamera:VignetteModelParam3="-30.589787">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.103245, 0.990300</rdf:li>
+          <rdf:li>0.229851, 0.952500</rdf:li>
+          <rdf:li>0.285852, 0.924500</rdf:li>
+          <rdf:li>0.340298, 0.867700</rdf:li>
+          <rdf:li>0.370535, 0.827000</rdf:li>
+          <rdf:li>0.394211, 0.775200</rdf:li>
+          <rdf:li>0.430398, 0.676400</rdf:li>
+          <rdf:li>0.463580, 0.571000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="OLYMPUS CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="SIGMA 30mm F1.4 DC DN | C 016"
+       stCamera:LensInfo="30/1 30/1 14/10 14/10"
+       stCamera:CameraPrettyName="OLYMPUS CORPORATION"
+       stCamera:LensPrettyName="SIGMA 30mm F1.4 DC DN C016"
+       stCamera:ProfileName="Adobe (SIGMA 30mm F1.4 DC DN C016, Olympus)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.33"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.010786"
+        stCamera:RadialDistortParam2="-0.077318"
+        stCamera:RadialDistortParam3="-0.054791">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001056"
+        stCamera:VignetteModelParam1="-1.054345"
+        stCamera:VignetteModelParam2="1.846684"
+        stCamera:VignetteModelParam3="-22.693836"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="OLYMPUS CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="SIGMA 30mm F1.4 DC DN | C 016"
+       stCamera:LensInfo="30/1 30/1 14/10 14/10"
+       stCamera:CameraPrettyName="OLYMPUS CORPORATION"
+       stCamera:LensPrettyName="SIGMA 30mm F1.4 DC DN C016"
+       stCamera:ProfileName="Adobe (SIGMA 30mm F1.4 DC DN C016, Olympus)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.3"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.01293"
+        stCamera:RadialDistortParam2="-0.061142"
+        stCamera:RadialDistortParam3="-0.013094">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001026"
+        stCamera:VignetteModelParam1="-1.068568"
+        stCamera:VignetteModelParam2="0.7702"
+        stCamera:VignetteModelParam3="-14.627978"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="OLYMPUS CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="SIGMA 30mm F1.4 DC DN | C 016"
+       stCamera:LensInfo="30/1 30/1 14/10 14/10"
+       stCamera:CameraPrettyName="OLYMPUS CORPORATION"
+       stCamera:LensPrettyName="SIGMA 30mm F1.4 DC DN C016"
+       stCamera:ProfileName="Adobe (SIGMA 30mm F1.4 DC DN C016, Olympus)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.17908"
+        stCamera:RadialDistortParam2="-0.200169"
+        stCamera:RadialDistortParam3="-0.391452">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.00671"
+         stCamera:VignetteModelParam1="-1.331744"
+         stCamera:VignetteModelParam2="16.76156"
+         stCamera:VignetteModelParam3="-84.567169">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.187121, 0.977200</rdf:li>
+          <rdf:li>0.384795, 0.912000</rdf:li>
+          <rdf:li>0.400186, 0.888200</rdf:li>
+          <rdf:li>0.415871, 0.843100</rdf:li>
+          <rdf:li>0.447510, 0.704000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="OLYMPUS CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="SIGMA 30mm F1.4 DC DN | C 016"
+       stCamera:LensInfo="30/1 30/1 14/10 14/10"
+       stCamera:CameraPrettyName="OLYMPUS CORPORATION"
+       stCamera:LensPrettyName="SIGMA 30mm F1.4 DC DN C016"
+       stCamera:ProfileName="Adobe (SIGMA 30mm F1.4 DC DN C016, Olympus)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.16482"
+        stCamera:RadialDistortParam2="-0.188454"
+        stCamera:RadialDistortParam3="-0.364318">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.006263"
+         stCamera:VignetteModelParam1="-1.299774"
+         stCamera:VignetteModelParam2="14.874054"
+         stCamera:VignetteModelParam3="-73.409607">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.194809, 0.974400</rdf:li>
+          <rdf:li>0.387910, 0.904900</rdf:li>
+          <rdf:li>0.403034, 0.885500</rdf:li>
+          <rdf:li>0.417207, 0.849600</rdf:li>
+          <rdf:li>0.449443, 0.715000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="OLYMPUS CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="SIGMA 30mm F1.4 DC DN | C 016"
+       stCamera:LensInfo="30/1 30/1 14/10 14/10"
+       stCamera:CameraPrettyName="OLYMPUS CORPORATION"
+       stCamera:LensPrettyName="SIGMA 30mm F1.4 DC DN C016"
+       stCamera:ProfileName="Adobe (SIGMA 30mm F1.4 DC DN C016, Olympus)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.133826"
+        stCamera:RadialDistortParam2="-0.164313"
+        stCamera:RadialDistortParam3="-0.302001">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.005087"
+         stCamera:VignetteModelParam1="-1.212601"
+         stCamera:VignetteModelParam2="10.601798"
+         stCamera:VignetteModelParam3="-49.774193">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.192891, 0.971700</rdf:li>
+          <rdf:li>0.399333, 0.887500</rdf:li>
+          <rdf:li>0.425993, 0.842500</rdf:li>
+          <rdf:li>0.453632, 0.738000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="OLYMPUS CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="SIGMA 30mm F1.4 DC DN | C 016"
+       stCamera:LensInfo="30/1 30/1 14/10 14/10"
+       stCamera:CameraPrettyName="OLYMPUS CORPORATION"
+       stCamera:LensPrettyName="SIGMA 30mm F1.4 DC DN C016"
+       stCamera:ProfileName="Adobe (SIGMA 30mm F1.4 DC DN C016, Olympus)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.098952"
+        stCamera:RadialDistortParam2="-0.138334"
+        stCamera:RadialDistortParam3="-0.230152">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003244"
+         stCamera:VignetteModelParam1="-1.102823"
+         stCamera:VignetteModelParam2="5.880194"
+         stCamera:VignetteModelParam3="-25.814573">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.190413, 0.969400</rdf:li>
+          <rdf:li>0.406569, 0.869500</rdf:li>
+          <rdf:li>0.434034, 0.837400</rdf:li>
+          <rdf:li>0.458326, 0.763000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="OLYMPUS CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="SIGMA 30mm F1.4 DC DN | C 016"
+       stCamera:LensInfo="30/1 30/1 14/10 14/10"
+       stCamera:CameraPrettyName="OLYMPUS CORPORATION"
+       stCamera:LensPrettyName="SIGMA 30mm F1.4 DC DN C016"
+       stCamera:ProfileName="Adobe (SIGMA 30mm F1.4 DC DN C016, Olympus)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.43"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.059647"
+        stCamera:RadialDistortParam2="-0.110769"
+        stCamera:RadialDistortParam3="-0.14875">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001216"
+        stCamera:VignetteModelParam1="-1.052908"
+        stCamera:VignetteModelParam2="2.306891"
+        stCamera:VignetteModelParam3="-8.173056"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="OLYMPUS CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="SIGMA 30mm F1.4 DC DN | C 016"
+       stCamera:LensInfo="30/1 30/1 14/10 14/10"
+       stCamera:CameraPrettyName="OLYMPUS CORPORATION"
+       stCamera:LensPrettyName="SIGMA 30mm F1.4 DC DN C016"
+       stCamera:ProfileName="Adobe (SIGMA 30mm F1.4 DC DN C016, Olympus)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.33"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.010786"
+        stCamera:RadialDistortParam2="-0.077318"
+        stCamera:RadialDistortParam3="-0.054791">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000257"
+        stCamera:VignetteModelParam1="-1.093329"
+        stCamera:VignetteModelParam2="0.627238"
+        stCamera:VignetteModelParam3="-0.674072"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="OLYMPUS CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="SIGMA 30mm F1.4 DC DN | C 016"
+       stCamera:LensInfo="30/1 30/1 14/10 14/10"
+       stCamera:CameraPrettyName="OLYMPUS CORPORATION"
+       stCamera:LensPrettyName="SIGMA 30mm F1.4 DC DN C016"
+       stCamera:ProfileName="Adobe (SIGMA 30mm F1.4 DC DN C016, Olympus)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.3"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.01293"
+        stCamera:RadialDistortParam2="-0.061142"
+        stCamera:RadialDistortParam3="-0.013094">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000235"
+        stCamera:VignetteModelParam1="-1.160339"
+        stCamera:VignetteModelParam2="0.711579"
+        stCamera:VignetteModelParam3="-0.794915"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="OLYMPUS CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="SIGMA 30mm F1.4 DC DN | C 016"
+       stCamera:LensInfo="30/1 30/1 14/10 14/10"
+       stCamera:CameraPrettyName="OLYMPUS CORPORATION"
+       stCamera:LensPrettyName="SIGMA 30mm F1.4 DC DN C016"
+       stCamera:ProfileName="Adobe (SIGMA 30mm F1.4 DC DN C016, Olympus)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.17908"
+        stCamera:RadialDistortParam2="-0.200169"
+        stCamera:RadialDistortParam3="-0.391452">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.001655"
+         stCamera:VignetteModelParam1="-0.779812"
+         stCamera:VignetteModelParam2="2.940616"
+         stCamera:VignetteModelParam3="-11.385">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.171016, 0.980800</rdf:li>
+          <rdf:li>0.322966, 0.936300</rdf:li>
+          <rdf:li>0.424207, 0.898000</rdf:li>
+          <rdf:li>0.447510, 0.849000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="OLYMPUS CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="SIGMA 30mm F1.4 DC DN | C 016"
+       stCamera:LensInfo="30/1 30/1 14/10 14/10"
+       stCamera:CameraPrettyName="OLYMPUS CORPORATION"
+       stCamera:LensPrettyName="SIGMA 30mm F1.4 DC DN C016"
+       stCamera:ProfileName="Adobe (SIGMA 30mm F1.4 DC DN C016, Olympus)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.16482"
+        stCamera:RadialDistortParam2="-0.188454"
+        stCamera:RadialDistortParam3="-0.364318">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001175"
+        stCamera:VignetteModelParam1="-0.783111"
+        stCamera:VignetteModelParam2="2.276951"
+        stCamera:VignetteModelParam3="-8.310137"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="OLYMPUS CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="SIGMA 30mm F1.4 DC DN | C 016"
+       stCamera:LensInfo="30/1 30/1 14/10 14/10"
+       stCamera:CameraPrettyName="OLYMPUS CORPORATION"
+       stCamera:LensPrettyName="SIGMA 30mm F1.4 DC DN C016"
+       stCamera:ProfileName="Adobe (SIGMA 30mm F1.4 DC DN C016, Olympus)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.133826"
+        stCamera:RadialDistortParam2="-0.164313"
+        stCamera:RadialDistortParam3="-0.302001">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000303"
+        stCamera:VignetteModelParam1="-0.81026"
+        stCamera:VignetteModelParam2="1.087766"
+        stCamera:VignetteModelParam3="-2.607461"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="OLYMPUS CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="SIGMA 30mm F1.4 DC DN | C 016"
+       stCamera:LensInfo="30/1 30/1 14/10 14/10"
+       stCamera:CameraPrettyName="OLYMPUS CORPORATION"
+       stCamera:LensPrettyName="SIGMA 30mm F1.4 DC DN C016"
+       stCamera:ProfileName="Adobe (SIGMA 30mm F1.4 DC DN C016, Olympus)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.098952"
+        stCamera:RadialDistortParam2="-0.138334"
+        stCamera:RadialDistortParam3="-0.230152">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000219"
+        stCamera:VignetteModelParam1="-0.888261"
+        stCamera:VignetteModelParam2="0.80155"
+        stCamera:VignetteModelParam3="-1.202885"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="OLYMPUS CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="SIGMA 30mm F1.4 DC DN | C 016"
+       stCamera:LensInfo="30/1 30/1 14/10 14/10"
+       stCamera:CameraPrettyName="OLYMPUS CORPORATION"
+       stCamera:LensPrettyName="SIGMA 30mm F1.4 DC DN C016"
+       stCamera:ProfileName="Adobe (SIGMA 30mm F1.4 DC DN C016, Olympus)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.43"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.059647"
+        stCamera:RadialDistortParam2="-0.110769"
+        stCamera:RadialDistortParam3="-0.14875">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00025"
+        stCamera:VignetteModelParam1="-0.989232"
+        stCamera:VignetteModelParam2="0.811277"
+        stCamera:VignetteModelParam3="-1.226173"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="OLYMPUS CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="SIGMA 30mm F1.4 DC DN | C 016"
+       stCamera:LensInfo="30/1 30/1 14/10 14/10"
+       stCamera:CameraPrettyName="OLYMPUS CORPORATION"
+       stCamera:LensPrettyName="SIGMA 30mm F1.4 DC DN C016"
+       stCamera:ProfileName="Adobe (SIGMA 30mm F1.4 DC DN C016, Olympus)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.33"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.010786"
+        stCamera:RadialDistortParam2="-0.077318"
+        stCamera:RadialDistortParam3="-0.054791">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000177"
+        stCamera:VignetteModelParam1="-1.115219"
+        stCamera:VignetteModelParam2="0.815641"
+        stCamera:VignetteModelParam3="-0.971603"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="OLYMPUS CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="SIGMA 30mm F1.4 DC DN | C 016"
+       stCamera:LensInfo="30/1 30/1 14/10 14/10"
+       stCamera:CameraPrettyName="OLYMPUS CORPORATION"
+       stCamera:LensPrettyName="SIGMA 30mm F1.4 DC DN C016"
+       stCamera:ProfileName="Adobe (SIGMA 30mm F1.4 DC DN C016, Olympus)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.3"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.01293"
+        stCamera:RadialDistortParam2="-0.061142"
+        stCamera:RadialDistortParam3="-0.013094">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000229"
+        stCamera:VignetteModelParam1="-1.180079"
+        stCamera:VignetteModelParam2="0.85038"
+        stCamera:VignetteModelParam3="-0.967597"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

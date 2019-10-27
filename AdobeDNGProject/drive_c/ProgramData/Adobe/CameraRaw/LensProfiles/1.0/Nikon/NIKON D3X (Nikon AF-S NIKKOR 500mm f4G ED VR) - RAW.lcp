@@ -1,0 +1,1036 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.2-c004 1.136881, 2010/06/10-18:11:35        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>151</stCamera:LensID>
+      <stCamera:Lens>500.0 mm f/4.0</stCamera:Lens>
+      <stCamera:LensInfo>5000/10 5000/10 40/10 40/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 500mm f/4G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 500mm f/4G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>500</stCamera:FocalLength>
+      <stCamera:FocusDistance>10.656221</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>13.181865</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>13.181865</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000036</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000021</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>3.251671</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>383.807383</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>968.270826</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>13.187963</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>13.187963</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000035</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.00002</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999831</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.101623</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-47.10585</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>9770.287089</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>13.187963</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>13.187963</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000032</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000019</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>3.260647</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>386.98888</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-4.185989</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>13.187963</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>13.187963</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000035</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000021</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999926</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.084574</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>9.918124</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>2584.995283</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>151</stCamera:LensID>
+      <stCamera:Lens>500.0 mm f/4.0</stCamera:Lens>
+      <stCamera:LensInfo>5000/10 5000/10 40/10 40/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 500mm f/4G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 500mm f/4G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>500</stCamera:FocalLength>
+      <stCamera:FocusDistance>45.743276</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>13.24737</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>13.24737</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000047</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.00003</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>4.946365</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>138.443172</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.19645</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>13.248089</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>13.248089</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000046</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000029</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999869</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.107222</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-58.299696</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>14451.500808</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>13.248089</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>13.248089</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000044</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000028</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>4.940269</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>142.231283</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.013424</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>13.248089</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>13.248089</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000046</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000029</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999934</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.089647</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>38.361915</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-11202.73846</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>151</stCamera:LensID>
+      <stCamera:Lens>500.0 mm f/4.0</stCamera:Lens>
+      <stCamera:LensInfo>5000/10 5000/10 40/10 40/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 500mm f/4G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 500mm f/4G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>500</stCamera:FocalLength>
+      <stCamera:FocusDistance>4.001472</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>17.01893</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>17.01893</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000098</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000051</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>5.426011</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>465.334262</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-244.674976</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>17.019165</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>17.019165</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000095</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000049</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999654</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.082681</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>58.832447</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-34873.329573</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>17.019165</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>17.019165</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000094</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000049</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>5.452871</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>456.028946</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.01764</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>17.019165</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>17.019165</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000096</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.00005</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000043</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.167435</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-11.332121</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>12705.601489</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>151</stCamera:LensID>
+      <stCamera:Lens>500.0 mm f/4.0</stCamera:Lens>
+      <stCamera:LensInfo>5000/10 5000/10 40/10 40/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 500mm f/4G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 500mm f/4G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>500</stCamera:FocalLength>
+      <stCamera:FocusDistance>3.98</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>17.019165</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>17.019165</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>5.452871</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>456.028946</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.01764</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>17.019165</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>17.019165</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-504.267109</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>89665.888578</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-9269643.084096</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>151</stCamera:LensID>
+      <stCamera:Lens>500.0 mm f/4.0</stCamera:Lens>
+      <stCamera:LensInfo>5000/10 5000/10 40/10 40/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 500mm f/4G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 500mm f/4G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>500</stCamera:FocalLength>
+      <stCamera:FocusDistance>3.98</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>17.019165</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>17.019165</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>5.452871</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>456.028946</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.01764</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>17.019165</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>17.019165</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-30.117857</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-276406.685093</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>93372154.222117</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>151</stCamera:LensID>
+      <stCamera:Lens>500.0 mm f/4.0</stCamera:Lens>
+      <stCamera:LensInfo>5000/10 5000/10 40/10 40/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 500mm f/4G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 500mm f/4G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>500</stCamera:FocalLength>
+      <stCamera:FocusDistance>3.98</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>17.019165</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>17.019165</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>5.452871</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>456.028946</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.01764</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>17.019165</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>17.019165</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-89.511948</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>194712.750075</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-171663161.117909</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>151</stCamera:LensID>
+      <stCamera:Lens>500.0 mm f/4.0</stCamera:Lens>
+      <stCamera:LensInfo>5000/10 5000/10 40/10 40/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 500mm f/4G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 500mm f/4G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>500</stCamera:FocalLength>
+      <stCamera:FocusDistance>3.98</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>17.019165</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>17.019165</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>5.452871</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>456.028946</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.01764</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>17.019165</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>17.019165</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-53.173692</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>42481.883906</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-28643108.075227</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>151</stCamera:LensID>
+      <stCamera:Lens>500.0 mm f/4.0</stCamera:Lens>
+      <stCamera:LensInfo>5000/10 5000/10 40/10 40/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 500mm f/4G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 500mm f/4G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>500</stCamera:FocalLength>
+      <stCamera:FocusDistance>3.98</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>17.019165</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>17.019165</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>5.452871</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>456.028946</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.01764</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>17.019165</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>17.019165</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-56.314359</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>46560.063049</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-28951638.488976</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>151</stCamera:LensID>
+      <stCamera:Lens>500.0 mm f/4.0</stCamera:Lens>
+      <stCamera:LensInfo>5000/10 5000/10 40/10 40/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 500mm f/4G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 500mm f/4G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>500</stCamera:FocalLength>
+      <stCamera:FocusDistance>7.94</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>13.976038</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>13.976038</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>3.664027</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>450.426848</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-5.134368</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>13.976038</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>13.976038</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-497.767685</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>184845.230141</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-41518016.926065</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>151</stCamera:LensID>
+      <stCamera:Lens>500.0 mm f/4.0</stCamera:Lens>
+      <stCamera:LensInfo>5000/10 5000/10 40/10 40/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 500mm f/4G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 500mm f/4G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>500</stCamera:FocalLength>
+      <stCamera:FocusDistance>7.94</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>13.976038</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>13.976038</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>3.664027</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>450.426848</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-5.134368</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>13.976038</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>13.976038</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-97.969301</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-62864.650333</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>3422942.554351</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>151</stCamera:LensID>
+      <stCamera:Lens>500.0 mm f/4.0</stCamera:Lens>
+      <stCamera:LensInfo>5000/10 5000/10 40/10 40/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 500mm f/4G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 500mm f/4G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>500</stCamera:FocalLength>
+      <stCamera:FocusDistance>7.94</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>13.976038</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>13.976038</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>3.664027</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>450.426848</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-5.134368</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>13.976038</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>13.976038</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-36.033434</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>43695.98046</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-42656499.899352</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>151</stCamera:LensID>
+      <stCamera:Lens>500.0 mm f/4.0</stCamera:Lens>
+      <stCamera:LensInfo>5000/10 5000/10 40/10 40/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 500mm f/4G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 500mm f/4G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>500</stCamera:FocalLength>
+      <stCamera:FocusDistance>7.94</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>13.976038</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>13.976038</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>3.664027</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>450.426848</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-5.134368</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>13.976038</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>13.976038</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-31.804829</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>17493.925318</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-8689868.313388</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>151</stCamera:LensID>
+      <stCamera:Lens>500.0 mm f/4.0</stCamera:Lens>
+      <stCamera:LensInfo>5000/10 5000/10 40/10 40/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 500mm f/4G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 500mm f/4G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>500</stCamera:FocalLength>
+      <stCamera:FocusDistance>7.94</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>13.976038</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>13.976038</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>3.664027</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>450.426848</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-5.134368</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>13.976038</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>13.976038</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-36.109495</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>20553.442601</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-8731157.074176</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>151</stCamera:LensID>
+      <stCamera:Lens>500.0 mm f/4.0</stCamera:Lens>
+      <stCamera:LensInfo>5000/10 5000/10 40/10 40/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 500mm f/4G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 500mm f/4G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>500</stCamera:FocalLength>
+      <stCamera:FocusDistance>15</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>13.210663</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>13.210663</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>4.281303</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>236.430378</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-1.618897</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>13.210663</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>13.210663</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-525.076726</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>222688.424715</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-50037360.951974</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>151</stCamera:LensID>
+      <stCamera:Lens>500.0 mm f/4.0</stCamera:Lens>
+      <stCamera:LensInfo>5000/10 5000/10 40/10 40/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 500mm f/4G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 500mm f/4G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>500</stCamera:FocalLength>
+      <stCamera:FocusDistance>15</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>13.210663</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>13.210663</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>4.281303</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>236.430378</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-1.618897</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>13.210663</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>13.210663</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-70.222409</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-73044.024463</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>9345586.834184</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>151</stCamera:LensID>
+      <stCamera:Lens>500.0 mm f/4.0</stCamera:Lens>
+      <stCamera:LensInfo>5000/10 5000/10 40/10 40/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 500mm f/4G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 500mm f/4G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>500</stCamera:FocalLength>
+      <stCamera:FocusDistance>15</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>13.210663</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>13.210663</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>4.281303</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>236.430378</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-1.618897</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>13.210663</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>13.210663</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-28.141226</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>28245.980857</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-29291426.350291</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>151</stCamera:LensID>
+      <stCamera:Lens>500.0 mm f/4.0</stCamera:Lens>
+      <stCamera:LensInfo>5000/10 5000/10 40/10 40/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 500mm f/4G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 500mm f/4G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>500</stCamera:FocalLength>
+      <stCamera:FocusDistance>15</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>13.210663</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>13.210663</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>4.281303</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>236.430378</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-1.618897</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>13.210663</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>13.210663</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-28.454352</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>14287.699268</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-6183251.7367</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>151</stCamera:LensID>
+      <stCamera:Lens>500.0 mm f/4.0</stCamera:Lens>
+      <stCamera:LensInfo>5000/10 5000/10 40/10 40/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 500mm f/4G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 500mm f/4G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>500</stCamera:FocalLength>
+      <stCamera:FocusDistance>15</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>13.210663</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>13.210663</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>4.281303</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>236.430378</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-1.618897</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>13.210663</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>13.210663</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-32.813896</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>17719.34338</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-6677017.555481</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>151</stCamera:LensID>
+      <stCamera:Lens>500.0 mm f/4.0</stCamera:Lens>
+      <stCamera:LensInfo>5000/10 5000/10 40/10 40/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 500mm f/4G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 500mm f/4G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>500</stCamera:FocalLength>
+      <stCamera:FocusDistance>29.9</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>13.238413</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>13.238413</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>4.795239</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>162.824678</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.346052</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>13.238413</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>13.238413</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-545.48862</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>238754.388623</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-53606718.513566</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>151</stCamera:LensID>
+      <stCamera:Lens>500.0 mm f/4.0</stCamera:Lens>
+      <stCamera:LensInfo>5000/10 5000/10 40/10 40/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 500mm f/4G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 500mm f/4G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>500</stCamera:FocalLength>
+      <stCamera:FocusDistance>29.9</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>13.238413</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>13.238413</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>4.795239</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>162.824678</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.346052</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>13.238413</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>13.238413</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-82.037647</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-63341.796584</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>5617717.242058</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>151</stCamera:LensID>
+      <stCamera:Lens>500.0 mm f/4.0</stCamera:Lens>
+      <stCamera:LensInfo>5000/10 5000/10 40/10 40/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 500mm f/4G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 500mm f/4G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>500</stCamera:FocalLength>
+      <stCamera:FocusDistance>29.9</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>13.238413</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>13.238413</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>4.795239</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>162.824678</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.346052</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>13.238413</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>13.238413</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-27.308479</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>25786.361344</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-29281920.612264</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>151</stCamera:LensID>
+      <stCamera:Lens>500.0 mm f/4.0</stCamera:Lens>
+      <stCamera:LensInfo>5000/10 5000/10 40/10 40/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 500mm f/4G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 500mm f/4G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>500</stCamera:FocalLength>
+      <stCamera:FocusDistance>29.9</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>13.238413</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>13.238413</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>4.795239</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>162.824678</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.346052</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>13.238413</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>13.238413</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-32.22688</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>19215.243863</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-8106780.43328</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>151</stCamera:LensID>
+      <stCamera:Lens>500.0 mm f/4.0</stCamera:Lens>
+      <stCamera:LensInfo>5000/10 5000/10 40/10 40/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 500mm f/4G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 500mm f/4G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>500</stCamera:FocalLength>
+      <stCamera:FocusDistance>29.9</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>13.238413</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>13.238413</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>4.795239</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>162.824678</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.346052</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>13.238413</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>13.238413</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-30.100555</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>15893.140807</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-6419490.161581</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>151</stCamera:LensID>
+      <stCamera:Lens>500.0 mm f/4.0</stCamera:Lens>
+      <stCamera:LensInfo>5000/10 5000/10 40/10 40/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 500mm f/4G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 500mm f/4G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>500</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>13.248089</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>13.248089</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>4.940269</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>142.231283</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.013424</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>13.248089</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>13.248089</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-594.481699</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>281369.579989</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-63692517.418027</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>151</stCamera:LensID>
+      <stCamera:Lens>500.0 mm f/4.0</stCamera:Lens>
+      <stCamera:LensInfo>5000/10 5000/10 40/10 40/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 500mm f/4G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 500mm f/4G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>500</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>13.248089</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>13.248089</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>4.940269</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>142.231283</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.013424</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>13.248089</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>13.248089</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>2.869346</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-144797.406113</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>32278134.433698</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>151</stCamera:LensID>
+      <stCamera:Lens>500.0 mm f/4.0</stCamera:Lens>
+      <stCamera:LensInfo>5000/10 5000/10 40/10 40/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 500mm f/4G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 500mm f/4G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>500</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>13.248089</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>13.248089</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>4.940269</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>142.231283</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.013424</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>13.248089</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>13.248089</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-42.969231</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>60088.923331</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-42235966.788201</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>151</stCamera:LensID>
+      <stCamera:Lens>500.0 mm f/4.0</stCamera:Lens>
+      <stCamera:LensInfo>5000/10 5000/10 40/10 40/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 500mm f/4G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 500mm f/4G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>500</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>13.248089</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>13.248089</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>4.940269</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>142.231283</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.013424</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>13.248089</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>13.248089</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-32.961385</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>22607.101931</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-9855148.843874</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>151</stCamera:LensID>
+      <stCamera:Lens>500.0 mm f/4.0</stCamera:Lens>
+      <stCamera:LensInfo>5000/10 5000/10 40/10 40/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 500mm f/4G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 500mm f/4G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>500</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>13.248089</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>13.248089</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>4.940269</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>142.231283</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.013424</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>13.248089</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>13.248089</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-32.053216</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>17968.386903</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-6914608.69441</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

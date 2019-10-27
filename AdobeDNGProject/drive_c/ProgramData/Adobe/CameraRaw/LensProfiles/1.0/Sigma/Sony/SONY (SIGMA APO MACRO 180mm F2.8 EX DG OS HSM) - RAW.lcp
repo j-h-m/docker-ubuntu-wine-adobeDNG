@@ -1,0 +1,2994 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.44335"
+        stCamera:RadialDistortParam2="-7.4559"
+        stCamera:RadialDistortParam3="-291.199188">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000129"
+        stCamera:RadialDistortParam1="0.017987"
+        stCamera:RadialDistortParam2="-1.720261"
+        stCamera:RadialDistortParam3="29.472412"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.44335"
+        stCamera:RadialDistortParam2="-7.4559"
+        stCamera:RadialDistortParam3="-291.199188"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999991"
+        stCamera:RadialDistortParam1="-0.018905"
+        stCamera:RadialDistortParam2="2.12845"
+        stCamera:RadialDistortParam3="-34.221115"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.00604"
+         stCamera:VignetteModelParam1="-95.424599"
+         stCamera:VignetteModelParam2="6861.314453"
+         stCamera:VignetteModelParam3="-239086.71875">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.019953, 0.956800</rdf:li>
+          <rdf:li>0.048308, 0.806900</rdf:li>
+          <rdf:li>0.095356, 0.518200</rdf:li>
+          <rdf:li>0.120644, 0.345000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.545184"
+        stCamera:RadialDistortParam2="-10.709682"
+        stCamera:RadialDistortParam3="-260.185455">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99986"
+        stCamera:RadialDistortParam1="0.007228"
+        stCamera:RadialDistortParam2="0.223513"
+        stCamera:RadialDistortParam3="-26.609211"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.545184"
+        stCamera:RadialDistortParam2="-10.709682"
+        stCamera:RadialDistortParam3="-260.185455"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999792"
+        stCamera:RadialDistortParam1="-0.000363"
+        stCamera:RadialDistortParam2="0.285024"
+        stCamera:RadialDistortParam3="6.212254"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001792"
+        stCamera:VignetteModelParam1="-7.113614"
+        stCamera:VignetteModelParam2="-2487.140381"
+        stCamera:VignetteModelParam3="91737.742188"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.55"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.612338"
+        stCamera:RadialDistortParam2="-10.821177"
+        stCamera:RadialDistortParam3="-254.505005">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999808"
+        stCamera:RadialDistortParam1="0.004724"
+        stCamera:RadialDistortParam2="0.505898"
+        stCamera:RadialDistortParam3="-37.678589"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.612338"
+        stCamera:RadialDistortParam2="-10.821177"
+        stCamera:RadialDistortParam3="-254.505005"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999765"
+        stCamera:RadialDistortParam1="-0.003792"
+        stCamera:RadialDistortParam2="1.09009"
+        stCamera:RadialDistortParam3="-30.292685"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002429"
+        stCamera:VignetteModelParam1="-6.745966"
+        stCamera:VignetteModelParam2="-2362.063721"
+        stCamera:VignetteModelParam3="84375.796875"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.734446"
+        stCamera:RadialDistortParam2="-11.13446"
+        stCamera:RadialDistortParam3="-247.204147">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99971"
+        stCamera:RadialDistortParam1="0.005535"
+        stCamera:RadialDistortParam2="0.173969"
+        stCamera:RadialDistortParam3="-27.912996"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.734446"
+        stCamera:RadialDistortParam2="-11.13446"
+        stCamera:RadialDistortParam3="-247.204147"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999684"
+        stCamera:RadialDistortParam1="0.028128"
+        stCamera:RadialDistortParam2="-3.032764"
+        stCamera:RadialDistortParam3="134.002258"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.005042"
+        stCamera:VignetteModelParam1="-14.280508"
+        stCamera:VignetteModelParam2="-1679.443237"
+        stCamera:VignetteModelParam3="69650.195313"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.47"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.884176"
+        stCamera:RadialDistortParam2="-11.967999"
+        stCamera:RadialDistortParam3="-247.513214">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999658"
+        stCamera:RadialDistortParam1="-0.010303"
+        stCamera:RadialDistortParam2="1.184587"
+        stCamera:RadialDistortParam3="-48.614765"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.884176"
+        stCamera:RadialDistortParam2="-11.967999"
+        stCamera:RadialDistortParam3="-247.513214"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999613"
+        stCamera:RadialDistortParam1="0.069059"
+        stCamera:RadialDistortParam2="-7.754897"
+        stCamera:RadialDistortParam3="305.788605"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.004359"
+        stCamera:VignetteModelParam1="-43.517151"
+        stCamera:VignetteModelParam2="1621.731079"
+        stCamera:VignetteModelParam3="-38955.761719"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.445203"
+        stCamera:RadialDistortParam2="-8.505763"
+        stCamera:RadialDistortParam3="-291.012939">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000101"
+        stCamera:RadialDistortParam1="0.0159"
+        stCamera:RadialDistortParam2="-1.038217"
+        stCamera:RadialDistortParam3="5.277398"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.445203"
+        stCamera:RadialDistortParam2="-8.505763"
+        stCamera:RadialDistortParam3="-291.012939"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999962"
+        stCamera:RadialDistortParam1="-0.011997"
+        stCamera:RadialDistortParam2="0.824909"
+        stCamera:RadialDistortParam3="9.845208"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003309"
+        stCamera:VignetteModelParam1="-56.966465"
+        stCamera:VignetteModelParam2="1203.50647"
+        stCamera:VignetteModelParam3="-11824.774414"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.438018"
+        stCamera:RadialDistortParam2="-8.994377"
+        stCamera:RadialDistortParam3="-290.413391">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000083"
+        stCamera:RadialDistortParam1="0.014521"
+        stCamera:RadialDistortParam2="-0.855443"
+        stCamera:RadialDistortParam3="4.850971"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.438018"
+        stCamera:RadialDistortParam2="-8.994377"
+        stCamera:RadialDistortParam3="-290.413391"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999962"
+        stCamera:RadialDistortParam1="-0.013605"
+        stCamera:RadialDistortParam2="0.970127"
+        stCamera:RadialDistortParam3="-3.496101"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.004192"
+         stCamera:VignetteModelParam1="-39.130444"
+         stCamera:VignetteModelParam2="-1201.691895"
+         stCamera:VignetteModelParam3="80307.132813">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.036458, 0.957000</rdf:li>
+          <rdf:li>0.058904, 0.851500</rdf:li>
+          <rdf:li>0.091205, 0.639100</rdf:li>
+          <rdf:li>0.120596, 0.413000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.435809"
+        stCamera:RadialDistortParam2="-9.463597"
+        stCamera:RadialDistortParam3="-285.802063">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000069"
+        stCamera:RadialDistortParam1="0.00876"
+        stCamera:RadialDistortParam2="0.077125"
+        stCamera:RadialDistortParam3="-30.2285"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.435809"
+        stCamera:RadialDistortParam2="-9.463597"
+        stCamera:RadialDistortParam3="-285.802063"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999939"
+        stCamera:RadialDistortParam1="-0.006056"
+        stCamera:RadialDistortParam2="-0.082771"
+        stCamera:RadialDistortParam3="35.641594"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.004295"
+         stCamera:VignetteModelParam1="-24.004585"
+         stCamera:VignetteModelParam2="-2902.924561"
+         stCamera:VignetteModelParam3="137474.859375">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.016314, 0.995700</rdf:li>
+          <rdf:li>0.040896, 0.960700</rdf:li>
+          <rdf:li>0.060788, 0.877600</rdf:li>
+          <rdf:li>0.093002, 0.666000</rdf:li>
+          <rdf:li>0.120582, 0.447000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="1.2"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.437523"
+        stCamera:RadialDistortParam2="-9.809343"
+        stCamera:RadialDistortParam3="-283.753052">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000047"
+        stCamera:RadialDistortParam1="0.006546"
+        stCamera:RadialDistortParam2="0.427792"
+        stCamera:RadialDistortParam3="-40.530895"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.437523"
+        stCamera:RadialDistortParam2="-9.809343"
+        stCamera:RadialDistortParam3="-283.753052"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999901"
+        stCamera:RadialDistortParam1="-0.000287"
+        stCamera:RadialDistortParam2="-0.298079"
+        stCamera:RadialDistortParam3="28.09479"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003207"
+         stCamera:VignetteModelParam1="-13.117188"
+         stCamera:VignetteModelParam2="-3606.507813"
+         stCamera:VignetteModelParam3="147153.9375">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.022889, 0.996900</rdf:li>
+          <rdf:li>0.043954, 0.967600</rdf:li>
+          <rdf:li>0.067595, 0.876000</rdf:li>
+          <rdf:li>0.094418, 0.702400</rdf:li>
+          <rdf:li>0.120577, 0.489000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.442196"
+        stCamera:RadialDistortParam2="-10.12363"
+        stCamera:RadialDistortParam3="-279.06369">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000014"
+        stCamera:RadialDistortParam1="0.014444"
+        stCamera:RadialDistortParam2="-0.766075"
+        stCamera:RadialDistortParam3="10.225169"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.442196"
+        stCamera:RadialDistortParam2="-10.12363"
+        stCamera:RadialDistortParam3="-279.06369"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999865"
+        stCamera:RadialDistortParam1="0.00632"
+        stCamera:RadialDistortParam2="-0.944272"
+        stCamera:RadialDistortParam3="46.868141"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003915"
+        stCamera:VignetteModelParam1="-4.858145"
+        stCamera:VignetteModelParam2="-3859.96582"
+        stCamera:VignetteModelParam3="141645.234375"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.9"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.447095"
+        stCamera:RadialDistortParam2="-10.248053"
+        stCamera:RadialDistortParam3="-278.034882">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999987"
+        stCamera:RadialDistortParam1="0.015485"
+        stCamera:RadialDistortParam2="-0.790711"
+        stCamera:RadialDistortParam3="10.24224"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.447095"
+        stCamera:RadialDistortParam2="-10.248053"
+        stCamera:RadialDistortParam3="-278.034882"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999849"
+        stCamera:RadialDistortParam1="0.000791"
+        stCamera:RadialDistortParam2="0.171228"
+        stCamera:RadialDistortParam3="-3.931819"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003938"
+         stCamera:VignetteModelParam1="-0.853657"
+         stCamera:VignetteModelParam2="-3998.927002"
+         stCamera:VignetteModelParam3="144135.109375">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.042396, 0.991700</rdf:li>
+          <rdf:li>0.054105, 0.975100</rdf:li>
+          <rdf:li>0.062823, 0.944100</rdf:li>
+          <rdf:li>0.097051, 0.763000</rdf:li>
+          <rdf:li>0.120585, 0.573000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.8"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.457899"
+        stCamera:RadialDistortParam2="-10.432284"
+        stCamera:RadialDistortParam3="-273.240509">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999966"
+        stCamera:RadialDistortParam1="0.014124"
+        stCamera:RadialDistortParam2="-0.685637"
+        stCamera:RadialDistortParam3="8.130997"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.457899"
+        stCamera:RadialDistortParam2="-10.432284"
+        stCamera:RadialDistortParam3="-273.240509"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999842"
+        stCamera:RadialDistortParam1="-0.006171"
+        stCamera:RadialDistortParam2="1.206623"
+        stCamera:RadialDistortParam3="-42.849125"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003663"
+         stCamera:VignetteModelParam1="1.275748"
+         stCamera:VignetteModelParam2="-4023.622314"
+         stCamera:VignetteModelParam3="146552.234375">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.044250, 0.991600</rdf:li>
+          <rdf:li>0.063474, 0.953400</rdf:li>
+          <rdf:li>0.083180, 0.857300</rdf:li>
+          <rdf:li>0.102582, 0.745400</rdf:li>
+          <rdf:li>0.120601, 0.604000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.482505"
+        stCamera:RadialDistortParam2="-10.580369"
+        stCamera:RadialDistortParam3="-268.057587">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999917"
+        stCamera:RadialDistortParam1="0.018413"
+        stCamera:RadialDistortParam2="-1.413623"
+        stCamera:RadialDistortParam3="41.374844"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.482505"
+        stCamera:RadialDistortParam2="-10.580369"
+        stCamera:RadialDistortParam3="-268.057587"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999831"
+        stCamera:RadialDistortParam1="-0.010006"
+        stCamera:RadialDistortParam2="1.661272"
+        stCamera:RadialDistortParam3="-54.151192"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.002282"
+         stCamera:VignetteModelParam1="-0.395977"
+         stCamera:VignetteModelParam2="-3619.951416"
+         stCamera:VignetteModelParam3="133144.203125">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.041958, 0.992100</rdf:li>
+          <rdf:li>0.067254, 0.939400</rdf:li>
+          <rdf:li>0.086088, 0.847800</rdf:li>
+          <rdf:li>0.107453, 0.724900</rdf:li>
+          <rdf:li>0.120642, 0.625000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.44335"
+        stCamera:RadialDistortParam2="-7.4559"
+        stCamera:RadialDistortParam3="-291.199188">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000169"
+        stCamera:RadialDistortParam1="-0.000874"
+        stCamera:RadialDistortParam2="0.664222"
+        stCamera:RadialDistortParam3="-57.922619"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.44335"
+        stCamera:RadialDistortParam2="-7.4559"
+        stCamera:RadialDistortParam3="-291.199188"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999912"
+        stCamera:RadialDistortParam1="0.009965"
+        stCamera:RadialDistortParam2="-1.105891"
+        stCamera:RadialDistortParam3="75.733345"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.004222"
+         stCamera:VignetteModelParam1="5.703607"
+         stCamera:VignetteModelParam2="-4548.856445"
+         stCamera:VignetteModelParam3="159260.4375">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.053193, 0.990700</rdf:li>
+          <rdf:li>0.064593, 0.961800</rdf:li>
+          <rdf:li>0.082621, 0.871200</rdf:li>
+          <rdf:li>0.106529, 0.719700</rdf:li>
+          <rdf:li>0.120644, 0.597000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.545184"
+        stCamera:RadialDistortParam2="-10.709682"
+        stCamera:RadialDistortParam3="-260.185455">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99983"
+        stCamera:RadialDistortParam1="0.01509"
+        stCamera:RadialDistortParam2="-0.324157"
+        stCamera:RadialDistortParam3="-8.983313"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.545184"
+        stCamera:RadialDistortParam2="-10.709682"
+        stCamera:RadialDistortParam3="-260.185455"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99983"
+        stCamera:RadialDistortParam1="-0.018666"
+        stCamera:RadialDistortParam2="0.542844"
+        stCamera:RadialDistortParam3="34.921577"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003437"
+         stCamera:VignetteModelParam1="-3.273892"
+         stCamera:VignetteModelParam2="551.744324"
+         stCamera:VignetteModelParam3="-105302.039063">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.088080, 0.970100</rdf:li>
+          <rdf:li>0.102674, 0.896400</rdf:li>
+          <rdf:li>0.120750, 0.763000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.55"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.612338"
+        stCamera:RadialDistortParam2="-10.821177"
+        stCamera:RadialDistortParam3="-254.505005">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999747"
+        stCamera:RadialDistortParam1="0.011784"
+        stCamera:RadialDistortParam2="0.510282"
+        stCamera:RadialDistortParam3="-51.789253"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.612338"
+        stCamera:RadialDistortParam2="-10.821177"
+        stCamera:RadialDistortParam3="-254.505005"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999839"
+        stCamera:RadialDistortParam1="-0.024234"
+        stCamera:RadialDistortParam2="1.366994"
+        stCamera:RadialDistortParam3="0.231262"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003061"
+         stCamera:VignetteModelParam1="-4.424921"
+         stCamera:VignetteModelParam2="887.272827"
+         stCamera:VignetteModelParam3="-119803">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.089667, 0.971000</rdf:li>
+          <rdf:li>0.103131, 0.902900</rdf:li>
+          <rdf:li>0.120866, 0.771000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.734446"
+        stCamera:RadialDistortParam2="-11.13446"
+        stCamera:RadialDistortParam3="-247.204147">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999591"
+        stCamera:RadialDistortParam1="0.019019"
+        stCamera:RadialDistortParam2="-0.271748"
+        stCamera:RadialDistortParam3="-26.645725"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.734446"
+        stCamera:RadialDistortParam2="-11.13446"
+        stCamera:RadialDistortParam3="-247.204147"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999872"
+        stCamera:RadialDistortParam1="-0.033022"
+        stCamera:RadialDistortParam2="2.217538"
+        stCamera:RadialDistortParam3="-17.812321"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003636"
+         stCamera:VignetteModelParam1="-3.51486"
+         stCamera:VignetteModelParam2="652.913391"
+         stCamera:VignetteModelParam3="-113692.109375">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.088712, 0.969600</rdf:li>
+          <rdf:li>0.103290, 0.890500</rdf:li>
+          <rdf:li>0.121073, 0.752000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.47"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.884176"
+        stCamera:RadialDistortParam2="-11.967999"
+        stCamera:RadialDistortParam3="-247.513214">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999414"
+        stCamera:RadialDistortParam1="0.035241"
+        stCamera:RadialDistortParam2="-2.584516"
+        stCamera:RadialDistortParam3="60.660248"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.884176"
+        stCamera:RadialDistortParam2="-11.967999"
+        stCamera:RadialDistortParam3="-247.513214"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999888"
+        stCamera:RadialDistortParam1="-0.039412"
+        stCamera:RadialDistortParam2="3.525557"
+        stCamera:RadialDistortParam3="-61.151756"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003434"
+        stCamera:VignetteModelParam1="3.439045"
+        stCamera:VignetteModelParam2="-2142.326416"
+        stCamera:VignetteModelParam3="28945.898438"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.445203"
+        stCamera:RadialDistortParam2="-8.505763"
+        stCamera:RadialDistortParam3="-291.012939">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000153"
+        stCamera:RadialDistortParam1="0.000079"
+        stCamera:RadialDistortParam2="0.67628"
+        stCamera:RadialDistortParam3="-52.122314"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.445203"
+        stCamera:RadialDistortParam2="-8.505763"
+        stCamera:RadialDistortParam3="-291.012939"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999867"
+        stCamera:RadialDistortParam1="0.007567"
+        stCamera:RadialDistortParam2="-0.924343"
+        stCamera:RadialDistortParam3="65.352448"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.004854"
+        stCamera:VignetteModelParam1="8.304908"
+        stCamera:VignetteModelParam2="-4212.074707"
+        stCamera:VignetteModelParam3="134687.984375"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.438018"
+        stCamera:RadialDistortParam2="-8.994377"
+        stCamera:RadialDistortParam3="-290.413391">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000133"
+        stCamera:RadialDistortParam1="0.001296"
+        stCamera:RadialDistortParam2="0.695918"
+        stCamera:RadialDistortParam3="-54.286537"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.438018"
+        stCamera:RadialDistortParam2="-8.994377"
+        stCamera:RadialDistortParam3="-290.413391"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999858"
+        stCamera:RadialDistortParam1="0.002693"
+        stCamera:RadialDistortParam2="-0.330385"
+        stCamera:RadialDistortParam3="40.028683"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.005299"
+        stCamera:VignetteModelParam1="7.90869"
+        stCamera:VignetteModelParam2="-3750.171387"
+        stCamera:VignetteModelParam3="108742.890625"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.435809"
+        stCamera:RadialDistortParam2="-9.463597"
+        stCamera:RadialDistortParam3="-285.802063">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000109"
+        stCamera:RadialDistortParam1="0.004287"
+        stCamera:RadialDistortParam2="0.368553"
+        stCamera:RadialDistortParam3="-38.539379"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.435809"
+        stCamera:RadialDistortParam2="-9.463597"
+        stCamera:RadialDistortParam3="-285.802063"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999851"
+        stCamera:RadialDistortParam1="-0.002438"
+        stCamera:RadialDistortParam2="0.124052"
+        stCamera:RadialDistortParam3="25.458174"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.005773"
+        stCamera:VignetteModelParam1="7.003963"
+        stCamera:VignetteModelParam2="-3136.820557"
+        stCamera:VignetteModelParam3="75192.210938"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="1.2"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.437523"
+        stCamera:RadialDistortParam2="-9.809343"
+        stCamera:RadialDistortParam3="-283.753052">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000086"
+        stCamera:RadialDistortParam1="0.003527"
+        stCamera:RadialDistortParam2="0.665887"
+        stCamera:RadialDistortParam3="-49.748241"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.437523"
+        stCamera:RadialDistortParam2="-9.809343"
+        stCamera:RadialDistortParam3="-283.753052"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99984"
+        stCamera:RadialDistortParam1="-0.007082"
+        stCamera:RadialDistortParam2="0.619452"
+        stCamera:RadialDistortParam3="5.070092"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.005904"
+         stCamera:VignetteModelParam1="4.944837"
+         stCamera:VignetteModelParam2="-2204.35791"
+         stCamera:VignetteModelParam3="25146.332031">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.077032, 0.972200</rdf:li>
+          <rdf:li>0.094979, 0.878400</rdf:li>
+          <rdf:li>0.120577, 0.698000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.442196"
+        stCamera:RadialDistortParam2="-10.12363"
+        stCamera:RadialDistortParam3="-279.06369">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.00005"
+        stCamera:RadialDistortParam1="0.009363"
+        stCamera:RadialDistortParam2="-0.149883"
+        stCamera:RadialDistortParam3="-10.834181"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.442196"
+        stCamera:RadialDistortParam2="-10.12363"
+        stCamera:RadialDistortParam3="-279.06369"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999832"
+        stCamera:RadialDistortParam1="-0.008963"
+        stCamera:RadialDistortParam2="0.433575"
+        stCamera:RadialDistortParam3="20.25456"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.005669"
+         stCamera:VignetteModelParam1="2.003741"
+         stCamera:VignetteModelParam2="-1096.861694"
+         stCamera:VignetteModelParam3="-31162.851563">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.080368, 0.974400</rdf:li>
+          <rdf:li>0.096398, 0.894200</rdf:li>
+          <rdf:li>0.120579, 0.721000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.9"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.447095"
+        stCamera:RadialDistortParam2="-10.248053"
+        stCamera:RadialDistortParam3="-278.034882">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000024"
+        stCamera:RadialDistortParam1="0.010172"
+        stCamera:RadialDistortParam2="-0.04873"
+        stCamera:RadialDistortParam3="-20.076727"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.447095"
+        stCamera:RadialDistortParam2="-10.248053"
+        stCamera:RadialDistortParam3="-278.034882"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999828"
+        stCamera:RadialDistortParam1="-0.010741"
+        stCamera:RadialDistortParam2="0.449779"
+        stCamera:RadialDistortParam3="20.233749"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.004855"
+         stCamera:VignetteModelParam1="-0.08299"
+         stCamera:VignetteModelParam2="-389.325928"
+         stCamera:VignetteModelParam3="-65260.785156">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.084089, 0.971700</rdf:li>
+          <rdf:li>0.100152, 0.886600</rdf:li>
+          <rdf:li>0.120585, 0.737000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.8"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.457899"
+        stCamera:RadialDistortParam2="-10.432284"
+        stCamera:RadialDistortParam3="-273.240509">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999988"
+        stCamera:RadialDistortParam1="0.008788"
+        stCamera:RadialDistortParam2="0.288587"
+        stCamera:RadialDistortParam3="-31.366558"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.457899"
+        stCamera:RadialDistortParam2="-10.432284"
+        stCamera:RadialDistortParam3="-273.240509"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999827"
+        stCamera:RadialDistortParam1="-0.012298"
+        stCamera:RadialDistortParam2="0.296493"
+        stCamera:RadialDistortParam3="32.412132"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.004175"
+         stCamera:VignetteModelParam1="-1.967154"
+         stCamera:VignetteModelParam2="187.714035"
+         stCamera:VignetteModelParam3="-91535.617188">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.085276, 0.974000</rdf:li>
+          <rdf:li>0.099364, 0.906000</rdf:li>
+          <rdf:li>0.120601, 0.750000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.482505"
+        stCamera:RadialDistortParam2="-10.580369"
+        stCamera:RadialDistortParam3="-268.057587">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999927"
+        stCamera:RadialDistortParam1="0.011729"
+        stCamera:RadialDistortParam2="0.166538"
+        stCamera:RadialDistortParam3="-32.673756"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.482505"
+        stCamera:RadialDistortParam2="-10.580369"
+        stCamera:RadialDistortParam3="-268.057587"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999827"
+        stCamera:RadialDistortParam1="-0.014493"
+        stCamera:RadialDistortParam2="0.384306"
+        stCamera:RadialDistortParam3="29.683205"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003777"
+         stCamera:VignetteModelParam1="-2.726637"
+         stCamera:VignetteModelParam2="400.525085"
+         stCamera:VignetteModelParam3="-99392.476563">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.086827, 0.971400</rdf:li>
+          <rdf:li>0.100244, 0.906900</rdf:li>
+          <rdf:li>0.120642, 0.759000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.44335"
+        stCamera:RadialDistortParam2="-7.4559"
+        stCamera:RadialDistortParam3="-291.199188">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000219"
+        stCamera:RadialDistortParam1="-0.007575"
+        stCamera:RadialDistortParam2="0.43895"
+        stCamera:RadialDistortParam3="-22.94813"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.44335"
+        stCamera:RadialDistortParam2="-7.4559"
+        stCamera:RadialDistortParam3="-291.199188"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999858"
+        stCamera:RadialDistortParam1="0.010879"
+        stCamera:RadialDistortParam2="-0.187178"
+        stCamera:RadialDistortParam3="22.610313"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.004276"
+         stCamera:VignetteModelParam1="-2.533588"
+         stCamera:VignetteModelParam2="509.585175"
+         stCamera:VignetteModelParam3="-121131.640625">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.086845, 0.971500</rdf:li>
+          <rdf:li>0.102687, 0.878600</rdf:li>
+          <rdf:li>0.120644, 0.720000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.545184"
+        stCamera:RadialDistortParam2="-10.709682"
+        stCamera:RadialDistortParam3="-260.185455">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999818"
+        stCamera:RadialDistortParam1="0.011667"
+        stCamera:RadialDistortParam2="0.262343"
+        stCamera:RadialDistortParam3="-27.206703"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.545184"
+        stCamera:RadialDistortParam2="-10.709682"
+        stCamera:RadialDistortParam3="-260.185455"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99983"
+        stCamera:RadialDistortParam1="-0.009579"
+        stCamera:RadialDistortParam2="-0.610333"
+        stCamera:RadialDistortParam3="52.549919"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003114"
+        stCamera:VignetteModelParam1="-7.465117"
+        stCamera:VignetteModelParam2="1263.299805"
+        stCamera:VignetteModelParam3="-82773.296875"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.55"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.612338"
+        stCamera:RadialDistortParam2="-10.821177"
+        stCamera:RadialDistortParam3="-254.505005">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99971"
+        stCamera:RadialDistortParam1="0.016141"
+        stCamera:RadialDistortParam2="-0.204945"
+        stCamera:RadialDistortParam3="-9.627121"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.612338"
+        stCamera:RadialDistortParam2="-10.821177"
+        stCamera:RadialDistortParam3="-254.505005"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999853"
+        stCamera:RadialDistortParam1="-0.009268"
+        stCamera:RadialDistortParam2="-0.826471"
+        stCamera:RadialDistortParam3="59.669392"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.002846"
+         stCamera:VignetteModelParam1="-6.733349"
+         stCamera:VignetteModelParam2="1038.458374"
+         stCamera:VignetteModelParam3="-67616.445313">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.107522, 0.965500</rdf:li>
+          <rdf:li>0.113989, 0.945700</rdf:li>
+          <rdf:li>0.120866, 0.894000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.734446"
+        stCamera:RadialDistortParam2="-11.13446"
+        stCamera:RadialDistortParam3="-247.204147">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999554"
+        stCamera:RadialDistortParam1="0.007336"
+        stCamera:RadialDistortParam2="1.17456"
+        stCamera:RadialDistortParam3="-61.041447"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.734446"
+        stCamera:RadialDistortParam2="-11.13446"
+        stCamera:RadialDistortParam3="-247.204147"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999917"
+        stCamera:RadialDistortParam1="-0.014476"
+        stCamera:RadialDistortParam2="-0.725296"
+        stCamera:RadialDistortParam3="70.430901"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003447"
+        stCamera:VignetteModelParam1="-8.265941"
+        stCamera:VignetteModelParam2="1500.778931"
+        stCamera:VignetteModelParam3="-98799.71875"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.47"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.884176"
+        stCamera:RadialDistortParam2="-11.967999"
+        stCamera:RadialDistortParam3="-247.513214">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99933"
+        stCamera:RadialDistortParam1="0.013462"
+        stCamera:RadialDistortParam2="1.225135"
+        stCamera:RadialDistortParam3="-79.538712"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.884176"
+        stCamera:RadialDistortParam2="-11.967999"
+        stCamera:RadialDistortParam3="-247.513214"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000008"
+        stCamera:RadialDistortParam1="-0.014509"
+        stCamera:RadialDistortParam2="-2.421664"
+        stCamera:RadialDistortParam3="183.964035"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003443"
+        stCamera:VignetteModelParam1="-9.768247"
+        stCamera:VignetteModelParam2="2259.113037"
+        stCamera:VignetteModelParam3="-172945.625"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.445203"
+        stCamera:RadialDistortParam2="-8.505763"
+        stCamera:RadialDistortParam3="-291.012939">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000191"
+        stCamera:RadialDistortParam1="-0.001425"
+        stCamera:RadialDistortParam2="0.108509"
+        stCamera:RadialDistortParam3="-11.530382"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.445203"
+        stCamera:RadialDistortParam2="-8.505763"
+        stCamera:RadialDistortParam3="-291.012939"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99982"
+        stCamera:RadialDistortParam1="0.006453"
+        stCamera:RadialDistortParam2="-0.248429"
+        stCamera:RadialDistortParam3="30.520424"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003098"
+         stCamera:VignetteModelParam1="-5.620453"
+         stCamera:VignetteModelParam2="1365.510376"
+         stCamera:VignetteModelParam3="-152905.265625">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.090711, 0.973300</rdf:li>
+          <rdf:li>0.103386, 0.903500</rdf:li>
+          <rdf:li>0.120621, 0.757000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.438018"
+        stCamera:RadialDistortParam2="-8.994377"
+        stCamera:RadialDistortParam3="-290.413391">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000165"
+        stCamera:RadialDistortParam1="0.000826"
+        stCamera:RadialDistortParam2="0.12582"
+        stCamera:RadialDistortParam3="-15.470506"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.438018"
+        stCamera:RadialDistortParam2="-8.994377"
+        stCamera:RadialDistortParam3="-290.413391"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999815"
+        stCamera:RadialDistortParam1="0.002941"
+        stCamera:RadialDistortParam2="-0.104807"
+        stCamera:RadialDistortParam3="23.857204"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.002859"
+         stCamera:VignetteModelParam1="-6.83183"
+         stCamera:VignetteModelParam2="1643.915527"
+         stCamera:VignetteModelParam3="-159797.21875">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.093095, 0.969700</rdf:li>
+          <rdf:li>0.105941, 0.898700</rdf:li>
+          <rdf:li>0.120596, 0.774000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.435809"
+        stCamera:RadialDistortParam2="-9.463597"
+        stCamera:RadialDistortParam3="-285.802063">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000137"
+        stCamera:RadialDistortParam1="0.003709"
+        stCamera:RadialDistortParam2="0.018272"
+        stCamera:RadialDistortParam3="-13.236955"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.435809"
+        stCamera:RadialDistortParam2="-9.463597"
+        stCamera:RadialDistortParam3="-285.802063"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99981"
+        stCamera:RadialDistortParam1="-0.000031"
+        stCamera:RadialDistortParam2="-0.171252"
+        stCamera:RadialDistortParam3="31.852127"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002865"
+        stCamera:VignetteModelParam1="-7.84435"
+        stCamera:VignetteModelParam2="1867.083252"
+        stCamera:VignetteModelParam3="-162317.484375"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="1.2"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.437523"
+        stCamera:RadialDistortParam2="-9.809343"
+        stCamera:RadialDistortParam3="-283.753052">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000106"
+        stCamera:RadialDistortParam1="0.00515"
+        stCamera:RadialDistortParam2="0.115833"
+        stCamera:RadialDistortParam3="-18.701365"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.437523"
+        stCamera:RadialDistortParam2="-9.809343"
+        stCamera:RadialDistortParam3="-283.753052"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999806"
+        stCamera:RadialDistortParam1="-0.002509"
+        stCamera:RadialDistortParam2="-0.197373"
+        stCamera:RadialDistortParam3="34.071651"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002952"
+        stCamera:VignetteModelParam1="-8.569595"
+        stCamera:VignetteModelParam2="1970.057007"
+        stCamera:VignetteModelParam3="-156571.875"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.442196"
+        stCamera:RadialDistortParam2="-10.12363"
+        stCamera:RadialDistortParam3="-279.06369">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000066"
+        stCamera:RadialDistortParam1="0.008292"
+        stCamera:RadialDistortParam2="-0.109482"
+        stCamera:RadialDistortParam3="-9.163878"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.442196"
+        stCamera:RadialDistortParam2="-10.12363"
+        stCamera:RadialDistortParam3="-279.06369"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999801"
+        stCamera:RadialDistortParam1="-0.002251"
+        stCamera:RadialDistortParam2="-0.670647"
+        stCamera:RadialDistortParam3="56.710251"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003454"
+        stCamera:VignetteModelParam1="-8.772114"
+        stCamera:VignetteModelParam2="1897.129761"
+        stCamera:VignetteModelParam3="-139177.375"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.9"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.447095"
+        stCamera:RadialDistortParam2="-10.248053"
+        stCamera:RadialDistortParam3="-278.034882">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000037"
+        stCamera:RadialDistortParam1="0.008804"
+        stCamera:RadialDistortParam2="0.021457"
+        stCamera:RadialDistortParam3="-15.546543"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.447095"
+        stCamera:RadialDistortParam2="-10.248053"
+        stCamera:RadialDistortParam3="-278.034882"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999804"
+        stCamera:RadialDistortParam1="-0.005591"
+        stCamera:RadialDistortParam2="-0.382685"
+        stCamera:RadialDistortParam3="42.256622"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003514"
+        stCamera:VignetteModelParam1="-8.536868"
+        stCamera:VignetteModelParam2="1727.18103"
+        stCamera:VignetteModelParam3="-121258.359375"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.8"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.457899"
+        stCamera:RadialDistortParam2="-10.432284"
+        stCamera:RadialDistortParam3="-273.240509">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999994"
+        stCamera:RadialDistortParam1="0.00907"
+        stCamera:RadialDistortParam2="0.212653"
+        stCamera:RadialDistortParam3="-23.922817"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.457899"
+        stCamera:RadialDistortParam2="-10.432284"
+        stCamera:RadialDistortParam3="-273.240509"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999809"
+        stCamera:RadialDistortParam1="-0.00824"
+        stCamera:RadialDistortParam2="-0.27179"
+        stCamera:RadialDistortParam3="40.086914"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003423"
+        stCamera:VignetteModelParam1="-8.032043"
+        stCamera:VignetteModelParam2="1515.246582"
+        stCamera:VignetteModelParam3="-102950.351563"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.482505"
+        stCamera:RadialDistortParam2="-10.580369"
+        stCamera:RadialDistortParam3="-268.057587">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999929"
+        stCamera:RadialDistortParam1="0.010939"
+        stCamera:RadialDistortParam2="0.055429"
+        stCamera:RadialDistortParam3="-13.86127"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.482505"
+        stCamera:RadialDistortParam2="-10.580369"
+        stCamera:RadialDistortParam3="-268.057587"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999814"
+        stCamera:RadialDistortParam1="-0.007573"
+        stCamera:RadialDistortParam2="-0.701333"
+        stCamera:RadialDistortParam3="58.043884"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003272"
+        stCamera:VignetteModelParam1="-7.656267"
+        stCamera:VignetteModelParam2="1364.601685"
+        stCamera:VignetteModelParam3="-90927.609375"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.44335"
+        stCamera:RadialDistortParam2="-7.4559"
+        stCamera:RadialDistortParam3="-291.199188">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000227"
+        stCamera:RadialDistortParam1="-0.001116"
+        stCamera:RadialDistortParam2="-0.592841"
+        stCamera:RadialDistortParam3="14.179408"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.44335"
+        stCamera:RadialDistortParam2="-7.4559"
+        stCamera:RadialDistortParam3="-291.199188"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999833"
+        stCamera:RadialDistortParam1="0.007494"
+        stCamera:RadialDistortParam2="0.582444"
+        stCamera:RadialDistortParam3="-8.600307"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.004507"
+        stCamera:VignetteModelParam1="-9.623429"
+        stCamera:VignetteModelParam2="2137.771484"
+        stCamera:VignetteModelParam3="-150572.71875"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.545184"
+        stCamera:RadialDistortParam2="-10.709682"
+        stCamera:RadialDistortParam3="-260.185455">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999803"
+        stCamera:RadialDistortParam1="0.013911"
+        stCamera:RadialDistortParam2="-0.027978"
+        stCamera:RadialDistortParam3="-13.085448"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.545184"
+        stCamera:RadialDistortParam2="-10.709682"
+        stCamera:RadialDistortParam3="-260.185455"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999843"
+        stCamera:RadialDistortParam1="-0.012248"
+        stCamera:RadialDistortParam2="-0.110809"
+        stCamera:RadialDistortParam3="23.015459"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000204"
+        stCamera:VignetteModelParam1="-3.720879"
+        stCamera:VignetteModelParam2="65.568314"
+        stCamera:VignetteModelParam3="-166.201187"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.55"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.612338"
+        stCamera:RadialDistortParam2="-10.821177"
+        stCamera:RadialDistortParam3="-254.505005">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999705"
+        stCamera:RadialDistortParam1="0.007977"
+        stCamera:RadialDistortParam2="0.923147"
+        stCamera:RadialDistortParam3="-49.524143"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.612338"
+        stCamera:RadialDistortParam2="-10.821177"
+        stCamera:RadialDistortParam3="-254.505005"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999882"
+        stCamera:RadialDistortParam1="-0.019422"
+        stCamera:RadialDistortParam2="0.851709"
+        stCamera:RadialDistortParam3="-18.17482"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000253"
+        stCamera:VignetteModelParam1="-3.522523"
+        stCamera:VignetteModelParam2="14.537294"
+        stCamera:VignetteModelParam3="2527.781006"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.734446"
+        stCamera:RadialDistortParam2="-11.13446"
+        stCamera:RadialDistortParam3="-247.204147">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999519"
+        stCamera:RadialDistortParam1="0.015143"
+        stCamera:RadialDistortParam2="-0.183799"
+        stCamera:RadialDistortParam3="0.671409"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.734446"
+        stCamera:RadialDistortParam2="-11.13446"
+        stCamera:RadialDistortParam3="-247.204147"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99995"
+        stCamera:RadialDistortParam1="-0.014749"
+        stCamera:RadialDistortParam2="-0.178414"
+        stCamera:RadialDistortParam3="21.86294"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000165"
+        stCamera:VignetteModelParam1="-4.002682"
+        stCamera:VignetteModelParam2="101.518135"
+        stCamera:VignetteModelParam3="-1667.669434"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.47"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.884176"
+        stCamera:RadialDistortParam2="-11.967999"
+        stCamera:RadialDistortParam3="-247.513214">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999271"
+        stCamera:RadialDistortParam1="0.019397"
+        stCamera:RadialDistortParam2="-0.111897"
+        stCamera:RadialDistortParam3="-3.978348"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.884176"
+        stCamera:RadialDistortParam2="-11.967999"
+        stCamera:RadialDistortParam3="-247.513214"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000064"
+        stCamera:RadialDistortParam1="-0.012077"
+        stCamera:RadialDistortParam2="-1.606854"
+        stCamera:RadialDistortParam3="80.956078"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.001726"
+         stCamera:VignetteModelParam1="-5.669078"
+         stCamera:VignetteModelParam2="617.320374"
+         stCamera:VignetteModelParam3="-35238.941406">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.112898, 0.964600</rdf:li>
+          <rdf:li>0.116521, 0.953800</rdf:li>
+          <rdf:li>0.121311, 0.917000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.445203"
+        stCamera:RadialDistortParam2="-8.505763"
+        stCamera:RadialDistortParam3="-291.012939">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000204"
+        stCamera:RadialDistortParam1="0.000815"
+        stCamera:RadialDistortParam2="-0.236947"
+        stCamera:RadialDistortParam3="-1.874662"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.445203"
+        stCamera:RadialDistortParam2="-8.505763"
+        stCamera:RadialDistortParam3="-291.012939"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999799"
+        stCamera:RadialDistortParam1="0.004246"
+        stCamera:RadialDistortParam2="0.219325"
+        stCamera:RadialDistortParam3="8.543495"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003638"
+         stCamera:VignetteModelParam1="-7.926916"
+         stCamera:VignetteModelParam2="1475.992432"
+         stCamera:VignetteModelParam3="-97544.023438">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.107078, 0.968500</rdf:li>
+          <rdf:li>0.113190, 0.943500</rdf:li>
+          <rdf:li>0.120621, 0.876000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.438018"
+        stCamera:RadialDistortParam2="-8.994377"
+        stCamera:RadialDistortParam3="-290.413391">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000178"
+        stCamera:RadialDistortParam1="0.002736"
+        stCamera:RadialDistortParam2="-0.220735"
+        stCamera:RadialDistortParam3="-2.132606"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.438018"
+        stCamera:RadialDistortParam2="-8.994377"
+        stCamera:RadialDistortParam3="-290.413391"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999797"
+        stCamera:RadialDistortParam1="-0.00019"
+        stCamera:RadialDistortParam2="0.414254"
+        stCamera:RadialDistortParam3="1.315417"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.002831"
+         stCamera:VignetteModelParam1="-6.822369"
+         stCamera:VignetteModelParam2="1103.986206"
+         stCamera:VignetteModelParam3="-71099.476563">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.107860, 0.966700</rdf:li>
+          <rdf:li>0.114321, 0.947500</rdf:li>
+          <rdf:li>0.120596, 0.894000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.435809"
+        stCamera:RadialDistortParam2="-9.463597"
+        stCamera:RadialDistortParam3="-285.802063">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000148"
+        stCamera:RadialDistortParam1="0.00517"
+        stCamera:RadialDistortParam2="-0.26729"
+        stCamera:RadialDistortParam3="-0.378893"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.435809"
+        stCamera:RadialDistortParam2="-9.463597"
+        stCamera:RadialDistortParam3="-285.802063"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999793"
+        stCamera:RadialDistortParam1="-0.000562"
+        stCamera:RadialDistortParam2="-0.027157"
+        stCamera:RadialDistortParam3="21.101954"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.002027"
+         stCamera:VignetteModelParam1="-5.642101"
+         stCamera:VignetteModelParam2="704.905396"
+         stCamera:VignetteModelParam3="-43156.050781">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.111450, 0.965300</rdf:li>
+          <rdf:li>0.115547, 0.953000</rdf:li>
+          <rdf:li>0.120582, 0.913000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="1.2"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.437523"
+        stCamera:RadialDistortParam2="-9.809343"
+        stCamera:RadialDistortParam3="-283.753052">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000115"
+        stCamera:RadialDistortParam1="0.006214"
+        stCamera:RadialDistortParam2="-0.107985"
+        stCamera:RadialDistortParam3="-8.074848"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.437523"
+        stCamera:RadialDistortParam2="-9.809343"
+        stCamera:RadialDistortParam3="-283.753052"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999792"
+        stCamera:RadialDistortParam1="-0.00397"
+        stCamera:RadialDistortParam2="0.160746"
+        stCamera:RadialDistortParam3="10.297506"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001213"
+        stCamera:VignetteModelParam1="-4.551843"
+        stCamera:VignetteModelParam2="350.594391"
+        stCamera:VignetteModelParam3="-19335.748047"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.442196"
+        stCamera:RadialDistortParam2="-10.12363"
+        stCamera:RadialDistortParam3="-279.06369">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000074"
+        stCamera:RadialDistortParam1="0.007334"
+        stCamera:RadialDistortParam2="-0.011847"
+        stCamera:RadialDistortParam3="-9.676544"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.442196"
+        stCamera:RadialDistortParam2="-10.12363"
+        stCamera:RadialDistortParam3="-279.06369"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999794"
+        stCamera:RadialDistortParam1="-0.007657"
+        stCamera:RadialDistortParam2="0.365154"
+        stCamera:RadialDistortParam3="2.182047"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000432"
+        stCamera:VignetteModelParam1="-3.784018"
+        stCamera:VignetteModelParam2="112.01252"
+        stCamera:VignetteModelParam3="-3698.335693"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.9"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.447095"
+        stCamera:RadialDistortParam2="-10.248053"
+        stCamera:RadialDistortParam3="-278.034882">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000045"
+        stCamera:RadialDistortParam1="0.007204"
+        stCamera:RadialDistortParam2="0.176917"
+        stCamera:RadialDistortParam3="-17.604391"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.447095"
+        stCamera:RadialDistortParam2="-10.248053"
+        stCamera:RadialDistortParam3="-278.034882"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999797"
+        stCamera:RadialDistortParam1="-0.008622"
+        stCamera:RadialDistortParam2="0.289417"
+        stCamera:RadialDistortParam3="4.504922"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00016"
+        stCamera:VignetteModelParam1="-3.447777"
+        stCamera:VignetteModelParam2="10.361316"
+        stCamera:VignetteModelParam3="2712.386719"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.8"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.457899"
+        stCamera:RadialDistortParam2="-10.432284"
+        stCamera:RadialDistortParam3="-273.240509">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999997"
+        stCamera:RadialDistortParam1="0.010509"
+        stCamera:RadialDistortParam2="-0.183087"
+        stCamera:RadialDistortParam3="-0.775757"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.457899"
+        stCamera:RadialDistortParam2="-10.432284"
+        stCamera:RadialDistortParam3="-273.240509"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999803"
+        stCamera:RadialDistortParam1="-0.008665"
+        stCamera:RadialDistortParam2="0.01108"
+        stCamera:RadialDistortParam3="16.048206"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000185"
+        stCamera:VignetteModelParam1="-3.645218"
+        stCamera:VignetteModelParam2="50.49733"
+        stCamera:VignetteModelParam3="605.790588"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="128"
+       stCamera:Lens="180mm F2.8"
+       stCamera:LensInfo="180/1 180/1 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F2.8 EX DG OS HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F2.8 EX DG OS HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.482505"
+        stCamera:RadialDistortParam2="-10.580369"
+        stCamera:RadialDistortParam3="-268.057587">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99993"
+        stCamera:RadialDistortParam1="0.011869"
+        stCamera:RadialDistortParam2="-0.218021"
+        stCamera:RadialDistortParam3="1.982637"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.482505"
+        stCamera:RadialDistortParam2="-10.580369"
+        stCamera:RadialDistortParam3="-268.057587"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99982"
+        stCamera:RadialDistortParam1="-0.011129"
+        stCamera:RadialDistortParam2="-0.041385"
+        stCamera:RadialDistortParam3="22.292822"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000185"
+        stCamera:VignetteModelParam1="-3.645228"
+        stCamera:VignetteModelParam2="50.681755"
+        stCamera:VignetteModelParam3="598.916321"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

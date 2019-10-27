@@ -1,0 +1,99 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156380, 2014/05/21-23:38:37        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="60.0 mm"
+       stCamera:LensInfo="600/10 600/10 28/10 220/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="Venus Optics 60mm f2.8 2X Ultra-Macro Lens"
+       stCamera:ProfileName="Adobe (Venus Optics 60mm f2.8 2X Ultra-Macro Lens, SONY)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:ImageWidth="6000"
+       stCamera:ImageLength="4000"
+       stCamera:FocusDistance="1.401716">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.436186"
+        stCamera:FocalLengthY="1.436186"
+        stCamera:ResidualMeanError="0.000234"
+        stCamera:ResidualStandardDeviation="0.000219"
+        stCamera:RadialDistortParam1="0.239733"
+        stCamera:RadialDistortParam2="1.103489"
+        stCamera:RadialDistortParam3="-1.868563">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.436479"
+        stCamera:FocalLengthY="1.436479"
+        stCamera:ResidualMeanError="0.000233"
+        stCamera:ResidualStandardDeviation="0.000221"
+        stCamera:ScaleFactor="1.000016"
+        stCamera:RadialDistortParam1="-0.000627"
+        stCamera:RadialDistortParam2="-0.008362"
+        stCamera:RadialDistortParam3="0.004723"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.436479"
+        stCamera:FocalLengthY="1.436479"
+        stCamera:ResidualMeanError="0.000233"
+        stCamera:ResidualStandardDeviation="0.000222"
+        stCamera:RadialDistortParam1="0.239869"
+        stCamera:RadialDistortParam2="1.103293"
+        stCamera:RadialDistortParam3="-1.896143"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.436479"
+        stCamera:FocalLengthY="1.436479"
+        stCamera:ResidualMeanError="0.000234"
+        stCamera:ResidualStandardDeviation="0.000221"
+        stCamera:ScaleFactor="0.999639"
+        stCamera:RadialDistortParam1="0.000308"
+        stCamera:RadialDistortParam2="0.013097"
+        stCamera:RadialDistortParam3="0.030278"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="60.0 mm"
+       stCamera:LensInfo="600/10 600/10 28/10 220/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="Venus Optics 60mm f2.8 2X Ultra-Macro Lens"
+       stCamera:ProfileName="Adobe (Venus Optics 60mm f2.8 2X Ultra-Macro Lens, SONY)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:ImageWidth="6000"
+       stCamera:ImageLength="4000"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.436479"
+        stCamera:FocalLengthY="1.436479"
+        stCamera:RadialDistortParam1="0.239869"
+        stCamera:RadialDistortParam2="1.103293"
+        stCamera:RadialDistortParam3="-1.896143">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.436479"
+        stCamera:FocalLengthY="1.436479"
+        stCamera:VignetteModelParam1="-1.745087"
+        stCamera:VignetteModelParam2="4.678113"
+        stCamera:VignetteModelParam3="-10.467406"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

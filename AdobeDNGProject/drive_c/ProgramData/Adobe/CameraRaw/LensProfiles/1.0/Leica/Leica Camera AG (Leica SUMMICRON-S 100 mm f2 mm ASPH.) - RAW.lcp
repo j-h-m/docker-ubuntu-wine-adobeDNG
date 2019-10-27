@@ -1,0 +1,540 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summicron-S 100"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMICRON-S 1:2/100 mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUMMICRON-S 1:2/100 mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.055948"
+        stCamera:RadialDistortParam2="-0.116627"
+        stCamera:RadialDistortParam3="-0.254351">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999971"
+        stCamera:RadialDistortParam1="0.006135"
+        stCamera:RadialDistortParam2="-0.08708"
+        stCamera:RadialDistortParam3="0.625138"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.055948"
+        stCamera:RadialDistortParam2="-0.116627"
+        stCamera:RadialDistortParam3="-0.254351"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999833"
+        stCamera:RadialDistortParam1="-0.002849"
+        stCamera:RadialDistortParam2="0.00736"
+        stCamera:RadialDistortParam3="-0.064118"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summicron-S 100"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMICRON-S 1:2/100 mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUMMICRON-S 1:2/100 mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="0.8"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.040132"
+        stCamera:RadialDistortParam2="-0.228664"
+        stCamera:RadialDistortParam3="0.449915">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999947"
+        stCamera:RadialDistortParam1="0.00544"
+        stCamera:RadialDistortParam2="-0.075332"
+        stCamera:RadialDistortParam3="0.558928"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.040132"
+        stCamera:RadialDistortParam2="-0.228664"
+        stCamera:RadialDistortParam3="0.449915"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999876"
+        stCamera:RadialDistortParam1="-0.002641"
+        stCamera:RadialDistortParam2="0.001937"
+        stCamera:RadialDistortParam3="-0.030004"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summicron-S 100"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMICRON-S 1:2/100 mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUMMICRON-S 1:2/100 mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="0.9"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.027753"
+        stCamera:RadialDistortParam2="-0.293193"
+        stCamera:RadialDistortParam3="0.79695">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999927"
+        stCamera:RadialDistortParam1="0.004942"
+        stCamera:RadialDistortParam2="-0.066116"
+        stCamera:RadialDistortParam3="0.503742"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.027753"
+        stCamera:RadialDistortParam2="-0.293193"
+        stCamera:RadialDistortParam3="0.79695"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999912"
+        stCamera:RadialDistortParam1="-0.002529"
+        stCamera:RadialDistortParam2="-0.001498"
+        stCamera:RadialDistortParam3="-0.008766"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summicron-S 100"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMICRON-S 1:2/100 mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUMMICRON-S 1:2/100 mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.017467"
+        stCamera:RadialDistortParam2="-0.343297"
+        stCamera:RadialDistortParam3="1.07243">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999911"
+        stCamera:RadialDistortParam1="0.004543"
+        stCamera:RadialDistortParam2="-0.058344"
+        stCamera:RadialDistortParam3="0.454859"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.017467"
+        stCamera:RadialDistortParam2="-0.343297"
+        stCamera:RadialDistortParam3="1.07243"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999939"
+        stCamera:RadialDistortParam1="-0.002453"
+        stCamera:RadialDistortParam2="-0.003945"
+        stCamera:RadialDistortParam3="0.006466"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summicron-S 100"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMICRON-S 1:2/100 mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUMMICRON-S 1:2/100 mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="1.1"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.008662"
+        stCamera:RadialDistortParam2="-0.387219"
+        stCamera:RadialDistortParam3="1.333892">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999899"
+        stCamera:RadialDistortParam1="0.004206"
+        stCamera:RadialDistortParam2="-0.0516"
+        stCamera:RadialDistortParam3="0.41103"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.008662"
+        stCamera:RadialDistortParam2="-0.387219"
+        stCamera:RadialDistortParam3="1.333892"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99996"
+        stCamera:RadialDistortParam1="-0.002392"
+        stCamera:RadialDistortParam2="-0.005847"
+        stCamera:RadialDistortParam3="0.018549"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summicron-S 100"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMICRON-S 1:2/100 mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUMMICRON-S 1:2/100 mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="1.2"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.001022"
+        stCamera:RadialDistortParam2="-0.426449"
+        stCamera:RadialDistortParam3="1.582794">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99989"
+        stCamera:RadialDistortParam1="0.003913"
+        stCamera:RadialDistortParam2="-0.045669"
+        stCamera:RadialDistortParam3="0.371638"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.001022"
+        stCamera:RadialDistortParam2="-0.426449"
+        stCamera:RadialDistortParam3="1.582794"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999977"
+        stCamera:RadialDistortParam1="-0.002336"
+        stCamera:RadialDistortParam2="-0.007538"
+        stCamera:RadialDistortParam3="0.029984"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summicron-S 100"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMICRON-S 1:2/100 mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUMMICRON-S 1:2/100 mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.016682"
+        stCamera:RadialDistortParam2="-0.518283"
+        stCamera:RadialDistortParam3="2.208341">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999873"
+        stCamera:RadialDistortParam1="0.003237"
+        stCamera:RadialDistortParam2="-0.03184"
+        stCamera:RadialDistortParam3="0.277784"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.016682"
+        stCamera:RadialDistortParam2="-0.518283"
+        stCamera:RadialDistortParam3="2.208341"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.00001"
+        stCamera:RadialDistortParam1="-0.002197"
+        stCamera:RadialDistortParam2="-0.011396"
+        stCamera:RadialDistortParam3="0.057425"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summicron-S 100"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMICRON-S 1:2/100 mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUMMICRON-S 1:2/100 mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="10"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.082837"
+        stCamera:RadialDistortParam2="-0.808011"
+        stCamera:RadialDistortParam3="4.515024">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999823"
+        stCamera:RadialDistortParam1="0.000954"
+        stCamera:RadialDistortParam2="0.015257"
+        stCamera:RadialDistortParam3="-0.053109"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.082837"
+        stCamera:RadialDistortParam2="-0.808011"
+        stCamera:RadialDistortParam3="4.515024"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000107"
+        stCamera:RadialDistortParam1="-0.001711"
+        stCamera:RadialDistortParam2="-0.022308"
+        stCamera:RadialDistortParam3="0.135917"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summicron-S 100"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMICRON-S 1:2/100 mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUMMICRON-S 1:2/100 mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.03536"
+        stCamera:RadialDistortParam2="-0.61061"
+        stCamera:RadialDistortParam3="2.884525">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999857"
+        stCamera:RadialDistortParam1="0.002539"
+        stCamera:RadialDistortParam2="-0.01751"
+        stCamera:RadialDistortParam3="0.17871"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.03536"
+        stCamera:RadialDistortParam2="-0.61061"
+        stCamera:RadialDistortParam3="2.884525"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000041"
+        stCamera:RadialDistortParam1="-0.002051"
+        stCamera:RadialDistortParam2="-0.015062"
+        stCamera:RadialDistortParam3="0.084028"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summicron-S 100"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMICRON-S 1:2/100 mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUMMICRON-S 1:2/100 mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.054702"
+        stCamera:RadialDistortParam2="-0.696975"
+        stCamera:RadialDistortParam3="3.560045">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999843"
+        stCamera:RadialDistortParam1="0.00186"
+        stCamera:RadialDistortParam2="-0.003508"
+        stCamera:RadialDistortParam3="0.080551"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.054702"
+        stCamera:RadialDistortParam2="-0.696975"
+        stCamera:RadialDistortParam3="3.560045"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000069"
+        stCamera:RadialDistortParam1="-0.001908"
+        stCamera:RadialDistortParam2="-0.018339"
+        stCamera:RadialDistortParam3="0.107725"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summicron-S 100"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMICRON-S 1:2/100 mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUMMICRON-S 1:2/100 mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="5"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.070609"
+        stCamera:RadialDistortParam2="-0.761857"
+        stCamera:RadialDistortParam3="4.103818">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999831"
+        stCamera:RadialDistortParam1="0.001342"
+        stCamera:RadialDistortParam2="0.00723"
+        stCamera:RadialDistortParam3="0.004302"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.070609"
+        stCamera:RadialDistortParam2="-0.761857"
+        stCamera:RadialDistortParam3="4.103818"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000091"
+        stCamera:RadialDistortParam1="-0.001797"
+        stCamera:RadialDistortParam2="-0.020664"
+        stCamera:RadialDistortParam3="0.124346"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Summicron-S 100"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMICRON-S 1:2/100 mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUMMICRON-S 1:2/100 mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.095313"
+        stCamera:RadialDistortParam2="-0.848246"
+        stCamera:RadialDistortParam3="4.898503">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999817"
+        stCamera:RadialDistortParam1="0.000537"
+        stCamera:RadialDistortParam2="0.023696"
+        stCamera:RadialDistortParam3="-0.11324"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.095313"
+        stCamera:RadialDistortParam2="-0.848246"
+        stCamera:RadialDistortParam3="4.898503"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000121"
+        stCamera:RadialDistortParam1="-0.001606"
+        stCamera:RadialDistortParam2="-0.02415"
+        stCamera:RadialDistortParam3="0.149072"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

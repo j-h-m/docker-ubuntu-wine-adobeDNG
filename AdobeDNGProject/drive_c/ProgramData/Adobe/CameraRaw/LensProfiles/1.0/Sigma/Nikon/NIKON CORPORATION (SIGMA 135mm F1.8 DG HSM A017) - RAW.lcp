@@ -1,0 +1,1380 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c128 79.159124, 2016/03/18-14:01:55        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.294859"
+        stCamera:RadialDistortParam2="-2.213616"
+        stCamera:RadialDistortParam3="-1.292747">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.01511"
+         stCamera:VignetteModelParam1="-58.650463"
+         stCamera:VignetteModelParam2="2986.319484"
+         stCamera:VignetteModelParam3="-63490.100691">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.012283, 0.974055</rdf:li>
+          <rdf:li>0.042425, 0.875487</rdf:li>
+          <rdf:li>0.103764, 0.647305</rdf:li>
+          <rdf:li>0.136726, 0.512433</rdf:li>
+          <rdf:li>0.161198, 0.401826</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="0.875"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.75127"
+        stCamera:RadialDistortParam2="-0.877344"
+        stCamera:RadialDistortParam3="2.630938">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002203"
+        stCamera:VignetteModelParam1="-29.552274"
+        stCamera:VignetteModelParam2="1089.014231"
+        stCamera:VignetteModelParam3="-21149.281656"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="6"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.318023"
+        stCamera:RadialDistortParam2="-2.131454"
+        stCamera:RadialDistortParam3="-1.450687">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.01552"
+         stCamera:VignetteModelParam1="-57.702449"
+         stCamera:VignetteModelParam2="2998.182628"
+         stCamera:VignetteModelParam3="-64240.510732">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.044778, 0.868823</rdf:li>
+          <rdf:li>0.110899, 0.631359</rdf:li>
+          <rdf:li>0.137066, 0.529008</rdf:li>
+          <rdf:li>0.161301, 0.421750</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="4"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.333598"
+        stCamera:RadialDistortParam2="-2.069633"
+        stCamera:RadialDistortParam3="-1.529701">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.015694"
+         stCamera:VignetteModelParam1="-56.955797"
+         stCamera:VignetteModelParam2="2979.20488"
+         stCamera:VignetteModelParam3="-64012.160625">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.055484, 0.834502</rdf:li>
+          <rdf:li>0.113965, 0.626856</rdf:li>
+          <rdf:li>0.138815, 0.530881</rdf:li>
+          <rdf:li>0.161372, 0.431697</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.352722"
+        stCamera:RadialDistortParam2="-2.013545"
+        stCamera:RadialDistortParam3="-0.979919">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.013431"
+         stCamera:VignetteModelParam1="-53.857391"
+         stCamera:VignetteModelParam2="2740.928844"
+         stCamera:VignetteModelParam3="-58354.114087">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.010758, 0.982899</rdf:li>
+          <rdf:li>0.038354, 0.898651</rdf:li>
+          <rdf:li>0.096880, 0.700604</rdf:li>
+          <rdf:li>0.132273, 0.570550</rdf:li>
+          <rdf:li>0.161458, 0.446600</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.402795"
+        stCamera:RadialDistortParam2="-1.832633"
+        stCamera:RadialDistortParam3="-0.419715">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.009452"
+         stCamera:VignetteModelParam1="-47.904772"
+         stCamera:VignetteModelParam2="2305.235271"
+         stCamera:VignetteModelParam3="-48340.177101">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.009310, 0.995006</rdf:li>
+          <rdf:li>0.024297, 0.955107</rdf:li>
+          <rdf:li>0.080982, 0.777720</rdf:li>
+          <rdf:li>0.135821, 0.584991</rdf:li>
+          <rdf:li>0.161684, 0.475355</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.467588"
+        stCamera:RadialDistortParam2="-1.617084"
+        stCamera:RadialDistortParam3="0.41262">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.006411"
+         stCamera:VignetteModelParam1="-42.322504"
+         stCamera:VignetteModelParam2="1904.283745"
+         stCamera:VignetteModelParam3="-39123.777285">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.010445, 0.996446</rdf:li>
+          <rdf:li>0.022771, 0.970690</rdf:li>
+          <rdf:li>0.083859, 0.788197</rdf:li>
+          <rdf:li>0.137991, 0.604811</rdf:li>
+          <rdf:li>0.161976, 0.505027</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.3"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.51779"
+        stCamera:RadialDistortParam2="-1.453045"
+        stCamera:RadialDistortParam3="0.739952">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.004934"
+         stCamera:VignetteModelParam1="-38.827159"
+         stCamera:VignetteModelParam2="1658.682783"
+         stCamera:VignetteModelParam3="-33509.016275">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.020149, 0.982803</rdf:li>
+          <rdf:li>0.084047, 0.800705</rdf:li>
+          <rdf:li>0.139654, 0.616082</rdf:li>
+          <rdf:li>0.162200, 0.523782</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.1"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.598327"
+        stCamera:RadialDistortParam2="-1.227362"
+        stCamera:RadialDistortParam3="1.640374">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003336"
+        stCamera:VignetteModelParam1="-34.604556"
+        stCamera:VignetteModelParam2="1380.171238"
+        stCamera:VignetteModelParam3="-27284.51944"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.654059"
+        stCamera:RadialDistortParam2="-1.075437"
+        stCamera:RadialDistortParam3="1.842867">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002743"
+        stCamera:VignetteModelParam1="-32.178566"
+        stCamera:VignetteModelParam2="1224.598864"
+        stCamera:VignetteModelParam3="-23877.682391"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.294859"
+        stCamera:RadialDistortParam2="-2.213616"
+        stCamera:RadialDistortParam3="-1.292747">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002175"
+        stCamera:VignetteModelParam1="-1.05597"
+        stCamera:VignetteModelParam2="-476.009095"
+        stCamera:VignetteModelParam3="2147.536465"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="0.875"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.75127"
+        stCamera:RadialDistortParam2="-0.877344"
+        stCamera:RadialDistortParam3="2.630938">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00138"
+        stCamera:VignetteModelParam1="-5.013425"
+        stCamera:VignetteModelParam2="35.675879"
+        stCamera:VignetteModelParam3="-4300.205537"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="6"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.318023"
+        stCamera:RadialDistortParam2="-2.131454"
+        stCamera:RadialDistortParam3="-1.450687">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002122"
+        stCamera:VignetteModelParam1="-1.675364"
+        stCamera:VignetteModelParam2="-369.45833"
+        stCamera:VignetteModelParam3="419.803302"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="4"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.333598"
+        stCamera:RadialDistortParam2="-2.069633"
+        stCamera:RadialDistortParam3="-1.529701">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002274"
+        stCamera:VignetteModelParam1="-1.852695"
+        stCamera:VignetteModelParam2="-338.622625"
+        stCamera:VignetteModelParam3="212.701972"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.352722"
+        stCamera:RadialDistortParam2="-2.013545"
+        stCamera:RadialDistortParam3="-0.979919">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002322"
+        stCamera:VignetteModelParam1="-2.052157"
+        stCamera:VignetteModelParam2="-308.699226"
+        stCamera:VignetteModelParam3="93.828586"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.402795"
+        stCamera:RadialDistortParam2="-1.832633"
+        stCamera:RadialDistortParam3="-0.419715">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002175"
+        stCamera:VignetteModelParam1="-2.498806"
+        stCamera:VignetteModelParam2="-245.246909"
+        stCamera:VignetteModelParam3="-372.28314"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.467588"
+        stCamera:RadialDistortParam2="-1.617084"
+        stCamera:RadialDistortParam3="0.41262">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002197"
+        stCamera:VignetteModelParam1="-3.068058"
+        stCamera:VignetteModelParam2="-181.283927"
+        stCamera:VignetteModelParam3="-872.287931"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.3"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.51779"
+        stCamera:RadialDistortParam2="-1.453045"
+        stCamera:RadialDistortParam3="0.739952">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002132"
+        stCamera:VignetteModelParam1="-3.404455"
+        stCamera:VignetteModelParam2="-137.48187"
+        stCamera:VignetteModelParam3="-1531.458388"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.1"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.598327"
+        stCamera:RadialDistortParam2="-1.227362"
+        stCamera:RadialDistortParam3="1.640374">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001878"
+        stCamera:VignetteModelParam1="-3.977619"
+        stCamera:VignetteModelParam2="-75.447336"
+        stCamera:VignetteModelParam3="-2355.897075"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.654059"
+        stCamera:RadialDistortParam2="-1.075437"
+        stCamera:RadialDistortParam3="1.842867">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00173"
+        stCamera:VignetteModelParam1="-4.2902"
+        stCamera:VignetteModelParam2="-39.268495"
+        stCamera:VignetteModelParam3="-2943.255768"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.294859"
+        stCamera:RadialDistortParam2="-2.213616"
+        stCamera:RadialDistortParam3="-1.292747">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001905"
+        stCamera:VignetteModelParam1="-5.306183"
+        stCamera:VignetteModelParam2="316.354494"
+        stCamera:VignetteModelParam3="-12596.453524"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="0.875"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.75127"
+        stCamera:RadialDistortParam2="-0.877344"
+        stCamera:RadialDistortParam3="2.630938">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00023"
+        stCamera:VignetteModelParam1="-5.464803"
+        stCamera:VignetteModelParam2="30.939722"
+        stCamera:VignetteModelParam3="-283.62006"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="6"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.318023"
+        stCamera:RadialDistortParam2="-2.131454"
+        stCamera:RadialDistortParam3="-1.450687">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001638"
+        stCamera:VignetteModelParam1="-5.196976"
+        stCamera:VignetteModelParam2="245.503715"
+        stCamera:VignetteModelParam3="-9187.04853"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="4"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.333598"
+        stCamera:RadialDistortParam2="-2.069633"
+        stCamera:RadialDistortParam3="-1.529701">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001384"
+        stCamera:VignetteModelParam1="-5.104256"
+        stCamera:VignetteModelParam2="205.879449"
+        stCamera:VignetteModelParam3="-7446.170184"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.352722"
+        stCamera:RadialDistortParam2="-2.013545"
+        stCamera:RadialDistortParam3="-0.979919">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001344"
+        stCamera:VignetteModelParam1="-4.959278"
+        stCamera:VignetteModelParam2="156.896865"
+        stCamera:VignetteModelParam3="-5435.890261"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.402795"
+        stCamera:RadialDistortParam2="-1.832633"
+        stCamera:RadialDistortParam3="-0.419715">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000676"
+        stCamera:VignetteModelParam1="-4.757077"
+        stCamera:VignetteModelParam2="79.265995"
+        stCamera:VignetteModelParam3="-2329.120531"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.467588"
+        stCamera:RadialDistortParam2="-1.617084"
+        stCamera:RadialDistortParam3="0.41262">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000372"
+        stCamera:VignetteModelParam1="-4.757731"
+        stCamera:VignetteModelParam2="35.447642"
+        stCamera:VignetteModelParam3="-666.198247"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.3"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.51779"
+        stCamera:RadialDistortParam2="-1.453045"
+        stCamera:RadialDistortParam3="0.739952">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000216"
+        stCamera:VignetteModelParam1="-4.878546"
+        stCamera:VignetteModelParam2="26.026966"
+        stCamera:VignetteModelParam3="-216.96536"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.1"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.598327"
+        stCamera:RadialDistortParam2="-1.227362"
+        stCamera:RadialDistortParam3="1.640374">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000246"
+        stCamera:VignetteModelParam1="-5.019393"
+        stCamera:VignetteModelParam2="18.30343"
+        stCamera:VignetteModelParam3="-22.604563"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.654059"
+        stCamera:RadialDistortParam2="-1.075437"
+        stCamera:RadialDistortParam3="1.842867">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000236"
+        stCamera:VignetteModelParam1="-5.220963"
+        stCamera:VignetteModelParam2="24.422059"
+        stCamera:VignetteModelParam3="-138.775001"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.294859"
+        stCamera:RadialDistortParam2="-2.213616"
+        stCamera:RadialDistortParam3="-1.292747">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000257"
+        stCamera:VignetteModelParam1="-3.890132"
+        stCamera:VignetteModelParam2="25.795311"
+        stCamera:VignetteModelParam3="-303.199757"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="0.875"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.75127"
+        stCamera:RadialDistortParam2="-0.877344"
+        stCamera:RadialDistortParam3="2.630938">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000199"
+        stCamera:VignetteModelParam1="-5.467407"
+        stCamera:VignetteModelParam2="23.480301"
+        stCamera:VignetteModelParam3="-39.024479"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="6"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.318023"
+        stCamera:RadialDistortParam2="-2.131454"
+        stCamera:RadialDistortParam3="-1.450687">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000253"
+        stCamera:VignetteModelParam1="-3.957934"
+        stCamera:VignetteModelParam2="10.53451"
+        stCamera:VignetteModelParam3="102.954298"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="4"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.333598"
+        stCamera:RadialDistortParam2="-2.069633"
+        stCamera:RadialDistortParam3="-1.529701">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000274"
+        stCamera:VignetteModelParam1="-4.072373"
+        stCamera:VignetteModelParam2="11.257319"
+        stCamera:VignetteModelParam3="141.05639"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.352722"
+        stCamera:RadialDistortParam2="-2.013545"
+        stCamera:RadialDistortParam3="-0.979919">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000208"
+        stCamera:VignetteModelParam1="-4.25954"
+        stCamera:VignetteModelParam2="23.980559"
+        stCamera:VignetteModelParam3="-255.270791"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.402795"
+        stCamera:RadialDistortParam2="-1.832633"
+        stCamera:RadialDistortParam3="-0.419715">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000221"
+        stCamera:VignetteModelParam1="-4.558827"
+        stCamera:VignetteModelParam2="32.127121"
+        stCamera:VignetteModelParam3="-489.182091"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.467588"
+        stCamera:RadialDistortParam2="-1.617084"
+        stCamera:RadialDistortParam3="0.41262">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000232"
+        stCamera:VignetteModelParam1="-4.698586"
+        stCamera:VignetteModelParam2="18.535307"
+        stCamera:VignetteModelParam3="-28.00522"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.3"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.51779"
+        stCamera:RadialDistortParam2="-1.453045"
+        stCamera:RadialDistortParam3="0.739952">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00026"
+        stCamera:VignetteModelParam1="-4.86358"
+        stCamera:VignetteModelParam2="20.357733"
+        stCamera:VignetteModelParam3="-81.751325"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.1"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.598327"
+        stCamera:RadialDistortParam2="-1.227362"
+        stCamera:RadialDistortParam3="1.640374">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000293"
+        stCamera:VignetteModelParam1="-5.138395"
+        stCamera:VignetteModelParam2="27.264297"
+        stCamera:VignetteModelParam3="-262.526811"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="196"
+       stCamera:Lens="135.0 mm f/1.8"
+       stCamera:LensInfo="1350/10 1350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.654059"
+        stCamera:RadialDistortParam2="-1.075437"
+        stCamera:RadialDistortParam3="1.842867">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000257"
+        stCamera:VignetteModelParam1="-5.218327"
+        stCamera:VignetteModelParam2="20.522291"
+        stCamera:VignetteModelParam3="-51.840432"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

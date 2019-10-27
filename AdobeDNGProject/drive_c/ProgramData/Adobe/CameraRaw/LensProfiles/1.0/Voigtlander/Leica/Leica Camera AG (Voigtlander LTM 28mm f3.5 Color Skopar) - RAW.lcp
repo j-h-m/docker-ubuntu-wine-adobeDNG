@@ -1,0 +1,124 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156380, 2014/05/21-23:38:37        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="28mm f/3.5"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Voigtlander LTM 28mm f/3.5 Color Skopar"
+       stCamera:ProfileName="Adobe (Voigtlander LTM 28mm f/3.5 Color Skopar)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6048"
+       stCamera:ImageLength="4024"
+       stCamera:FocusDistance="1.517337">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.802514"
+        stCamera:FocalLengthY="0.802514"
+        stCamera:ImageXCenter="0.505182"
+        stCamera:ImageYCenter="0.495304"
+        stCamera:ResidualMeanError="0.000086"
+        stCamera:ResidualStandardDeviation="0.000063"
+        stCamera:RadialDistortParam1="0.001878"
+        stCamera:RadialDistortParam2="-0.007338"
+        stCamera:RadialDistortParam3="0.00686">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.802622"
+        stCamera:FocalLengthY="0.802622"
+        stCamera:ImageXCenter="0.505169"
+        stCamera:ImageYCenter="0.495288"
+        stCamera:ResidualMeanError="0.000084"
+        stCamera:ResidualStandardDeviation="0.000063"
+        stCamera:ScaleFactor="1.000049"
+        stCamera:RadialDistortParam1="0.000052"
+        stCamera:RadialDistortParam2="-0.000174"
+        stCamera:RadialDistortParam3="-0.000146"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.802622"
+        stCamera:FocalLengthY="0.802622"
+        stCamera:ImageXCenter="0.505169"
+        stCamera:ImageYCenter="0.495288"
+        stCamera:ResidualMeanError="0.000083"
+        stCamera:ResidualStandardDeviation="0.000063"
+        stCamera:RadialDistortParam1="0.002022"
+        stCamera:RadialDistortParam2="-0.007809"
+        stCamera:RadialDistortParam3="0.007334"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.802622"
+        stCamera:FocalLengthY="0.802622"
+        stCamera:ImageXCenter="0.505169"
+        stCamera:ImageYCenter="0.495288"
+        stCamera:ResidualMeanError="0.000084"
+        stCamera:ResidualStandardDeviation="0.000064"
+        stCamera:ScaleFactor="0.999847"
+        stCamera:RadialDistortParam1="-0.000432"
+        stCamera:RadialDistortParam2="0.001127"
+        stCamera:RadialDistortParam3="-0.00065"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="28mm f/3.5"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Voigtlander LTM 28mm f/3.5 Color Skopar"
+       stCamera:ProfileName="Adobe (Voigtlander LTM 28mm f/3.5 Color Skopar)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6048"
+       stCamera:ImageLength="4024"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.802622"
+        stCamera:FocalLengthY="0.802622"
+        stCamera:ImageXCenter="0.505169"
+        stCamera:ImageYCenter="0.495288"
+        stCamera:RadialDistortParam1="0.002022"
+        stCamera:RadialDistortParam2="-0.007809"
+        stCamera:RadialDistortParam3="0.007334">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.802622"
+         stCamera:FocalLengthY="0.802622"
+         stCamera:VignetteModelParam1="-2.939157"
+         stCamera:VignetteModelParam2="4.314379"
+         stCamera:VignetteModelParam3="-2.928324">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.004869, 1.000000</rdf:li>
+          <rdf:li>0.072380, 0.989793</rdf:li>
+          <rdf:li>0.140522, 0.946146</rdf:li>
+          <rdf:li>0.214725, 0.883094</rdf:li>
+          <rdf:li>0.285770, 0.801063</rdf:li>
+          <rdf:li>0.337075, 0.736098</rdf:li>
+          <rdf:li>0.568317, 0.410579</rdf:li>
+          <rdf:li>0.657289, 0.284742</rdf:li>
+          <rdf:li>0.721126, 0.213982</rdf:li>
+          <rdf:li>0.748103, 0.185965</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

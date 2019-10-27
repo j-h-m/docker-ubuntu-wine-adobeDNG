@@ -1,0 +1,300 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="61"
+       stCamera:Lens="85mm F2.8 SAM"
+       stCamera:LensInfo="850/10 850/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 85mm F2.8 SAM"
+       stCamera:ProfileName="Adobe (Sony 85mm F2.8 SAM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:ScaleFactor="0.993825"
+       stCamera:RadialDistortParam1="0.152927"
+       stCamera:RadialDistortParam2="-1.027076"
+       stCamera:RadialDistortParam3="2.190566"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="61"
+       stCamera:Lens="85mm F2.8 SAM"
+       stCamera:LensInfo="850/10 850/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 85mm F2.8 SAM"
+       stCamera:ProfileName="Adobe (Sony 85mm F2.8 SAM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.993825"
+        stCamera:RadialDistortParam1="0.152927"
+        stCamera:RadialDistortParam2="-1.027076"
+        stCamera:RadialDistortParam3="2.190566">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-8.120264"
+         stCamera:VignetteModelParam2="21.163475"
+         stCamera:VignetteModelParam3="260.022262">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003700, 1.000000</rdf:li>
+          <rdf:li>0.044560, 0.987183</rdf:li>
+          <rdf:li>0.083223, 0.949086</rdf:li>
+          <rdf:li>0.096681, 0.929017</rdf:li>
+          <rdf:li>0.097863, 0.926726</rdf:li>
+          <rdf:li>0.099308, 0.923981</rdf:li>
+          <rdf:li>0.167570, 0.797729</rdf:li>
+          <rdf:li>0.186886, 0.752077</rdf:li>
+          <rdf:li>0.191031, 0.742408</rdf:li>
+          <rdf:li>0.254279, 0.619781</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="61"
+       stCamera:Lens="85mm F2.8 SAM"
+       stCamera:LensInfo="850/10 850/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 85mm F2.8 SAM"
+       stCamera:ProfileName="Adobe (Sony 85mm F2.8 SAM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.993825"
+        stCamera:RadialDistortParam1="0.152927"
+        stCamera:RadialDistortParam2="-1.027076"
+        stCamera:RadialDistortParam3="2.190566">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.591949"
+         stCamera:VignetteModelParam2="-172.058715"
+         stCamera:VignetteModelParam3="1816.120314">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001655, 1.000000</rdf:li>
+          <rdf:li>0.059783, 0.989940</rdf:li>
+          <rdf:li>0.122474, 0.953240</rdf:li>
+          <rdf:li>0.126435, 0.946441</rdf:li>
+          <rdf:li>0.163366, 0.868694</rdf:li>
+          <rdf:li>0.193567, 0.788798</rdf:li>
+          <rdf:li>0.216817, 0.728592</rdf:li>
+          <rdf:li>0.254279, 0.646396</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="61"
+       stCamera:Lens="85mm F2.8 SAM"
+       stCamera:LensInfo="850/10 850/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 85mm F2.8 SAM"
+       stCamera:ProfileName="Adobe (Sony 85mm F2.8 SAM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.993825"
+        stCamera:RadialDistortParam1="0.152927"
+        stCamera:RadialDistortParam2="-1.027076"
+        stCamera:RadialDistortParam3="2.190566">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-3.354329"
+         stCamera:VignetteModelParam2="38.965434"
+         stCamera:VignetteModelParam3="-1006.017609">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001655, 1.000000</rdf:li>
+          <rdf:li>0.096112, 0.975046</rdf:li>
+          <rdf:li>0.182947, 0.898396</rdf:li>
+          <rdf:li>0.205054, 0.853596</rdf:li>
+          <rdf:li>0.254279, 0.676619</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="61"
+       stCamera:Lens="85mm F2.8 SAM"
+       stCamera:LensInfo="850/10 850/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 85mm F2.8 SAM"
+       stCamera:ProfileName="Adobe (Sony 85mm F2.8 SAM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.993825"
+        stCamera:RadialDistortParam1="0.152927"
+        stCamera:RadialDistortParam2="-1.027076"
+        stCamera:RadialDistortParam3="2.190566">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-3.773915"
+         stCamera:VignetteModelParam2="23.867628"
+         stCamera:VignetteModelParam3="-207.985359">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001655, 1.000000</rdf:li>
+          <rdf:li>0.096112, 0.971520</rdf:li>
+          <rdf:li>0.177661, 0.896436</rdf:li>
+          <rdf:li>0.240667, 0.817689</rdf:li>
+          <rdf:li>0.254279, 0.774500</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="61"
+       stCamera:Lens="85mm F2.8 SAM"
+       stCamera:LensInfo="850/10 850/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 85mm F2.8 SAM"
+       stCamera:ProfileName="Adobe (Sony 85mm F2.8 SAM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.993825"
+        stCamera:RadialDistortParam1="0.152927"
+        stCamera:RadialDistortParam2="-1.027076"
+        stCamera:RadialDistortParam3="2.190566">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-3.751687"
+         stCamera:VignetteModelParam2="10.717584"
+         stCamera:VignetteModelParam3="15.341833">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001655, 1.000000</rdf:li>
+          <rdf:li>0.117824, 0.953599</rdf:li>
+          <rdf:li>0.254279, 0.796243</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="61"
+       stCamera:Lens="85mm F2.8 SAM"
+       stCamera:LensInfo="850/10 850/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 85mm F2.8 SAM"
+       stCamera:ProfileName="Adobe (Sony 85mm F2.8 SAM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.993825"
+        stCamera:RadialDistortParam1="0.152927"
+        stCamera:RadialDistortParam2="-1.027076"
+        stCamera:RadialDistortParam3="2.190566">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-5.019611"
+         stCamera:VignetteModelParam2="44.300449"
+         stCamera:VignetteModelParam3="-215.387643">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001655, 1.000000</rdf:li>
+          <rdf:li>0.010597, 0.985155</rdf:li>
+          <rdf:li>0.037336, 0.980223</rdf:li>
+          <rdf:li>0.134577, 0.926859</rdf:li>
+          <rdf:li>0.254279, 0.785757</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

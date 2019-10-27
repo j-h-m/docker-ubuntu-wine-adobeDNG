@@ -1,0 +1,40 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="46"
+       stCamera:Lens="Leica Summarit-M 90mm f/2.5"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARIT-M 90 mm f/2.5"
+       stCamera:ProfileName="Adobe (Leica SUMMARIT-M 90 mm f/2.5)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="90"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>Summarit-M 1:2.5/90</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:ResidualMeanError="0.000005"
+       stCamera:ResidualStandardDeviation="0.000004"
+       stCamera:RadialDistortParam1="0.224678"
+       stCamera:RadialDistortParam2="-0.835613"
+       stCamera:RadialDistortParam3="-15.500329"/>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

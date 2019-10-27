@@ -1,0 +1,48 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c007 1.136881, 2010/06/10-18:11:35        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG (www.leica-camera.com)"
+       stCamera:Make="Leica Camera AG"
+       stCamera:Model="Leica S"
+       stCamera:UniqueCameraModel="Leica S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Leica S"
+       stCamera:LensPrettyName="Leica S HC 3,2/150"
+       stCamera:ProfileName="Leica S HC 3,2/150"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:ImageWidth="7520"
+       stCamera:ImageLength="5000"
+       stCamera:FocalLength="150"
+       stCamera:FocusDistance="9.386515"
+       stCamera:ApertureValue="3.356144">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.719699"
+        stCamera:FocalLengthY="4.719699"
+        stCamera:ResidualMeanError="0.000086"
+        stCamera:ResidualStandardDeviation="0.00005"
+        stCamera:RadialDistortParam1="0.063636"
+        stCamera:RadialDistortParam2="-8.44649">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.719699"
+        stCamera:FocalLengthY="4.719699"
+        stCamera:ResidualMeanError="0.023795"
+        stCamera:VignetteModelParam1="-52.920109"
+        stCamera:VignetteModelParam2="3805.098877"
+        stCamera:VignetteModelParam3="-141087.40625"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

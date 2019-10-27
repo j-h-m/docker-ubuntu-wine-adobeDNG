@@ -1,0 +1,1274 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.2-c004 1.136881, 2010/06/10-18:11:35        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.85947</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.587244</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.587244</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000113</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000091</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.060391</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-1.029642</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>12.576216</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.587618</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.587618</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000106</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000082</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000154</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.001621</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.014624</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.322799</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.587618</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.587618</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000105</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000082</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.061324</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.98664</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>12.105751</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.587618</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.587618</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000105</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000082</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999781</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.000492</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.047205</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.358174</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.819895</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.383889</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.383889</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000087</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000115</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.18018</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.012796</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-8.816214</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.384073</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.384073</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000086</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000114</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000017</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.001043</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.009542</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.006645</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.384073</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.384073</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000086</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000114</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.180185</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>1.018125</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-8.854804</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.384073</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.384073</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000086</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000114</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999905</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.001157</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.024349</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.117133</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>7.269374</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.405549</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.405549</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.00058</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.00095</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.270772</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>7.45218</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-81.537587</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.405398</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.405398</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000581</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.00095</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.99991</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.001105</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.006583</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.012611</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.405398</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.405398</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.00058</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.00095</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.270631</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>7.449659</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-81.485192</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.405398</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.405398</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.00058</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.00095</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000011</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.001338</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.013486</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.006303</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.84</stCamera:FocusDistance>
+      <stCamera:ApertureValue>0.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.587618</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.587618</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.061324</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-0.98664</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>12.105751</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.587618</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.587618</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-8.396405</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-44.401185</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>199.169837</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.84</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.587618</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.587618</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.061324</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-0.98664</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>12.105751</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.587618</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.587618</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.015094</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-218.290442</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>1523.014211</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.84</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.587618</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.587618</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.061324</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-0.98664</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>12.105751</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.587618</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.587618</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.764676</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>123.303548</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-3378.577958</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.84</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.587618</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.587618</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.061324</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-0.98664</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>12.105751</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.587618</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.587618</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.434229</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>58.483354</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-1208.099221</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.84</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.587618</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.587618</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.061324</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-0.98664</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>12.105751</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.587618</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.587618</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.742348</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-1.08987</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-121.548023</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.84</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.587618</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.587618</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.061324</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-0.98664</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>12.105751</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.587618</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.587618</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.116103</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>17.541361</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-388.95511</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.84</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.587618</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.587618</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.061324</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-0.98664</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>12.105751</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.587618</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.587618</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.519898</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>31.926297</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-548.504845</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.84</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.587618</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.587618</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.061324</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-0.98664</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>12.105751</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.587618</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.587618</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.75387</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>38.573271</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-599.710261</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.11</stCamera:FocusDistance>
+      <stCamera:ApertureValue>0.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.387984</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.387984</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.21772</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>3.694615</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-38.628533</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.387984</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.387984</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-17.524514</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>178.242747</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-1144.432249</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.11</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.387984</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.387984</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.21772</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>3.694615</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-38.628533</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.387984</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.387984</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.705737</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-137.238379</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>451.256512</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.11</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.387984</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.387984</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.21772</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>3.694615</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-38.628533</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.387984</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.387984</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.421928</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>113.832665</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2201.35004</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.11</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.387984</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.387984</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.21772</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>3.694615</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-38.628533</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.387984</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.387984</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.598633</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>41.056824</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-577.063432</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.11</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.387984</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.387984</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.21772</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>3.694615</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-38.628533</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.387984</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.387984</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.243846</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>17.794522</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-220.729163</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.11</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.387984</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.387984</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.21772</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>3.694615</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-38.628533</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.387984</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.387984</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.662962</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>32.359222</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-377.410398</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.11</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.387984</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.387984</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.21772</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>3.694615</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-38.628533</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.387984</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.387984</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.938594</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>41.49213</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-470.634682</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.11</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.387984</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.387984</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.21772</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>3.694615</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-38.628533</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.387984</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.387984</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.061797</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>44.422185</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-489.965217</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>3.98</stCamera:FocusDistance>
+      <stCamera:ApertureValue>0.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.399512</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.399512</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.256458</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>6.439332</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-69.768908</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.399512</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.399512</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-22.83329</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>337.342793</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2505.937375</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>3.98</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.399512</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.399512</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.256458</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>6.439332</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-69.768908</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.399512</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.399512</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.096416</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-199.053201</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>1084.357049</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>3.98</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.399512</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.399512</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.256458</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>6.439332</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-69.768908</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.399512</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.399512</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.64551</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>126.834049</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2411.935142</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>3.98</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.399512</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.399512</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.256458</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>6.439332</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-69.768908</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.399512</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.399512</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.182501</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>22.09255</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-327.417643</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>3.98</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.399512</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.399512</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.256458</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>6.439332</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-69.768908</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.399512</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.399512</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.283931</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>17.973773</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-211.807523</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>3.98</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.399512</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.399512</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.256458</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>6.439332</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-69.768908</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.399512</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.399512</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.741726</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>35.513375</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-420.171095</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>3.98</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.399512</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.399512</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.256458</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>6.439332</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-69.768908</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.399512</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.399512</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.000005</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>42.273139</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-467.41075</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>3.98</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.399512</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.399512</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.256458</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>6.439332</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-69.768908</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.399512</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.399512</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.049202</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>43.67203</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-484.125205</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>0.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.405398</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.405398</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.270631</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>7.449659</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-81.485192</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.405398</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.405398</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-29.267774</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>535.746025</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-4205.469525</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.405398</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.405398</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.270631</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>7.449659</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-81.485192</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.405398</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.405398</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-4.249845</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-257.786626</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>2469.146333</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.405398</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.405398</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.270631</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>7.449659</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-81.485192</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.405398</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.405398</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-3.387224</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>177.631702</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-3431.417936</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.405398</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.405398</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.270631</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>7.449659</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-81.485192</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.405398</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.405398</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.921088</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>10.525408</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-195.623308</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.405398</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.405398</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.270631</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>7.449659</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-81.485192</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.405398</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.405398</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.41866</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>19.498955</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-200.816273</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.405398</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.405398</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.270631</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>7.449659</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-81.485192</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.405398</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.405398</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.801824</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>36.56165</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-430.5651</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.405398</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.405398</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.270631</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>7.449659</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-81.485192</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.405398</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.405398</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.857187</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>36.674298</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-413.881219</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>174</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/1.4</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 14/10 14/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 85mm f/1.4G</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 85mm f/1.4G)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.405398</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.405398</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.270631</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>7.449659</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-81.485192</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.405398</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.405398</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.067963</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>43.918696</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-490.387963</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

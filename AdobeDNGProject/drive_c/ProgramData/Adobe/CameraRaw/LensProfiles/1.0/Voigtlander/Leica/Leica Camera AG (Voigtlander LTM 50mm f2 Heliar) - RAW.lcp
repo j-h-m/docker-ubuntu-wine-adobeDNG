@@ -1,0 +1,97 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156380, 2014/05/21-23:38:37        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="50mm f/2"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Voigtlander LTM 50mm f/2 Heliar"
+       stCamera:ProfileName="Adobe (Voigtlander LTM 50mm f/2 Heliar)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6048"
+       stCamera:ImageLength="4024"
+       stCamera:FocusDistance="2.824673">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.395615"
+        stCamera:FocalLengthY="1.395615"
+        stCamera:ResidualMeanError="0.000227"
+        stCamera:ResidualStandardDeviation="0.00037"
+        stCamera:RadialDistortParam1="0.059823"
+        stCamera:RadialDistortParam2="0.305587"
+        stCamera:RadialDistortParam3="-1.481742">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.39565"
+        stCamera:FocalLengthY="1.39565"
+        stCamera:ResidualMeanError="0.000227"
+        stCamera:ResidualStandardDeviation="0.00037"
+        stCamera:ScaleFactor="1.000044"
+        stCamera:RadialDistortParam1="-0.000424"
+        stCamera:RadialDistortParam2="-0.002398"
+        stCamera:RadialDistortParam3="0.016446"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.39565"
+        stCamera:FocalLengthY="1.39565"
+        stCamera:ResidualMeanError="0.000227"
+        stCamera:ResidualStandardDeviation="0.00037"
+        stCamera:RadialDistortParam1="0.059623"
+        stCamera:RadialDistortParam2="0.305668"
+        stCamera:RadialDistortParam3="-1.480842"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.39565"
+        stCamera:FocalLengthY="1.39565"
+        stCamera:ResidualMeanError="0.000227"
+        stCamera:ResidualStandardDeviation="0.00037"
+        stCamera:ScaleFactor="0.999963"
+        stCamera:RadialDistortParam1="0.001002"
+        stCamera:RadialDistortParam2="0.002432"
+        stCamera:RadialDistortParam3="-0.020336"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="50mm f/2"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Voigtlander LTM 50mm f/2 Heliar"
+       stCamera:ProfileName="Adobe (Voigtlander LTM 50mm f/2 Heliar)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6048"
+       stCamera:ImageLength="4024"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.39565"
+        stCamera:FocalLengthY="1.39565"
+        stCamera:RadialDistortParam1="0.059623"
+        stCamera:RadialDistortParam2="0.305668"
+        stCamera:RadialDistortParam3="-1.480842">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.39565"
+        stCamera:FocalLengthY="1.39565"
+        stCamera:VignetteModelParam1="-1.894456"
+        stCamera:VignetteModelParam2="4.132106"
+        stCamera:VignetteModelParam3="-3.92952"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

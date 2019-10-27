@@ -1,0 +1,428 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="70"
+       stCamera:Lens="50mm F1.4 ZA SSM"
+       stCamera:LensInfo="500/10 500/10 14/10 14/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 50mm F1.4 ZA SSM"
+       stCamera:ProfileName="Adobe (Sony 50mm F1.4 ZA SSM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:ScaleFactor="1.007892"
+       stCamera:RadialDistortParam1="-0.130213"
+       stCamera:RadialDistortParam2="-0.133164"
+       stCamera:RadialDistortParam3="0.357423"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="70"
+       stCamera:Lens="50mm F1.4 ZA SSM"
+       stCamera:LensInfo="500/10 500/10 14/10 14/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 50mm F1.4 ZA SSM"
+       stCamera:ProfileName="Adobe (Sony 50mm F1.4 ZA SSM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.007892"
+        stCamera:RadialDistortParam1="-0.130213"
+        stCamera:RadialDistortParam2="-0.133164"
+        stCamera:RadialDistortParam3="0.357423">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-7.58154"
+         stCamera:VignetteModelParam2="52.835188"
+         stCamera:VignetteModelParam3="-138.624911">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002813, 1.000000</rdf:li>
+          <rdf:li>0.008440, 0.999063</rdf:li>
+          <rdf:li>0.042944, 0.974080</rdf:li>
+          <rdf:li>0.111580, 0.882270</rdf:li>
+          <rdf:li>0.136584, 0.842512</rdf:li>
+          <rdf:li>0.376450, 0.577433</rdf:li>
+          <rdf:li>0.387637, 0.558654</rdf:li>
+          <rdf:li>0.432274, 0.495340</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="70"
+       stCamera:Lens="50mm F1.4 ZA SSM"
+       stCamera:LensInfo="500/10 500/10 14/10 14/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 50mm F1.4 ZA SSM"
+       stCamera:ProfileName="Adobe (Sony 50mm F1.4 ZA SSM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.007892"
+        stCamera:RadialDistortParam1="-0.130213"
+        stCamera:RadialDistortParam2="-0.133164"
+        stCamera:RadialDistortParam3="0.357423">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.233617"
+         stCamera:VignetteModelParam2="-26.010887"
+         stCamera:VignetteModelParam3="80.609179">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002813, 1.000000</rdf:li>
+          <rdf:li>0.169945, 0.969149</rdf:li>
+          <rdf:li>0.251144, 0.917973</rdf:li>
+          <rdf:li>0.378128, 0.671683</rdf:li>
+          <rdf:li>0.432274, 0.541815</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="70"
+       stCamera:Lens="50mm F1.4 ZA SSM"
+       stCamera:LensInfo="500/10 500/10 14/10 14/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 50mm F1.4 ZA SSM"
+       stCamera:ProfileName="Adobe (Sony 50mm F1.4 ZA SSM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.007892"
+        stCamera:RadialDistortParam1="-0.130213"
+        stCamera:RadialDistortParam2="-0.133164"
+        stCamera:RadialDistortParam3="0.357423">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.511228"
+         stCamera:VignetteModelParam2="13.669713"
+         stCamera:VignetteModelParam3="-84.171087">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002813, 1.000000</rdf:li>
+          <rdf:li>0.088116, 0.994857</rdf:li>
+          <rdf:li>0.183730, 0.967102</rdf:li>
+          <rdf:li>0.287304, 0.912660</rdf:li>
+          <rdf:li>0.352116, 0.863579</rdf:li>
+          <rdf:li>0.378756, 0.820709</rdf:li>
+          <rdf:li>0.432274, 0.642341</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="70"
+       stCamera:Lens="50mm F1.4 ZA SSM"
+       stCamera:LensInfo="500/10 500/10 14/10 14/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 50mm F1.4 ZA SSM"
+       stCamera:ProfileName="Adobe (Sony 50mm F1.4 ZA SSM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.007892"
+        stCamera:RadialDistortParam1="-0.130213"
+        stCamera:RadialDistortParam2="-0.133164"
+        stCamera:RadialDistortParam3="0.357423">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.2347"
+         stCamera:VignetteModelParam2="1.798403"
+         stCamera:VignetteModelParam3="-6.429197">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002813, 1.000000</rdf:li>
+          <rdf:li>0.115346, 0.986219</rdf:li>
+          <rdf:li>0.236470, 0.935133</rdf:li>
+          <rdf:li>0.343237, 0.866820</rdf:li>
+          <rdf:li>0.432274, 0.781806</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="70"
+       stCamera:Lens="50mm F1.4 ZA SSM"
+       stCamera:LensInfo="500/10 500/10 14/10 14/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 50mm F1.4 ZA SSM"
+       stCamera:ProfileName="Adobe (Sony 50mm F1.4 ZA SSM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.007892"
+        stCamera:RadialDistortParam1="-0.130213"
+        stCamera:RadialDistortParam2="-0.133164"
+        stCamera:RadialDistortParam3="0.357423">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.264551"
+         stCamera:VignetteModelParam2="1.958015"
+         stCamera:VignetteModelParam3="-6.00183">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002813, 1.000000</rdf:li>
+          <rdf:li>0.105902, 0.988797</rdf:li>
+          <rdf:li>0.225084, 0.940256</rdf:li>
+          <rdf:li>0.332937, 0.874555</rdf:li>
+          <rdf:li>0.432274, 0.786304</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="70"
+       stCamera:Lens="50mm F1.4 ZA SSM"
+       stCamera:LensInfo="500/10 500/10 14/10 14/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 50mm F1.4 ZA SSM"
+       stCamera:ProfileName="Adobe (Sony 50mm F1.4 ZA SSM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.007892"
+        stCamera:RadialDistortParam1="-0.130213"
+        stCamera:RadialDistortParam2="-0.133164"
+        stCamera:RadialDistortParam3="0.357423">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.287335"
+         stCamera:VignetteModelParam2="2.137183"
+         stCamera:VignetteModelParam3="-6.249741">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002813, 1.000000</rdf:li>
+          <rdf:li>0.109864, 0.987352</rdf:li>
+          <rdf:li>0.225505, 0.939339</rdf:li>
+          <rdf:li>0.338547, 0.869743</rdf:li>
+          <rdf:li>0.432274, 0.786499</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="70"
+       stCamera:Lens="50mm F1.4 ZA SSM"
+       stCamera:LensInfo="500/10 500/10 14/10 14/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 50mm F1.4 ZA SSM"
+       stCamera:ProfileName="Adobe (Sony 50mm F1.4 ZA SSM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.007892"
+        stCamera:RadialDistortParam1="-0.130213"
+        stCamera:RadialDistortParam2="-0.133164"
+        stCamera:RadialDistortParam3="0.357423">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.310663"
+         stCamera:VignetteModelParam2="2.409651"
+         stCamera:VignetteModelParam3="-7.238615">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002813, 1.000000</rdf:li>
+          <rdf:li>0.109864, 0.987436</rdf:li>
+          <rdf:li>0.219890, 0.942589</rdf:li>
+          <rdf:li>0.333412, 0.873171</rdf:li>
+          <rdf:li>0.432274, 0.785703</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="70"
+       stCamera:Lens="50mm F1.4 ZA SSM"
+       stCamera:LensInfo="500/10 500/10 14/10 14/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 50mm F1.4 ZA SSM"
+       stCamera:ProfileName="Adobe (Sony 50mm F1.4 ZA SSM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.007892"
+        stCamera:RadialDistortParam1="-0.130213"
+        stCamera:RadialDistortParam2="-0.133164"
+        stCamera:RadialDistortParam3="0.357423">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.344294"
+         stCamera:VignetteModelParam2="2.713304"
+         stCamera:VignetteModelParam3="-8.162379">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002813, 1.000000</rdf:li>
+          <rdf:li>0.109864, 0.987630</rdf:li>
+          <rdf:li>0.219458, 0.942169</rdf:li>
+          <rdf:li>0.343237, 0.864945</rdf:li>
+          <rdf:li>0.432274, 0.784688</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="70"
+       stCamera:Lens="50mm F1.4 ZA SSM"
+       stCamera:LensInfo="500/10 500/10 14/10 14/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 50mm F1.4 ZA SSM"
+       stCamera:ProfileName="Adobe (Sony 50mm F1.4 ZA SSM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.007892"
+        stCamera:RadialDistortParam1="-0.130213"
+        stCamera:RadialDistortParam2="-0.133164"
+        stCamera:RadialDistortParam3="0.357423">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.336433"
+         stCamera:VignetteModelParam2="2.572263"
+         stCamera:VignetteModelParam3="-8.019482">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002813, 1.000000</rdf:li>
+          <rdf:li>0.104548, 0.989886</rdf:li>
+          <rdf:li>0.219602, 0.943176</rdf:li>
+          <rdf:li>0.348955, 0.859353</rdf:li>
+          <rdf:li>0.432274, 0.781811</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

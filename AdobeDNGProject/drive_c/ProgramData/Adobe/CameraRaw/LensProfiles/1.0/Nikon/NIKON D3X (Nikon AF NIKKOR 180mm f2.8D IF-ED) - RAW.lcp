@@ -1,0 +1,1206 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.1-c055 1.136881, 2010/06/10-18:11:35        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65</stCamera:LensID>
+      <stCamera:Lens>180.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>1800/10 1800/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 180mm f/2.8D IF-ED</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 180mm f/2.8D IF-ED)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>180</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.449828</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>7.392245</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>7.392245</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000141</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000114</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>3.658695</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-140.881517</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>12738.47205</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>7.393164</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>7.393164</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000139</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000117</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999421</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.021796</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>6.503509</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-918.79856</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>7.393164</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>7.393164</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000139</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000117</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>3.684441</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-146.99766</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>13438.124572</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>7.393164</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>7.393164</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000139</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000117</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999849</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.05257</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-7.094487</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>1062.524296</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65</stCamera:LensID>
+      <stCamera:Lens>180.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>1800/10 1800/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 180mm f/2.8D IF-ED</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 180mm f/2.8D IF-ED)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>180</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.840507</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.520467</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.520467</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000056</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000058</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>1.275202</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>17.784722</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-893.616856</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.519465</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.519465</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000048</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000055</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999554</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.011847</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.671634</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-45.74518</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.519465</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.519465</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000047</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000055</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>1.277347</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>17.935894</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-900.678082</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.519465</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.519465</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000048</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000055</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999806</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.021843</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-2.072075</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>135.99944</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65</stCamera:LensID>
+      <stCamera:Lens>180.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>1800/10 1800/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 180mm f/2.8D IF-ED</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 180mm f/2.8D IF-ED)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>180</stCamera:FocalLength>
+      <stCamera:FocusDistance>5.759807</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.310852</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.310852</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.00011</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000128</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>1.418953</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-32.275981</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>1651.967543</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000108</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000126</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999587</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.01473</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.172977</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-3.877924</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000107</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000126</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>1.421697</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-32.169516</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>1651.357818</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000108</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000126</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999798</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.024165</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.319077</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>18.429929</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65</stCamera:LensID>
+      <stCamera:Lens>180.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>1800/10 1800/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 180mm f/2.8D IF-ED</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 180mm f/2.8D IF-ED)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>180</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.5</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>7.265155</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>7.265155</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>3.251574</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-93.582643</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>8277.013273</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>7.265155</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>7.265155</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-71.246147</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>4839.499652</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-423792.624996</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65</stCamera:LensID>
+      <stCamera:Lens>180.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>1800/10 1800/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 180mm f/2.8D IF-ED</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 180mm f/2.8D IF-ED)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>180</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.5</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>7.265155</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>7.265155</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>3.251574</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-93.582643</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>8277.013273</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>7.265155</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>7.265155</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-34.417062</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-7929.679792</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>767114.078096</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65</stCamera:LensID>
+      <stCamera:Lens>180.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>1800/10 1800/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 180mm f/2.8D IF-ED</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 180mm f/2.8D IF-ED)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>180</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.5</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>7.265155</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>7.265155</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>3.251574</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-93.582643</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>8277.013273</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>7.265155</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>7.265155</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-4.407872</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-4033.678135</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-62592.790937</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65</stCamera:LensID>
+      <stCamera:Lens>180.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>1800/10 1800/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 180mm f/2.8D IF-ED</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 180mm f/2.8D IF-ED)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>180</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.5</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>7.265155</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>7.265155</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>3.251574</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-93.582643</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>8277.013273</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>7.265155</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>7.265155</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-19.061122</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2974.124944</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-442431.73319</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65</stCamera:LensID>
+      <stCamera:Lens>180.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>1800/10 1800/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 180mm f/2.8D IF-ED</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 180mm f/2.8D IF-ED)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>180</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.5</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>7.265155</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>7.265155</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>3.251574</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-93.582643</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>8277.013273</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>7.265155</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>7.265155</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-15.632893</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>504.506612</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-65068.980068</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65</stCamera:LensID>
+      <stCamera:Lens>180.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>1800/10 1800/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 180mm f/2.8D IF-ED</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 180mm f/2.8D IF-ED)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>180</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.5</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>7.265155</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>7.265155</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>3.251574</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-93.582643</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>8277.013273</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>7.265155</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>7.265155</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-18.072989</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>1143.007755</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-105301.942467</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65</stCamera:LensID>
+      <stCamera:Lens>180.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>1800/10 1800/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 180mm f/2.8D IF-ED</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 180mm f/2.8D IF-ED)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>180</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.99</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.49897</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.49897</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.34685</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.809774</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>18.631872</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.49897</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.49897</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-72.977485</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>6329.123884</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-286818.620075</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65</stCamera:LensID>
+      <stCamera:Lens>180.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>1800/10 1800/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 180mm f/2.8D IF-ED</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 180mm f/2.8D IF-ED)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>180</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.99</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.49897</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.49897</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.34685</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.809774</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>18.631872</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.49897</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.49897</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-8.594307</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-4595.311512</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>236964.525385</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65</stCamera:LensID>
+      <stCamera:Lens>180.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>1800/10 1800/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 180mm f/2.8D IF-ED</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 180mm f/2.8D IF-ED)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>180</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.99</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.49897</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.49897</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.34685</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.809774</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>18.631872</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.49897</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.49897</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-4.791547</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-674.330066</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-59031.169662</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65</stCamera:LensID>
+      <stCamera:Lens>180.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>1800/10 1800/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 180mm f/2.8D IF-ED</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 180mm f/2.8D IF-ED)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>180</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.99</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.49897</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.49897</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.34685</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.809774</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>18.631872</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.49897</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.49897</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-11.762725</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>1275.10712</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-107282.837612</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65</stCamera:LensID>
+      <stCamera:Lens>180.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>1800/10 1800/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 180mm f/2.8D IF-ED</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 180mm f/2.8D IF-ED)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>180</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.99</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.49897</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.49897</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.34685</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.809774</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>18.631872</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.49897</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.49897</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-9.769327</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>328.723243</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-21381.337138</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65</stCamera:LensID>
+      <stCamera:Lens>180.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>1800/10 1800/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 180mm f/2.8D IF-ED</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 180mm f/2.8D IF-ED)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>180</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.99</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.49897</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.49897</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.34685</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.809774</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>18.631872</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.49897</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.49897</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-10.609252</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>433.655334</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-23393.051059</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65</stCamera:LensID>
+      <stCamera:Lens>180.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>1800/10 1800/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 180mm f/2.8D IF-ED</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 180mm f/2.8D IF-ED)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>180</stCamera:FocalLength>
+      <stCamera:FocusDistance>5.96</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.421697</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-32.169516</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>1651.357818</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-72.007221</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>6044.800225</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-260036.108173</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65</stCamera:LensID>
+      <stCamera:Lens>180.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>1800/10 1800/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 180mm f/2.8D IF-ED</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 180mm f/2.8D IF-ED)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>180</stCamera:FocalLength>
+      <stCamera:FocusDistance>5.96</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.421697</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-32.169516</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>1651.357818</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-6.865702</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-4145.89381</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>193797.270532</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65</stCamera:LensID>
+      <stCamera:Lens>180.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>1800/10 1800/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 180mm f/2.8D IF-ED</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 180mm f/2.8D IF-ED)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>180</stCamera:FocalLength>
+      <stCamera:FocusDistance>5.96</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.421697</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-32.169516</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>1651.357818</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-6.064705</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-142.769197</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-77345.828811</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65</stCamera:LensID>
+      <stCamera:Lens>180.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>1800/10 1800/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 180mm f/2.8D IF-ED</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 180mm f/2.8D IF-ED)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>180</stCamera:FocalLength>
+      <stCamera:FocusDistance>5.96</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.421697</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-32.169516</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>1651.357818</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-10.998947</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>1139.604189</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-89871.961462</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65</stCamera:LensID>
+      <stCamera:Lens>180.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>1800/10 1800/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 180mm f/2.8D IF-ED</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 180mm f/2.8D IF-ED)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>180</stCamera:FocalLength>
+      <stCamera:FocusDistance>5.96</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.421697</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-32.169516</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>1651.357818</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-8.868667</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>224.09463</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-12523.523138</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65</stCamera:LensID>
+      <stCamera:Lens>180.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>1800/10 1800/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 180mm f/2.8D IF-ED</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 180mm f/2.8D IF-ED)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>180</stCamera:FocalLength>
+      <stCamera:FocusDistance>5.96</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.421697</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-32.169516</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>1651.357818</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-9.51852</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>331.010395</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-17572.328455</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65</stCamera:LensID>
+      <stCamera:Lens>180.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>1800/10 1800/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 180mm f/2.8D IF-ED</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 180mm f/2.8D IF-ED)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>180</stCamera:FocalLength>
+      <stCamera:FocusDistance>11.9</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.421697</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-32.169516</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>1651.357818</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-64.924453</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>4809.891484</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-200102.390784</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65</stCamera:LensID>
+      <stCamera:Lens>180.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>1800/10 1800/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 180mm f/2.8D IF-ED</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 180mm f/2.8D IF-ED)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>180</stCamera:FocalLength>
+      <stCamera:FocusDistance>11.9</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.421697</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-32.169516</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>1651.357818</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.003621</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-4990.883274</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>237635.316234</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65</stCamera:LensID>
+      <stCamera:Lens>180.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>1800/10 1800/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 180mm f/2.8D IF-ED</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 180mm f/2.8D IF-ED)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>180</stCamera:FocalLength>
+      <stCamera:FocusDistance>11.9</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.421697</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-32.169516</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>1651.357818</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-5.218275</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-211.97412</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-75369.764203</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65</stCamera:LensID>
+      <stCamera:Lens>180.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>1800/10 1800/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 180mm f/2.8D IF-ED</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 180mm f/2.8D IF-ED)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>180</stCamera:FocalLength>
+      <stCamera:FocusDistance>11.9</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.421697</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-32.169516</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>1651.357818</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-10.644587</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>1080.267917</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-86547.263317</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65</stCamera:LensID>
+      <stCamera:Lens>180.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>1800/10 1800/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 180mm f/2.8D IF-ED</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 180mm f/2.8D IF-ED)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>180</stCamera:FocalLength>
+      <stCamera:FocusDistance>11.9</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.421697</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-32.169516</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>1651.357818</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-8.881837</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>234.232598</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-13425.990997</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65</stCamera:LensID>
+      <stCamera:Lens>180.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>1800/10 1800/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 180mm f/2.8D IF-ED</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 180mm f/2.8D IF-ED)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>180</stCamera:FocalLength>
+      <stCamera:FocusDistance>11.9</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.421697</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-32.169516</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>1651.357818</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-9.874895</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>376.756341</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-18865.32355</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65</stCamera:LensID>
+      <stCamera:Lens>180.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>1800/10 1800/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 180mm f/2.8D IF-ED</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 180mm f/2.8D IF-ED)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>180</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.421697</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-32.169516</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>1651.357818</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-62.056446</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>4332.819193</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-180920.403588</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65</stCamera:LensID>
+      <stCamera:Lens>180.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>1800/10 1800/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 180mm f/2.8D IF-ED</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 180mm f/2.8D IF-ED)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>180</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.421697</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-32.169516</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>1651.357818</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-4.000175</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-4546.129615</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>210712.185118</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65</stCamera:LensID>
+      <stCamera:Lens>180.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>1800/10 1800/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 180mm f/2.8D IF-ED</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 180mm f/2.8D IF-ED)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>180</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.421697</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-32.169516</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>1651.357818</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-5.5705</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-44.257821</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-86200.163652</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65</stCamera:LensID>
+      <stCamera:Lens>180.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>1800/10 1800/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 180mm f/2.8D IF-ED</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 180mm f/2.8D IF-ED)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>180</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.421697</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-32.169516</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>1651.357818</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-11.791523</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>1296.41413</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-98986.122816</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65</stCamera:LensID>
+      <stCamera:Lens>180.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>1800/10 1800/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 180mm f/2.8D IF-ED</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 180mm f/2.8D IF-ED)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>180</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.421697</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-32.169516</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>1651.357818</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-9.451631</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>343.065044</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-19852.815301</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65</stCamera:LensID>
+      <stCamera:Lens>180.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>1800/10 1800/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 180mm f/2.8D IF-ED</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 180mm f/2.8D IF-ED)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>180</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.421697</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-32.169516</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>1651.357818</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.311705</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.311705</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-9.896797</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>385.877855</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-19503.075298</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

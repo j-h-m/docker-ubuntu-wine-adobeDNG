@@ -1,0 +1,2630 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c007 1.136881, 2010/06/10-18:11:35        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.79"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.602497"
+        stCamera:FocalLengthY="2.602497"
+        stCamera:ResidualMeanError="0.000051"
+        stCamera:ResidualStandardDeviation="0.000031"
+        stCamera:RadialDistortParam1="0.201343"
+        stCamera:RadialDistortParam2="0.447704"
+        stCamera:RadialDistortParam3="-0.000728">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="2.602433"
+        stCamera:FocalLengthY="2.602433"
+        stCamera:ResidualMeanError="0.000051"
+        stCamera:ResidualStandardDeviation="0.000031"
+        stCamera:ScaleFactor="0.999923"
+        stCamera:RadialDistortParam1="-0.000382"
+        stCamera:RadialDistortParam2="0.006182"
+        stCamera:RadialDistortParam3="-0.144603"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="2.602433"
+        stCamera:FocalLengthY="2.602433"
+        stCamera:ResidualMeanError="0.00005"
+        stCamera:ResidualStandardDeviation="0.00003"
+        stCamera:RadialDistortParam1="0.201032"
+        stCamera:RadialDistortParam2="0.452736"
+        stCamera:RadialDistortParam3="-0.064139"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="2.602433"
+        stCamera:FocalLengthY="2.602433"
+        stCamera:ResidualMeanError="0.000051"
+        stCamera:ResidualStandardDeviation="0.000031"
+        stCamera:ScaleFactor="0.999928"
+        stCamera:RadialDistortParam1="0.000368"
+        stCamera:RadialDistortParam2="-0.004606"
+        stCamera:RadialDistortParam3="0.173221"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.19"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.469823"
+        stCamera:FocalLengthY="2.469823"
+        stCamera:ResidualMeanError="0.000092"
+        stCamera:ResidualStandardDeviation="0.000069"
+        stCamera:RadialDistortParam1="0.065478"
+        stCamera:RadialDistortParam2="0.044456"
+        stCamera:RadialDistortParam3="5.021754">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="2.469839"
+        stCamera:FocalLengthY="2.469839"
+        stCamera:ResidualMeanError="0.000092"
+        stCamera:ResidualStandardDeviation="0.000069"
+        stCamera:ScaleFactor="0.999919"
+        stCamera:RadialDistortParam1="-0.000809"
+        stCamera:RadialDistortParam2="0.033561"
+        stCamera:RadialDistortParam3="-0.484142"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="2.469839"
+        stCamera:FocalLengthY="2.469839"
+        stCamera:ResidualMeanError="0.000092"
+        stCamera:ResidualStandardDeviation="0.000069"
+        stCamera:RadialDistortParam1="0.065556"
+        stCamera:RadialDistortParam2="0.038583"
+        stCamera:RadialDistortParam3="5.082069"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="2.469839"
+        stCamera:FocalLengthY="2.469839"
+        stCamera:ResidualMeanError="0.000092"
+        stCamera:ResidualStandardDeviation="0.000069"
+        stCamera:ScaleFactor="0.999815"
+        stCamera:RadialDistortParam1="0.000161"
+        stCamera:RadialDistortParam2="-0.014435"
+        stCamera:RadialDistortParam3="0.319517"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="2.24"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.50622"
+        stCamera:FocalLengthY="2.50622"
+        stCamera:ResidualMeanError="0.00012"
+        stCamera:ResidualStandardDeviation="0.000086"
+        stCamera:RadialDistortParam1="0.117131"
+        stCamera:RadialDistortParam2="-1.020238"
+        stCamera:RadialDistortParam3="13.500062">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="2.506334"
+        stCamera:FocalLengthY="2.506334"
+        stCamera:ResidualMeanError="0.000119"
+        stCamera:ResidualStandardDeviation="0.000085"
+        stCamera:ScaleFactor="0.99987"
+        stCamera:RadialDistortParam1="0.000079"
+        stCamera:RadialDistortParam2="-0.019338"
+        stCamera:RadialDistortParam3="0.121122"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="2.506334"
+        stCamera:FocalLengthY="2.506334"
+        stCamera:ResidualMeanError="0.000119"
+        stCamera:ResidualStandardDeviation="0.000085"
+        stCamera:RadialDistortParam1="0.117032"
+        stCamera:RadialDistortParam2="-1.015272"
+        stCamera:RadialDistortParam3="13.389915"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="2.506334"
+        stCamera:FocalLengthY="2.506334"
+        stCamera:ResidualMeanError="0.000119"
+        stCamera:ResidualStandardDeviation="0.000085"
+        stCamera:ScaleFactor="0.9998"
+        stCamera:RadialDistortParam1="0.00061"
+        stCamera:RadialDistortParam2="-0.019738"
+        stCamera:RadialDistortParam3="0.511797"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="5.01"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.350478"
+        stCamera:FocalLengthY="2.350478"
+        stCamera:ResidualMeanError="0.000128"
+        stCamera:ResidualStandardDeviation="0.000139"
+        stCamera:RadialDistortParam1="-0.027371"
+        stCamera:RadialDistortParam2="2.062783"
+        stCamera:RadialDistortParam3="-12.463675">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="2.350615"
+        stCamera:FocalLengthY="2.350615"
+        stCamera:ResidualMeanError="0.000127"
+        stCamera:ResidualStandardDeviation="0.00014"
+        stCamera:ScaleFactor="0.999841"
+        stCamera:RadialDistortParam1="-0.000576"
+        stCamera:RadialDistortParam2="-0.004018"
+        stCamera:RadialDistortParam3="-0.046612"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="2.350615"
+        stCamera:FocalLengthY="2.350615"
+        stCamera:ResidualMeanError="0.000127"
+        stCamera:ResidualStandardDeviation="0.00014"
+        stCamera:RadialDistortParam1="-0.027747"
+        stCamera:RadialDistortParam2="2.069636"
+        stCamera:RadialDistortParam3="-12.549397"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="2.350615"
+        stCamera:FocalLengthY="2.350615"
+        stCamera:ResidualMeanError="0.000128"
+        stCamera:ResidualStandardDeviation="0.00014"
+        stCamera:ScaleFactor="0.999763"
+        stCamera:RadialDistortParam1="0.001273"
+        stCamera:RadialDistortParam2="-0.012707"
+        stCamera:RadialDistortParam3="0.327315"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.79"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.602433"
+        stCamera:FocalLengthY="2.602433"
+        stCamera:RadialDistortParam1="0.201032"
+        stCamera:RadialDistortParam2="0.452736"
+        stCamera:RadialDistortParam3="-0.064139">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.602433"
+         stCamera:FocalLengthY="2.602433"
+         stCamera:VignetteModelParam1="-14.353576"
+         stCamera:VignetteModelParam2="192.75171"
+         stCamera:VignetteModelParam3="-1905.951675">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001502, 1.000000</rdf:li>
+          <rdf:li>0.024639, 0.981923</rdf:li>
+          <rdf:li>0.085418, 0.902701</rdf:li>
+          <rdf:li>0.139840, 0.780347</rdf:li>
+          <rdf:li>0.180803, 0.666658</rdf:li>
+          <rdf:li>0.203095, 0.591698</rdf:li>
+          <rdf:li>0.227557, 0.496292</rdf:li>
+          <rdf:li>0.230826, 0.476013</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.79"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.602433"
+        stCamera:FocalLengthY="2.602433"
+        stCamera:RadialDistortParam1="0.201032"
+        stCamera:RadialDistortParam2="0.452736"
+        stCamera:RadialDistortParam3="-0.064139">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.602433"
+         stCamera:FocalLengthY="2.602433"
+         stCamera:VignetteModelParam1="-6.309016"
+         stCamera:VignetteModelParam2="-44.723871"
+         stCamera:VignetteModelParam3="104.38726">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001502, 1.000000</rdf:li>
+          <rdf:li>0.046667, 0.997898</rdf:li>
+          <rdf:li>0.062898, 0.983255</rdf:li>
+          <rdf:li>0.104911, 0.924973</rdf:li>
+          <rdf:li>0.139160, 0.859988</rdf:li>
+          <rdf:li>0.178542, 0.754078</rdf:li>
+          <rdf:li>0.198578, 0.684084</rdf:li>
+          <rdf:li>0.227557, 0.563303</rdf:li>
+          <rdf:li>0.230826, 0.541670</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.79"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.602433"
+        stCamera:FocalLengthY="2.602433"
+        stCamera:RadialDistortParam1="0.201032"
+        stCamera:RadialDistortParam2="0.452736"
+        stCamera:RadialDistortParam3="-0.064139">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.602433"
+         stCamera:FocalLengthY="2.602433"
+         stCamera:VignetteModelParam1="-3.247426"
+         stCamera:VignetteModelParam2="102.027458"
+         stCamera:VignetteModelParam3="-2360.965402">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001502, 1.000000</rdf:li>
+          <rdf:li>0.091687, 0.983566</rdf:li>
+          <rdf:li>0.183725, 0.915697</rdf:li>
+          <rdf:li>0.200162, 0.884672</rdf:li>
+          <rdf:li>0.230826, 0.764221</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.79"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.602433"
+        stCamera:FocalLengthY="2.602433"
+        stCamera:RadialDistortParam1="0.201032"
+        stCamera:RadialDistortParam2="0.452736"
+        stCamera:RadialDistortParam3="-0.064139">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.602433"
+         stCamera:FocalLengthY="2.602433"
+         stCamera:VignetteModelParam1="-2.327173"
+         stCamera:VignetteModelParam2="-8.01165"
+         stCamera:VignetteModelParam3="76.60737">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003359, 1.000000</rdf:li>
+          <rdf:li>0.058588, 0.994332</rdf:li>
+          <rdf:li>0.123268, 0.963872</rdf:li>
+          <rdf:li>0.193279, 0.906484</rdf:li>
+          <rdf:li>0.230826, 0.860149</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.79"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.602433"
+        stCamera:FocalLengthY="2.602433"
+        stCamera:RadialDistortParam1="0.201032"
+        stCamera:RadialDistortParam2="0.452736"
+        stCamera:RadialDistortParam3="-0.064139">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.602433"
+         stCamera:FocalLengthY="2.602433"
+         stCamera:VignetteModelParam1="-2.44129"
+         stCamera:VignetteModelParam2="-4.425448"
+         stCamera:VignetteModelParam3="38.177889">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001502, 1.000000</rdf:li>
+          <rdf:li>0.053092, 0.995935</rdf:li>
+          <rdf:li>0.116994, 0.967469</rdf:li>
+          <rdf:li>0.192343, 0.906164</rdf:li>
+          <rdf:li>0.230826, 0.860316</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.79"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.602433"
+        stCamera:FocalLengthY="2.602433"
+        stCamera:RadialDistortParam1="0.201032"
+        stCamera:RadialDistortParam2="0.452736"
+        stCamera:RadialDistortParam3="-0.064139">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.602433"
+         stCamera:FocalLengthY="2.602433"
+         stCamera:VignetteModelParam1="-2.440681"
+         stCamera:VignetteModelParam2="-7.750257"
+         stCamera:VignetteModelParam3="99.50657">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001502, 1.000000</rdf:li>
+          <rdf:li>0.054683, 0.995055</rdf:li>
+          <rdf:li>0.115166, 0.968275</rdf:li>
+          <rdf:li>0.189339, 0.907428</rdf:li>
+          <rdf:li>0.230826, 0.859723</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.79"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.602433"
+        stCamera:FocalLengthY="2.602433"
+        stCamera:RadialDistortParam1="0.201032"
+        stCamera:RadialDistortParam2="0.452736"
+        stCamera:RadialDistortParam3="-0.064139">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.602433"
+         stCamera:FocalLengthY="2.602433"
+         stCamera:VignetteModelParam1="-2.520596"
+         stCamera:VignetteModelParam2="-5.726084"
+         stCamera:VignetteModelParam3="78.205019">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001502, 1.000000</rdf:li>
+          <rdf:li>0.111056, 0.970184</rdf:li>
+          <rdf:li>0.186335, 0.908281</rdf:li>
+          <rdf:li>0.230826, 0.859044</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.79"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.602433"
+        stCamera:FocalLengthY="2.602433"
+        stCamera:RadialDistortParam1="0.201032"
+        stCamera:RadialDistortParam2="0.452736"
+        stCamera:RadialDistortParam3="-0.064139">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.602433"
+         stCamera:FocalLengthY="2.602433"
+         stCamera:VignetteModelParam1="-2.33673"
+         stCamera:VignetteModelParam2="-12.073125"
+         stCamera:VignetteModelParam3="129.297514">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003359, 1.000000</rdf:li>
+          <rdf:li>0.060259, 0.994409</rdf:li>
+          <rdf:li>0.111259, 0.971252</rdf:li>
+          <rdf:li>0.193279, 0.903333</rdf:li>
+          <rdf:li>0.230826, 0.859188</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.519595"
+        stCamera:FocalLengthY="2.519595"
+        stCamera:RadialDistortParam1="0.094362"
+        stCamera:RadialDistortParam2="0.119193"
+        stCamera:RadialDistortParam3="4.471167">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.519595"
+         stCamera:FocalLengthY="2.519595"
+         stCamera:VignetteModelParam1="-16.502381"
+         stCamera:VignetteModelParam2="216.716469"
+         stCamera:VignetteModelParam3="-1824.301908">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001552, 1.000000</rdf:li>
+          <rdf:li>0.060515, 0.941833</rdf:li>
+          <rdf:li>0.120561, 0.799919</rdf:li>
+          <rdf:li>0.182839, 0.619442</rdf:li>
+          <rdf:li>0.212667, 0.519037</rdf:li>
+          <rdf:li>0.233394, 0.440248</rdf:li>
+          <rdf:li>0.238415, 0.412806</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.519595"
+        stCamera:FocalLengthY="2.519595"
+        stCamera:RadialDistortParam1="0.094362"
+        stCamera:RadialDistortParam2="0.119193"
+        stCamera:RadialDistortParam3="4.471167">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.519595"
+         stCamera:FocalLengthY="2.519595"
+         stCamera:VignetteModelParam1="-7.457077"
+         stCamera:VignetteModelParam2="-75.028117"
+         stCamera:VignetteModelParam3="762.405177">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001552, 1.000000</rdf:li>
+          <rdf:li>0.046576, 0.997944</rdf:li>
+          <rdf:li>0.068290, 0.978180</rdf:li>
+          <rdf:li>0.093679, 0.940684</rdf:li>
+          <rdf:li>0.123247, 0.869447</rdf:li>
+          <rdf:li>0.182839, 0.690925</rdf:li>
+          <rdf:li>0.209772, 0.593573</rdf:li>
+          <rdf:li>0.231779, 0.502412</rdf:li>
+          <rdf:li>0.238415, 0.463561</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.519595"
+        stCamera:FocalLengthY="2.519595"
+        stCamera:RadialDistortParam1="0.094362"
+        stCamera:RadialDistortParam2="0.119193"
+        stCamera:RadialDistortParam3="4.471167">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.519595"
+         stCamera:FocalLengthY="2.519595"
+         stCamera:VignetteModelParam1="-3.13112"
+         stCamera:VignetteModelParam2="89.408731"
+         stCamera:VignetteModelParam3="-1909.650161">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001552, 1.000000</rdf:li>
+          <rdf:li>0.093422, 0.983085</rdf:li>
+          <rdf:li>0.192412, 0.911241</rdf:li>
+          <rdf:li>0.211578, 0.868740</rdf:li>
+          <rdf:li>0.238415, 0.760688</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.519595"
+        stCamera:FocalLengthY="2.519595"
+        stCamera:RadialDistortParam1="0.094362"
+        stCamera:RadialDistortParam2="0.119193"
+        stCamera:RadialDistortParam3="4.471167">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.519595"
+         stCamera:FocalLengthY="2.519595"
+         stCamera:VignetteModelParam1="-2.238017"
+         stCamera:VignetteModelParam2="-6.470755"
+         stCamera:VignetteModelParam3="65.432794">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003470, 1.000000</rdf:li>
+          <rdf:li>0.057662, 0.994944</rdf:li>
+          <rdf:li>0.123870, 0.965091</rdf:li>
+          <rdf:li>0.199634, 0.905293</rdf:li>
+          <rdf:li>0.238415, 0.859982</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.519595"
+        stCamera:FocalLengthY="2.519595"
+        stCamera:RadialDistortParam1="0.094362"
+        stCamera:RadialDistortParam2="0.119193"
+        stCamera:RadialDistortParam3="4.471167">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.519595"
+         stCamera:FocalLengthY="2.519595"
+         stCamera:VignetteModelParam1="-2.329637"
+         stCamera:VignetteModelParam2="-4.015617"
+         stCamera:VignetteModelParam3="47.725234">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001552, 1.000000</rdf:li>
+          <rdf:li>0.053863, 0.996124</rdf:li>
+          <rdf:li>0.117404, 0.968796</rdf:li>
+          <rdf:li>0.199634, 0.904396</rdf:li>
+          <rdf:li>0.238415, 0.860144</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.519595"
+        stCamera:FocalLengthY="2.519595"
+        stCamera:RadialDistortParam1="0.094362"
+        stCamera:RadialDistortParam2="0.119193"
+        stCamera:RadialDistortParam3="4.471167">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.519595"
+         stCamera:FocalLengthY="2.519595"
+         stCamera:VignetteModelParam1="-2.549069"
+         stCamera:VignetteModelParam2="3.898521"
+         stCamera:VignetteModelParam3="-24.331477">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001552, 1.000000</rdf:li>
+          <rdf:li>0.117404, 0.967754</rdf:li>
+          <rdf:li>0.198763, 0.904267</rdf:li>
+          <rdf:li>0.238415, 0.860483</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.519595"
+        stCamera:FocalLengthY="2.519595"
+        stCamera:RadialDistortParam1="0.094362"
+        stCamera:RadialDistortParam2="0.119193"
+        stCamera:RadialDistortParam3="4.471167">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.519595"
+         stCamera:FocalLengthY="2.519595"
+         stCamera:VignetteModelParam1="-2.540542"
+         stCamera:VignetteModelParam2="0.641741"
+         stCamera:VignetteModelParam3="34.032916">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001552, 1.000000</rdf:li>
+          <rdf:li>0.112031, 0.970477</rdf:li>
+          <rdf:li>0.238415, 0.860453</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.519595"
+        stCamera:FocalLengthY="2.519595"
+        stCamera:RadialDistortParam1="0.094362"
+        stCamera:RadialDistortParam2="0.119193"
+        stCamera:RadialDistortParam3="4.471167">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.519595"
+         stCamera:FocalLengthY="2.519595"
+         stCamera:VignetteModelParam1="-2.382822"
+         stCamera:VignetteModelParam2="-6.505785"
+         stCamera:VignetteModelParam3="122.996005">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003470, 1.000000</rdf:li>
+          <rdf:li>0.056053, 0.996329</rdf:li>
+          <rdf:li>0.108760, 0.972449</rdf:li>
+          <rdf:li>0.175831, 0.923009</rdf:li>
+          <rdf:li>0.238415, 0.861465</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.19"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.469839"
+        stCamera:FocalLengthY="2.469839"
+        stCamera:RadialDistortParam1="0.065556"
+        stCamera:RadialDistortParam2="0.038583"
+        stCamera:RadialDistortParam3="5.082069">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.469839"
+         stCamera:FocalLengthY="2.469839"
+         stCamera:VignetteModelParam1="-17.5403"
+         stCamera:VignetteModelParam2="236.390417"
+         stCamera:VignetteModelParam3="-1879.809959">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001583, 1.000000</rdf:li>
+          <rdf:li>0.046555, 0.967369</rdf:li>
+          <rdf:li>0.110544, 0.816228</rdf:li>
+          <rdf:li>0.186522, 0.593626</rdf:li>
+          <rdf:li>0.220230, 0.481214</rdf:li>
+          <rdf:li>0.236448, 0.421273</rdf:li>
+          <rdf:li>0.243218, 0.386584</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.19"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.469839"
+        stCamera:FocalLengthY="2.469839"
+        stCamera:RadialDistortParam1="0.065556"
+        stCamera:RadialDistortParam2="0.038583"
+        stCamera:RadialDistortParam3="5.082069">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.469839"
+         stCamera:FocalLengthY="2.469839"
+         stCamera:VignetteModelParam1="-8.447799"
+         stCamera:VignetteModelParam2="-54.551988"
+         stCamera:VignetteModelParam3="636.25849">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001583, 1.000000</rdf:li>
+          <rdf:li>0.049172, 0.997562</rdf:li>
+          <rdf:li>0.067622, 0.981466</rdf:li>
+          <rdf:li>0.085609, 0.953345</rdf:li>
+          <rdf:li>0.115423, 0.879829</rdf:li>
+          <rdf:li>0.183952, 0.669917</rdf:li>
+          <rdf:li>0.215840, 0.555613</rdf:li>
+          <rdf:li>0.236448, 0.471097</rdf:li>
+          <rdf:li>0.243218, 0.432362</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.19"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.469839"
+        stCamera:FocalLengthY="2.469839"
+        stCamera:RadialDistortParam1="0.065556"
+        stCamera:RadialDistortParam2="0.038583"
+        stCamera:RadialDistortParam3="5.082069">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.469839"
+         stCamera:FocalLengthY="2.469839"
+         stCamera:VignetteModelParam1="-3.207883"
+         stCamera:VignetteModelParam2="107.7294"
+         stCamera:VignetteModelParam3="-2167.551873">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001583, 1.000000</rdf:li>
+          <rdf:li>0.096610, 0.983340</rdf:li>
+          <rdf:li>0.199504, 0.911888</rdf:li>
+          <rdf:li>0.215840, 0.869392</rdf:li>
+          <rdf:li>0.243218, 0.741217</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.19"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.469839"
+        stCamera:FocalLengthY="2.469839"
+        stCamera:RadialDistortParam1="0.065556"
+        stCamera:RadialDistortParam2="0.038583"
+        stCamera:RadialDistortParam3="5.082069">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.469839"
+         stCamera:FocalLengthY="2.469839"
+         stCamera:VignetteModelParam1="-2.126723"
+         stCamera:VignetteModelParam2="-3.444539"
+         stCamera:VignetteModelParam3="26.924063">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001583, 1.000000</rdf:li>
+          <rdf:li>0.055942, 0.996164</rdf:li>
+          <rdf:li>0.124085, 0.967756</rdf:li>
+          <rdf:li>0.203655, 0.908737</rdf:li>
+          <rdf:li>0.243218, 0.864679</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.19"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.469839"
+        stCamera:FocalLengthY="2.469839"
+        stCamera:RadialDistortParam1="0.065556"
+        stCamera:RadialDistortParam2="0.038583"
+        stCamera:RadialDistortParam3="5.082069">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.469839"
+         stCamera:FocalLengthY="2.469839"
+         stCamera:VignetteModelParam1="-2.268157"
+         stCamera:VignetteModelParam2="0.441819"
+         stCamera:VignetteModelParam3="0.634671">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001583, 1.000000</rdf:li>
+          <rdf:li>0.057182, 0.995084</rdf:li>
+          <rdf:li>0.122622, 0.967767</rdf:li>
+          <rdf:li>0.199453, 0.911099</rdf:li>
+          <rdf:li>0.243218, 0.864628</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.19"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.469839"
+        stCamera:FocalLengthY="2.469839"
+        stCamera:RadialDistortParam1="0.065556"
+        stCamera:RadialDistortParam2="0.038583"
+        stCamera:RadialDistortParam3="5.082069">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.469839"
+         stCamera:FocalLengthY="2.469839"
+         stCamera:VignetteModelParam1="-2.385515"
+         stCamera:VignetteModelParam2="3.875768"
+         stCamera:VignetteModelParam3="-25.725114">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001583, 1.000000</rdf:li>
+          <rdf:li>0.119769, 0.968992</rdf:li>
+          <rdf:li>0.243218, 0.864932</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.19"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.469839"
+        stCamera:FocalLengthY="2.469839"
+        stCamera:RadialDistortParam1="0.065556"
+        stCamera:RadialDistortParam2="0.038583"
+        stCamera:RadialDistortParam3="5.082069">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.469839"
+         stCamera:FocalLengthY="2.469839"
+         stCamera:VignetteModelParam1="-2.413514"
+         stCamera:VignetteModelParam2="4.025839"
+         stCamera:VignetteModelParam3="-22.318597">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001583, 1.000000</rdf:li>
+          <rdf:li>0.112164, 0.972790</rdf:li>
+          <rdf:li>0.243218, 0.865179</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.19"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.469839"
+        stCamera:FocalLengthY="2.469839"
+        stCamera:RadialDistortParam1="0.065556"
+        stCamera:RadialDistortParam2="0.038583"
+        stCamera:RadialDistortParam3="5.082069">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.469839"
+         stCamera:FocalLengthY="2.469839"
+         stCamera:VignetteModelParam1="-2.208013"
+         stCamera:VignetteModelParam2="-3.597562"
+         stCamera:VignetteModelParam3="55.391703">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001583, 1.000000</rdf:li>
+          <rdf:li>0.063494, 0.995928</rdf:li>
+          <rdf:li>0.113629, 0.973794</rdf:li>
+          <rdf:li>0.202619, 0.909358</rdf:li>
+          <rdf:li>0.243218, 0.865235</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.501371"
+        stCamera:FocalLengthY="2.501371"
+        stCamera:RadialDistortParam1="0.113138"
+        stCamera:RadialDistortParam2="-0.934363"
+        stCamera:RadialDistortParam3="12.692662">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.501371"
+         stCamera:FocalLengthY="2.501371"
+         stCamera:VignetteModelParam1="-21.800912"
+         stCamera:VignetteModelParam2="342.966949"
+         stCamera:VignetteModelParam3="-2782.383837">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001563, 1.000000</rdf:li>
+          <rdf:li>0.031609, 0.988568</rdf:li>
+          <rdf:li>0.089853, 0.840003</rdf:li>
+          <rdf:li>0.179169, 0.560434</rdf:li>
+          <rdf:li>0.218798, 0.425253</rdf:li>
+          <rdf:li>0.231872, 0.375910</rdf:li>
+          <rdf:li>0.240152, 0.335996</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.501371"
+        stCamera:FocalLengthY="2.501371"
+        stCamera:RadialDistortParam1="0.113138"
+        stCamera:RadialDistortParam2="-0.934363"
+        stCamera:RadialDistortParam3="12.692662">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.501371"
+         stCamera:FocalLengthY="2.501371"
+         stCamera:VignetteModelParam1="-12.271127"
+         stCamera:VignetteModelParam2="15.090434"
+         stCamera:VignetteModelParam3="206.706759">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001563, 1.000000</rdf:li>
+          <rdf:li>0.056462, 0.989628</rdf:li>
+          <rdf:li>0.095801, 0.896111</rdf:li>
+          <rdf:li>0.156710, 0.701373</rdf:li>
+          <rdf:li>0.211300, 0.502969</rdf:li>
+          <rdf:li>0.231872, 0.417997</rdf:li>
+          <rdf:li>0.240152, 0.372855</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.501371"
+        stCamera:FocalLengthY="2.501371"
+        stCamera:RadialDistortParam1="0.113138"
+        stCamera:RadialDistortParam2="-0.934363"
+        stCamera:RadialDistortParam3="12.692662">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.501371"
+         stCamera:FocalLengthY="2.501371"
+         stCamera:VignetteModelParam1="-2.238094"
+         stCamera:VignetteModelParam2="43.016245"
+         stCamera:VignetteModelParam3="-1799.931646">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001563, 1.000000</rdf:li>
+          <rdf:li>0.068788, 0.993255</rdf:li>
+          <rdf:li>0.138364, 0.958758</rdf:li>
+          <rdf:li>0.170133, 0.931309</rdf:li>
+          <rdf:li>0.185361, 0.900165</rdf:li>
+          <rdf:li>0.207403, 0.836997</rdf:li>
+          <rdf:li>0.240152, 0.668155</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.501371"
+        stCamera:FocalLengthY="2.501371"
+        stCamera:RadialDistortParam1="0.113138"
+        stCamera:RadialDistortParam2="-0.934363"
+        stCamera:RadialDistortParam3="12.692662">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.501371"
+         stCamera:FocalLengthY="2.501371"
+         stCamera:VignetteModelParam1="-2.147037"
+         stCamera:VignetteModelParam2="-5.454489"
+         stCamera:VignetteModelParam3="28.610582">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001563, 1.000000</rdf:li>
+          <rdf:li>0.060955, 0.994171</rdf:li>
+          <rdf:li>0.134932, 0.960078</rdf:li>
+          <rdf:li>0.208249, 0.898940</rdf:li>
+          <rdf:li>0.240152, 0.858231</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.501371"
+        stCamera:FocalLengthY="2.501371"
+        stCamera:RadialDistortParam1="0.113138"
+        stCamera:RadialDistortParam2="-0.934363"
+        stCamera:RadialDistortParam3="12.692662">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.501371"
+         stCamera:FocalLengthY="2.501371"
+         stCamera:VignetteModelParam1="-2.403377"
+         stCamera:VignetteModelParam2="3.765079"
+         stCamera:VignetteModelParam3="-42.044134">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001563, 1.000000</rdf:li>
+          <rdf:li>0.058082, 0.994418</rdf:li>
+          <rdf:li>0.127829, 0.963056</rdf:li>
+          <rdf:li>0.203839, 0.904255</rdf:li>
+          <rdf:li>0.240152, 0.862740</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.501371"
+        stCamera:FocalLengthY="2.501371"
+        stCamera:RadialDistortParam1="0.113138"
+        stCamera:RadialDistortParam2="-0.934363"
+        stCamera:RadialDistortParam3="12.692662">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.501371"
+         stCamera:FocalLengthY="2.501371"
+         stCamera:VignetteModelParam1="-2.460355"
+         stCamera:VignetteModelParam2="6.102477"
+         stCamera:VignetteModelParam3="-58.410175">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001563, 1.000000</rdf:li>
+          <rdf:li>0.058082, 0.994510</rdf:li>
+          <rdf:li>0.124145, 0.965478</rdf:li>
+          <rdf:li>0.197978, 0.910554</rdf:li>
+          <rdf:li>0.240152, 0.864955</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.501371"
+        stCamera:FocalLengthY="2.501371"
+        stCamera:RadialDistortParam1="0.113138"
+        stCamera:RadialDistortParam2="-0.934363"
+        stCamera:RadialDistortParam3="12.692662">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.501371"
+         stCamera:FocalLengthY="2.501371"
+         stCamera:VignetteModelParam1="-2.638478"
+         stCamera:VignetteModelParam2="12.054035"
+         stCamera:VignetteModelParam3="-109.367365">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001563, 1.000000</rdf:li>
+          <rdf:li>0.058082, 0.994120</rdf:li>
+          <rdf:li>0.122441, 0.964911</rdf:li>
+          <rdf:li>0.198324, 0.908849</rdf:li>
+          <rdf:li>0.240152, 0.865080</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.501371"
+        stCamera:FocalLengthY="2.501371"
+        stCamera:RadialDistortParam1="0.113138"
+        stCamera:RadialDistortParam2="-0.934363"
+        stCamera:RadialDistortParam3="12.692662">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.501371"
+         stCamera:FocalLengthY="2.501371"
+         stCamera:VignetteModelParam1="-2.578581"
+         stCamera:VignetteModelParam2="9.77209"
+         stCamera:VignetteModelParam3="-75.279713">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001563, 1.000000</rdf:li>
+          <rdf:li>0.058082, 0.993727</rdf:li>
+          <rdf:li>0.122441, 0.965870</rdf:li>
+          <rdf:li>0.198324, 0.910547</rdf:li>
+          <rdf:li>0.240152, 0.867655</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3.98"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.383203"
+        stCamera:FocalLengthY="2.383203"
+        stCamera:RadialDistortParam1="-0.012821"
+        stCamera:RadialDistortParam2="1.834229"
+        stCamera:RadialDistortParam3="-10.880397">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.383203"
+         stCamera:FocalLengthY="2.383203"
+         stCamera:VignetteModelParam1="-22.762066"
+         stCamera:VignetteModelParam2="354.805876"
+         stCamera:VignetteModelParam3="-2620.527519">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001640, 1.000000</rdf:li>
+          <rdf:li>0.026906, 0.987921</rdf:li>
+          <rdf:li>0.088113, 0.834243</rdf:li>
+          <rdf:li>0.193303, 0.506569</rdf:li>
+          <rdf:li>0.234034, 0.371218</rdf:li>
+          <rdf:li>0.245044, 0.331431</rdf:li>
+          <rdf:li>0.252060, 0.299048</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3.98"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.383203"
+        stCamera:FocalLengthY="2.383203"
+        stCamera:RadialDistortParam1="-0.012821"
+        stCamera:RadialDistortParam2="1.834229"
+        stCamera:RadialDistortParam3="-10.880397">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.383203"
+         stCamera:FocalLengthY="2.383203"
+         stCamera:VignetteModelParam1="-13.449262"
+         stCamera:VignetteModelParam2="58.465831"
+         stCamera:VignetteModelParam3="-138.644971">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001640, 1.000000</rdf:li>
+          <rdf:li>0.052520, 0.985607</rdf:li>
+          <rdf:li>0.096285, 0.887860</rdf:li>
+          <rdf:li>0.145225, 0.735811</rdf:li>
+          <rdf:li>0.220610, 0.468431</rdf:li>
+          <rdf:li>0.241727, 0.386106</rdf:li>
+          <rdf:li>0.252060, 0.335618</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3.98"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.383203"
+        stCamera:FocalLengthY="2.383203"
+        stCamera:RadialDistortParam1="-0.012821"
+        stCamera:RadialDistortParam2="1.834229"
+        stCamera:RadialDistortParam3="-10.880397">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.383203"
+         stCamera:FocalLengthY="2.383203"
+         stCamera:VignetteModelParam1="-0.638775"
+         stCamera:VignetteModelParam2="-70.717174"
+         stCamera:VignetteModelParam3="-192.598512">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001640, 1.000000</rdf:li>
+          <rdf:li>0.072199, 0.993176</rdf:li>
+          <rdf:li>0.140401, 0.961708</rdf:li>
+          <rdf:li>0.159867, 0.941222</rdf:li>
+          <rdf:li>0.182416, 0.892179</rdf:li>
+          <rdf:li>0.215725, 0.794268</rdf:li>
+          <rdf:li>0.252060, 0.611559</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3.98"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.383203"
+        stCamera:FocalLengthY="2.383203"
+        stCamera:RadialDistortParam1="-0.012821"
+        stCamera:RadialDistortParam2="1.834229"
+        stCamera:RadialDistortParam3="-10.880397">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.383203"
+         stCamera:FocalLengthY="2.383203"
+         stCamera:VignetteModelParam1="-2.529595"
+         stCamera:VignetteModelParam2="39.65965"
+         stCamera:VignetteModelParam3="-688.048258">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001640, 1.000000</rdf:li>
+          <rdf:li>0.095048, 0.984135</rdf:li>
+          <rdf:li>0.206756, 0.910446</rdf:li>
+          <rdf:li>0.228236, 0.884828</rdf:li>
+          <rdf:li>0.252060, 0.813555</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3.98"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.383203"
+        stCamera:FocalLengthY="2.383203"
+        stCamera:RadialDistortParam1="-0.012821"
+        stCamera:RadialDistortParam2="1.834229"
+        stCamera:RadialDistortParam3="-10.880397">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.383203"
+         stCamera:FocalLengthY="2.383203"
+         stCamera:VignetteModelParam1="-2.268425"
+         stCamera:VignetteModelParam2="5.491999"
+         stCamera:VignetteModelParam3="-37.906017">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001640, 1.000000</rdf:li>
+          <rdf:li>0.056945, 0.995010</rdf:li>
+          <rdf:li>0.126995, 0.966404</rdf:li>
+          <rdf:li>0.212279, 0.905651</rdf:li>
+          <rdf:li>0.252060, 0.865368</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3.98"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.383203"
+        stCamera:FocalLengthY="2.383203"
+        stCamera:RadialDistortParam1="-0.012821"
+        stCamera:RadialDistortParam2="1.834229"
+        stCamera:RadialDistortParam3="-10.880397">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.383203"
+         stCamera:FocalLengthY="2.383203"
+         stCamera:VignetteModelParam1="-2.483356"
+         stCamera:VignetteModelParam2="14.715632"
+         stCamera:VignetteModelParam3="-129.539575">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001640, 1.000000</rdf:li>
+          <rdf:li>0.055023, 0.995111</rdf:li>
+          <rdf:li>0.129222, 0.963977</rdf:li>
+          <rdf:li>0.206756, 0.911131</rdf:li>
+          <rdf:li>0.252060, 0.866563</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3.98"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.383203"
+        stCamera:FocalLengthY="2.383203"
+        stCamera:RadialDistortParam1="-0.012821"
+        stCamera:RadialDistortParam2="1.834229"
+        stCamera:RadialDistortParam3="-10.880397">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.383203"
+         stCamera:FocalLengthY="2.383203"
+         stCamera:VignetteModelParam1="-2.543244"
+         stCamera:VignetteModelParam2="17.081786"
+         stCamera:VignetteModelParam3="-151.908663">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003668, 1.000000</rdf:li>
+          <rdf:li>0.059714, 0.993386</rdf:li>
+          <rdf:li>0.134167, 0.960796</rdf:li>
+          <rdf:li>0.207484, 0.910898</rdf:li>
+          <rdf:li>0.252060, 0.867071</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3.98"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.383203"
+        stCamera:FocalLengthY="2.383203"
+        stCamera:RadialDistortParam1="-0.012821"
+        stCamera:RadialDistortParam2="1.834229"
+        stCamera:RadialDistortParam3="-10.880397">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.383203"
+         stCamera:FocalLengthY="2.383203"
+         stCamera:VignetteModelParam1="-2.870129"
+         stCamera:VignetteModelParam2="28.451005"
+         stCamera:VignetteModelParam3="-254.848695">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001640, 1.000000</rdf:li>
+          <rdf:li>0.057976, 0.992751</rdf:li>
+          <rdf:li>0.134608, 0.958385</rdf:li>
+          <rdf:li>0.207016, 0.909924</rdf:li>
+          <rdf:li>0.252060, 0.865623</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.350615"
+        stCamera:FocalLengthY="2.350615"
+        stCamera:RadialDistortParam1="-0.027747"
+        stCamera:RadialDistortParam2="2.069636"
+        stCamera:RadialDistortParam3="-12.549397">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.350615"
+         stCamera:FocalLengthY="2.350615"
+         stCamera:VignetteModelParam1="-25.155846"
+         stCamera:VignetteModelParam2="392.675707"
+         stCamera:VignetteModelParam3="-2771.307405">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001663, 1.000000</rdf:li>
+          <rdf:li>0.032122, 0.964199</rdf:li>
+          <rdf:li>0.076308, 0.850453</rdf:li>
+          <rdf:li>0.240544, 0.304992</rdf:li>
+          <rdf:li>0.255554, 0.246136</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.350615"
+        stCamera:FocalLengthY="2.350615"
+        stCamera:RadialDistortParam1="-0.027747"
+        stCamera:RadialDistortParam2="2.069636"
+        stCamera:RadialDistortParam3="-12.549397">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.350615"
+         stCamera:FocalLengthY="2.350615"
+         stCamera:VignetteModelParam1="-19.147452"
+         stCamera:VignetteModelParam2="202.91814"
+         stCamera:VignetteModelParam3="-1203.47425">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003719, 1.000000</rdf:li>
+          <rdf:li>0.020302, 0.997379</rdf:li>
+          <rdf:li>0.040774, 0.965738</rdf:li>
+          <rdf:li>0.075213, 0.897716</rdf:li>
+          <rdf:li>0.098467, 0.832802</rdf:li>
+          <rdf:li>0.116150, 0.776509</rdf:li>
+          <rdf:li>0.234417, 0.353562</rdf:li>
+          <rdf:li>0.248441, 0.299273</rdf:li>
+          <rdf:li>0.255554, 0.265975</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.350615"
+        stCamera:FocalLengthY="2.350615"
+        stCamera:RadialDistortParam1="-0.027747"
+        stCamera:RadialDistortParam2="2.069636"
+        stCamera:RadialDistortParam3="-12.549397">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.350615"
+         stCamera:FocalLengthY="2.350615"
+         stCamera:VignetteModelParam1="-0.160633"
+         stCamera:VignetteModelParam2="-187.886231"
+         stCamera:VignetteModelParam3="1209.605408">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001663, 1.000000</rdf:li>
+          <rdf:li>0.059991, 0.996232</rdf:li>
+          <rdf:li>0.120085, 0.971634</rdf:li>
+          <rdf:li>0.134760, 0.949348</rdf:li>
+          <rdf:li>0.162662, 0.879618</rdf:li>
+          <rdf:li>0.211043, 0.728339</rdf:li>
+          <rdf:li>0.220705, 0.689655</rdf:li>
+          <rdf:li>0.255554, 0.507213</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.350615"
+        stCamera:FocalLengthY="2.350615"
+        stCamera:RadialDistortParam1="-0.027747"
+        stCamera:RadialDistortParam2="2.069636"
+        stCamera:RadialDistortParam3="-12.549397">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.350615"
+         stCamera:FocalLengthY="2.350615"
+         stCamera:VignetteModelParam1="-1.805244"
+         stCamera:VignetteModelParam2="11.149978"
+         stCamera:VignetteModelParam3="-930.185934">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001663, 1.000000</rdf:li>
+          <rdf:li>0.104729, 0.979731</rdf:li>
+          <rdf:li>0.188471, 0.917937</rdf:li>
+          <rdf:li>0.216299, 0.837592</rdf:li>
+          <rdf:li>0.255554, 0.672621</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.350615"
+        stCamera:FocalLengthY="2.350615"
+        stCamera:RadialDistortParam1="-0.027747"
+        stCamera:RadialDistortParam2="2.069636"
+        stCamera:RadialDistortParam3="-12.549397">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.350615"
+         stCamera:FocalLengthY="2.350615"
+         stCamera:VignetteModelParam1="-2.991838"
+         stCamera:VignetteModelParam2="63.25915"
+         stCamera:VignetteModelParam3="-989.753237">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001663, 1.000000</rdf:li>
+          <rdf:li>0.100469, 0.980072</rdf:li>
+          <rdf:li>0.220705, 0.895353</rdf:li>
+          <rdf:li>0.235829, 0.869024</rdf:li>
+          <rdf:li>0.255554, 0.778397</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.350615"
+        stCamera:FocalLengthY="2.350615"
+        stCamera:RadialDistortParam1="-0.027747"
+        stCamera:RadialDistortParam2="2.069636"
+        stCamera:RadialDistortParam3="-12.549397">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.350615"
+         stCamera:FocalLengthY="2.350615"
+         stCamera:VignetteModelParam1="-2.456622"
+         stCamera:VignetteModelParam2="15.483359"
+         stCamera:VignetteModelParam3="-175.219543">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001663, 1.000000</rdf:li>
+          <rdf:li>0.076308, 0.988377</rdf:li>
+          <rdf:li>0.159884, 0.944548</rdf:li>
+          <rdf:li>0.221605, 0.896510</rdf:li>
+          <rdf:li>0.255554, 0.850462</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.350615"
+        stCamera:FocalLengthY="2.350615"
+        stCamera:RadialDistortParam1="-0.027747"
+        stCamera:RadialDistortParam2="2.069636"
+        stCamera:RadialDistortParam3="-12.549397">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.350615"
+         stCamera:FocalLengthY="2.350615"
+         stCamera:VignetteModelParam1="-2.580269"
+         stCamera:VignetteModelParam2="20.905822"
+         stCamera:VignetteModelParam3="-220.917108">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001663, 1.000000</rdf:li>
+          <rdf:li>0.069238, 0.990024</rdf:li>
+          <rdf:li>0.153096, 0.949103</rdf:li>
+          <rdf:li>0.218285, 0.901186</rdf:li>
+          <rdf:li>0.255554, 0.856589</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:UniqueCameraModel="Nikon D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="179"
+       stCamera:Lens="85.0 mm f/1.8"
+       stCamera:LensInfo="850/10 850/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 85mm f/1.8G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 85mm f/1.8G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4940"
+       stCamera:ImageLength="3292"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.350615"
+        stCamera:FocalLengthY="2.350615"
+        stCamera:RadialDistortParam1="-0.027747"
+        stCamera:RadialDistortParam2="2.069636"
+        stCamera:RadialDistortParam3="-12.549397">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.350615"
+         stCamera:FocalLengthY="2.350615"
+         stCamera:VignetteModelParam1="-2.869617"
+         stCamera:VignetteModelParam2="30.799859"
+         stCamera:VignetteModelParam3="-308.256263">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003719, 1.000000</rdf:li>
+          <rdf:li>0.073200, 0.987883</rdf:li>
+          <rdf:li>0.156774, 0.944574</rdf:li>
+          <rdf:li>0.215222, 0.903445</rdf:li>
+          <rdf:li>0.255554, 0.856092</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

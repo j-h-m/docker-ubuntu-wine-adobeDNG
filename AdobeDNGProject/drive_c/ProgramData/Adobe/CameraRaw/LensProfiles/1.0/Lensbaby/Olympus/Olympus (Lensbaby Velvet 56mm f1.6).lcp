@@ -1,0 +1,97 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156380, 2014/05/21-23:38:37        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Olympus"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Lensbaby Velvet 56mm f/1.6"
+       stCamera:CameraPrettyName="Olympus"
+       stCamera:LensPrettyName="Lensbaby Velvet 56mm f/1.6"
+       stCamera:ProfileName="Adobe (Lensbaby Velvet 56mm f/1.6, Olympus)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocusDistance="1.7898">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.601639"
+        stCamera:FocalLengthY="2.601639"
+        stCamera:ResidualMeanError="0.000195"
+        stCamera:ResidualStandardDeviation="0.000128"
+        stCamera:RadialDistortParam1="-0.22742"
+        stCamera:RadialDistortParam2="1.272453"
+        stCamera:RadialDistortParam3="-17.144047">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="2.600241"
+        stCamera:FocalLengthY="2.600241"
+        stCamera:ResidualMeanError="0.000191"
+        stCamera:ResidualStandardDeviation="0.000119"
+        stCamera:ScaleFactor="0.999728"
+        stCamera:RadialDistortParam1="0.002646"
+        stCamera:RadialDistortParam2="-0.043462"
+        stCamera:RadialDistortParam3="0.237822"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="2.600241"
+        stCamera:FocalLengthY="2.600241"
+        stCamera:ResidualMeanError="0.000183"
+        stCamera:ResidualStandardDeviation="0.000118"
+        stCamera:RadialDistortParam1="-0.228062"
+        stCamera:RadialDistortParam2="1.290833"
+        stCamera:RadialDistortParam3="-17.292848"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="2.600241"
+        stCamera:FocalLengthY="2.600241"
+        stCamera:ResidualMeanError="0.000182"
+        stCamera:ResidualStandardDeviation="0.000119"
+        stCamera:ScaleFactor="1.000491"
+        stCamera:RadialDistortParam1="-0.000272"
+        stCamera:RadialDistortParam2="-0.018582"
+        stCamera:RadialDistortParam3="0.42456"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Olympus"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Lensbaby Velvet 56mm f/1.6"
+       stCamera:CameraPrettyName="Olympus"
+       stCamera:LensPrettyName="Lensbaby Velvet 56mm f/1.6"
+       stCamera:ProfileName="Adobe (Lensbaby Velvet 56mm f/1.6, Olympus)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.600241"
+        stCamera:FocalLengthY="2.600241"
+        stCamera:RadialDistortParam1="-0.228062"
+        stCamera:RadialDistortParam2="1.290833"
+        stCamera:RadialDistortParam3="-17.292848">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.600241"
+        stCamera:FocalLengthY="2.600241"
+        stCamera:VignetteModelParam1="-1.343925"
+        stCamera:VignetteModelParam2="2.679265"
+        stCamera:VignetteModelParam3="20.944226"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

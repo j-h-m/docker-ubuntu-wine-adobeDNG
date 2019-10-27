@@ -1,0 +1,77 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:Model="DSLR-A900"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="44"
+       stCamera:Lens="50mm F1.4"
+       stCamera:LensInfo="50/1 50/1 14/10 14/10"
+       stCamera:CameraPrettyName="DSLR-A900"
+       stCamera:LensPrettyName="Sony 50mm F1.4"
+       stCamera:ProfileName="Adobe (Sony 50mm F1.4)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4048"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="2.184813"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.487473"
+        stCamera:FocalLengthY="1.487473"
+        stCamera:ImageXCenter="0.414365"
+        stCamera:ImageYCenter="0.448387"
+        stCamera:ResidualMeanError="0.000132"
+        stCamera:ResidualStandardDeviation="0.000078"
+        stCamera:RadialDistortParam1="-0.124724">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.485716"
+        stCamera:FocalLengthY="1.485716"
+        stCamera:ImageXCenter="0.414522"
+        stCamera:ImageYCenter="0.448337"
+        stCamera:ResidualMeanError="0.00013"
+        stCamera:ResidualStandardDeviation="0.000075"
+        stCamera:ScaleFactor="1.00018"
+        stCamera:RadialDistortParam1="-0.000781"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.485716"
+        stCamera:FocalLengthY="1.485716"
+        stCamera:ImageXCenter="0.414522"
+        stCamera:ImageYCenter="0.448337"
+        stCamera:ResidualMeanError="0.000128"
+        stCamera:ResidualStandardDeviation="0.000077"
+        stCamera:RadialDistortParam1="-0.124781"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.485716"
+        stCamera:FocalLengthY="1.485716"
+        stCamera:ImageXCenter="0.414522"
+        stCamera:ImageYCenter="0.448337"
+        stCamera:ResidualMeanError="0.000126"
+        stCamera:ResidualStandardDeviation="0.000083"
+        stCamera:ScaleFactor="0.999707"
+        stCamera:RadialDistortParam1="0.001462"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.487473"
+        stCamera:FocalLengthY="1.487473"
+        stCamera:ImageXCenter="0.414365"
+        stCamera:ImageYCenter="0.448387"
+        stCamera:ResidualMeanError="0.005835"
+        stCamera:VignetteModelParam1="-1.107925"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

@@ -1,0 +1,2573 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45 (debug)">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.38"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000228"
+        stCamera:ResidualStandardDeviation="0.000153"
+        stCamera:RadialDistortParam1="-0.102162"
+        stCamera:RadialDistortParam2="0.051693"
+        stCamera:RadialDistortParam3="-0.008745">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:ScaleFactor="1.000208"
+        stCamera:RadialDistortParam1="0.00031"
+        stCamera:RadialDistortParam2="-0.000766"
+        stCamera:RadialDistortParam3="0.000308"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000228"
+        stCamera:ResidualStandardDeviation="0.000153"
+        stCamera:RadialDistortParam1="-0.102162"
+        stCamera:RadialDistortParam2="0.051693"
+        stCamera:RadialDistortParam3="-0.008745"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000007"
+        stCamera:ResidualStandardDeviation="0.000005"
+        stCamera:ScaleFactor="0.999892"
+        stCamera:RadialDistortParam1="-0.000735"
+        stCamera:RadialDistortParam2="0.001253"
+        stCamera:RadialDistortParam3="-0.000488"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.008313"
+         stCamera:VignetteModelParam1="-0.307035"
+         stCamera:VignetteModelParam2="0.146797"
+         stCamera:VignetteModelParam3="-0.089243">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.341625, 0.972400</rdf:li>
+          <rdf:li>0.668912, 0.887900</rdf:li>
+          <rdf:li>0.930026, 0.774900</rdf:li>
+          <rdf:li>1.219915, 0.612800</rdf:li>
+          <rdf:li>1.243188, 0.576700</rdf:li>
+          <rdf:li>1.294160, 0.465900</rdf:li>
+          <rdf:li>1.321956, 0.354800</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.76"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000247"
+        stCamera:ResidualStandardDeviation="0.000167"
+        stCamera:RadialDistortParam1="-0.093842"
+        stCamera:RadialDistortParam2="0.054754"
+        stCamera:RadialDistortParam3="-0.008377">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000156"
+        stCamera:RadialDistortParam1="0.00018"
+        stCamera:RadialDistortParam2="-0.000557"
+        stCamera:RadialDistortParam3="0.000233"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000247"
+        stCamera:ResidualStandardDeviation="0.000167"
+        stCamera:RadialDistortParam1="-0.093842"
+        stCamera:RadialDistortParam2="0.054754"
+        stCamera:RadialDistortParam3="-0.008377"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000006"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:ScaleFactor="1.000011"
+        stCamera:RadialDistortParam1="-0.000535"
+        stCamera:RadialDistortParam2="0.000886"
+        stCamera:RadialDistortParam3="-0.000354"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.006903"
+         stCamera:VignetteModelParam1="-0.32535"
+         stCamera:VignetteModelParam2="0.107616"
+         stCamera:VignetteModelParam3="-0.056354">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.350033, 0.967300</rdf:li>
+          <rdf:li>0.660674, 0.878000</rdf:li>
+          <rdf:li>0.933522, 0.751300</rdf:li>
+          <rdf:li>1.248378, 0.572900</rdf:li>
+          <rdf:li>1.278534, 0.531100</rdf:li>
+          <rdf:li>1.335797, 0.430800</rdf:li>
+          <rdf:li>1.367392, 0.342100</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1.52"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000257"
+        stCamera:ResidualStandardDeviation="0.000174"
+        stCamera:RadialDistortParam1="-0.09059"
+        stCamera:RadialDistortParam2="0.055751"
+        stCamera:RadialDistortParam3="-0.008035">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000146"
+        stCamera:RadialDistortParam1="0.000118"
+        stCamera:RadialDistortParam2="-0.000445"
+        stCamera:RadialDistortParam3="0.000192"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000257"
+        stCamera:ResidualStandardDeviation="0.000174"
+        stCamera:RadialDistortParam1="-0.09059"
+        stCamera:RadialDistortParam2="0.055751"
+        stCamera:RadialDistortParam3="-0.008035"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:ScaleFactor="1.000037"
+        stCamera:RadialDistortParam1="-0.000436"
+        stCamera:RadialDistortParam2="0.000688"
+        stCamera:RadialDistortParam3="-0.000281"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.006534"
+         stCamera:VignetteModelParam1="-0.33368"
+         stCamera:VignetteModelParam2="0.098634"
+         stCamera:VignetteModelParam3="-0.04713">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.338055, 0.968300</rdf:li>
+          <rdf:li>0.657995, 0.874500</rdf:li>
+          <rdf:li>0.914175, 0.754300</rdf:li>
+          <rdf:li>1.257078, 0.561900</rdf:li>
+          <rdf:li>1.292991, 0.516900</rdf:li>
+          <rdf:li>1.357727, 0.412700</rdf:li>
+          <rdf:li>1.386306, 0.332900</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="3.04"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000264"
+        stCamera:ResidualStandardDeviation="0.000179"
+        stCamera:RadialDistortParam1="-0.088223"
+        stCamera:RadialDistortParam2="0.056096"
+        stCamera:RadialDistortParam3="-0.007693">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.00009"
+        stCamera:RadialDistortParam1="0.00004"
+        stCamera:RadialDistortParam2="-0.000339"
+        stCamera:RadialDistortParam3="0.000154"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000264"
+        stCamera:ResidualStandardDeviation="0.000179"
+        stCamera:RadialDistortParam1="-0.088223"
+        stCamera:RadialDistortParam2="0.056096"
+        stCamera:RadialDistortParam3="-0.007693"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000147"
+        stCamera:RadialDistortParam1="-0.000318"
+        stCamera:RadialDistortParam2="0.000524"
+        stCamera:RadialDistortParam3="-0.000223"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.00647"
+         stCamera:VignetteModelParam1="-0.340896"
+         stCamera:VignetteModelParam2="0.094026"
+         stCamera:VignetteModelParam3="-0.041526">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.346235, 0.965700</rdf:li>
+          <rdf:li>0.654906, 0.872300</rdf:li>
+          <rdf:li>0.904872, 0.753700</rdf:li>
+          <rdf:li>1.270252, 0.548800</rdf:li>
+          <rdf:li>1.321376, 0.482800</rdf:li>
+          <rdf:li>1.374258, 0.394900</rdf:li>
+          <rdf:li>1.398953, 0.326000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="inf"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000268"
+        stCamera:ResidualStandardDeviation="0.000182"
+        stCamera:RadialDistortParam1="-0.08778"
+        stCamera:RadialDistortParam2="0.05649"
+        stCamera:RadialDistortParam3="-0.007634">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000142"
+        stCamera:RadialDistortParam1="0.000057"
+        stCamera:RadialDistortParam2="-0.000333"
+        stCamera:RadialDistortParam3="0.000151"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000268"
+        stCamera:ResidualStandardDeviation="0.000182"
+        stCamera:RadialDistortParam1="-0.08778"
+        stCamera:RadialDistortParam2="0.05649"
+        stCamera:RadialDistortParam3="-0.007634"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000051"
+        stCamera:RadialDistortParam1="-0.000338"
+        stCamera:RadialDistortParam2="0.000492"
+        stCamera:RadialDistortParam3="-0.000208"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.006711"
+         stCamera:VignetteModelParam1="-0.344529"
+         stCamera:VignetteModelParam2="0.101014"
+         stCamera:VignetteModelParam3="-0.044443">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.346253, 0.965600</rdf:li>
+          <rdf:li>0.647297, 0.875100</rdf:li>
+          <rdf:li>0.909549, 0.751000</rdf:li>
+          <rdf:li>1.268485, 0.550900</rdf:li>
+          <rdf:li>1.324716, 0.478700</rdf:li>
+          <rdf:li>1.373231, 0.398900</rdf:li>
+          <rdf:li>1.403163, 0.317800</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.38"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000228"
+        stCamera:ResidualStandardDeviation="0.000153"
+        stCamera:RadialDistortParam1="-0.102162"
+        stCamera:RadialDistortParam2="0.051693"
+        stCamera:RadialDistortParam3="-0.008745">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:ScaleFactor="1.000223"
+        stCamera:RadialDistortParam1="0.000247"
+        stCamera:RadialDistortParam2="-0.000686"
+        stCamera:RadialDistortParam3="0.000271"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000228"
+        stCamera:ResidualStandardDeviation="0.000153"
+        stCamera:RadialDistortParam1="-0.102162"
+        stCamera:RadialDistortParam2="0.051693"
+        stCamera:RadialDistortParam3="-0.008745"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:ScaleFactor="0.999873"
+        stCamera:RadialDistortParam1="-0.000638"
+        stCamera:RadialDistortParam2="0.001136"
+        stCamera:RadialDistortParam3="-0.000435"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.005559"
+         stCamera:VignetteModelParam1="-0.272671"
+         stCamera:VignetteModelParam2="0.052746"
+         stCamera:VignetteModelParam3="-0.03479">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.373714, 0.966800</rdf:li>
+          <rdf:li>0.699090, 0.876900</rdf:li>
+          <rdf:li>0.974573, 0.751800</rdf:li>
+          <rdf:li>1.266615, 0.584800</rdf:li>
+          <rdf:li>1.294160, 0.536000</rdf:li>
+          <rdf:li>1.321956, 0.400200</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.76"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000247"
+        stCamera:ResidualStandardDeviation="0.000167"
+        stCamera:RadialDistortParam1="-0.093842"
+        stCamera:RadialDistortParam2="0.054754"
+        stCamera:RadialDistortParam3="-0.008377">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000171"
+        stCamera:RadialDistortParam1="0.000119"
+        stCamera:RadialDistortParam2="-0.000486"
+        stCamera:RadialDistortParam3="0.000203"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000247"
+        stCamera:ResidualStandardDeviation="0.000167"
+        stCamera:RadialDistortParam1="-0.093842"
+        stCamera:RadialDistortParam2="0.054754"
+        stCamera:RadialDistortParam3="-0.008377"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:ScaleFactor="0.999992"
+        stCamera:RadialDistortParam1="-0.000439"
+        stCamera:RadialDistortParam2="0.000782"
+        stCamera:RadialDistortParam3="-0.00031"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.004507"
+         stCamera:VignetteModelParam1="-0.296258"
+         stCamera:VignetteModelParam2="0.030888"
+         stCamera:VignetteModelParam3="-0.013975">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.350033, 0.967300</rdf:li>
+          <rdf:li>0.679916, 0.870400</rdf:li>
+          <rdf:li>0.933522, 0.751000</rdf:li>
+          <rdf:li>1.304749, 0.540500</rdf:li>
+          <rdf:li>1.335797, 0.495300</rdf:li>
+          <rdf:li>1.367392, 0.388600</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1.52"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000257"
+        stCamera:ResidualStandardDeviation="0.000174"
+        stCamera:RadialDistortParam1="-0.09059"
+        stCamera:RadialDistortParam2="0.055751"
+        stCamera:RadialDistortParam3="-0.008035">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000158"
+        stCamera:RadialDistortParam1="0.00007"
+        stCamera:RadialDistortParam2="-0.000395"
+        stCamera:RadialDistortParam3="0.000172"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000257"
+        stCamera:ResidualStandardDeviation="0.000174"
+        stCamera:RadialDistortParam1="-0.09059"
+        stCamera:RadialDistortParam2="0.055751"
+        stCamera:RadialDistortParam3="-0.008035"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:ScaleFactor="1.000022"
+        stCamera:RadialDistortParam1="-0.000367"
+        stCamera:RadialDistortParam2="0.000624"
+        stCamera:RadialDistortParam3="-0.000255"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.004145"
+         stCamera:VignetteModelParam1="-0.30558"
+         stCamera:VignetteModelParam2="0.02593"
+         stCamera:VignetteModelParam3="-0.007904">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.273048, 0.979500</rdf:li>
+          <rdf:li>0.533227, 0.918900</rdf:li>
+          <rdf:li>0.758615, 0.831400</rdf:li>
+          <rdf:li>0.993341, 0.710700</rdf:li>
+          <rdf:li>1.325038, 0.522400</rdf:li>
+          <rdf:li>1.357727, 0.474000</rdf:li>
+          <rdf:li>1.386306, 0.386500</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="3.04"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000264"
+        stCamera:ResidualStandardDeviation="0.000179"
+        stCamera:RadialDistortParam1="-0.088223"
+        stCamera:RadialDistortParam2="0.056096"
+        stCamera:RadialDistortParam3="-0.007693">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.0001"
+        stCamera:RadialDistortParam1="0.000011"
+        stCamera:RadialDistortParam2="-0.000317"
+        stCamera:RadialDistortParam3="0.000146"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000264"
+        stCamera:ResidualStandardDeviation="0.000179"
+        stCamera:RadialDistortParam1="-0.088223"
+        stCamera:RadialDistortParam2="0.056096"
+        stCamera:RadialDistortParam3="-0.007693"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000137"
+        stCamera:RadialDistortParam1="-0.000275"
+        stCamera:RadialDistortParam2="0.0005"
+        stCamera:RadialDistortParam3="-0.000215"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.00341"
+         stCamera:VignetteModelParam1="-0.309241"
+         stCamera:VignetteModelParam2="0.014503"
+         stCamera:VignetteModelParam3="0.000097">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.244453, 0.983100</rdf:li>
+          <rdf:li>0.490207, 0.929900</rdf:li>
+          <rdf:li>0.705486, 0.851000</rdf:li>
+          <rdf:li>0.904872, 0.753300</rdf:li>
+          <rdf:li>1.340388, 0.509100</rdf:li>
+          <rdf:li>1.374258, 0.462200</rdf:li>
+          <rdf:li>1.398953, 0.394700</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="inf"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000268"
+        stCamera:ResidualStandardDeviation="0.000182"
+        stCamera:RadialDistortParam1="-0.08778"
+        stCamera:RadialDistortParam2="0.05649"
+        stCamera:RadialDistortParam3="-0.007634">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000151"
+        stCamera:RadialDistortParam1="0.000031"
+        stCamera:RadialDistortParam2="-0.000315"
+        stCamera:RadialDistortParam3="0.000144"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000268"
+        stCamera:ResidualStandardDeviation="0.000182"
+        stCamera:RadialDistortParam1="-0.08778"
+        stCamera:RadialDistortParam2="0.05649"
+        stCamera:RadialDistortParam3="-0.007634"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000042"
+        stCamera:RadialDistortParam1="-0.000304"
+        stCamera:RadialDistortParam2="0.00048"
+        stCamera:RadialDistortParam3="-0.000204"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003861"
+         stCamera:VignetteModelParam1="-0.313706"
+         stCamera:VignetteModelParam2="0.023212"
+         stCamera:VignetteModelParam3="-0.003562">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.256747, 0.981300</rdf:li>
+          <rdf:li>0.510044, 0.923700</rdf:li>
+          <rdf:li>0.721319, 0.843700</rdf:li>
+          <rdf:li>0.941449, 0.733300</rdf:li>
+          <rdf:li>1.339101, 0.511200</rdf:li>
+          <rdf:li>1.373231, 0.466200</rdf:li>
+          <rdf:li>1.403163, 0.384400</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.38"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000228"
+        stCamera:ResidualStandardDeviation="0.000153"
+        stCamera:RadialDistortParam1="-0.102162"
+        stCamera:RadialDistortParam2="0.051693"
+        stCamera:RadialDistortParam3="-0.008745">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000232"
+        stCamera:RadialDistortParam1="0.00021"
+        stCamera:RadialDistortParam2="-0.000639"
+        stCamera:RadialDistortParam3="0.000251"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000228"
+        stCamera:ResidualStandardDeviation="0.000153"
+        stCamera:RadialDistortParam1="-0.102162"
+        stCamera:RadialDistortParam2="0.051693"
+        stCamera:RadialDistortParam3="-0.008745"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:ScaleFactor="0.999861"
+        stCamera:RadialDistortParam1="-0.000582"
+        stCamera:RadialDistortParam2="0.001069"
+        stCamera:RadialDistortParam3="-0.000406"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.002459"
+         stCamera:VignetteModelParam1="-0.247674"
+         stCamera:VignetteModelParam2="-0.011681"
+         stCamera:VignetteModelParam3="0.000362">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.268744, 0.983100</rdf:li>
+          <rdf:li>0.523430, 0.933200</rdf:li>
+          <rdf:li>0.751607, 0.856400</rdf:li>
+          <rdf:li>0.948578, 0.765300</rdf:li>
+          <rdf:li>1.298115, 0.566000</rdf:li>
+          <rdf:li>1.302075, 0.561700</rdf:li>
+          <rdf:li>1.310011, 0.529000</rdf:li>
+          <rdf:li>1.321956, 0.456300</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.76"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000247"
+        stCamera:ResidualStandardDeviation="0.000167"
+        stCamera:RadialDistortParam1="-0.093842"
+        stCamera:RadialDistortParam2="0.054754"
+        stCamera:RadialDistortParam3="-0.008377">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000181"
+        stCamera:RadialDistortParam1="0.000076"
+        stCamera:RadialDistortParam2="-0.000436"
+        stCamera:RadialDistortParam3="0.000183"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000247"
+        stCamera:ResidualStandardDeviation="0.000167"
+        stCamera:RadialDistortParam1="-0.093842"
+        stCamera:RadialDistortParam2="0.054754"
+        stCamera:RadialDistortParam3="-0.008377"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="0.999978"
+        stCamera:RadialDistortParam1="-0.000373"
+        stCamera:RadialDistortParam2="0.000706"
+        stCamera:RadialDistortParam3="-0.000281"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.00169"
+         stCamera:VignetteModelParam1="-0.274637"
+         stCamera:VignetteModelParam2="-0.021931"
+         stCamera:VignetteModelParam3="0.013155">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.215656, 0.987800</rdf:li>
+          <rdf:li>0.434092, 0.949100</rdf:li>
+          <rdf:li>0.637539, 0.886700</rdf:li>
+          <rdf:li>0.833323, 0.802200</rdf:li>
+          <rdf:li>1.344766, 0.518000</rdf:li>
+          <rdf:li>1.353781, 0.498800</rdf:li>
+          <rdf:li>1.367392, 0.445400</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1.52"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000257"
+        stCamera:ResidualStandardDeviation="0.000174"
+        stCamera:RadialDistortParam1="-0.09059"
+        stCamera:RadialDistortParam2="0.055751"
+        stCamera:RadialDistortParam3="-0.008035">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000168"
+        stCamera:RadialDistortParam1="0.000027"
+        stCamera:RadialDistortParam2="-0.000346"
+        stCamera:RadialDistortParam3="0.000153"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000257"
+        stCamera:ResidualStandardDeviation="0.000174"
+        stCamera:RadialDistortParam1="-0.09059"
+        stCamera:RadialDistortParam2="0.055751"
+        stCamera:RadialDistortParam3="-0.008035"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000009"
+        stCamera:RadialDistortParam1="-0.000302"
+        stCamera:RadialDistortParam2="0.000554"
+        stCamera:RadialDistortParam3="-0.000229"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.001493"
+         stCamera:VignetteModelParam1="-0.285592"
+         stCamera:VignetteModelParam2="-0.021852"
+         stCamera:VignetteModelParam3="0.016019">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.215687, 0.987300</rdf:li>
+          <rdf:li>0.418423, 0.950900</rdf:li>
+          <rdf:li>0.611387, 0.892200</rdf:li>
+          <rdf:li>0.797318, 0.813200</rdf:li>
+          <rdf:li>1.362453, 0.503100</rdf:li>
+          <rdf:li>1.371949, 0.489200</rdf:li>
+          <rdf:li>1.386306, 0.442200</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="3.04"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000264"
+        stCamera:ResidualStandardDeviation="0.000179"
+        stCamera:RadialDistortParam1="-0.088223"
+        stCamera:RadialDistortParam2="0.056096"
+        stCamera:RadialDistortParam3="-0.007693">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.00011"
+        stCamera:RadialDistortParam1="-0.00003"
+        stCamera:RadialDistortParam2="-0.000273"
+        stCamera:RadialDistortParam3="0.00013"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000264"
+        stCamera:ResidualStandardDeviation="0.000179"
+        stCamera:RadialDistortParam1="-0.088223"
+        stCamera:RadialDistortParam2="0.056096"
+        stCamera:RadialDistortParam3="-0.007693"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000124"
+        stCamera:RadialDistortParam1="-0.000212"
+        stCamera:RadialDistortParam2="0.000434"
+        stCamera:RadialDistortParam3="-0.000191"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.001065"
+         stCamera:VignetteModelParam1="-0.292187"
+         stCamera:VignetteModelParam2="-0.025576"
+         stCamera:VignetteModelParam3="0.019731">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.207480, 0.987900</rdf:li>
+          <rdf:li>0.394567, 0.955200</rdf:li>
+          <rdf:li>0.576814, 0.901800</rdf:li>
+          <rdf:li>0.740483, 0.835300</rdf:li>
+          <rdf:li>1.384083, 0.486600</rdf:li>
+          <rdf:li>1.398953, 0.451000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="inf"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000268"
+        stCamera:ResidualStandardDeviation="0.000182"
+        stCamera:RadialDistortParam1="-0.08778"
+        stCamera:RadialDistortParam2="0.05649"
+        stCamera:RadialDistortParam3="-0.007634">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000161"
+        stCamera:RadialDistortParam1="-0.000012"
+        stCamera:RadialDistortParam2="-0.000269"
+        stCamera:RadialDistortParam3="0.000127"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000268"
+        stCamera:ResidualStandardDeviation="0.000182"
+        stCamera:RadialDistortParam1="-0.08778"
+        stCamera:RadialDistortParam2="0.05649"
+        stCamera:RadialDistortParam3="-0.007634"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.00003"
+        stCamera:RadialDistortParam1="-0.000243"
+        stCamera:RadialDistortParam2="0.000418"
+        stCamera:RadialDistortParam3="-0.000182"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.001357"
+         stCamera:VignetteModelParam1="-0.295201"
+         stCamera:VignetteModelParam2="-0.020192"
+         stCamera:VignetteModelParam3="0.017675">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.199245, 0.988800</rdf:li>
+          <rdf:li>0.406627, 0.952200</rdf:li>
+          <rdf:li>0.588685, 0.897300</rdf:li>
+          <rdf:li>0.764181, 0.824000</rdf:li>
+          <rdf:li>1.383135, 0.489100</rdf:li>
+          <rdf:li>1.403163, 0.441000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.38"
+       stCamera:ApertureValue="10">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000228"
+        stCamera:ResidualStandardDeviation="0.000153"
+        stCamera:RadialDistortParam1="-0.102162"
+        stCamera:RadialDistortParam2="0.051693"
+        stCamera:RadialDistortParam3="-0.008745">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000236"
+        stCamera:RadialDistortParam1="0.000194"
+        stCamera:RadialDistortParam2="-0.00062"
+        stCamera:RadialDistortParam3="0.000243"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000228"
+        stCamera:ResidualStandardDeviation="0.000153"
+        stCamera:RadialDistortParam1="-0.102162"
+        stCamera:RadialDistortParam2="0.051693"
+        stCamera:RadialDistortParam3="-0.008745"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="0.999856"
+        stCamera:RadialDistortParam1="-0.000558"
+        stCamera:RadialDistortParam2="0.001043"
+        stCamera:RadialDistortParam3="-0.000394"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.000541"
+         stCamera:VignetteModelParam1="-0.234798"
+         stCamera:VignetteModelParam2="-0.044243"
+         stCamera:VignetteModelParam3="0.017794">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.219680, 0.988800</rdf:li>
+          <rdf:li>0.417515, 0.958300</rdf:li>
+          <rdf:li>0.611939, 0.907200</rdf:li>
+          <rdf:li>0.777749, 0.845600</rdf:li>
+          <rdf:li>1.026699, 0.723700</rdf:li>
+          <rdf:li>1.313987, 0.556600</rdf:li>
+          <rdf:li>1.317969, 0.544500</rdf:li>
+          <rdf:li>1.321956, 0.520300</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.76"
+       stCamera:ApertureValue="10">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000247"
+        stCamera:ResidualStandardDeviation="0.000167"
+        stCamera:RadialDistortParam1="-0.093842"
+        stCamera:RadialDistortParam2="0.054754"
+        stCamera:RadialDistortParam3="-0.008377">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000185"
+        stCamera:RadialDistortParam1="0.000059"
+        stCamera:RadialDistortParam2="-0.000418"
+        stCamera:RadialDistortParam3="0.000176"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000247"
+        stCamera:ResidualStandardDeviation="0.000167"
+        stCamera:RadialDistortParam1="-0.093842"
+        stCamera:RadialDistortParam2="0.054754"
+        stCamera:RadialDistortParam3="-0.008377"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999973"
+        stCamera:RadialDistortParam1="-0.000347"
+        stCamera:RadialDistortParam2="0.00068"
+        stCamera:RadialDistortParam3="-0.000271"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000418"
+        stCamera:VignetteModelParam1="-0.266313"
+        stCamera:VignetteModelParam2="-0.041865"
+        stCamera:VignetteModelParam3="0.023163"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1.52"
+       stCamera:ApertureValue="10">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000257"
+        stCamera:ResidualStandardDeviation="0.000174"
+        stCamera:RadialDistortParam1="-0.09059"
+        stCamera:RadialDistortParam2="0.055751"
+        stCamera:RadialDistortParam3="-0.008035">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000172"
+        stCamera:RadialDistortParam1="0.000012"
+        stCamera:RadialDistortParam2="-0.000331"
+        stCamera:RadialDistortParam3="0.000148"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000257"
+        stCamera:ResidualStandardDeviation="0.000174"
+        stCamera:RadialDistortParam1="-0.09059"
+        stCamera:RadialDistortParam2="0.055751"
+        stCamera:RadialDistortParam3="-0.008035"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000003"
+        stCamera:RadialDistortParam1="-0.000277"
+        stCamera:RadialDistortParam2="0.000531"
+        stCamera:RadialDistortParam3="-0.000221"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000524"
+        stCamera:VignetteModelParam1="-0.279091"
+        stCamera:VignetteModelParam2="-0.037092"
+        stCamera:VignetteModelParam3="0.023465"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="3.04"
+       stCamera:ApertureValue="10">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000264"
+        stCamera:ResidualStandardDeviation="0.000179"
+        stCamera:RadialDistortParam1="-0.088223"
+        stCamera:RadialDistortParam2="0.056096"
+        stCamera:RadialDistortParam3="-0.007693">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000113"
+        stCamera:RadialDistortParam1="-0.000041"
+        stCamera:RadialDistortParam2="-0.000264"
+        stCamera:RadialDistortParam3="0.000127"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000264"
+        stCamera:ResidualStandardDeviation="0.000179"
+        stCamera:RadialDistortParam1="-0.088223"
+        stCamera:RadialDistortParam2="0.056096"
+        stCamera:RadialDistortParam3="-0.007693"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.00012"
+        stCamera:RadialDistortParam1="-0.000194"
+        stCamera:RadialDistortParam2="0.000421"
+        stCamera:RadialDistortParam3="-0.000187"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000628"
+        stCamera:VignetteModelParam1="-0.288985"
+        stCamera:VignetteModelParam2="-0.032996"
+        stCamera:VignetteModelParam3="0.023252"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="inf"
+       stCamera:ApertureValue="10">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000268"
+        stCamera:ResidualStandardDeviation="0.000182"
+        stCamera:RadialDistortParam1="-0.08778"
+        stCamera:RadialDistortParam2="0.05649"
+        stCamera:RadialDistortParam3="-0.007634">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000164"
+        stCamera:RadialDistortParam1="-0.000025"
+        stCamera:RadialDistortParam2="-0.000257"
+        stCamera:RadialDistortParam3="0.000123"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000268"
+        stCamera:ResidualStandardDeviation="0.000182"
+        stCamera:RadialDistortParam1="-0.08778"
+        stCamera:RadialDistortParam2="0.05649"
+        stCamera:RadialDistortParam3="-0.007634"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000025"
+        stCamera:RadialDistortParam1="-0.000223"
+        stCamera:RadialDistortParam2="0.000402"
+        stCamera:RadialDistortParam3="-0.000177"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000662"
+        stCamera:VignetteModelParam1="-0.29035"
+        stCamera:VignetteModelParam2="-0.031357"
+        stCamera:VignetteModelParam3="0.02299"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.38"
+       stCamera:ApertureValue="4.526069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000228"
+        stCamera:ResidualStandardDeviation="0.000153"
+        stCamera:RadialDistortParam1="-0.102162"
+        stCamera:RadialDistortParam2="0.051693"
+        stCamera:RadialDistortParam3="-0.008745">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000006"
+        stCamera:ResidualStandardDeviation="0.000009"
+        stCamera:ScaleFactor="1.000165"
+        stCamera:RadialDistortParam1="0.000356"
+        stCamera:RadialDistortParam2="-0.000681"
+        stCamera:RadialDistortParam3="0.000251"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000228"
+        stCamera:ResidualStandardDeviation="0.000153"
+        stCamera:RadialDistortParam1="-0.102162"
+        stCamera:RadialDistortParam2="0.051693"
+        stCamera:RadialDistortParam3="-0.008745"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000006"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:ScaleFactor="0.999931"
+        stCamera:RadialDistortParam1="-0.000863"
+        stCamera:RadialDistortParam2="0.001266"
+        stCamera:RadialDistortParam3="-0.000488"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.006512"
+         stCamera:VignetteModelParam1="-0.747003"
+         stCamera:VignetteModelParam2="0.322149"
+         stCamera:VignetteModelParam3="-0.093701">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.116492, 0.989600</rdf:li>
+          <rdf:li>0.313391, 0.916400</rdf:li>
+          <rdf:li>0.684018, 0.723600</rdf:li>
+          <rdf:li>1.045377, 0.437500</rdf:li>
+          <rdf:li>1.181438, 0.338600</rdf:li>
+          <rdf:li>1.219915, 0.299700</rdf:li>
+          <rdf:li>1.294160, 0.214500</rdf:li>
+          <rdf:li>1.321956, 0.164900</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.76"
+       stCamera:ApertureValue="4.526069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000247"
+        stCamera:ResidualStandardDeviation="0.000167"
+        stCamera:RadialDistortParam1="-0.093842"
+        stCamera:RadialDistortParam2="0.054754"
+        stCamera:RadialDistortParam3="-0.008377">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000117"
+        stCamera:RadialDistortParam1="0.000269"
+        stCamera:RadialDistortParam2="-0.000593"
+        stCamera:RadialDistortParam3="0.000236"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000247"
+        stCamera:ResidualStandardDeviation="0.000167"
+        stCamera:RadialDistortParam1="-0.093842"
+        stCamera:RadialDistortParam2="0.054754"
+        stCamera:RadialDistortParam3="-0.008377"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000042"
+        stCamera:RadialDistortParam1="-0.000676"
+        stCamera:RadialDistortParam2="0.00095"
+        stCamera:RadialDistortParam3="-0.000358"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.008066"
+         stCamera:VignetteModelParam1="-0.89337"
+         stCamera:VignetteModelParam2="0.432375"
+         stCamera:VignetteModelParam3="-0.109778">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.104051, 0.988200</rdf:li>
+          <rdf:li>0.293347, 0.906200</rdf:li>
+          <rdf:li>0.652968, 0.700800</rdf:li>
+          <rdf:li>1.051146, 0.384800</rdf:li>
+          <rdf:li>1.210218, 0.277800</rdf:li>
+          <rdf:li>1.340276, 0.159100</rdf:li>
+          <rdf:li>1.367392, 0.123400</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1.52"
+       stCamera:ApertureValue="4.526069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000257"
+        stCamera:ResidualStandardDeviation="0.000174"
+        stCamera:RadialDistortParam1="-0.09059"
+        stCamera:RadialDistortParam2="0.055751"
+        stCamera:RadialDistortParam3="-0.008035">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000106"
+        stCamera:RadialDistortParam1="0.000226"
+        stCamera:RadialDistortParam2="-0.000515"
+        stCamera:RadialDistortParam3="0.000206"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000257"
+        stCamera:ResidualStandardDeviation="0.000174"
+        stCamera:RadialDistortParam1="-0.09059"
+        stCamera:RadialDistortParam2="0.055751"
+        stCamera:RadialDistortParam3="-0.008035"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.00007"
+        stCamera:RadialDistortParam1="-0.00061"
+        stCamera:RadialDistortParam2="0.00081"
+        stCamera:RadialDistortParam3="-0.000304"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.008845"
+         stCamera:VignetteModelParam1="-0.942623"
+         stCamera:VignetteModelParam2="0.469058"
+         stCamera:VignetteModelParam3="-0.114762">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.091590, 0.990700</rdf:li>
+          <rdf:li>0.273048, 0.910100</rdf:li>
+          <rdf:li>0.650238, 0.688200</rdf:li>
+          <rdf:li>1.053788, 0.367200</rdf:li>
+          <rdf:li>1.221851, 0.257800</rdf:li>
+          <rdf:li>1.357727, 0.144100</rdf:li>
+          <rdf:li>1.386306, 0.110200</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="3.04"
+       stCamera:ApertureValue="4.526069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000264"
+        stCamera:ResidualStandardDeviation="0.000179"
+        stCamera:RadialDistortParam1="-0.088223"
+        stCamera:RadialDistortParam2="0.056096"
+        stCamera:RadialDistortParam3="-0.007693">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000048"
+        stCamera:RadialDistortParam1="0.000179"
+        stCamera:RadialDistortParam2="-0.000457"
+        stCamera:RadialDistortParam3="0.000185"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000264"
+        stCamera:ResidualStandardDeviation="0.000179"
+        stCamera:RadialDistortParam1="-0.088223"
+        stCamera:RadialDistortParam2="0.056096"
+        stCamera:RadialDistortParam3="-0.007693"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000186"
+        stCamera:RadialDistortParam1="-0.00054"
+        stCamera:RadialDistortParam2="0.000723"
+        stCamera:RadialDistortParam3="-0.000274"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.009635"
+         stCamera:VignetteModelParam1="-0.980096"
+         stCamera:VignetteModelParam2="0.496961"
+         stCamera:VignetteModelParam3="-0.11867">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.091592, 0.989300</rdf:li>
+          <rdf:li>0.273094, 0.905300</rdf:li>
+          <rdf:li>0.662693, 0.668300</rdf:li>
+          <rdf:li>1.021229, 0.378800</rdf:li>
+          <rdf:li>1.129382, 0.304100</rdf:li>
+          <rdf:li>1.238518, 0.237300</rdf:li>
+          <rdf:li>1.345179, 0.151800</rdf:li>
+          <rdf:li>1.374258, 0.130500</rdf:li>
+          <rdf:li>1.398953, 0.103400</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="inf"
+       stCamera:ApertureValue="4.526069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000268"
+        stCamera:ResidualStandardDeviation="0.000182"
+        stCamera:RadialDistortParam1="-0.08778"
+        stCamera:RadialDistortParam2="0.05649"
+        stCamera:RadialDistortParam3="-0.007634">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.0001"
+        stCamera:RadialDistortParam1="0.000192"
+        stCamera:RadialDistortParam2="-0.000447"
+        stCamera:RadialDistortParam3="0.00018"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000268"
+        stCamera:ResidualStandardDeviation="0.000182"
+        stCamera:RadialDistortParam1="-0.08778"
+        stCamera:RadialDistortParam2="0.05649"
+        stCamera:RadialDistortParam3="-0.007634"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000089"
+        stCamera:RadialDistortParam1="-0.000558"
+        stCamera:RadialDistortParam2="0.000688"
+        stCamera:RadialDistortParam3="-0.000256"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.009588"
+         stCamera:VignetteModelParam1="-0.98179"
+         stCamera:VignetteModelParam2="0.497731"
+         stCamera:VignetteModelParam3="-0.118426">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.091592, 0.989500</rdf:li>
+          <rdf:li>0.293497, 0.894500</rdf:li>
+          <rdf:li>0.666790, 0.664700</rdf:li>
+          <rdf:li>1.026491, 0.374500</rdf:li>
+          <rdf:li>1.126865, 0.305300</rdf:li>
+          <rdf:li>1.227545, 0.245500</rdf:li>
+          <rdf:li>1.343928, 0.153100</rdf:li>
+          <rdf:li>1.373231, 0.131800</rdf:li>
+          <rdf:li>1.383135, 0.122800</rdf:li>
+          <rdf:li>1.403163, 0.100300</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.38"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000228"
+        stCamera:ResidualStandardDeviation="0.000153"
+        stCamera:RadialDistortParam1="-0.102162"
+        stCamera:RadialDistortParam2="0.051693"
+        stCamera:RadialDistortParam3="-0.008745">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000006"
+        stCamera:ResidualStandardDeviation="0.00001"
+        stCamera:ScaleFactor="1.000175"
+        stCamera:RadialDistortParam1="0.000339"
+        stCamera:RadialDistortParam2="-0.000673"
+        stCamera:RadialDistortParam3="0.00025"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000228"
+        stCamera:ResidualStandardDeviation="0.000153"
+        stCamera:RadialDistortParam1="-0.102162"
+        stCamera:RadialDistortParam2="0.051693"
+        stCamera:RadialDistortParam3="-0.008745"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000006"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:ScaleFactor="0.999923"
+        stCamera:RadialDistortParam1="-0.000845"
+        stCamera:RadialDistortParam2="0.001264"
+        stCamera:RadialDistortParam3="-0.000491"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.006084"
+         stCamera:VignetteModelParam1="-0.177665"
+         stCamera:VignetteModelParam2="-0.2582"
+         stCamera:VignetteModelParam3="0.067293">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.321472, 0.975600</rdf:li>
+          <rdf:li>0.588991, 0.914500</rdf:li>
+          <rdf:li>0.736636, 0.849500</rdf:li>
+          <rdf:li>0.844713, 0.764200</rdf:li>
+          <rdf:li>1.192943, 0.439500</rdf:li>
+          <rdf:li>1.294160, 0.287600</rdf:li>
+          <rdf:li>1.321956, 0.223100</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.76"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000247"
+        stCamera:ResidualStandardDeviation="0.000167"
+        stCamera:RadialDistortParam1="-0.093842"
+        stCamera:RadialDistortParam2="0.054754"
+        stCamera:RadialDistortParam3="-0.008377">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000123"
+        stCamera:RadialDistortParam1="0.000256"
+        stCamera:RadialDistortParam2="-0.000585"
+        stCamera:RadialDistortParam3="0.000235"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000247"
+        stCamera:ResidualStandardDeviation="0.000167"
+        stCamera:RadialDistortParam1="-0.093842"
+        stCamera:RadialDistortParam2="0.054754"
+        stCamera:RadialDistortParam3="-0.008377"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000035"
+        stCamera:RadialDistortParam1="-0.000652"
+        stCamera:RadialDistortParam2="0.000933"
+        stCamera:RadialDistortParam3="-0.000355"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.006802"
+         stCamera:VignetteModelParam1="-0.259439"
+         stCamera:VignetteModelParam2="-0.257791"
+         stCamera:VignetteModelParam3="0.091331">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.252560, 0.983200</rdf:li>
+          <rdf:li>0.481601, 0.936000</rdf:li>
+          <rdf:li>0.710649, 0.821700</rdf:li>
+          <rdf:li>0.794980, 0.755200</rdf:li>
+          <rdf:li>1.043205, 0.519800</rdf:li>
+          <rdf:li>1.201825, 0.385900</rdf:li>
+          <rdf:li>1.222865, 0.363300</rdf:li>
+          <rdf:li>1.340276, 0.218600</rdf:li>
+          <rdf:li>1.367392, 0.170800</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1.52"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000257"
+        stCamera:ResidualStandardDeviation="0.000174"
+        stCamera:RadialDistortParam1="-0.09059"
+        stCamera:RadialDistortParam2="0.055751"
+        stCamera:RadialDistortParam3="-0.008035">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000111"
+        stCamera:RadialDistortParam1="0.000217"
+        stCamera:RadialDistortParam2="-0.00051"
+        stCamera:RadialDistortParam3="0.000205"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000257"
+        stCamera:ResidualStandardDeviation="0.000174"
+        stCamera:RadialDistortParam1="-0.09059"
+        stCamera:RadialDistortParam2="0.055751"
+        stCamera:RadialDistortParam3="-0.008035"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000063"
+        stCamera:RadialDistortParam1="-0.000586"
+        stCamera:RadialDistortParam2="0.000791"
+        stCamera:RadialDistortParam3="-0.0003"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.007728"
+         stCamera:VignetteModelParam1="-0.301568"
+         stCamera:VignetteModelParam2="-0.232634"
+         stCamera:VignetteModelParam3="0.089268">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.236221, 0.984700</rdf:li>
+          <rdf:li>0.450290, 0.941800</rdf:li>
+          <rdf:li>0.626942, 0.855800</rdf:li>
+          <rdf:li>0.766351, 0.762200</rdf:li>
+          <rdf:li>1.078293, 0.469800</rdf:li>
+          <rdf:li>1.226219, 0.347700</rdf:li>
+          <rdf:li>1.357727, 0.199100</rdf:li>
+          <rdf:li>1.386306, 0.154100</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="3.04"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000264"
+        stCamera:ResidualStandardDeviation="0.000179"
+        stCamera:RadialDistortParam1="-0.088223"
+        stCamera:RadialDistortParam2="0.056096"
+        stCamera:RadialDistortParam3="-0.007693">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000052"
+        stCamera:RadialDistortParam1="0.000173"
+        stCamera:RadialDistortParam2="-0.000454"
+        stCamera:RadialDistortParam3="0.000185"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000264"
+        stCamera:ResidualStandardDeviation="0.000179"
+        stCamera:RadialDistortParam1="-0.088223"
+        stCamera:RadialDistortParam2="0.056096"
+        stCamera:RadialDistortParam3="-0.007693"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.00018"
+        stCamera:RadialDistortParam1="-0.000517"
+        stCamera:RadialDistortParam2="0.000704"
+        stCamera:RadialDistortParam3="-0.000269"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.008279"
+         stCamera:VignetteModelParam1="-0.336594"
+         stCamera:VignetteModelParam2="-0.209605"
+         stCamera:VignetteModelParam3="0.086402">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.223932, 0.985900</rdf:li>
+          <rdf:li>0.426595, 0.946200</rdf:li>
+          <rdf:li>0.612013, 0.853700</rdf:li>
+          <rdf:li>0.752153, 0.760200</rdf:li>
+          <rdf:li>1.078903, 0.454700</rdf:li>
+          <rdf:li>1.220638, 0.343000</rdf:li>
+          <rdf:li>1.243016, 0.321100</rdf:li>
+          <rdf:li>1.374258, 0.181300</rdf:li>
+          <rdf:li>1.398953, 0.145400</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="inf"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000268"
+        stCamera:ResidualStandardDeviation="0.000182"
+        stCamera:RadialDistortParam1="-0.08778"
+        stCamera:RadialDistortParam2="0.05649"
+        stCamera:RadialDistortParam3="-0.007634">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000104"
+        stCamera:RadialDistortParam1="0.000186"
+        stCamera:RadialDistortParam2="-0.000444"
+        stCamera:RadialDistortParam3="0.00018"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000268"
+        stCamera:ResidualStandardDeviation="0.000182"
+        stCamera:RadialDistortParam1="-0.08778"
+        stCamera:RadialDistortParam2="0.05649"
+        stCamera:RadialDistortParam3="-0.007634"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000083"
+        stCamera:RadialDistortParam1="-0.000535"
+        stCamera:RadialDistortParam2="0.000669"
+        stCamera:RadialDistortParam3="-0.000252"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.008506"
+         stCamera:VignetteModelParam1="-0.339862"
+         stCamera:VignetteModelParam2="-0.204645"
+         stCamera:VignetteModelParam3="0.084482">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.228045, 0.985300</rdf:li>
+          <rdf:li>0.426633, 0.946100</rdf:li>
+          <rdf:li>0.627786, 0.844200</rdf:li>
+          <rdf:li>0.756383, 0.755900</rdf:li>
+          <rdf:li>1.076176, 0.456500</rdf:li>
+          <rdf:li>1.218576, 0.345000</rdf:li>
+          <rdf:li>1.241084, 0.322900</rdf:li>
+          <rdf:li>1.373231, 0.183100</rdf:li>
+          <rdf:li>1.403163, 0.140900</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.38"
+       stCamera:ApertureValue="5.488322">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000228"
+        stCamera:ResidualStandardDeviation="0.000153"
+        stCamera:RadialDistortParam1="-0.102162"
+        stCamera:RadialDistortParam2="0.051693"
+        stCamera:RadialDistortParam3="-0.008745">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000007"
+        stCamera:ResidualStandardDeviation="0.000012"
+        stCamera:ScaleFactor="1.000189"
+        stCamera:RadialDistortParam1="0.000291"
+        stCamera:RadialDistortParam2="-0.000621"
+        stCamera:RadialDistortParam3="0.000229"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000228"
+        stCamera:ResidualStandardDeviation="0.000153"
+        stCamera:RadialDistortParam1="-0.102162"
+        stCamera:RadialDistortParam2="0.051693"
+        stCamera:RadialDistortParam3="-0.008745"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000006"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:ScaleFactor="0.999912"
+        stCamera:RadialDistortParam1="-0.000777"
+        stCamera:RadialDistortParam2="0.001191"
+        stCamera:RadialDistortParam3="-0.000467"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.002643"
+         stCamera:VignetteModelParam1="-0.270038"
+         stCamera:VignetteModelParam2="0.089005"
+         stCamera:VignetteModelParam3="-0.094579">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.321472, 0.975600</rdf:li>
+          <rdf:li>0.623377, 0.903500</rdf:li>
+          <rdf:li>0.915191, 0.782900</rdf:li>
+          <rdf:li>1.030431, 0.695700</rdf:li>
+          <rdf:li>1.181438, 0.554500</rdf:li>
+          <rdf:li>1.196785, 0.532100</rdf:li>
+          <rdf:li>1.294160, 0.353700</rdf:li>
+          <rdf:li>1.321956, 0.276100</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.76"
+       stCamera:ApertureValue="5.488322">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000247"
+        stCamera:ResidualStandardDeviation="0.000167"
+        stCamera:RadialDistortParam1="-0.093842"
+        stCamera:RadialDistortParam2="0.054754"
+        stCamera:RadialDistortParam3="-0.008377">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000134"
+        stCamera:RadialDistortParam1="0.000227"
+        stCamera:RadialDistortParam2="-0.000562"
+        stCamera:RadialDistortParam3="0.000229"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000247"
+        stCamera:ResidualStandardDeviation="0.000167"
+        stCamera:RadialDistortParam1="-0.093842"
+        stCamera:RadialDistortParam2="0.054754"
+        stCamera:RadialDistortParam3="-0.008377"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:ScaleFactor="1.000033"
+        stCamera:RadialDistortParam1="-0.000635"
+        stCamera:RadialDistortParam2="0.000921"
+        stCamera:RadialDistortParam3="-0.000353"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.002841"
+         stCamera:VignetteModelParam1="-0.249067"
+         stCamera:VignetteModelParam2="-0.055178"
+         stCamera:VignetteModelParam3="-0.017173">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.301476, 0.975900</rdf:li>
+          <rdf:li>0.579449, 0.907400</rdf:li>
+          <rdf:li>0.806478, 0.815200</rdf:li>
+          <rdf:li>0.910300, 0.752000</rdf:li>
+          <rdf:li>0.964615, 0.707000</rdf:li>
+          <rdf:li>1.197639, 0.488800</rdf:li>
+          <rdf:li>1.218642, 0.462900</rdf:li>
+          <rdf:li>1.340276, 0.277200</rdf:li>
+          <rdf:li>1.367392, 0.219500</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1.52"
+       stCamera:ApertureValue="5.488322">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000257"
+        stCamera:ResidualStandardDeviation="0.000174"
+        stCamera:RadialDistortParam1="-0.09059"
+        stCamera:RadialDistortParam2="0.055751"
+        stCamera:RadialDistortParam3="-0.008035">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000121"
+        stCamera:RadialDistortParam1="0.000188"
+        stCamera:RadialDistortParam2="-0.000484"
+        stCamera:RadialDistortParam3="0.000198"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000257"
+        stCamera:ResidualStandardDeviation="0.000174"
+        stCamera:RadialDistortParam1="-0.09059"
+        stCamera:RadialDistortParam2="0.055751"
+        stCamera:RadialDistortParam3="-0.008035"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000062"
+        stCamera:RadialDistortParam1="-0.00057"
+        stCamera:RadialDistortParam2="0.000779"
+        stCamera:RadialDistortParam3="-0.000297"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003038"
+         stCamera:VignetteModelParam1="-0.248953"
+         stCamera:VignetteModelParam2="-0.099605"
+         stCamera:VignetteModelParam3="0.008148">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.309690, 0.973500</rdf:li>
+          <rdf:li>0.591910, 0.899600</rdf:li>
+          <rdf:li>0.781830, 0.817400</rdf:li>
+          <rdf:li>0.957544, 0.693900</rdf:li>
+          <rdf:li>1.226219, 0.439900</rdf:li>
+          <rdf:li>1.357727, 0.254700</rdf:li>
+          <rdf:li>1.386306, 0.199900</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="3.04"
+       stCamera:ApertureValue="5.488322">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000264"
+        stCamera:ResidualStandardDeviation="0.000179"
+        stCamera:RadialDistortParam1="-0.088223"
+        stCamera:RadialDistortParam2="0.056096"
+        stCamera:RadialDistortParam3="-0.007693">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.00006"
+        stCamera:RadialDistortParam1="0.000144"
+        stCamera:RadialDistortParam2="-0.000427"
+        stCamera:RadialDistortParam3="0.000177"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000264"
+        stCamera:ResidualStandardDeviation="0.000179"
+        stCamera:RadialDistortParam1="-0.088223"
+        stCamera:RadialDistortParam2="0.056096"
+        stCamera:RadialDistortParam3="-0.007693"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000179"
+        stCamera:RadialDistortParam1="-0.0005"
+        stCamera:RadialDistortParam2="0.000689"
+        stCamera:RadialDistortParam3="-0.000266"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003044"
+         stCamera:VignetteModelParam1="-0.253741"
+         stCamera:VignetteModelParam2="-0.127216"
+         stCamera:VignetteModelParam3="0.024983">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.309759, 0.972700</rdf:li>
+          <rdf:li>0.596383, 0.895200</rdf:li>
+          <rdf:li>0.752153, 0.824900</rdf:li>
+          <rdf:li>0.936635, 0.696800</rdf:li>
+          <rdf:li>1.229556, 0.425500</rdf:li>
+          <rdf:li>1.326107, 0.294600</rdf:li>
+          <rdf:li>1.374258, 0.233800</rdf:li>
+          <rdf:li>1.398953, 0.189700</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="inf"
+       stCamera:ApertureValue="5.488322">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000268"
+        stCamera:ResidualStandardDeviation="0.000182"
+        stCamera:RadialDistortParam1="-0.08778"
+        stCamera:RadialDistortParam2="0.05649"
+        stCamera:RadialDistortParam3="-0.007634">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000112"
+        stCamera:RadialDistortParam1="0.000158"
+        stCamera:RadialDistortParam2="-0.000418"
+        stCamera:RadialDistortParam3="0.000172"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000268"
+        stCamera:ResidualStandardDeviation="0.000182"
+        stCamera:RadialDistortParam1="-0.08778"
+        stCamera:RadialDistortParam2="0.05649"
+        stCamera:RadialDistortParam3="-0.007634"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000083"
+        stCamera:RadialDistortParam1="-0.000517"
+        stCamera:RadialDistortParam2="0.000653"
+        stCamera:RadialDistortParam3="-0.000248"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003046"
+         stCamera:VignetteModelParam1="-0.254808"
+         stCamera:VignetteModelParam2="-0.126272"
+         stCamera:VignetteModelParam3="0.024844">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.309771, 0.972600</rdf:li>
+          <rdf:li>0.596515, 0.894900</rdf:li>
+          <rdf:li>0.752485, 0.824400</rdf:li>
+          <rdf:li>0.941449, 0.692000</rdf:li>
+          <rdf:li>1.227545, 0.427800</rdf:li>
+          <rdf:li>1.373231, 0.236500</rdf:li>
+          <rdf:li>1.403163, 0.184000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.38"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000228"
+        stCamera:ResidualStandardDeviation="0.000153"
+        stCamera:RadialDistortParam1="-0.102162"
+        stCamera:RadialDistortParam2="0.051693"
+        stCamera:RadialDistortParam3="-0.008745">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000006"
+        stCamera:ResidualStandardDeviation="0.000011"
+        stCamera:ScaleFactor="1.000201"
+        stCamera:RadialDistortParam1="0.000273"
+        stCamera:RadialDistortParam2="-0.000641"
+        stCamera:RadialDistortParam3="0.000244"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000228"
+        stCamera:ResidualStandardDeviation="0.000153"
+        stCamera:RadialDistortParam1="-0.102162"
+        stCamera:RadialDistortParam2="0.051693"
+        stCamera:RadialDistortParam3="-0.008745"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000007"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:ScaleFactor="0.99991"
+        stCamera:RadialDistortParam1="-0.000803"
+        stCamera:RadialDistortParam2="0.001304"
+        stCamera:RadialDistortParam3="-0.000521"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.007365"
+         stCamera:VignetteModelParam1="-0.320268"
+         stCamera:VignetteModelParam2="0.200512"
+         stCamera:VignetteModelParam3="-0.131215">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.345646, 0.971700</rdf:li>
+          <rdf:li>0.657560, 0.891900</rdf:li>
+          <rdf:li>0.963428, 0.758200</rdf:li>
+          <rdf:li>1.079106, 0.695400</rdf:li>
+          <rdf:li>1.143302, 0.647300</rdf:li>
+          <rdf:li>1.189105, 0.604000</rdf:li>
+          <rdf:li>1.294160, 0.402900</rdf:li>
+          <rdf:li>1.321956, 0.316800</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.76"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000247"
+        stCamera:ResidualStandardDeviation="0.000167"
+        stCamera:RadialDistortParam1="-0.093842"
+        stCamera:RadialDistortParam2="0.054754"
+        stCamera:RadialDistortParam3="-0.008377">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000146"
+        stCamera:RadialDistortParam1="0.000184"
+        stCamera:RadialDistortParam2="-0.000522"
+        stCamera:RadialDistortParam3="0.000217"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000247"
+        stCamera:ResidualStandardDeviation="0.000167"
+        stCamera:RadialDistortParam1="-0.093842"
+        stCamera:RadialDistortParam2="0.054754"
+        stCamera:RadialDistortParam3="-0.008377"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:ScaleFactor="1.000019"
+        stCamera:RadialDistortParam1="-0.000551"
+        stCamera:RadialDistortParam2="0.000832"
+        stCamera:RadialDistortParam3="-0.000326"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.005773"
+         stCamera:VignetteModelParam1="-0.337072"
+         stCamera:VignetteModelParam2="0.161021"
+         stCamera:VignetteModelParam3="-0.099345">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.350033, 0.967300</rdf:li>
+          <rdf:li>0.652968, 0.881100</rdf:li>
+          <rdf:li>1.003737, 0.714200</rdf:li>
+          <rdf:li>1.087103, 0.666600</rdf:li>
+          <rdf:li>1.152063, 0.614600</rdf:li>
+          <rdf:li>1.214426, 0.551900</rdf:li>
+          <rdf:li>1.335797, 0.343300</rdf:li>
+          <rdf:li>1.367392, 0.265800</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1.52"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000257"
+        stCamera:ResidualStandardDeviation="0.000174"
+        stCamera:RadialDistortParam1="-0.09059"
+        stCamera:RadialDistortParam2="0.055751"
+        stCamera:RadialDistortParam3="-0.008035">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000131"
+        stCamera:RadialDistortParam1="0.000153"
+        stCamera:RadialDistortParam2="-0.000452"
+        stCamera:RadialDistortParam3="0.000189"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000257"
+        stCamera:ResidualStandardDeviation="0.000174"
+        stCamera:RadialDistortParam1="-0.09059"
+        stCamera:RadialDistortParam2="0.055751"
+        stCamera:RadialDistortParam3="-0.008035"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:ScaleFactor="1.000054"
+        stCamera:RadialDistortParam1="-0.000512"
+        stCamera:RadialDistortParam2="0.000717"
+        stCamera:RadialDistortParam3="-0.000279"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.004107"
+         stCamera:VignetteModelParam1="-0.332738"
+         stCamera:VignetteModelParam2="0.124892"
+         stCamera:VignetteModelParam3="-0.079861">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.358241, 0.964300</rdf:li>
+          <rdf:li>0.669622, 0.870100</rdf:li>
+          <rdf:li>0.989348, 0.714700</rdf:li>
+          <rdf:li>1.090626, 0.648600</rdf:li>
+          <rdf:li>1.157413, 0.593000</rdf:li>
+          <rdf:li>1.221851, 0.529900</rdf:li>
+          <rdf:li>1.357727, 0.311100</rdf:li>
+          <rdf:li>1.386306, 0.245500</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="3.04"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000264"
+        stCamera:ResidualStandardDeviation="0.000179"
+        stCamera:RadialDistortParam1="-0.088223"
+        stCamera:RadialDistortParam2="0.056096"
+        stCamera:RadialDistortParam3="-0.007693">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.00007"
+        stCamera:RadialDistortParam1="0.000112"
+        stCamera:RadialDistortParam2="-0.000399"
+        stCamera:RadialDistortParam3="0.000169"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000264"
+        stCamera:ResidualStandardDeviation="0.000179"
+        stCamera:RadialDistortParam1="-0.088223"
+        stCamera:RadialDistortParam2="0.056096"
+        stCamera:RadialDistortParam3="-0.007693"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:ScaleFactor="1.000174"
+        stCamera:RadialDistortParam1="-0.000454"
+        stCamera:RadialDistortParam2="0.000641"
+        stCamera:RadialDistortParam3="-0.000252"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.002941"
+         stCamera:VignetteModelParam1="-0.325594"
+         stCamera:VignetteModelParam2="0.086767"
+         stCamera:VignetteModelParam3="-0.060648">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.350276, 0.964900</rdf:li>
+          <rdf:li>0.658800, 0.871000</rdf:li>
+          <rdf:li>0.948604, 0.730500</rdf:li>
+          <rdf:li>1.142175, 0.590800</rdf:li>
+          <rdf:li>1.216195, 0.525800</rdf:li>
+          <rdf:li>1.234031, 0.502700</rdf:li>
+          <rdf:li>1.374258, 0.287800</rdf:li>
+          <rdf:li>1.398953, 0.234400</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="HCD 24"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad HCD 4.8/24"
+       stCamera:ProfileName="Adobe (Hasselblad HCD 4.8/24)"
+       stCamera:SensorFormatFactor="0.645"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="inf"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000268"
+        stCamera:ResidualStandardDeviation="0.000182"
+        stCamera:RadialDistortParam1="-0.08778"
+        stCamera:RadialDistortParam2="0.05649"
+        stCamera:RadialDistortParam3="-0.007634">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000122"
+        stCamera:RadialDistortParam1="0.000126"
+        stCamera:RadialDistortParam2="-0.000389"
+        stCamera:RadialDistortParam3="0.000165"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000268"
+        stCamera:ResidualStandardDeviation="0.000182"
+        stCamera:RadialDistortParam1="-0.08778"
+        stCamera:RadialDistortParam2="0.05649"
+        stCamera:RadialDistortParam3="-0.007634"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:ScaleFactor="1.000077"
+        stCamera:RadialDistortParam1="-0.000473"
+        stCamera:RadialDistortParam2="0.000606"
+        stCamera:RadialDistortParam3="-0.000235"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.002883"
+         stCamera:VignetteModelParam1="-0.326189"
+         stCamera:VignetteModelParam2="0.086957"
+         stCamera:VignetteModelParam3="-0.060406">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.366437, 0.961400</rdf:li>
+          <rdf:li>0.686270, 0.859400</rdf:li>
+          <rdf:li>0.949461, 0.729900</rdf:li>
+          <rdf:li>1.092952, 0.631700</rdf:li>
+          <rdf:li>1.161308, 0.574300</rdf:li>
+          <rdf:li>1.214109, 0.528100</rdf:li>
+          <rdf:li>1.232046, 0.505200</rdf:li>
+          <rdf:li>1.373231, 0.291200</rdf:li>
+          <rdf:li>1.403163, 0.228700</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

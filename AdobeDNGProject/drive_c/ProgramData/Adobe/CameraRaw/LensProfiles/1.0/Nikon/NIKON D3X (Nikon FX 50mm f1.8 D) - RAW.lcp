@@ -1,0 +1,1542 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.1-c055 1.136881, 2010/06/10-18:11:35        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.45</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.684962</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.684962</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.498192</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.522509</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.000096</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000054</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.059495</stCamera:RadialDistortParam1>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.685044</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.685044</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.498175</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.522603</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000089</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000051</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000143</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.000033</stCamera:RadialDistortParam1>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.685044</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.685044</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.498175</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.522603</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000089</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000051</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.059447</stCamera:RadialDistortParam1>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.685044</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.685044</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.498175</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.522603</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000089</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000051</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999768</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.000169</stCamera:RadialDistortParam1>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.84</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.517512</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.517512</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000057</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000036</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.054409</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.057104</stCamera:RadialDistortParam2>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.517515</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.517515</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000047</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.00003</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000134</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.000359</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.000626</stCamera:RadialDistortParam2>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.517515</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.517515</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000046</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.00003</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.054326</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.056363</stCamera:RadialDistortParam2>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.517515</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.517515</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000047</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.00003</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.99977</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.00023</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.001454</stCamera:RadialDistortParam2>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>4.22</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.396736</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.396736</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.496603</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.50661</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.000055</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000036</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.031163</stCamera:RadialDistortParam1>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.49658</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.506641</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.00005</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000035</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.0001</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.000318</stCamera:RadialDistortParam1>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.49658</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.506641</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000051</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000035</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.031279</stCamera:RadialDistortParam1>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.49658</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.506641</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000051</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000036</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999847</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.00032</stCamera:RadialDistortParam1>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.45</stCamera:FocusDistance>
+      <stCamera:ApertureValue>1.695994</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.685044</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.685044</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.498175</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.522603</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.059447</stCamera:RadialDistortParam1>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.685044</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.685044</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-7.082399</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>48.168901</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-197.528786</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.45</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.685044</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.685044</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.498175</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.522603</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.059447</stCamera:RadialDistortParam1>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.685044</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.685044</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-3.788543</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>6.221727</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-50.699009</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.45</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.685044</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.685044</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.498175</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.522603</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.059447</stCamera:RadialDistortParam1>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.685044</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.685044</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.422831</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>40.328828</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-284.109358</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.45</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.685044</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.685044</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.498175</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.522603</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.059447</stCamera:RadialDistortParam1>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.685044</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.685044</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.048573</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>28.504271</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-175.069964</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.45</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.685044</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.685044</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.498175</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.522603</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.059447</stCamera:RadialDistortParam1>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.685044</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.685044</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.015693</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>27.94572</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-171.896143</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.45</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.685044</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.685044</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.498175</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.522603</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.059447</stCamera:RadialDistortParam1>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.685044</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.685044</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.101517</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>29.017739</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-176.426982</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.45</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.685044</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.685044</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.498175</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.522603</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.059447</stCamera:RadialDistortParam1>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.685044</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.685044</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.245965</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>31.110517</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-185.790115</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.45</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.685044</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.685044</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.498175</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.522603</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.059447</stCamera:RadialDistortParam1>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.685044</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.685044</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.395113</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>32.585745</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-190.744148</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.84</stCamera:FocusDistance>
+      <stCamera:ApertureValue>1.695994</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.517515</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.517515</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.054326</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.056363</stCamera:RadialDistortParam2>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.517515</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.517515</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-7.534575</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>48.527012</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-159.950689</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.84</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.517515</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.517515</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.054326</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.056363</stCamera:RadialDistortParam2>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.517515</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.517515</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-3.902828</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>5.090117</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-19.867508</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.84</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.517515</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.517515</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.054326</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.056363</stCamera:RadialDistortParam2>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.517515</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.517515</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.124759</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>27.061716</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-174.595492</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.84</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.517515</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.517515</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.054326</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.056363</stCamera:RadialDistortParam2>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.517515</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.517515</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.695943</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>17.923751</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-91.436638</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.84</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.517515</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.517515</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.054326</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.056363</stCamera:RadialDistortParam2>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.517515</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.517515</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.836825</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>19.882328</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-99.997039</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.84</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.517515</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.517515</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.054326</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.056363</stCamera:RadialDistortParam2>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.517515</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.517515</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.993258</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>21.929841</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-108.676347</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.84</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.517515</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.517515</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.054326</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.056363</stCamera:RadialDistortParam2>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.517515</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.517515</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.079861</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>22.777557</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-111.031084</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.84</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.517515</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.517515</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.054326</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.056363</stCamera:RadialDistortParam2>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.517515</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.517515</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.270474</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>24.450372</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-115.894023</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.78</stCamera:FocusDistance>
+      <stCamera:ApertureValue>1.695994</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.437826</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.437826</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.497745</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.504379</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.03627</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.009072</stCamera:RadialDistortParam2>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.437826</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.437826</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-7.663521</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>47.624252</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-142.103976</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.78</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.437826</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.437826</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.497745</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.504379</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.03627</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.009072</stCamera:RadialDistortParam2>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.437826</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.437826</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-4.443814</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>11.284787</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-32.802111</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.78</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.437826</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.437826</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.497745</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.504379</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.03627</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.009072</stCamera:RadialDistortParam2>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.437826</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.437826</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.478425</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>11.949192</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-92.42046</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.78</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.437826</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.437826</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.497745</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.504379</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.03627</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.009072</stCamera:RadialDistortParam2>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.437826</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.437826</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.934843</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>18.655488</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-84.257509</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.78</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.437826</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.437826</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.497745</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.504379</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.03627</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.009072</stCamera:RadialDistortParam2>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.437826</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.437826</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.828028</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>17.754314</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-80.190927</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.78</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.437826</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.437826</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.497745</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.504379</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.03627</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.009072</stCamera:RadialDistortParam2>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.437826</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.437826</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.878972</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>18.260891</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-81.820489</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.78</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.437826</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.437826</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.497745</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.504379</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.03627</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.009072</stCamera:RadialDistortParam2>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.437826</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.437826</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.042685</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>19.884012</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-86.577253</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.78</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.437826</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.437826</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.497745</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.504379</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.03627</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.009072</stCamera:RadialDistortParam2>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.437826</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.437826</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.269077</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>21.691364</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-90.743811</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>5.01</stCamera:FocusDistance>
+      <stCamera:ApertureValue>1.695994</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.49658</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.506641</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.031279</stCamera:RadialDistortParam1>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-7.339266</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>42.292872</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-117.270262</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>5.01</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.49658</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.506641</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.031279</stCamera:RadialDistortParam1>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-4.614814</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>13.00031</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-34.39278</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>5.01</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.49658</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.506641</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.031279</stCamera:RadialDistortParam1>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.050744</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>3.644485</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-53.043605</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>5.01</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.49658</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.506641</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.031279</stCamera:RadialDistortParam1>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.583234</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>13.978246</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-61.492583</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>5.01</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.49658</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.506641</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.031279</stCamera:RadialDistortParam1>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.743705</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>15.593209</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-66.573393</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>5.01</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.49658</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.506641</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.031279</stCamera:RadialDistortParam1>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.865973</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>16.923683</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-71.134653</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>5.01</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.49658</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.506641</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.031279</stCamera:RadialDistortParam1>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.998588</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>18.179938</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-74.914987</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>5.01</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.49658</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.506641</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.031279</stCamera:RadialDistortParam1>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.28984</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>20.542248</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-80.338675</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>1.695994</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.49658</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.506641</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.031279</stCamera:RadialDistortParam1>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-7.615605</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>45.362333</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-127.68297</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.49658</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.506641</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.031279</stCamera:RadialDistortParam1>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-4.723733</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>13.585678</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-35.7195</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.49658</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.506641</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.031279</stCamera:RadialDistortParam1>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.545206</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>9.168652</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-73.012354</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.49658</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.506641</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.031279</stCamera:RadialDistortParam1>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.866123</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>17.313912</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-74.668959</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.49658</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.506641</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.031279</stCamera:RadialDistortParam1>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.758634</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>15.598922</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-66.620969</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.49658</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.506641</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.031279</stCamera:RadialDistortParam1>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.916892</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>17.4222</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-73.31257</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.49658</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.506641</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.031279</stCamera:RadialDistortParam1>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.004495</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>18.089608</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-74.603834</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>118</stCamera:LensID>
+      <stCamera:Lens>50.0 mm f/1.8</stCamera:Lens>
+      <stCamera:LensInfo>500/10 500/10 18/10 18/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 50mm f/1.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 50mm f/1.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.49658</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.506641</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.031279</stCamera:RadialDistortParam1>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.396651</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.396651</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.351727</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>21.002896</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-81.796585</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

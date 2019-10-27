@@ -1,0 +1,1246 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c128 79.159124, 2016/03/18-14:01:55        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.028114"
+        stCamera:RadialDistortParam2="-0.980848"
+        stCamera:RadialDistortParam3="1.006356">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.015117"
+         stCamera:VignetteModelParam1="-25.214651"
+         stCamera:VignetteModelParam2="482.158315"
+         stCamera:VignetteModelParam3="-3950.55296">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.045914, 0.918547</rdf:li>
+          <rdf:li>0.135400, 0.686489</rdf:li>
+          <rdf:li>0.253956, 0.336517</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="6"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.027937"
+        stCamera:RadialDistortParam2="-0.932939"
+        stCamera:RadialDistortParam3="0.921527">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.012232"
+         stCamera:VignetteModelParam1="-23.625019"
+         stCamera:VignetteModelParam2="436.427196"
+         stCamera:VignetteModelParam3="-3531.892799">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.016153, 0.988018</rdf:li>
+          <rdf:li>0.041254, 0.938015</rdf:li>
+          <rdf:li>0.126703, 0.724628</rdf:li>
+          <rdf:li>0.253999, 0.357608</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="4"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.027632"
+        stCamera:RadialDistortParam2="-0.905116"
+        stCamera:RadialDistortParam3="0.846864">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.010926"
+         stCamera:VignetteModelParam1="-22.699158"
+         stCamera:VignetteModelParam2="408.129527"
+         stCamera:VignetteModelParam3="-3266.958304">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.017955, 0.987353</rdf:li>
+          <rdf:li>0.038955, 0.947930</rdf:li>
+          <rdf:li>0.118936, 0.753115</rdf:li>
+          <rdf:li>0.254018, 0.368630</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.027346"
+        stCamera:RadialDistortParam2="-0.882352"
+        stCamera:RadialDistortParam3="0.836092">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.009861"
+         stCamera:VignetteModelParam1="-21.834895"
+         stCamera:VignetteModelParam2="383.553204"
+         stCamera:VignetteModelParam3="-3046.365726">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.021558, 0.983548</rdf:li>
+          <rdf:li>0.039141, 0.952315</rdf:li>
+          <rdf:li>0.126393, 0.740859</rdf:li>
+          <rdf:li>0.254037, 0.379635</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.026364"
+        stCamera:RadialDistortParam2="-0.830766"
+        stCamera:RadialDistortParam3="0.762546">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.006381"
+         stCamera:VignetteModelParam1="-19.303055"
+         stCamera:VignetteModelParam2="306.83342"
+         stCamera:VignetteModelParam3="-2349.695911">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.041440, 0.959937</rdf:li>
+          <rdf:li>0.110484, 0.802811</rdf:li>
+          <rdf:li>0.254071, 0.405581</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.025043"
+        stCamera:RadialDistortParam2="-0.779299"
+        stCamera:RadialDistortParam3="0.697106">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003959"
+         stCamera:VignetteModelParam1="-16.821276"
+         stCamera:VignetteModelParam2="233.554309"
+         stCamera:VignetteModelParam3="-1687.744812">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.022801, 0.991252</rdf:li>
+          <rdf:li>0.051320, 0.952696</rdf:li>
+          <rdf:li>0.114274, 0.814345</rdf:li>
+          <rdf:li>0.254100, 0.434421</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.2"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.023381"
+        stCamera:RadialDistortParam2="-0.729478"
+        stCamera:RadialDistortParam3="0.657657">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002424"
+        stCamera:VignetteModelParam1="-14.570852"
+        stCamera:VignetteModelParam2="172.504382"
+        stCamera:VignetteModelParam3="-1162.278847"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.021291"
+        stCamera:RadialDistortParam2="-0.677017"
+        stCamera:RadialDistortParam3="0.592326">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001606"
+        stCamera:VignetteModelParam1="-12.611505"
+        stCamera:VignetteModelParam2="126.254174"
+        stCamera:VignetteModelParam3="-794.248986"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.85"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.018719"
+        stCamera:RadialDistortParam2="-0.624006"
+        stCamera:RadialDistortParam3="0.544784">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001225"
+        stCamera:VignetteModelParam1="-10.538974"
+        stCamera:VignetteModelParam2="80.396564"
+        stCamera:VignetteModelParam3="-441.737972"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.028114"
+        stCamera:RadialDistortParam2="-0.980848"
+        stCamera:RadialDistortParam3="1.006356">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002314"
+        stCamera:VignetteModelParam1="-1.330844"
+        stCamera:VignetteModelParam2="-114.846089"
+        stCamera:VignetteModelParam3="594.00252"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="6"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.027937"
+        stCamera:RadialDistortParam2="-0.932939"
+        stCamera:RadialDistortParam3="0.921527">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002614"
+        stCamera:VignetteModelParam1="-1.311469"
+        stCamera:VignetteModelParam2="-84.276899"
+        stCamera:VignetteModelParam3="220.077564"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="4"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.027632"
+        stCamera:RadialDistortParam2="-0.905116"
+        stCamera:RadialDistortParam3="0.846864">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002935"
+        stCamera:VignetteModelParam1="-1.368782"
+        stCamera:VignetteModelParam2="-67.386141"
+        stCamera:VignetteModelParam3="25.98465"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.027346"
+        stCamera:RadialDistortParam2="-0.882352"
+        stCamera:RadialDistortParam3="0.836092">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00302"
+        stCamera:VignetteModelParam1="-1.502864"
+        stCamera:VignetteModelParam2="-47.769916"
+        stCamera:VignetteModelParam3="-192.55349"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.026364"
+        stCamera:RadialDistortParam2="-0.830766"
+        stCamera:RadialDistortParam3="0.762546">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.002922"
+         stCamera:VignetteModelParam1="-1.890377"
+         stCamera:VignetteModelParam2="-6.83188"
+         stCamera:VignetteModelParam3="-620.64276">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.099545, 0.977172</rdf:li>
+          <rdf:li>0.169683, 0.931813</rdf:li>
+          <rdf:li>0.209350, 0.849376</rdf:li>
+          <rdf:li>0.254071, 0.693079</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.025043"
+        stCamera:RadialDistortParam2="-0.779299"
+        stCamera:RadialDistortParam3="0.697106">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002314"
+        stCamera:VignetteModelParam1="-2.255601"
+        stCamera:VignetteModelParam2="27.178287"
+        stCamera:VignetteModelParam3="-939.034406"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.2"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.023381"
+        stCamera:RadialDistortParam2="-0.729478"
+        stCamera:RadialDistortParam3="0.657657">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00181"
+        stCamera:VignetteModelParam1="-2.54838"
+        stCamera:VignetteModelParam2="49.75188"
+        stCamera:VignetteModelParam3="-1087.473983"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.021291"
+        stCamera:RadialDistortParam2="-0.677017"
+        stCamera:RadialDistortParam3="0.592326">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001505"
+        stCamera:VignetteModelParam1="-2.61488"
+        stCamera:VignetteModelParam2="55.616874"
+        stCamera:VignetteModelParam3="-1030.20602"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.85"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.018719"
+        stCamera:RadialDistortParam2="-0.624006"
+        stCamera:RadialDistortParam3="0.544784">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000986"
+        stCamera:VignetteModelParam1="-2.366494"
+        stCamera:VignetteModelParam2="40.75407"
+        stCamera:VignetteModelParam3="-727.318832"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.028114"
+        stCamera:RadialDistortParam2="-0.980848"
+        stCamera:RadialDistortParam3="1.006356">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001432"
+        stCamera:VignetteModelParam1="-3.337164"
+        stCamera:VignetteModelParam2="54.079343"
+        stCamera:VignetteModelParam3="-937.731972"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="6"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.027937"
+        stCamera:RadialDistortParam2="-0.932939"
+        stCamera:RadialDistortParam3="0.921527">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001555"
+        stCamera:VignetteModelParam1="-3.200931"
+        stCamera:VignetteModelParam2="46.587102"
+        stCamera:VignetteModelParam3="-705.628221"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="4"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.027632"
+        stCamera:RadialDistortParam2="-0.905116"
+        stCamera:RadialDistortParam3="0.846864">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00144"
+        stCamera:VignetteModelParam1="-3.030263"
+        stCamera:VignetteModelParam2="37.331469"
+        stCamera:VignetteModelParam3="-538.501207"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.027346"
+        stCamera:RadialDistortParam2="-0.882352"
+        stCamera:RadialDistortParam3="0.836092">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001207"
+        stCamera:VignetteModelParam1="-2.834275"
+        stCamera:VignetteModelParam2="25.50029"
+        stCamera:VignetteModelParam3="-337.892174"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.026364"
+        stCamera:RadialDistortParam2="-0.830766"
+        stCamera:RadialDistortParam3="0.762546">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000471"
+        stCamera:VignetteModelParam1="-2.498857"
+        stCamera:VignetteModelParam2="8.985923"
+        stCamera:VignetteModelParam3="-79.763116"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.025043"
+        stCamera:RadialDistortParam2="-0.779299"
+        stCamera:RadialDistortParam3="0.697106">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000222"
+        stCamera:VignetteModelParam1="-2.326566"
+        stCamera:VignetteModelParam2="3.87258"
+        stCamera:VignetteModelParam3="-6.064627"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.2"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.023381"
+        stCamera:RadialDistortParam2="-0.729478"
+        stCamera:RadialDistortParam3="0.657657">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000271"
+        stCamera:VignetteModelParam1="-2.232468"
+        stCamera:VignetteModelParam2="4.712691"
+        stCamera:VignetteModelParam3="-19.216394"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.021291"
+        stCamera:RadialDistortParam2="-0.677017"
+        stCamera:RadialDistortParam3="0.592326">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000261"
+        stCamera:VignetteModelParam1="-2.11287"
+        stCamera:VignetteModelParam2="3.884839"
+        stCamera:VignetteModelParam3="-14.235917"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.85"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.018719"
+        stCamera:RadialDistortParam2="-0.624006"
+        stCamera:RadialDistortParam3="0.544784">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000282"
+        stCamera:VignetteModelParam1="-2.021776"
+        stCamera:VignetteModelParam2="4.722091"
+        stCamera:VignetteModelParam3="-27.798903"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.028114"
+        stCamera:RadialDistortParam2="-0.980848"
+        stCamera:RadialDistortParam3="1.006356">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000287"
+        stCamera:VignetteModelParam1="-2.84205"
+        stCamera:VignetteModelParam2="5.56977"
+        stCamera:VignetteModelParam3="-12.421003"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="6"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.027937"
+        stCamera:RadialDistortParam2="-0.932939"
+        stCamera:RadialDistortParam3="0.921527">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000259"
+        stCamera:VignetteModelParam1="-2.758979"
+        stCamera:VignetteModelParam2="7.087863"
+        stCamera:VignetteModelParam3="-30.586849"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="4"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.027632"
+        stCamera:RadialDistortParam2="-0.905116"
+        stCamera:RadialDistortParam3="0.846864">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000213"
+        stCamera:VignetteModelParam1="-2.674314"
+        stCamera:VignetteModelParam2="6.015492"
+        stCamera:VignetteModelParam3="-21.101315"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.027346"
+        stCamera:RadialDistortParam2="-0.882352"
+        stCamera:RadialDistortParam3="0.836092">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000197"
+        stCamera:VignetteModelParam1="-2.616985"
+        stCamera:VignetteModelParam2="5.734736"
+        stCamera:VignetteModelParam3="-20.062492"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.026364"
+        stCamera:RadialDistortParam2="-0.830766"
+        stCamera:RadialDistortParam3="0.762546">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000271"
+        stCamera:VignetteModelParam1="-2.490271"
+        stCamera:VignetteModelParam2="5.316438"
+        stCamera:VignetteModelParam3="-19.900995"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.025043"
+        stCamera:RadialDistortParam2="-0.779299"
+        stCamera:RadialDistortParam3="0.697106">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000264"
+        stCamera:VignetteModelParam1="-2.380868"
+        stCamera:VignetteModelParam2="4.892926"
+        stCamera:VignetteModelParam3="-17.294257"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.2"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.023381"
+        stCamera:RadialDistortParam2="-0.729478"
+        stCamera:RadialDistortParam3="0.657657">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00026"
+        stCamera:VignetteModelParam1="-2.249942"
+        stCamera:VignetteModelParam2="3.858432"
+        stCamera:VignetteModelParam3="-8.334858"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.021291"
+        stCamera:RadialDistortParam2="-0.677017"
+        stCamera:RadialDistortParam3="0.592326">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000234"
+        stCamera:VignetteModelParam1="-2.167759"
+        stCamera:VignetteModelParam2="4.496846"
+        stCamera:VignetteModelParam3="-15.546684"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="200"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.85"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.018719"
+        stCamera:RadialDistortParam2="-0.624006"
+        stCamera:RadialDistortParam3="0.544784">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000256"
+        stCamera:VignetteModelParam1="-2.071143"
+        stCamera:VignetteModelParam2="4.57027"
+        stCamera:VignetteModelParam3="-16.274059"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

@@ -1,0 +1,35 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c128 79.159124, 2016/03/18-14:01:55        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:LensID="11"
+       stCamera:Lens="Leica Summaron-M 28mm f/5.6"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUMMARON-M 28mm f/5.6"
+       stCamera:ProfileName="Adobe (Leica SUMMARON-M 28mm f/5.6)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:ResidualMeanError="0.000719"
+       stCamera:ResidualStandardDeviation="0.000846"
+       stCamera:RadialDistortParam1="-0.163456"
+       stCamera:RadialDistortParam2="0.480813"
+       stCamera:RadialDistortParam3="-0.393066"/>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

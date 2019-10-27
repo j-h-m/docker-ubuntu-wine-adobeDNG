@@ -1,0 +1,33 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45 (debug)">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica VARIO-APO-ELMARIT-R 70-180 mm f/2.8"
+       stCamera:ProfileName="Adobe (Leica VARIO-APO-ELMARIT-R 70-180 mm f/2.8, 100 mm)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:ResidualMeanError="0.000003"
+       stCamera:ResidualStandardDeviation="0.000004"
+       stCamera:RadialDistortParam1="0.000197"
+       stCamera:RadialDistortParam2="-0.25547"
+       stCamera:RadialDistortParam3="15.041843"/>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

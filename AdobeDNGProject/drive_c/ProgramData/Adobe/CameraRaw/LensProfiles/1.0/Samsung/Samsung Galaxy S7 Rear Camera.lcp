@@ -1,0 +1,40 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c128 79.159124, 2016/03/18-14:01:55 (debug)">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="samsung"
+       stCamera:CameraRawProfile="False"
+       stCamera:Lens="Samsung Galaxy S7 Rear Camera"
+       stCamera:CameraPrettyName="Samsung Galaxy S7"
+       stCamera:LensPrettyName="Samsung Galaxy S7 Rear Camera"
+       stCamera:ProfileName="Adobe (Samsung Galaxy S7 Rear Camera)"
+       stCamera:SensorFormatFactor="6"
+       stCamera:ImageWidth="4032"
+       stCamera:ImageLength="3024"
+       stCamera:FocalLength="4.19"
+       stCamera:FocusDistance="1.31508"
+       stCamera:ApertureValue="1.531069">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.731653"
+       stCamera:FocalLengthY="0.731653"
+       stCamera:ImageXCenter="0.515623"
+       stCamera:ImageYCenter="0.485076"
+       stCamera:ResidualMeanError="0.002547"
+       stCamera:ResidualStandardDeviation="0.006394"
+       stCamera:RadialDistortParam1="0.292921"
+       stCamera:RadialDistortParam2="-0.859557"
+       stCamera:RadialDistortParam3="0.740033"/>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

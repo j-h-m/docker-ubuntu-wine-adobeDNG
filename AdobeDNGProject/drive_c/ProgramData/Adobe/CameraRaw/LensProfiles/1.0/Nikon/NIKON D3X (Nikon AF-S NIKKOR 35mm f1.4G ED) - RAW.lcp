@@ -1,0 +1,1773 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c007 1.136881, 2010/06/10-18:11:35        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.45"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.016561"
+        stCamera:FocalLengthY="1.016561"
+        stCamera:ImageXCenter="0.511714"
+        stCamera:ImageYCenter="0.499959"
+        stCamera:ResidualMeanError="0.000138"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.123165"
+        stCamera:RadialDistortParam2="0.138822"
+        stCamera:RadialDistortParam3="-0.041929">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:ImageXCenter="0.511751"
+        stCamera:ImageYCenter="0.499904"
+        stCamera:ResidualMeanError="0.000127"
+        stCamera:ResidualStandardDeviation="0.000093"
+        stCamera:ScaleFactor="1.000478"
+        stCamera:RadialDistortParam1="-0.00019"
+        stCamera:RadialDistortParam2="-0.004113"
+        stCamera:RadialDistortParam3="0.006579"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:ImageXCenter="0.511751"
+        stCamera:ImageYCenter="0.499904"
+        stCamera:ResidualMeanError="0.000126"
+        stCamera:ResidualStandardDeviation="0.000093"
+        stCamera:RadialDistortParam1="-0.123248"
+        stCamera:RadialDistortParam2="0.138622"
+        stCamera:RadialDistortParam3="-0.04167"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:ImageXCenter="0.511751"
+        stCamera:ImageYCenter="0.499904"
+        stCamera:ResidualMeanError="0.000126"
+        stCamera:ResidualStandardDeviation="0.000093"
+        stCamera:ScaleFactor="0.999497"
+        stCamera:RadialDistortParam1="0.000789"
+        stCamera:RadialDistortParam2="0.002703"
+        stCamera:RadialDistortParam3="-0.003228"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.71"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.044184"
+        stCamera:FocalLengthY="1.044184"
+        stCamera:ImageXCenter="0.497948"
+        stCamera:ImageYCenter="0.496683"
+        stCamera:ResidualMeanError="0.000101"
+        stCamera:ResidualStandardDeviation="0.000113"
+        stCamera:RadialDistortParam1="-0.121144"
+        stCamera:RadialDistortParam2="0.096072"
+        stCamera:RadialDistortParam3="0.073877">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.044284"
+        stCamera:FocalLengthY="1.044284"
+        stCamera:ImageXCenter="0.497937"
+        stCamera:ImageYCenter="0.496725"
+        stCamera:ResidualMeanError="0.000085"
+        stCamera:ResidualStandardDeviation="0.000114"
+        stCamera:ScaleFactor="1.000484"
+        stCamera:RadialDistortParam1="-0.00101"
+        stCamera:RadialDistortParam2="-0.000393"
+        stCamera:RadialDistortParam3="-0.002606"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.044284"
+        stCamera:FocalLengthY="1.044284"
+        stCamera:ImageXCenter="0.497937"
+        stCamera:ImageYCenter="0.496725"
+        stCamera:ResidualMeanError="0.000085"
+        stCamera:ResidualStandardDeviation="0.000114"
+        stCamera:RadialDistortParam1="-0.121263"
+        stCamera:RadialDistortParam2="0.095922"
+        stCamera:RadialDistortParam3="0.074057"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.044284"
+        stCamera:FocalLengthY="1.044284"
+        stCamera:ImageXCenter="0.497937"
+        stCamera:ImageYCenter="0.496725"
+        stCamera:ResidualMeanError="0.000085"
+        stCamera:ResidualStandardDeviation="0.000115"
+        stCamera:ScaleFactor="0.999494"
+        stCamera:RadialDistortParam1="0.001528"
+        stCamera:RadialDistortParam2="0.000455"
+        stCamera:RadialDistortParam3="0.003973"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.114477"
+        stCamera:FocalLengthY="1.114477"
+        stCamera:ImageXCenter="0.50122"
+        stCamera:ImageYCenter="0.505162"
+        stCamera:ResidualMeanError="0.000254"
+        stCamera:ResidualStandardDeviation="0.000392"
+        stCamera:RadialDistortParam1="-0.096365"
+        stCamera:RadialDistortParam2="-0.020931"
+        stCamera:RadialDistortParam3="0.438057">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.114419"
+        stCamera:FocalLengthY="1.114419"
+        stCamera:ImageXCenter="0.501207"
+        stCamera:ImageYCenter="0.505171"
+        stCamera:ResidualMeanError="0.00025"
+        stCamera:ResidualStandardDeviation="0.000393"
+        stCamera:ScaleFactor="1.000462"
+        stCamera:RadialDistortParam1="-0.001148"
+        stCamera:RadialDistortParam2="-0.002958"
+        stCamera:RadialDistortParam3="0.001815"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.114419"
+        stCamera:FocalLengthY="1.114419"
+        stCamera:ImageXCenter="0.501207"
+        stCamera:ImageYCenter="0.505171"
+        stCamera:ResidualMeanError="0.000248"
+        stCamera:ResidualStandardDeviation="0.000393"
+        stCamera:RadialDistortParam1="-0.096496"
+        stCamera:RadialDistortParam2="-0.021331"
+        stCamera:RadialDistortParam3="0.438512"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.114419"
+        stCamera:FocalLengthY="1.114419"
+        stCamera:ImageXCenter="0.501207"
+        stCamera:ImageYCenter="0.505171"
+        stCamera:ResidualMeanError="0.000248"
+        stCamera:ResidualStandardDeviation="0.000394"
+        stCamera:ScaleFactor="0.999523"
+        stCamera:RadialDistortParam1="0.001637"
+        stCamera:RadialDistortParam2="0.004941"
+        stCamera:RadialDistortParam3="-0.004284"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.3"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:ImageXCenter="0.511751"
+        stCamera:ImageYCenter="0.499904"
+        stCamera:RadialDistortParam1="-0.123248"
+        stCamera:RadialDistortParam2="0.138622"
+        stCamera:RadialDistortParam3="-0.04167">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:VignetteModelParam1="-2.49444"
+        stCamera:VignetteModelParam2="6.332518"
+        stCamera:VignetteModelParam3="-10.676335"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.3"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:ImageXCenter="0.511751"
+        stCamera:ImageYCenter="0.499904"
+        stCamera:RadialDistortParam1="-0.123248"
+        stCamera:RadialDistortParam2="0.138622"
+        stCamera:RadialDistortParam3="-0.04167">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:VignetteModelParam1="-0.524686"
+        stCamera:VignetteModelParam2="2.114884"
+        stCamera:VignetteModelParam3="-9.944371"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.3"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:ImageXCenter="0.511751"
+        stCamera:ImageYCenter="0.499904"
+        stCamera:RadialDistortParam1="-0.123248"
+        stCamera:RadialDistortParam2="0.138622"
+        stCamera:RadialDistortParam3="-0.04167">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:VignetteModelParam1="-0.542449"
+        stCamera:VignetteModelParam2="4.645826"
+        stCamera:VignetteModelParam3="-10.111018"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.3"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:ImageXCenter="0.511751"
+        stCamera:ImageYCenter="0.499904"
+        stCamera:RadialDistortParam1="-0.123248"
+        stCamera:RadialDistortParam2="0.138622"
+        stCamera:RadialDistortParam3="-0.04167">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:VignetteModelParam1="-0.435873"
+        stCamera:VignetteModelParam2="3.212697"
+        stCamera:VignetteModelParam3="-5.879501"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:ImageXCenter="0.511751"
+        stCamera:ImageYCenter="0.499904"
+        stCamera:RadialDistortParam1="-0.123248"
+        stCamera:RadialDistortParam2="0.138622"
+        stCamera:RadialDistortParam3="-0.04167">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:VignetteModelParam1="-0.491779"
+        stCamera:VignetteModelParam2="3.588854"
+        stCamera:VignetteModelParam3="-6.501043"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:ImageXCenter="0.511751"
+        stCamera:ImageYCenter="0.499904"
+        stCamera:RadialDistortParam1="-0.123248"
+        stCamera:RadialDistortParam2="0.138622"
+        stCamera:RadialDistortParam3="-0.04167">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:VignetteModelParam1="-0.497595"
+        stCamera:VignetteModelParam2="3.618773"
+        stCamera:VignetteModelParam3="-6.503994"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:ImageXCenter="0.511751"
+        stCamera:ImageYCenter="0.499904"
+        stCamera:RadialDistortParam1="-0.123248"
+        stCamera:RadialDistortParam2="0.138622"
+        stCamera:RadialDistortParam3="-0.04167">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:VignetteModelParam1="-0.509246"
+        stCamera:VignetteModelParam2="3.694321"
+        stCamera:VignetteModelParam3="-6.617092"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.3"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:ImageXCenter="0.511751"
+        stCamera:ImageYCenter="0.499904"
+        stCamera:RadialDistortParam1="-0.123248"
+        stCamera:RadialDistortParam2="0.138622"
+        stCamera:RadialDistortParam3="-0.04167">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:VignetteModelParam1="-0.549458"
+        stCamera:VignetteModelParam2="3.945894"
+        stCamera:VignetteModelParam3="-6.988096"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.33"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:ImageXCenter="0.511751"
+        stCamera:ImageYCenter="0.499904"
+        stCamera:RadialDistortParam1="-0.123248"
+        stCamera:RadialDistortParam2="0.138622"
+        stCamera:RadialDistortParam3="-0.04167">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:VignetteModelParam1="-2.983291"
+        stCamera:VignetteModelParam2="8.092667"
+        stCamera:VignetteModelParam3="-12.690574"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.33"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:ImageXCenter="0.511751"
+        stCamera:ImageYCenter="0.499904"
+        stCamera:RadialDistortParam1="-0.123248"
+        stCamera:RadialDistortParam2="0.138622"
+        stCamera:RadialDistortParam3="-0.04167">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:VignetteModelParam1="-0.248756"
+        stCamera:VignetteModelParam2="-1.086747"
+        stCamera:VignetteModelParam3="-3.973132"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.35"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:ImageXCenter="0.511751"
+        stCamera:ImageYCenter="0.499904"
+        stCamera:RadialDistortParam1="-0.123248"
+        stCamera:RadialDistortParam2="0.138622"
+        stCamera:RadialDistortParam3="-0.04167">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:VignetteModelParam1="-0.737111"
+        stCamera:VignetteModelParam2="6.436705"
+        stCamera:VignetteModelParam3="-14.59229"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.35"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:ImageXCenter="0.511751"
+        stCamera:ImageYCenter="0.499904"
+        stCamera:RadialDistortParam1="-0.123248"
+        stCamera:RadialDistortParam2="0.138622"
+        stCamera:RadialDistortParam3="-0.04167">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:VignetteModelParam1="-0.559741"
+        stCamera:VignetteModelParam2="4.262292"
+        stCamera:VignetteModelParam3="-8.351683"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.35"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:ImageXCenter="0.511751"
+        stCamera:ImageYCenter="0.499904"
+        stCamera:RadialDistortParam1="-0.123248"
+        stCamera:RadialDistortParam2="0.138622"
+        stCamera:RadialDistortParam3="-0.04167">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:VignetteModelParam1="-0.522316"
+        stCamera:VignetteModelParam2="3.874634"
+        stCamera:VignetteModelParam3="-7.245737"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.35"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:ImageXCenter="0.511751"
+        stCamera:ImageYCenter="0.499904"
+        stCamera:RadialDistortParam1="-0.123248"
+        stCamera:RadialDistortParam2="0.138622"
+        stCamera:RadialDistortParam3="-0.04167">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:VignetteModelParam1="-0.544925"
+        stCamera:VignetteModelParam2="4.014408"
+        stCamera:VignetteModelParam3="-7.436017"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.35"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:ImageXCenter="0.511751"
+        stCamera:ImageYCenter="0.499904"
+        stCamera:RadialDistortParam1="-0.123248"
+        stCamera:RadialDistortParam2="0.138622"
+        stCamera:RadialDistortParam3="-0.04167">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:VignetteModelParam1="-0.551525"
+        stCamera:VignetteModelParam2="4.042374"
+        stCamera:VignetteModelParam3="-7.426409"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.35"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:ImageXCenter="0.511751"
+        stCamera:ImageYCenter="0.499904"
+        stCamera:RadialDistortParam1="-0.123248"
+        stCamera:RadialDistortParam2="0.138622"
+        stCamera:RadialDistortParam3="-0.04167">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.016542"
+        stCamera:FocalLengthY="1.016542"
+        stCamera:VignetteModelParam1="-0.569467"
+        stCamera:VignetteModelParam2="4.15032"
+        stCamera:VignetteModelParam3="-7.5728"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.024118"
+        stCamera:FocalLengthY="1.024118"
+        stCamera:ImageXCenter="0.507979"
+        stCamera:ImageYCenter="0.499036"
+        stCamera:RadialDistortParam1="-0.120624"
+        stCamera:RadialDistortParam2="0.114265"
+        stCamera:RadialDistortParam3="0.014186">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.024118"
+        stCamera:FocalLengthY="1.024118"
+        stCamera:VignetteModelParam1="-3.83276"
+        stCamera:VignetteModelParam2="11.893534"
+        stCamera:VignetteModelParam3="-18.285809"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.024118"
+        stCamera:FocalLengthY="1.024118"
+        stCamera:ImageXCenter="0.507979"
+        stCamera:ImageYCenter="0.499036"
+        stCamera:RadialDistortParam1="-0.120624"
+        stCamera:RadialDistortParam2="0.114265"
+        stCamera:RadialDistortParam3="0.014186">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.024118"
+        stCamera:FocalLengthY="1.024118"
+        stCamera:VignetteModelParam1="-0.116696"
+        stCamera:VignetteModelParam2="-4.267411"
+        stCamera:VignetteModelParam3="1.983927"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.024118"
+        stCamera:FocalLengthY="1.024118"
+        stCamera:ImageXCenter="0.507979"
+        stCamera:ImageYCenter="0.499036"
+        stCamera:RadialDistortParam1="-0.120624"
+        stCamera:RadialDistortParam2="0.114265"
+        stCamera:RadialDistortParam3="0.014186">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.024118"
+        stCamera:FocalLengthY="1.024118"
+        stCamera:VignetteModelParam1="-0.946014"
+        stCamera:VignetteModelParam2="9.158769"
+        stCamera:VignetteModelParam3="-23.129002"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.024118"
+        stCamera:FocalLengthY="1.024118"
+        stCamera:ImageXCenter="0.507979"
+        stCamera:ImageYCenter="0.499036"
+        stCamera:RadialDistortParam1="-0.120624"
+        stCamera:RadialDistortParam2="0.114265"
+        stCamera:RadialDistortParam3="0.014186">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.024118"
+        stCamera:FocalLengthY="1.024118"
+        stCamera:VignetteModelParam1="-0.517727"
+        stCamera:VignetteModelParam2="4.037705"
+        stCamera:VignetteModelParam3="-8.097608"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.024118"
+        stCamera:FocalLengthY="1.024118"
+        stCamera:ImageXCenter="0.507979"
+        stCamera:ImageYCenter="0.499036"
+        stCamera:RadialDistortParam1="-0.120624"
+        stCamera:RadialDistortParam2="0.114265"
+        stCamera:RadialDistortParam3="0.014186">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.024118"
+        stCamera:FocalLengthY="1.024118"
+        stCamera:VignetteModelParam1="-0.597364"
+        stCamera:VignetteModelParam2="4.63357"
+        stCamera:VignetteModelParam3="-9.288811"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.024118"
+        stCamera:FocalLengthY="1.024118"
+        stCamera:ImageXCenter="0.507979"
+        stCamera:ImageYCenter="0.499036"
+        stCamera:RadialDistortParam1="-0.120624"
+        stCamera:RadialDistortParam2="0.114265"
+        stCamera:RadialDistortParam3="0.014186">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.024118"
+        stCamera:FocalLengthY="1.024118"
+        stCamera:VignetteModelParam1="-0.627116"
+        stCamera:VignetteModelParam2="4.823616"
+        stCamera:VignetteModelParam3="-9.57091"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.024118"
+        stCamera:FocalLengthY="1.024118"
+        stCamera:ImageXCenter="0.507979"
+        stCamera:ImageYCenter="0.499036"
+        stCamera:RadialDistortParam1="-0.120624"
+        stCamera:RadialDistortParam2="0.114265"
+        stCamera:RadialDistortParam3="0.014186">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.024118"
+        stCamera:FocalLengthY="1.024118"
+        stCamera:VignetteModelParam1="-0.619758"
+        stCamera:VignetteModelParam2="4.755941"
+        stCamera:VignetteModelParam3="-9.38113"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.024118"
+        stCamera:FocalLengthY="1.024118"
+        stCamera:ImageXCenter="0.507979"
+        stCamera:ImageYCenter="0.499036"
+        stCamera:RadialDistortParam1="-0.120624"
+        stCamera:RadialDistortParam2="0.114265"
+        stCamera:RadialDistortParam3="0.014186">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.024118"
+        stCamera:FocalLengthY="1.024118"
+        stCamera:VignetteModelParam1="-0.655951"
+        stCamera:VignetteModelParam2="4.994142"
+        stCamera:VignetteModelParam3="-9.793594"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.89"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.066276"
+        stCamera:FocalLengthY="1.066276"
+        stCamera:ImageXCenter="0.498962"
+        stCamera:ImageYCenter="0.499373"
+        stCamera:RadialDistortParam1="-0.104621"
+        stCamera:RadialDistortParam2="0.034341"
+        stCamera:RadialDistortParam3="0.22848">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.066276"
+        stCamera:FocalLengthY="1.066276"
+        stCamera:VignetteModelParam1="-4.763352"
+        stCamera:VignetteModelParam2="16.81264"
+        stCamera:VignetteModelParam3="-27.377142"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.89"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.066276"
+        stCamera:FocalLengthY="1.066276"
+        stCamera:ImageXCenter="0.498962"
+        stCamera:ImageYCenter="0.499373"
+        stCamera:RadialDistortParam1="-0.104621"
+        stCamera:RadialDistortParam2="0.034341"
+        stCamera:RadialDistortParam3="0.22848">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.066276"
+        stCamera:FocalLengthY="1.066276"
+        stCamera:VignetteModelParam1="-0.098091"
+        stCamera:VignetteModelParam2="-7.408109"
+        stCamera:VignetteModelParam3="7.971894"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.89"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.066276"
+        stCamera:FocalLengthY="1.066276"
+        stCamera:ImageXCenter="0.498962"
+        stCamera:ImageYCenter="0.499373"
+        stCamera:RadialDistortParam1="-0.104621"
+        stCamera:RadialDistortParam2="0.034341"
+        stCamera:RadialDistortParam3="0.22848">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.066276"
+        stCamera:FocalLengthY="1.066276"
+        stCamera:VignetteModelParam1="-0.913866"
+        stCamera:VignetteModelParam2="10.25854"
+        stCamera:VignetteModelParam3="-31.138974"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.89"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.066276"
+        stCamera:FocalLengthY="1.066276"
+        stCamera:ImageXCenter="0.498962"
+        stCamera:ImageYCenter="0.499373"
+        stCamera:RadialDistortParam1="-0.104621"
+        stCamera:RadialDistortParam2="0.034341"
+        stCamera:RadialDistortParam3="0.22848">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.066276"
+        stCamera:FocalLengthY="1.066276"
+        stCamera:VignetteModelParam1="-0.693955"
+        stCamera:VignetteModelParam2="6.077441"
+        stCamera:VignetteModelParam3="-14.115278"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.89"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.066276"
+        stCamera:FocalLengthY="1.066276"
+        stCamera:ImageXCenter="0.498962"
+        stCamera:ImageYCenter="0.499373"
+        stCamera:RadialDistortParam1="-0.104621"
+        stCamera:RadialDistortParam2="0.034341"
+        stCamera:RadialDistortParam3="0.22848">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.066276"
+        stCamera:FocalLengthY="1.066276"
+        stCamera:VignetteModelParam1="-0.675853"
+        stCamera:VignetteModelParam2="5.805836"
+        stCamera:VignetteModelParam3="-13.101707"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.89"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.066276"
+        stCamera:FocalLengthY="1.066276"
+        stCamera:ImageXCenter="0.498962"
+        stCamera:ImageYCenter="0.499373"
+        stCamera:RadialDistortParam1="-0.104621"
+        stCamera:RadialDistortParam2="0.034341"
+        stCamera:RadialDistortParam3="0.22848">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.066276"
+        stCamera:FocalLengthY="1.066276"
+        stCamera:VignetteModelParam1="-0.718546"
+        stCamera:VignetteModelParam2="6.111606"
+        stCamera:VignetteModelParam3="-13.675279"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.89"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.066276"
+        stCamera:FocalLengthY="1.066276"
+        stCamera:ImageXCenter="0.498962"
+        stCamera:ImageYCenter="0.499373"
+        stCamera:RadialDistortParam1="-0.104621"
+        stCamera:RadialDistortParam2="0.034341"
+        stCamera:RadialDistortParam3="0.22848">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.066276"
+        stCamera:FocalLengthY="1.066276"
+        stCamera:VignetteModelParam1="-0.745148"
+        stCamera:VignetteModelParam2="6.312418"
+        stCamera:VignetteModelParam3="-14.091667"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.89"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.066276"
+        stCamera:FocalLengthY="1.066276"
+        stCamera:ImageXCenter="0.498962"
+        stCamera:ImageYCenter="0.499373"
+        stCamera:RadialDistortParam1="-0.104621"
+        stCamera:RadialDistortParam2="0.034341"
+        stCamera:RadialDistortParam3="0.22848">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.066276"
+        stCamera:FocalLengthY="1.066276"
+        stCamera:VignetteModelParam1="-0.767162"
+        stCamera:VignetteModelParam2="6.414187"
+        stCamera:VignetteModelParam3="-14.133672"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.114419"
+        stCamera:FocalLengthY="1.114419"
+        stCamera:ImageXCenter="0.501207"
+        stCamera:ImageYCenter="0.505171"
+        stCamera:RadialDistortParam1="-0.096496"
+        stCamera:RadialDistortParam2="-0.021331"
+        stCamera:RadialDistortParam3="0.438512">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.114419"
+        stCamera:FocalLengthY="1.114419"
+        stCamera:VignetteModelParam1="-6.022006"
+        stCamera:VignetteModelParam2="24.825369"
+        stCamera:VignetteModelParam3="-44.065227"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.114419"
+        stCamera:FocalLengthY="1.114419"
+        stCamera:ImageXCenter="0.501207"
+        stCamera:ImageYCenter="0.505171"
+        stCamera:RadialDistortParam1="-0.096496"
+        stCamera:RadialDistortParam2="-0.021331"
+        stCamera:RadialDistortParam3="0.438512">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.114419"
+        stCamera:FocalLengthY="1.114419"
+        stCamera:VignetteModelParam1="-0.605903"
+        stCamera:VignetteModelParam2="-7.695677"
+        stCamera:VignetteModelParam3="9.318925"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.114419"
+        stCamera:FocalLengthY="1.114419"
+        stCamera:ImageXCenter="0.501207"
+        stCamera:ImageYCenter="0.505171"
+        stCamera:RadialDistortParam1="-0.096496"
+        stCamera:RadialDistortParam2="-0.021331"
+        stCamera:RadialDistortParam3="0.438512">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.114419"
+        stCamera:FocalLengthY="1.114419"
+        stCamera:VignetteModelParam1="-0.774197"
+        stCamera:VignetteModelParam2="8.852263"
+        stCamera:VignetteModelParam3="-34.26018"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.114419"
+        stCamera:FocalLengthY="1.114419"
+        stCamera:ImageXCenter="0.501207"
+        stCamera:ImageYCenter="0.505171"
+        stCamera:RadialDistortParam1="-0.096496"
+        stCamera:RadialDistortParam2="-0.021331"
+        stCamera:RadialDistortParam3="0.438512">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.114419"
+        stCamera:FocalLengthY="1.114419"
+        stCamera:VignetteModelParam1="-0.928327"
+        stCamera:VignetteModelParam2="9.815534"
+        stCamera:VignetteModelParam3="-27.55077"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.114419"
+        stCamera:FocalLengthY="1.114419"
+        stCamera:ImageXCenter="0.501207"
+        stCamera:ImageYCenter="0.505171"
+        stCamera:RadialDistortParam1="-0.096496"
+        stCamera:RadialDistortParam2="-0.021331"
+        stCamera:RadialDistortParam3="0.438512">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.114419"
+        stCamera:FocalLengthY="1.114419"
+        stCamera:VignetteModelParam1="-0.817349"
+        stCamera:VignetteModelParam2="7.708701"
+        stCamera:VignetteModelParam3="-19.635472"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.114419"
+        stCamera:FocalLengthY="1.114419"
+        stCamera:ImageXCenter="0.501207"
+        stCamera:ImageYCenter="0.505171"
+        stCamera:RadialDistortParam1="-0.096496"
+        stCamera:RadialDistortParam2="-0.021331"
+        stCamera:RadialDistortParam3="0.438512">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.114419"
+        stCamera:FocalLengthY="1.114419"
+        stCamera:VignetteModelParam1="-0.828213"
+        stCamera:VignetteModelParam2="7.7476"
+        stCamera:VignetteModelParam3="-19.533244"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.114419"
+        stCamera:FocalLengthY="1.114419"
+        stCamera:ImageXCenter="0.501207"
+        stCamera:ImageYCenter="0.505171"
+        stCamera:RadialDistortParam1="-0.096496"
+        stCamera:RadialDistortParam2="-0.021331"
+        stCamera:RadialDistortParam3="0.438512">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.114419"
+        stCamera:FocalLengthY="1.114419"
+        stCamera:VignetteModelParam1="-0.856175"
+        stCamera:VignetteModelParam2="7.931462"
+        stCamera:VignetteModelParam3="-19.846928"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3X"
+       stCamera:UniqueCameraModel="Nikon D3X"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="175"
+       stCamera:Lens="35.0 mm f/1.4"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3X"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.4G"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.4G)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6080"
+       stCamera:ImageLength="4044"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.114419"
+        stCamera:FocalLengthY="1.114419"
+        stCamera:ImageXCenter="0.501207"
+        stCamera:ImageYCenter="0.505171"
+        stCamera:RadialDistortParam1="-0.096496"
+        stCamera:RadialDistortParam2="-0.021331"
+        stCamera:RadialDistortParam3="0.438512">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.114419"
+        stCamera:FocalLengthY="1.114419"
+        stCamera:VignetteModelParam1="-0.885652"
+        stCamera:VignetteModelParam2="8.05257"
+        stCamera:VignetteModelParam3="-19.889621"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

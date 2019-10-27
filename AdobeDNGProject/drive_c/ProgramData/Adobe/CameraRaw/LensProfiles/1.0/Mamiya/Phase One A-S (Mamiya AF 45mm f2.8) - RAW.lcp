@@ -1,0 +1,662 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c007 1.136881, 2010/06/10-18:11:35        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Phase One A/S"
+       stCamera:Make="Phase One A/S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Phase One A/S"
+       stCamera:LensPrettyName="Mamiya AF 45mm f/2.8"
+       stCamera:ProfileName="Adobe (Mamiya AF 45mm f/2.8)"
+       stCamera:SensorFormatFactor="0.65"
+       stCamera:FocalLength="45"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000083"
+        stCamera:ResidualStandardDeviation="0.000077"
+        stCamera:RadialDistortParam1="-0.119376"
+        stCamera:RadialDistortParam2="0.20503"
+        stCamera:RadialDistortParam3="-0.105338">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000238"
+        stCamera:RadialDistortParam1="-0.000452"
+        stCamera:RadialDistortParam2="-0.000095"
+        stCamera:RadialDistortParam3="0.000153"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000083"
+        stCamera:ResidualStandardDeviation="0.000077"
+        stCamera:RadialDistortParam1="-0.119376"
+        stCamera:RadialDistortParam2="0.20503"
+        stCamera:RadialDistortParam3="-0.105338"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999766"
+        stCamera:RadialDistortParam1="0.000654"
+        stCamera:RadialDistortParam2="0.000133"
+        stCamera:RadialDistortParam3="-0.000193"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.011635"
+         stCamera:VignetteModelParam1="-2.840591"
+         stCamera:VignetteModelParam2="5.492295"
+         stCamera:VignetteModelParam3="-5.358608">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.088780, 0.954700</rdf:li>
+          <rdf:li>0.198851, 0.874500</rdf:li>
+          <rdf:li>0.372930, 0.708900</rdf:li>
+          <rdf:li>0.608753, 0.418500</rdf:li>
+          <rdf:li>0.695736, 0.318300</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Phase One A/S"
+       stCamera:Make="Phase One A/S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Phase One A/S"
+       stCamera:LensPrettyName="Mamiya AF 45mm f/2.8"
+       stCamera:ProfileName="Adobe (Mamiya AF 45mm f/2.8)"
+       stCamera:SensorFormatFactor="0.65"
+       stCamera:FocalLength="45"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="3.53107">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000083"
+        stCamera:ResidualStandardDeviation="0.000077"
+        stCamera:RadialDistortParam1="-0.119376"
+        stCamera:RadialDistortParam2="0.20503"
+        stCamera:RadialDistortParam3="-0.105338">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000238"
+        stCamera:RadialDistortParam1="-0.000452"
+        stCamera:RadialDistortParam2="-0.000095"
+        stCamera:RadialDistortParam3="0.000153"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000083"
+        stCamera:ResidualStandardDeviation="0.000077"
+        stCamera:RadialDistortParam1="-0.119376"
+        stCamera:RadialDistortParam2="0.20503"
+        stCamera:RadialDistortParam3="-0.105338"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999766"
+        stCamera:RadialDistortParam1="0.000654"
+        stCamera:RadialDistortParam2="0.000133"
+        stCamera:RadialDistortParam3="-0.000193"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00428"
+        stCamera:VignetteModelParam1="-1.229458"
+        stCamera:VignetteModelParam2="-1.144536"
+        stCamera:VignetteModelParam3="2.530761"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Phase One A/S"
+       stCamera:Make="Phase One A/S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Phase One A/S"
+       stCamera:LensPrettyName="Mamiya AF 45mm f/2.8"
+       stCamera:ProfileName="Adobe (Mamiya AF 45mm f/2.8)"
+       stCamera:SensorFormatFactor="0.65"
+       stCamera:FocalLength="45"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000083"
+        stCamera:ResidualStandardDeviation="0.000077"
+        stCamera:RadialDistortParam1="-0.119376"
+        stCamera:RadialDistortParam2="0.20503"
+        stCamera:RadialDistortParam3="-0.105338">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000238"
+        stCamera:RadialDistortParam1="-0.000452"
+        stCamera:RadialDistortParam2="-0.000095"
+        stCamera:RadialDistortParam3="0.000153"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000083"
+        stCamera:ResidualStandardDeviation="0.000077"
+        stCamera:RadialDistortParam1="-0.119376"
+        stCamera:RadialDistortParam2="0.20503"
+        stCamera:RadialDistortParam3="-0.105338"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999766"
+        stCamera:RadialDistortParam1="0.000654"
+        stCamera:RadialDistortParam2="0.000133"
+        stCamera:RadialDistortParam3="-0.000193"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.005537"
+        stCamera:VignetteModelParam1="-0.815575"
+        stCamera:VignetteModelParam2="-1.68514"
+        stCamera:VignetteModelParam3="2.331213"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Phase One A/S"
+       stCamera:Make="Phase One A/S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Phase One A/S"
+       stCamera:LensPrettyName="Mamiya AF 45mm f/2.8"
+       stCamera:ProfileName="Adobe (Mamiya AF 45mm f/2.8)"
+       stCamera:SensorFormatFactor="0.65"
+       stCamera:FocalLength="45"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="4.526069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000083"
+        stCamera:ResidualStandardDeviation="0.000077"
+        stCamera:RadialDistortParam1="-0.119376"
+        stCamera:RadialDistortParam2="0.20503"
+        stCamera:RadialDistortParam3="-0.105338">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000238"
+        stCamera:RadialDistortParam1="-0.000452"
+        stCamera:RadialDistortParam2="-0.000095"
+        stCamera:RadialDistortParam3="0.000153"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000083"
+        stCamera:ResidualStandardDeviation="0.000077"
+        stCamera:RadialDistortParam1="-0.119376"
+        stCamera:RadialDistortParam2="0.20503"
+        stCamera:RadialDistortParam3="-0.105338"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999766"
+        stCamera:RadialDistortParam1="0.000654"
+        stCamera:RadialDistortParam2="0.000133"
+        stCamera:RadialDistortParam3="-0.000193"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00644"
+        stCamera:VignetteModelParam1="-0.706952"
+        stCamera:VignetteModelParam2="-0.678743"
+        stCamera:VignetteModelParam3="0.145164"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Phase One A/S"
+       stCamera:Make="Phase One A/S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Phase One A/S"
+       stCamera:LensPrettyName="Mamiya AF 45mm f/2.8"
+       stCamera:ProfileName="Adobe (Mamiya AF 45mm f/2.8)"
+       stCamera:SensorFormatFactor="0.65"
+       stCamera:FocalLength="45"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000083"
+        stCamera:ResidualStandardDeviation="0.000077"
+        stCamera:RadialDistortParam1="-0.119376"
+        stCamera:RadialDistortParam2="0.20503"
+        stCamera:RadialDistortParam3="-0.105338">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000238"
+        stCamera:RadialDistortParam1="-0.000452"
+        stCamera:RadialDistortParam2="-0.000095"
+        stCamera:RadialDistortParam3="0.000153"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000083"
+        stCamera:ResidualStandardDeviation="0.000077"
+        stCamera:RadialDistortParam1="-0.119376"
+        stCamera:RadialDistortParam2="0.20503"
+        stCamera:RadialDistortParam3="-0.105338"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999766"
+        stCamera:RadialDistortParam1="0.000654"
+        stCamera:RadialDistortParam2="0.000133"
+        stCamera:RadialDistortParam3="-0.000193"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.004238"
+        stCamera:VignetteModelParam1="-0.992897"
+        stCamera:VignetteModelParam2="1.798182"
+        stCamera:VignetteModelParam3="-3.375"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Phase One A/S"
+       stCamera:Make="Phase One A/S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Phase One A/S"
+       stCamera:LensPrettyName="Mamiya AF 45mm f/2.8"
+       stCamera:ProfileName="Adobe (Mamiya AF 45mm f/2.8)"
+       stCamera:SensorFormatFactor="0.65"
+       stCamera:FocalLength="45"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="5.531069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000083"
+        stCamera:ResidualStandardDeviation="0.000077"
+        stCamera:RadialDistortParam1="-0.119376"
+        stCamera:RadialDistortParam2="0.20503"
+        stCamera:RadialDistortParam3="-0.105338">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000238"
+        stCamera:RadialDistortParam1="-0.000452"
+        stCamera:RadialDistortParam2="-0.000095"
+        stCamera:RadialDistortParam3="0.000153"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000083"
+        stCamera:ResidualStandardDeviation="0.000077"
+        stCamera:RadialDistortParam1="-0.119376"
+        stCamera:RadialDistortParam2="0.20503"
+        stCamera:RadialDistortParam3="-0.105338"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999766"
+        stCamera:RadialDistortParam1="0.000654"
+        stCamera:RadialDistortParam2="0.000133"
+        stCamera:RadialDistortParam3="-0.000193"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001838"
+        stCamera:VignetteModelParam1="-1.023175"
+        stCamera:VignetteModelParam2="2.088886"
+        stCamera:VignetteModelParam3="-3.359832"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Phase One A/S"
+       stCamera:Make="Phase One A/S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Phase One A/S"
+       stCamera:LensPrettyName="Mamiya AF 45mm f/2.8"
+       stCamera:ProfileName="Adobe (Mamiya AF 45mm f/2.8)"
+       stCamera:SensorFormatFactor="0.65"
+       stCamera:FocalLength="45"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000083"
+        stCamera:ResidualStandardDeviation="0.000077"
+        stCamera:RadialDistortParam1="-0.119376"
+        stCamera:RadialDistortParam2="0.20503"
+        stCamera:RadialDistortParam3="-0.105338">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000238"
+        stCamera:RadialDistortParam1="-0.000452"
+        stCamera:RadialDistortParam2="-0.000095"
+        stCamera:RadialDistortParam3="0.000153"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000083"
+        stCamera:ResidualStandardDeviation="0.000077"
+        stCamera:RadialDistortParam1="-0.119376"
+        stCamera:RadialDistortParam2="0.20503"
+        stCamera:RadialDistortParam3="-0.105338"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999766"
+        stCamera:RadialDistortParam1="0.000654"
+        stCamera:RadialDistortParam2="0.000133"
+        stCamera:RadialDistortParam3="-0.000193"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002148"
+        stCamera:VignetteModelParam1="-0.902126"
+        stCamera:VignetteModelParam2="1.294903"
+        stCamera:VignetteModelParam3="-1.836522"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Phase One A/S"
+       stCamera:Make="Phase One A/S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Phase One A/S"
+       stCamera:LensPrettyName="Mamiya AF 45mm f/2.8"
+       stCamera:ProfileName="Adobe (Mamiya AF 45mm f/2.8)"
+       stCamera:SensorFormatFactor="0.65"
+       stCamera:FocalLength="45"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="6.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000083"
+        stCamera:ResidualStandardDeviation="0.000077"
+        stCamera:RadialDistortParam1="-0.119376"
+        stCamera:RadialDistortParam2="0.20503"
+        stCamera:RadialDistortParam3="-0.105338">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000238"
+        stCamera:RadialDistortParam1="-0.000452"
+        stCamera:RadialDistortParam2="-0.000095"
+        stCamera:RadialDistortParam3="0.000153"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000083"
+        stCamera:ResidualStandardDeviation="0.000077"
+        stCamera:RadialDistortParam1="-0.119376"
+        stCamera:RadialDistortParam2="0.20503"
+        stCamera:RadialDistortParam3="-0.105338"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999766"
+        stCamera:RadialDistortParam1="0.000654"
+        stCamera:RadialDistortParam2="0.000133"
+        stCamera:RadialDistortParam3="-0.000193"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001613"
+        stCamera:VignetteModelParam1="-0.900231"
+        stCamera:VignetteModelParam2="0.922729"
+        stCamera:VignetteModelParam3="-0.801977"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Phase One A/S"
+       stCamera:Make="Phase One A/S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Phase One A/S"
+       stCamera:LensPrettyName="Mamiya AF 45mm f/2.8"
+       stCamera:ProfileName="Adobe (Mamiya AF 45mm f/2.8)"
+       stCamera:SensorFormatFactor="0.65"
+       stCamera:FocalLength="45"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000083"
+        stCamera:ResidualStandardDeviation="0.000077"
+        stCamera:RadialDistortParam1="-0.119376"
+        stCamera:RadialDistortParam2="0.20503"
+        stCamera:RadialDistortParam3="-0.105338">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000238"
+        stCamera:RadialDistortParam1="-0.000452"
+        stCamera:RadialDistortParam2="-0.000095"
+        stCamera:RadialDistortParam3="0.000153"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000083"
+        stCamera:ResidualStandardDeviation="0.000077"
+        stCamera:RadialDistortParam1="-0.119376"
+        stCamera:RadialDistortParam2="0.20503"
+        stCamera:RadialDistortParam3="-0.105338"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999766"
+        stCamera:RadialDistortParam1="0.000654"
+        stCamera:RadialDistortParam2="0.000133"
+        stCamera:RadialDistortParam3="-0.000193"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000088"
+        stCamera:VignetteModelParam1="-0.792736"
+        stCamera:VignetteModelParam2="0.310781"
+        stCamera:VignetteModelParam3="0.005512"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Phase One A/S"
+       stCamera:Make="Phase One A/S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Phase One A/S"
+       stCamera:LensPrettyName="Mamiya AF 45mm f/2.8"
+       stCamera:ProfileName="Adobe (Mamiya AF 45mm f/2.8)"
+       stCamera:SensorFormatFactor="0.65"
+       stCamera:FocalLength="45"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000083"
+        stCamera:ResidualStandardDeviation="0.000077"
+        stCamera:RadialDistortParam1="-0.119376"
+        stCamera:RadialDistortParam2="0.20503"
+        stCamera:RadialDistortParam3="-0.105338">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000238"
+        stCamera:RadialDistortParam1="-0.000452"
+        stCamera:RadialDistortParam2="-0.000095"
+        stCamera:RadialDistortParam3="0.000153"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000083"
+        stCamera:ResidualStandardDeviation="0.000077"
+        stCamera:RadialDistortParam1="-0.119376"
+        stCamera:RadialDistortParam2="0.20503"
+        stCamera:RadialDistortParam3="-0.105338"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999766"
+        stCamera:RadialDistortParam1="0.000654"
+        stCamera:RadialDistortParam2="0.000133"
+        stCamera:RadialDistortParam3="-0.000193"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000694"
+        stCamera:VignetteModelParam1="-0.777263"
+        stCamera:VignetteModelParam2="0.471153"
+        stCamera:VignetteModelParam3="-0.293899"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Phase One A/S"
+       stCamera:Make="Phase One A/S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Phase One A/S"
+       stCamera:LensPrettyName="Mamiya AF 45mm f/2.8"
+       stCamera:ProfileName="Adobe (Mamiya AF 45mm f/2.8)"
+       stCamera:SensorFormatFactor="0.65"
+       stCamera:FocalLength="45"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000083"
+        stCamera:ResidualStandardDeviation="0.000077"
+        stCamera:RadialDistortParam1="-0.119376"
+        stCamera:RadialDistortParam2="0.20503"
+        stCamera:RadialDistortParam3="-0.105338">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000238"
+        stCamera:RadialDistortParam1="-0.000452"
+        stCamera:RadialDistortParam2="-0.000095"
+        stCamera:RadialDistortParam3="0.000153"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000083"
+        stCamera:ResidualStandardDeviation="0.000077"
+        stCamera:RadialDistortParam1="-0.119376"
+        stCamera:RadialDistortParam2="0.20503"
+        stCamera:RadialDistortParam3="-0.105338"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999766"
+        stCamera:RadialDistortParam1="0.000654"
+        stCamera:RadialDistortParam2="0.000133"
+        stCamera:RadialDistortParam3="-0.000193"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000478"
+        stCamera:VignetteModelParam1="-0.705354"
+        stCamera:VignetteModelParam2="0.057026"
+        stCamera:VignetteModelParam3="0.262972"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Phase One A/S"
+       stCamera:Make="Phase One A/S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Phase One A/S"
+       stCamera:LensPrettyName="Mamiya AF 45mm f/2.8"
+       stCamera:ProfileName="Adobe (Mamiya AF 45mm f/2.8)"
+       stCamera:SensorFormatFactor="0.65"
+       stCamera:FocalLength="45"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="8.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000083"
+        stCamera:ResidualStandardDeviation="0.000077"
+        stCamera:RadialDistortParam1="-0.119376"
+        stCamera:RadialDistortParam2="0.20503"
+        stCamera:RadialDistortParam3="-0.105338">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000238"
+        stCamera:RadialDistortParam1="-0.000452"
+        stCamera:RadialDistortParam2="-0.000095"
+        stCamera:RadialDistortParam3="0.000153"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000083"
+        stCamera:ResidualStandardDeviation="0.000077"
+        stCamera:RadialDistortParam1="-0.119376"
+        stCamera:RadialDistortParam2="0.20503"
+        stCamera:RadialDistortParam3="-0.105338"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999766"
+        stCamera:RadialDistortParam1="0.000654"
+        stCamera:RadialDistortParam2="0.000133"
+        stCamera:RadialDistortParam3="-0.000193"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000405"
+        stCamera:VignetteModelParam1="-0.805608"
+        stCamera:VignetteModelParam2="0.433444"
+        stCamera:VignetteModelParam3="-0.189764"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Phase One A/S"
+       stCamera:Make="Phase One A/S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Phase One A/S"
+       stCamera:LensPrettyName="Mamiya AF 45mm f/2.8"
+       stCamera:ProfileName="Adobe (Mamiya AF 45mm f/2.8)"
+       stCamera:SensorFormatFactor="0.65"
+       stCamera:FocalLength="45"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000083"
+        stCamera:ResidualStandardDeviation="0.000077"
+        stCamera:RadialDistortParam1="-0.119376"
+        stCamera:RadialDistortParam2="0.20503"
+        stCamera:RadialDistortParam3="-0.105338">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000238"
+        stCamera:RadialDistortParam1="-0.000452"
+        stCamera:RadialDistortParam2="-0.000095"
+        stCamera:RadialDistortParam3="0.000153"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000083"
+        stCamera:ResidualStandardDeviation="0.000077"
+        stCamera:RadialDistortParam1="-0.119376"
+        stCamera:RadialDistortParam2="0.20503"
+        stCamera:RadialDistortParam3="-0.105338"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999766"
+        stCamera:RadialDistortParam1="0.000654"
+        stCamera:RadialDistortParam2="0.000133"
+        stCamera:RadialDistortParam3="-0.000193"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002142"
+        stCamera:VignetteModelParam1="-0.88511"
+        stCamera:VignetteModelParam2="1.057508"
+        stCamera:VignetteModelParam3="-1.030528"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

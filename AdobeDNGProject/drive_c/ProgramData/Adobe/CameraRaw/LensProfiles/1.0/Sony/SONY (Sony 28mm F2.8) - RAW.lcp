@@ -1,0 +1,304 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="25571"
+       stCamera:Lens="28mm F2.8"
+       stCamera:LensInfo="28/1 28/1 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 28mm F2.8"
+       stCamera:ProfileName="Adobe (Sony 28mm F2.8)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:ScaleFactor="1.01428"
+       stCamera:RadialDistortParam1="-0.09234"
+       stCamera:RadialDistortParam2="0.086195"
+       stCamera:RadialDistortParam3="-0.011807"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="25571"
+       stCamera:Lens="28mm F2.8"
+       stCamera:LensInfo="28/1 28/1 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 28mm F2.8"
+       stCamera:ProfileName="Adobe (Sony 28mm F2.8)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.01428"
+        stCamera:RadialDistortParam1="-0.09234"
+        stCamera:RadialDistortParam2="0.086195"
+        stCamera:RadialDistortParam3="-0.011807">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-2.155351"
+         stCamera:VignetteModelParam2="3.359485"
+         stCamera:VignetteModelParam3="-2.231498">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005024, 1.000000</rdf:li>
+          <rdf:li>0.286709, 0.824580</rdf:li>
+          <rdf:li>0.396116, 0.749024</rdf:li>
+          <rdf:li>0.576950, 0.575752</rdf:li>
+          <rdf:li>0.698380, 0.460611</rdf:li>
+          <rdf:li>0.757995, 0.420685</rdf:li>
+          <rdf:li>0.771918, 0.408825</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="25571"
+       stCamera:Lens="28mm F2.8"
+       stCamera:LensInfo="28/1 28/1 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 28mm F2.8"
+       stCamera:ProfileName="Adobe (Sony 28mm F2.8)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.01428"
+        stCamera:RadialDistortParam1="-0.09234"
+        stCamera:RadialDistortParam2="0.086195"
+        stCamera:RadialDistortParam3="-0.011807">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.050451"
+         stCamera:VignetteModelParam2="1.193726"
+         stCamera:VignetteModelParam3="-0.942625">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005024, 1.000000</rdf:li>
+          <rdf:li>0.101600, 0.990694</rdf:li>
+          <rdf:li>0.201516, 0.960962</rdf:li>
+          <rdf:li>0.396116, 0.855848</rdf:li>
+          <rdf:li>0.519496, 0.792859</rdf:li>
+          <rdf:li>0.567334, 0.762245</rdf:li>
+          <rdf:li>0.685026, 0.661295</rdf:li>
+          <rdf:li>0.692210, 0.653115</rdf:li>
+          <rdf:li>0.771918, 0.592134</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="25571"
+       stCamera:Lens="28mm F2.8"
+       stCamera:LensInfo="28/1 28/1 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 28mm F2.8"
+       stCamera:ProfileName="Adobe (Sony 28mm F2.8)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.01428"
+        stCamera:RadialDistortParam1="-0.09234"
+        stCamera:RadialDistortParam2="0.086195"
+        stCamera:RadialDistortParam3="-0.011807">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.067095"
+         stCamera:VignetteModelParam2="0.64795"
+         stCamera:VignetteModelParam3="-0.086993">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005024, 1.000000</rdf:li>
+          <rdf:li>0.151132, 0.974069</rdf:li>
+          <rdf:li>0.294867, 0.912517</rdf:li>
+          <rdf:li>0.399036, 0.847331</rdf:li>
+          <rdf:li>0.771918, 0.558905</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="25571"
+       stCamera:Lens="28mm F2.8"
+       stCamera:LensInfo="28/1 28/1 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 28mm F2.8"
+       stCamera:ProfileName="Adobe (Sony 28mm F2.8)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.01428"
+        stCamera:RadialDistortParam1="-0.09234"
+        stCamera:RadialDistortParam2="0.086195"
+        stCamera:RadialDistortParam3="-0.011807">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.059572"
+         stCamera:VignetteModelParam2="0.742042"
+         stCamera:VignetteModelParam3="-0.422637">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.011234, 1.000000</rdf:li>
+          <rdf:li>0.175833, 0.966573</rdf:li>
+          <rdf:li>0.353420, 0.881793</rdf:li>
+          <rdf:li>0.543151, 0.740383</rdf:li>
+          <rdf:li>0.771918, 0.529272</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="25571"
+       stCamera:Lens="28mm F2.8"
+       stCamera:LensInfo="28/1 28/1 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 28mm F2.8"
+       stCamera:ProfileName="Adobe (Sony 28mm F2.8)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.01428"
+        stCamera:RadialDistortParam1="-0.09234"
+        stCamera:RadialDistortParam2="0.086195"
+        stCamera:RadialDistortParam3="-0.011807">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.089257"
+         stCamera:VignetteModelParam2="0.849572"
+         stCamera:VignetteModelParam3="-0.517453">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005024, 1.000000</rdf:li>
+          <rdf:li>0.164256, 0.970156</rdf:li>
+          <rdf:li>0.354561, 0.878836</rdf:li>
+          <rdf:li>0.522499, 0.757881</rdf:li>
+          <rdf:li>0.771918, 0.529319</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="25571"
+       stCamera:Lens="28mm F2.8"
+       stCamera:LensInfo="28/1 28/1 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 28mm F2.8"
+       stCamera:ProfileName="Adobe (Sony 28mm F2.8)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.01428"
+        stCamera:RadialDistortParam1="-0.09234"
+        stCamera:RadialDistortParam2="0.086195"
+        stCamera:RadialDistortParam3="-0.011807">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.006475"
+         stCamera:VignetteModelParam2="0.4015"
+         stCamera:VignetteModelParam3="0.293382">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005024, 1.000000</rdf:li>
+          <rdf:li>0.119836, 0.984465</rdf:li>
+          <rdf:li>0.272446, 0.929305</rdf:li>
+          <rdf:li>0.303472, 0.913815</rdf:li>
+          <rdf:li>0.411982, 0.844738</rdf:li>
+          <rdf:li>0.532736, 0.750185</rdf:li>
+          <rdf:li>0.592574, 0.701313</rdf:li>
+          <rdf:li>0.681628, 0.643934</rdf:li>
+          <rdf:li>0.771918, 0.579527</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

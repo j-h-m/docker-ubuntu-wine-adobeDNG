@@ -1,0 +1,871 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156380, 2014/05/21-23:38:37        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="121"
+       stCamera:Lens="20.0 mm f/1.4"
+       stCamera:LensInfo="200/10 200/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.4 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.4 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000047"
+        stCamera:ResidualStandardDeviation="0.000037"
+        stCamera:RadialDistortParam1="-0.013554"
+        stCamera:RadialDistortParam2="-0.018772"
+        stCamera:RadialDistortParam3="0.013431">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.018384"
+         stCamera:VignetteModelParam1="-1.710323"
+         stCamera:VignetteModelParam2="1.871212"
+         stCamera:VignetteModelParam3="-0.915062">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.167289, 0.913900</rdf:li>
+          <rdf:li>0.402552, 0.756000</rdf:li>
+          <rdf:li>0.731563, 0.492800</rdf:li>
+          <rdf:li>0.902450, 0.337400</rdf:li>
+          <rdf:li>1.059760, 0.184000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="121"
+       stCamera:Lens="20.0 mm f/1.4"
+       stCamera:LensInfo="200/10 200/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.4 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.4 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000046"
+        stCamera:ResidualStandardDeviation="0.000036"
+        stCamera:RadialDistortParam1="-0.019408"
+        stCamera:RadialDistortParam2="-0.016434"
+        stCamera:RadialDistortParam3="0.013039">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.019123"
+         stCamera:VignetteModelParam1="-1.746931"
+         stCamera:VignetteModelParam2="1.923859"
+         stCamera:VignetteModelParam3="-0.93615">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.166736, 0.911200</rdf:li>
+          <rdf:li>0.372647, 0.773400</rdf:li>
+          <rdf:li>0.704349, 0.508700</rdf:li>
+          <rdf:li>1.055136, 0.188000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="121"
+       stCamera:Lens="20.0 mm f/1.4"
+       stCamera:LensInfo="200/10 200/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.4 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.4 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000044"
+        stCamera:ResidualStandardDeviation="0.000036"
+        stCamera:RadialDistortParam1="-0.024357"
+        stCamera:RadialDistortParam2="-0.014392"
+        stCamera:RadialDistortParam3="0.012722">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.018135"
+         stCamera:VignetteModelParam1="-1.742749"
+         stCamera:VignetteModelParam2="1.891953"
+         stCamera:VignetteModelParam3="-0.916012">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.086054, 0.962000</rdf:li>
+          <rdf:li>0.278427, 0.841000</rdf:li>
+          <rdf:li>0.605447, 0.590100</rdf:li>
+          <rdf:li>0.763717, 0.451900</rdf:li>
+          <rdf:li>1.051353, 0.188000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="121"
+       stCamera:Lens="20.0 mm f/1.4"
+       stCamera:LensInfo="200/10 200/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.4 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.4 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000043"
+        stCamera:ResidualStandardDeviation="0.000035"
+        stCamera:RadialDistortParam1="-0.031594"
+        stCamera:RadialDistortParam2="-0.011259"
+        stCamera:RadialDistortParam3="0.012283">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.015884"
+         stCamera:VignetteModelParam1="-1.721738"
+         stCamera:VignetteModelParam2="1.820147"
+         stCamera:VignetteModelParam3="-0.879272">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.076552, 0.975000</rdf:li>
+          <rdf:li>0.282207, 0.843100</rdf:li>
+          <rdf:li>0.473965, 0.698200</rdf:li>
+          <rdf:li>0.626846, 0.569300</rdf:li>
+          <rdf:li>1.046081, 0.180000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="121"
+       stCamera:Lens="20.0 mm f/1.4"
+       stCamera:LensInfo="200/10 200/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.4 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.4 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.276"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000041"
+        stCamera:ResidualStandardDeviation="0.000033"
+        stCamera:RadialDistortParam1="-0.044448"
+        stCamera:RadialDistortParam2="-0.005058"
+        stCamera:RadialDistortParam3="0.011604">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.011618"
+         stCamera:VignetteModelParam1="-1.673339"
+         stCamera:VignetteModelParam2="1.636431"
+         stCamera:VignetteModelParam3="-0.770403">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.081295, 0.985600</rdf:li>
+          <rdf:li>0.279061, 0.855000</rdf:li>
+          <rdf:li>0.464248, 0.707700</rdf:li>
+          <rdf:li>0.614892, 0.574300</rdf:li>
+          <rdf:li>0.963715, 0.232600</rdf:li>
+          <rdf:li>1.037843, 0.163000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="121"
+       stCamera:Lens="20.0 mm f/1.4"
+       stCamera:LensInfo="200/10 200/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.4 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.4 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000047"
+        stCamera:ResidualStandardDeviation="0.000037"
+        stCamera:RadialDistortParam1="-0.013554"
+        stCamera:RadialDistortParam2="-0.018772"
+        stCamera:RadialDistortParam3="0.013431">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.005615"
+         stCamera:VignetteModelParam1="0.038256"
+         stCamera:VignetteModelParam2="-0.798023"
+         stCamera:VignetteModelParam3="0.213514">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.245504, 0.992000</rdf:li>
+          <rdf:li>0.520040, 0.959700</rdf:li>
+          <rdf:li>0.618912, 0.918100</rdf:li>
+          <rdf:li>0.706840, 0.854500</rdf:li>
+          <rdf:li>0.815549, 0.732100</rdf:li>
+          <rdf:li>0.898158, 0.617700</rdf:li>
+          <rdf:li>1.059760, 0.352000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="121"
+       stCamera:Lens="20.0 mm f/1.4"
+       stCamera:LensInfo="200/10 200/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.4 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.4 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000046"
+        stCamera:ResidualStandardDeviation="0.000036"
+        stCamera:RadialDistortParam1="-0.019408"
+        stCamera:RadialDistortParam2="-0.016434"
+        stCamera:RadialDistortParam3="0.013039">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.006301"
+         stCamera:VignetteModelParam1="0.063527"
+         stCamera:VignetteModelParam2="-0.915248"
+         stCamera:VignetteModelParam3="0.301369">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.313698, 0.986800</rdf:li>
+          <rdf:li>0.517992, 0.960800</rdf:li>
+          <rdf:li>0.615647, 0.919400</rdf:li>
+          <rdf:li>0.688613, 0.866500</rdf:li>
+          <rdf:li>0.791938, 0.751800</rdf:li>
+          <rdf:li>0.909239, 0.590600</rdf:li>
+          <rdf:li>1.055136, 0.361000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="121"
+       stCamera:Lens="20.0 mm f/1.4"
+       stCamera:LensInfo="200/10 200/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.4 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.4 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000044"
+        stCamera:ResidualStandardDeviation="0.000036"
+        stCamera:RadialDistortParam1="-0.024357"
+        stCamera:RadialDistortParam2="-0.014392"
+        stCamera:RadialDistortParam3="0.012722">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.006602"
+         stCamera:VignetteModelParam1="0.082598"
+         stCamera:VignetteModelParam2="-1.002248"
+         stCamera:VignetteModelParam3="0.356763">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.507033, 0.963100</rdf:li>
+          <rdf:li>0.595480, 0.930700</rdf:li>
+          <rdf:li>0.669795, 0.878300</rdf:li>
+          <rdf:li>0.774482, 0.765500</rdf:li>
+          <rdf:li>0.871202, 0.633800</rdf:li>
+          <rdf:li>1.051353, 0.359000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="121"
+       stCamera:Lens="20.0 mm f/1.4"
+       stCamera:LensInfo="200/10 200/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.4 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.4 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000043"
+        stCamera:ResidualStandardDeviation="0.000035"
+        stCamera:RadialDistortParam1="-0.031594"
+        stCamera:RadialDistortParam2="-0.011259"
+        stCamera:RadialDistortParam3="0.012283">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.006987"
+         stCamera:VignetteModelParam1="0.105377"
+         stCamera:VignetteModelParam2="-1.112322"
+         stCamera:VignetteModelParam3="0.420195">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.232394, 0.992900</rdf:li>
+          <rdf:li>0.513366, 0.962200</rdf:li>
+          <rdf:li>0.590829, 0.932300</rdf:li>
+          <rdf:li>0.662674, 0.878700</rdf:li>
+          <rdf:li>0.760644, 0.769400</rdf:li>
+          <rdf:li>0.854839, 0.639800</rdf:li>
+          <rdf:li>1.046081, 0.343000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="121"
+       stCamera:Lens="20.0 mm f/1.4"
+       stCamera:LensInfo="200/10 200/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.4 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.4 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.276"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000041"
+        stCamera:ResidualStandardDeviation="0.000033"
+        stCamera:RadialDistortParam1="-0.044448"
+        stCamera:RadialDistortParam2="-0.005058"
+        stCamera:RadialDistortParam3="0.011604">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.007047"
+        stCamera:VignetteModelParam1="0.146385"
+        stCamera:VignetteModelParam2="-1.345621"
+        stCamera:VignetteModelParam3="0.562354"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="121"
+       stCamera:Lens="20.0 mm f/1.4"
+       stCamera:LensInfo="200/10 200/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.4 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.4 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000047"
+        stCamera:ResidualStandardDeviation="0.000037"
+        stCamera:RadialDistortParam1="-0.013554"
+        stCamera:RadialDistortParam2="-0.018772"
+        stCamera:RadialDistortParam3="0.013431">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002541"
+        stCamera:VignetteModelParam1="-0.212772"
+        stCamera:VignetteModelParam2="0.3727"
+        stCamera:VignetteModelParam3="-0.484872"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="121"
+       stCamera:Lens="20.0 mm f/1.4"
+       stCamera:LensInfo="200/10 200/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.4 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.4 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000046"
+        stCamera:ResidualStandardDeviation="0.000036"
+        stCamera:RadialDistortParam1="-0.019408"
+        stCamera:RadialDistortParam2="-0.016434"
+        stCamera:RadialDistortParam3="0.013039">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002296"
+        stCamera:VignetteModelParam1="-0.204473"
+        stCamera:VignetteModelParam2="0.350498"
+        stCamera:VignetteModelParam3="-0.468412"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="121"
+       stCamera:Lens="20.0 mm f/1.4"
+       stCamera:LensInfo="200/10 200/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.4 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.4 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000044"
+        stCamera:ResidualStandardDeviation="0.000036"
+        stCamera:RadialDistortParam1="-0.024357"
+        stCamera:RadialDistortParam2="-0.014392"
+        stCamera:RadialDistortParam3="0.012722">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002595"
+        stCamera:VignetteModelParam1="-0.204219"
+        stCamera:VignetteModelParam2="0.360187"
+        stCamera:VignetteModelParam3="-0.483097"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="121"
+       stCamera:Lens="20.0 mm f/1.4"
+       stCamera:LensInfo="200/10 200/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.4 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.4 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000043"
+        stCamera:ResidualStandardDeviation="0.000035"
+        stCamera:RadialDistortParam1="-0.031594"
+        stCamera:RadialDistortParam2="-0.011259"
+        stCamera:RadialDistortParam3="0.012283">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003358"
+         stCamera:VignetteModelParam1="-0.21582"
+         stCamera:VignetteModelParam2="0.436158"
+         stCamera:VignetteModelParam3="-0.568171">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.481962, 0.967100</rdf:li>
+          <rdf:li>0.686539, 0.930100</rdf:li>
+          <rdf:li>0.809936, 0.892500</rdf:li>
+          <rdf:li>0.878234, 0.837700</rdf:li>
+          <rdf:li>0.930913, 0.769800</rdf:li>
+          <rdf:li>0.982446, 0.680400</rdf:li>
+          <rdf:li>1.046081, 0.554000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="121"
+       stCamera:Lens="20.0 mm f/1.4"
+       stCamera:LensInfo="200/10 200/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.4 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.4 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.276"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000041"
+        stCamera:ResidualStandardDeviation="0.000033"
+        stCamera:RadialDistortParam1="-0.044448"
+        stCamera:RadialDistortParam2="-0.005058"
+        stCamera:RadialDistortParam3="0.011604">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.004857"
+         stCamera:VignetteModelParam1="-0.221308"
+         stCamera:VignetteModelParam2="0.534285"
+         stCamera:VignetteModelParam3="-0.717698">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.487292, 0.968200</rdf:li>
+          <rdf:li>0.751864, 0.916800</rdf:li>
+          <rdf:li>0.818500, 0.890300</rdf:li>
+          <rdf:li>0.866832, 0.839600</rdf:li>
+          <rdf:li>0.922391, 0.748600</rdf:li>
+          <rdf:li>1.037843, 0.509000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="121"
+       stCamera:Lens="20.0 mm f/1.4"
+       stCamera:LensInfo="200/10 200/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.4 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.4 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000047"
+        stCamera:ResidualStandardDeviation="0.000037"
+        stCamera:RadialDistortParam1="-0.013554"
+        stCamera:RadialDistortParam2="-0.018772"
+        stCamera:RadialDistortParam3="0.013431">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003678"
+         stCamera:VignetteModelParam1="-0.202127"
+         stCamera:VignetteModelParam2="0.228445"
+         stCamera:VignetteModelParam3="-0.23688">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.491145, 0.964100</rdf:li>
+          <rdf:li>0.823897, 0.889800</rdf:li>
+          <rdf:li>0.965348, 0.832600</rdf:li>
+          <rdf:li>1.006409, 0.786500</rdf:li>
+          <rdf:li>1.059760, 0.706000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="121"
+       stCamera:Lens="20.0 mm f/1.4"
+       stCamera:LensInfo="200/10 200/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.4 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.4 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000046"
+        stCamera:ResidualStandardDeviation="0.000036"
+        stCamera:RadialDistortParam1="-0.019408"
+        stCamera:RadialDistortParam2="-0.016434"
+        stCamera:RadialDistortParam3="0.013039">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003507"
+         stCamera:VignetteModelParam1="-0.198433"
+         stCamera:VignetteModelParam2="0.222363"
+         stCamera:VignetteModelParam3="-0.233256">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.435861, 0.972300</rdf:li>
+          <rdf:li>0.826341, 0.889500</rdf:li>
+          <rdf:li>0.961829, 0.835600</rdf:li>
+          <rdf:li>1.001767, 0.792100</rdf:li>
+          <rdf:li>1.055136, 0.714000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="121"
+       stCamera:Lens="20.0 mm f/1.4"
+       stCamera:LensInfo="200/10 200/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.4 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.4 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000044"
+        stCamera:ResidualStandardDeviation="0.000036"
+        stCamera:RadialDistortParam1="-0.024357"
+        stCamera:RadialDistortParam2="-0.014392"
+        stCamera:RadialDistortParam3="0.012722">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003351"
+         stCamera:VignetteModelParam1="-0.193238"
+         stCamera:VignetteModelParam2="0.211593"
+         stCamera:VignetteModelParam3="-0.22641">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.472349, 0.967500</rdf:li>
+          <rdf:li>0.814692, 0.894500</rdf:li>
+          <rdf:li>0.957716, 0.838800</rdf:li>
+          <rdf:li>1.001118, 0.793500</rdf:li>
+          <rdf:li>1.051353, 0.720000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="121"
+       stCamera:Lens="20.0 mm f/1.4"
+       stCamera:LensInfo="200/10 200/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.4 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.4 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000043"
+        stCamera:ResidualStandardDeviation="0.000035"
+        stCamera:RadialDistortParam1="-0.031594"
+        stCamera:RadialDistortParam2="-0.011259"
+        stCamera:RadialDistortParam3="0.012283">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.00316"
+         stCamera:VignetteModelParam1="-0.184177"
+         stCamera:VignetteModelParam2="0.189157"
+         stCamera:VignetteModelParam3="-0.20996">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.441132, 0.972600</rdf:li>
+          <rdf:li>0.791139, 0.902600</rdf:li>
+          <rdf:li>0.954804, 0.842300</rdf:li>
+          <rdf:li>0.998297, 0.799100</rdf:li>
+          <rdf:li>1.046081, 0.730000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="121"
+       stCamera:Lens="20.0 mm f/1.4"
+       stCamera:LensInfo="200/10 200/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.4 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.4 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.276"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000041"
+        stCamera:ResidualStandardDeviation="0.000033"
+        stCamera:RadialDistortParam1="-0.044448"
+        stCamera:RadialDistortParam2="-0.005058"
+        stCamera:RadialDistortParam3="0.011604">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003788"
+         stCamera:VignetteModelParam1="-0.189393"
+         stCamera:VignetteModelParam2="0.230468"
+         stCamera:VignetteModelParam3="-0.247439">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.465786, 0.970200</rdf:li>
+          <rdf:li>0.664044, 0.937300</rdf:li>
+          <rdf:li>0.854457, 0.886000</rdf:li>
+          <rdf:li>0.974446, 0.831100</rdf:li>
+          <rdf:li>1.003114, 0.791200</rdf:li>
+          <rdf:li>1.037843, 0.720000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

@@ -1,0 +1,74 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:Model="ILCE-7"
+       stCamera:UniqueCameraModel="Sony ILCE-7"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="E IBELUX 40mm f0.85"
+       stCamera:CameraPrettyName="ILCE-7"
+       stCamera:LensPrettyName="HandeVision IBELUX 40mm f0.85"
+       stCamera:ProfileName="Adobe (HandeVision IBELUX 40mm f0.85, SONY)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocalLength="40"
+       stCamera:FocusDistance="3.673369">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="1.791868"
+       stCamera:FocalLengthY="1.791868"
+       stCamera:ResidualMeanError="0.000093"
+       stCamera:ResidualStandardDeviation="0.000058"
+       stCamera:RadialDistortParam1="-0.33501"
+       stCamera:RadialDistortParam2="1.813901"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:Model="ILCE-7"
+       stCamera:UniqueCameraModel="Sony ILCE-7"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="E IBELUX 40mm f0.85"
+       stCamera:CameraPrettyName="ILCE-7"
+       stCamera:LensPrettyName="HandeVision IBELUX 40mm f0.85"
+       stCamera:ProfileName="Adobe (HandeVision IBELUX 40mm f0.85, SONY)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocalLength="40"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.791652"
+        stCamera:FocalLengthY="1.791652"
+        stCamera:RadialDistortParam1="-0.333965"
+        stCamera:RadialDistortParam2="1.793104">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.791652"
+        stCamera:FocalLengthY="1.791652"
+        stCamera:VignetteModelParam1="-0.248887"
+        stCamera:VignetteModelParam2="1.971731"
+        stCamera:VignetteModelParam3="4.098774"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

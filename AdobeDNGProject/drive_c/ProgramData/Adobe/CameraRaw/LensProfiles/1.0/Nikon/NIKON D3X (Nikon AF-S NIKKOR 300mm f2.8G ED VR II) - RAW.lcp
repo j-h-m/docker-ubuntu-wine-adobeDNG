@@ -1,0 +1,1206 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.2-c004 1.136881, 2010/06/10-18:11:35        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>166</stCamera:LensID>
+      <stCamera:Lens>300.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>3000/10 3000/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 300mm f/2.8G ED VR II</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 300mm f/2.8G ED VR II)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>300</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.237266</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>12.221488</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>12.221488</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000105</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000055</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>4.879532</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>23.849027</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>534.591334</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>12.218554</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>12.218554</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000104</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000054</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999769</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.033117</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>3.49964</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-432.293379</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>12.218554</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>12.218554</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000103</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000054</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>4.885379</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>25.393041</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.551573</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>12.218554</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>12.218554</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000103</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000055</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999977</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.02949</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-44.560212</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>13593.886676</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>166</stCamera:LensID>
+      <stCamera:Lens>300.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>3000/10 3000/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 300mm f/2.8G ED VR II</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 300mm f/2.8G ED VR II)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>300</stCamera:FocalLength>
+      <stCamera:FocusDistance>4.306836</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>9.392064</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>9.392064</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000033</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000022</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>2.346179</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>35.086333</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-5576.950478</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>9.386259</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>9.386259</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.00003</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000017</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999863</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.019725</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>3.663152</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-620.494716</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>9.386259</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>9.386259</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000028</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000016</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>2.391126</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>5.966844</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.880594</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>9.386259</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>9.386259</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.00003</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000017</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999929</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.034204</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-4.307986</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>656.331189</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>166</stCamera:LensID>
+      <stCamera:Lens>300.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>3000/10 3000/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 300mm f/2.8G ED VR II</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 300mm f/2.8G ED VR II)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>300</stCamera:FocalLength>
+      <stCamera:FocusDistance>7.488214</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>8.455107</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>8.455107</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000064</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000038</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>1.655225</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-4.776456</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>194.79058</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000063</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000037</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999897</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.014413</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>2.801972</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-413.426043</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000062</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000037</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>1.656782</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-3.301221</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.252932</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000062</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000037</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999902</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.02523</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-2.225643</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>190.585412</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>166</stCamera:LensID>
+      <stCamera:Lens>300.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>3000/10 3000/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 300mm f/2.8G ED VR II</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 300mm f/2.8G ED VR II)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>300</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.24</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>12.21136</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>12.21136</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>4.842843</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>24.969212</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.714003</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>12.21136</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>12.21136</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-193.827213</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>17268.409593</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-8889180.165209</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>166</stCamera:LensID>
+      <stCamera:Lens>300.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>3000/10 3000/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 300mm f/2.8G ED VR II</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 300mm f/2.8G ED VR II)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>300</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.24</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>12.21136</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>12.21136</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>4.842843</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>24.969212</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.714003</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>12.21136</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>12.21136</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-3.924878</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-76754.269474</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>12473167.896444</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>166</stCamera:LensID>
+      <stCamera:Lens>300.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>3000/10 3000/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 300mm f/2.8G ED VR II</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 300mm f/2.8G ED VR II)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>300</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.24</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>12.21136</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>12.21136</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>4.842843</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>24.969212</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.714003</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>12.21136</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>12.21136</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-40.391166</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>46853.992448</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-20969228.332798</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>166</stCamera:LensID>
+      <stCamera:Lens>300.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>3000/10 3000/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 300mm f/2.8G ED VR II</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 300mm f/2.8G ED VR II)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>300</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.24</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>12.21136</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>12.21136</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>4.842843</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>24.969212</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.714003</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>12.21136</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>12.21136</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-22.219249</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>7793.495424</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2978119.131591</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>166</stCamera:LensID>
+      <stCamera:Lens>300.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>3000/10 3000/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 300mm f/2.8G ED VR II</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 300mm f/2.8G ED VR II)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>300</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.24</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>12.21136</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>12.21136</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>4.842843</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>24.969212</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.714003</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>12.21136</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>12.21136</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-22.441352</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>7810.388375</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2958287.376238</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>166</stCamera:LensID>
+      <stCamera:Lens>300.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>3000/10 3000/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 300mm f/2.8G ED VR II</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 300mm f/2.8G ED VR II)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>300</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.24</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>12.21136</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>12.21136</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>4.842843</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>24.969212</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.714003</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>12.21136</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>12.21136</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-28.457142</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>11875.763925</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-3670663.436267</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>166</stCamera:LensID>
+      <stCamera:Lens>300.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>3000/10 3000/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 300mm f/2.8G ED VR II</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 300mm f/2.8G ED VR II)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>300</stCamera:FocalLength>
+      <stCamera:FocusDistance>4.47</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>9.306368</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>9.306368</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>2.254472</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.802125</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.477274</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>9.306368</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>9.306368</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-241.597201</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>60930.091549</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-8507444.466846</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>166</stCamera:LensID>
+      <stCamera:Lens>300.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>3000/10 3000/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 300mm f/2.8G ED VR II</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 300mm f/2.8G ED VR II)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>300</stCamera:FocalLength>
+      <stCamera:FocusDistance>4.47</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>9.306368</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>9.306368</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>2.254472</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.802125</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.477274</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>9.306368</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>9.306368</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>2.196595</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-30089.072426</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>2953847.117685</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>166</stCamera:LensID>
+      <stCamera:Lens>300.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>3000/10 3000/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 300mm f/2.8G ED VR II</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 300mm f/2.8G ED VR II)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>300</stCamera:FocalLength>
+      <stCamera:FocusDistance>4.47</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>9.306368</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>9.306368</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>2.254472</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.802125</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.477274</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>9.306368</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>9.306368</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-25.811655</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>19324.860471</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-5246121.048486</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>166</stCamera:LensID>
+      <stCamera:Lens>300.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>3000/10 3000/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 300mm f/2.8G ED VR II</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 300mm f/2.8G ED VR II)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>300</stCamera:FocalLength>
+      <stCamera:FocusDistance>4.47</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>9.306368</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>9.306368</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>2.254472</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.802125</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.477274</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>9.306368</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>9.306368</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-13.067414</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>3138.030255</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-670166.007734</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>166</stCamera:LensID>
+      <stCamera:Lens>300.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>3000/10 3000/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 300mm f/2.8G ED VR II</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 300mm f/2.8G ED VR II)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>300</stCamera:FocalLength>
+      <stCamera:FocusDistance>4.47</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>9.306368</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>9.306368</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>2.254472</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.802125</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.477274</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>9.306368</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>9.306368</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-14.034759</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>3450.960203</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-682317.074666</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>166</stCamera:LensID>
+      <stCamera:Lens>300.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>3000/10 3000/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 300mm f/2.8G ED VR II</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 300mm f/2.8G ED VR II)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>300</stCamera:FocalLength>
+      <stCamera:FocusDistance>4.47</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>9.306368</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>9.306368</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>2.254472</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.802125</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.477274</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>9.306368</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>9.306368</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-17.14704</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>4792.315752</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-840389.646665</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>166</stCamera:LensID>
+      <stCamera:Lens>300.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>3000/10 3000/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 300mm f/2.8G ED VR II</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 300mm f/2.8G ED VR II)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>300</stCamera:FocalLength>
+      <stCamera:FocusDistance>10</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.656782</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-3.301221</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.252932</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-227.083861</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>51348.830293</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-5755175.169987</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>166</stCamera:LensID>
+      <stCamera:Lens>300.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>3000/10 3000/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 300mm f/2.8G ED VR II</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 300mm f/2.8G ED VR II)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>300</stCamera:FocalLength>
+      <stCamera:FocusDistance>10</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.656782</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-3.301221</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.252932</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>2.772298</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-21501.848746</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>1761884.357614</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>166</stCamera:LensID>
+      <stCamera:Lens>300.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>3000/10 3000/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 300mm f/2.8G ED VR II</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 300mm f/2.8G ED VR II)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>300</stCamera:FocalLength>
+      <stCamera:FocusDistance>10</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.656782</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-3.301221</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.252932</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-21.157426</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>13440.70745</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-3085334.873858</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>166</stCamera:LensID>
+      <stCamera:Lens>300.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>3000/10 3000/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 300mm f/2.8G ED VR II</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 300mm f/2.8G ED VR II)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>300</stCamera:FocalLength>
+      <stCamera:FocusDistance>10</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.656782</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-3.301221</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.252932</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-9.81245</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>1890.329549</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-350981.034893</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>166</stCamera:LensID>
+      <stCamera:Lens>300.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>3000/10 3000/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 300mm f/2.8G ED VR II</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 300mm f/2.8G ED VR II)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>300</stCamera:FocalLength>
+      <stCamera:FocusDistance>10</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.656782</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-3.301221</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.252932</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-11.627901</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2575.276774</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-421937.378385</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>166</stCamera:LensID>
+      <stCamera:Lens>300.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>3000/10 3000/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 300mm f/2.8G ED VR II</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 300mm f/2.8G ED VR II)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>300</stCamera:FocalLength>
+      <stCamera:FocusDistance>10</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.656782</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-3.301221</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.252932</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-13.566816</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>3206.132384</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-474540.118871</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>166</stCamera:LensID>
+      <stCamera:Lens>300.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>3000/10 3000/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 300mm f/2.8G ED VR II</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 300mm f/2.8G ED VR II)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>300</stCamera:FocalLength>
+      <stCamera:FocusDistance>20</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.656782</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-3.301221</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.252932</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-226.027399</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>50328.102692</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-5564244.910757</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>166</stCamera:LensID>
+      <stCamera:Lens>300.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>3000/10 3000/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 300mm f/2.8G ED VR II</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 300mm f/2.8G ED VR II)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>300</stCamera:FocalLength>
+      <stCamera:FocusDistance>20</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.656782</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-3.301221</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.252932</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>8.48512</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-24090.307903</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>2064287.852577</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>166</stCamera:LensID>
+      <stCamera:Lens>300.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>3000/10 3000/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 300mm f/2.8G ED VR II</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 300mm f/2.8G ED VR II)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>300</stCamera:FocalLength>
+      <stCamera:FocusDistance>20</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.656782</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-3.301221</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.252932</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-21.238567</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>13823.888571</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-3205433.401245</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>166</stCamera:LensID>
+      <stCamera:Lens>300.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>3000/10 3000/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 300mm f/2.8G ED VR II</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 300mm f/2.8G ED VR II)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>300</stCamera:FocalLength>
+      <stCamera:FocusDistance>20</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.656782</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-3.301221</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.252932</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-12.618369</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>3306.00695</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-562477.619302</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>166</stCamera:LensID>
+      <stCamera:Lens>300.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>3000/10 3000/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 300mm f/2.8G ED VR II</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 300mm f/2.8G ED VR II)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>300</stCamera:FocalLength>
+      <stCamera:FocusDistance>20</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.656782</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-3.301221</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.252932</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-12.782188</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>3293.732651</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-541009.81844</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>166</stCamera:LensID>
+      <stCamera:Lens>300.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>3000/10 3000/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 300mm f/2.8G ED VR II</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 300mm f/2.8G ED VR II)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>300</stCamera:FocalLength>
+      <stCamera:FocusDistance>20</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.656782</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-3.301221</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.252932</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-14.281234</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>3555.702474</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-518272.336852</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>166</stCamera:LensID>
+      <stCamera:Lens>300.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>3000/10 3000/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 300mm f/2.8G ED VR II</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 300mm f/2.8G ED VR II)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>300</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.656782</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-3.301221</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.252932</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-213.167661</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>44169.17106</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-4890613.868643</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>166</stCamera:LensID>
+      <stCamera:Lens>300.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>3000/10 3000/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 300mm f/2.8G ED VR II</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 300mm f/2.8G ED VR II)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>300</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.656782</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-3.301221</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.252932</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>7.64012</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-23603.639217</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>1900203.884636</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>166</stCamera:LensID>
+      <stCamera:Lens>300.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>3000/10 3000/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 300mm f/2.8G ED VR II</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 300mm f/2.8G ED VR II)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>300</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.656782</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-3.301221</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.252932</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-17.410805</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>12416.510459</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-3090163.406029</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>166</stCamera:LensID>
+      <stCamera:Lens>300.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>3000/10 3000/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 300mm f/2.8G ED VR II</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 300mm f/2.8G ED VR II)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>300</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.656782</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-3.301221</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.252932</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-11.257889</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2717.809201</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-462103.807409</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>166</stCamera:LensID>
+      <stCamera:Lens>300.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>3000/10 3000/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 300mm f/2.8G ED VR II</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 300mm f/2.8G ED VR II)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>300</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.656782</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-3.301221</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.252932</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-12.50232</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>3304.543133</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-542399.304242</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>166</stCamera:LensID>
+      <stCamera:Lens>300.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>3000/10 3000/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S NIKKOR 300mm f/2.8G ED VR II</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S NIKKOR 300mm f/2.8G ED VR II)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>300</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.656782</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-3.301221</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.252932</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>8.4564</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>8.4564</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-13.528351</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>3496.854916</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-529702.060898</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

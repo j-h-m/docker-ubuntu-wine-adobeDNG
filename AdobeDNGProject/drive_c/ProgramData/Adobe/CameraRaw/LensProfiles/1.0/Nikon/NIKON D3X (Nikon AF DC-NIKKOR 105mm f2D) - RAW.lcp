@@ -1,0 +1,1376 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.1-c055 1.136881, 2010/06/10-18:11:35        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.022777</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.158145</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.158145</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000173</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000203</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>0.091074</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-7.252337</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>107.665332</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.15886</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.15886</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000173</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000203</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.99997</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.00128</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.011</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.072889</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.15886</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.15886</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000173</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000203</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>0.091816</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-7.266624</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>107.94362</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.15886</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.15886</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000174</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000203</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999883</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.002575</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.031575</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-1.118819</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.723547</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.869385</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.869385</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000073</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000103</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.110308</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.901236</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-26.637124</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.869186</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.869186</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000071</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000102</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.00001</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.00085</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.047931</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.612751</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.869186</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.869186</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.00007</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000102</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.110307</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.907763</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-26.649287</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.869186</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.869186</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000072</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000101</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999889</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.001108</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.0824</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>1.027297</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>5.751126</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.798747</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.798747</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000236</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000391</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.159209</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>5.456306</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-90.893351</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.79859</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.79859</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000236</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.00039</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999936</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.000172</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.044397</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.411018</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.79859</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.79859</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000235</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000391</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.158815</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>5.444131</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-90.68886</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.79859</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.79859</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000235</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000391</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000038</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.001334</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.023813</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.074816</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.89</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.15886</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.15886</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.091816</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-7.266624</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>107.94362</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.15886</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.15886</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-18.9827</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>446.203126</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-7192.7768</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.89</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.15886</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.15886</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.091816</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-7.266624</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>107.94362</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.15886</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.15886</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-4.193851</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>304.750633</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-8237.508955</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.89</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.15886</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.15886</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.091816</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-7.266624</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>107.94362</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.15886</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.15886</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.584408</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>78.824351</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-1591.480066</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.89</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.15886</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.15886</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.091816</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-7.266624</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>107.94362</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.15886</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.15886</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.181313</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>44.011352</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-743.927622</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.89</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.15886</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.15886</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.091816</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-7.266624</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>107.94362</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.15886</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.15886</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.983672</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>90.975609</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-1629.74886</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.89</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.15886</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.15886</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.091816</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-7.266624</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>107.94362</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.15886</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.15886</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.980499</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>86.726936</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-1503.749268</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.89</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.15886</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.15886</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.091816</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-7.266624</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>107.94362</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.15886</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.15886</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-3.628727</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>112.964553</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-1776.155093</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.88</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.860797</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.860797</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.128855</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.618103</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-52.537724</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.860797</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.860797</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-20.180367</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>282.021463</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2922.704804</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.88</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.860797</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.860797</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.128855</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.618103</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-52.537724</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.860797</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.860797</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.693164</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-62.550552</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-1471.783825</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.88</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.860797</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.860797</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.128855</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.618103</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-52.537724</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.860797</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.860797</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.627763</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>161.413188</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-3539.373189</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.88</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.860797</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.860797</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.128855</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.618103</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-52.537724</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.860797</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.860797</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.026067</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>4.256025</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>4.594927</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.88</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.860797</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.860797</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.128855</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.618103</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-52.537724</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.860797</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.860797</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.542723</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>33.130256</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-502.052011</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.88</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.860797</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.860797</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.128855</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.618103</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-52.537724</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.860797</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.860797</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.589381</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>30.771358</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-418.133922</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.88</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.860797</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.860797</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.128855</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.618103</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-52.537724</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.860797</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.860797</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.997438</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>47.406114</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-636.621403</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>4.22</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.809551</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.809551</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.155571</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>5.141619</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-87.105975</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.809551</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.809551</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-18.489715</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>128.60334</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-694.865917</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>4.22</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.809551</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.809551</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.155571</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>5.141619</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-87.105975</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.809551</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.809551</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>0.579592</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-203.285827</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>494.644886</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>4.22</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.809551</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.809551</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.155571</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>5.141619</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-87.105975</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.809551</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.809551</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-3.405599</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>268.547528</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-6511.23113</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>4.22</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.809551</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.809551</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.155571</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>5.141619</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-87.105975</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.809551</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.809551</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.22954</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>83.847993</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-1486.571197</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>4.22</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.809551</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.809551</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.155571</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>5.141619</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-87.105975</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.809551</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.809551</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.538807</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>30.508639</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-425.808073</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>4.22</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.809551</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.809551</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.155571</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>5.141619</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-87.105975</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.809551</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.809551</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.821588</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>43.289776</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-618.275677</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>4.22</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.809551</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.809551</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.155571</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>5.141619</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-87.105975</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.809551</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.809551</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.082625</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>49.513573</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-631.704099</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>16.8</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.79859</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.79859</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.158815</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>5.444131</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-90.68886</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.79859</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.79859</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-18.044006</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>53.662623</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>378.84217</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>16.8</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.79859</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.79859</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.158815</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>5.444131</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-90.68886</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.79859</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.79859</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>0.986924</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-277.62012</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>1334.046998</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>16.8</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.79859</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.79859</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.158815</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>5.444131</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-90.68886</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.79859</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.79859</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-3.418802</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>270.217531</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-7419.55978</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>16.8</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.79859</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.79859</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.158815</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>5.444131</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-90.68886</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.79859</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.79859</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-3.918846</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>254.080156</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-5283.404942</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>16.8</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.79859</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.79859</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.158815</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>5.444131</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-90.68886</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.79859</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.79859</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.097306</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>58.297156</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-895.438055</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>16.8</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.79859</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.79859</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.158815</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>5.444131</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-90.68886</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.79859</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.79859</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.877236</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>42.128859</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-584.441301</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>16.8</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.79859</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.79859</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.158815</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>5.444131</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-90.68886</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.79859</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.79859</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.150089</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>50.192015</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-639.779799</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.79859</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.79859</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.158815</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>5.444131</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-90.68886</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.79859</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.79859</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-16.592134</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-131.6753</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>2899.833367</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.79859</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.79859</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.158815</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>5.444131</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-90.68886</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.79859</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.79859</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>2.315819</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-468.300592</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>3384.402485</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.79859</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.79859</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.158815</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>5.444131</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-90.68886</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.79859</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.79859</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.191746</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>67.593008</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-6161.997582</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.79859</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.79859</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.158815</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>5.444131</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-90.68886</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.79859</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.79859</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-5.54271</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>509.351257</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-13182.776734</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.79859</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.79859</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.158815</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>5.444131</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-90.68886</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.79859</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.79859</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-6.994467</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>574.341698</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-12820.729359</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.79859</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.79859</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.158815</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>5.444131</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-90.68886</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.79859</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.79859</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-5.32905</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>372.525456</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-7848.080328</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>44</stCamera:LensID>
+      <stCamera:Lens>105.0 mm f/2.0</stCamera:Lens>
+      <stCamera:LensInfo>1050/10 1050/10 20/10 20/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF DC-NIKKOR 105mm f/2D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF DC-NIKKOR 105mm f/2D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>105</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.79859</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.79859</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.158815</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>5.444131</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-90.68886</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.79859</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.79859</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-3.647423</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>173.71948</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-3319.584254</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

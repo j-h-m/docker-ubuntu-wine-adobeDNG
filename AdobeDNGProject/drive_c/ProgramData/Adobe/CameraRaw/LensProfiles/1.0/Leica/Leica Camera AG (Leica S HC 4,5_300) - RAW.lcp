@@ -1,0 +1,892 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c007 1.136881, 2010/06/10-18:11:35        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG (www.leica-camera.com)"
+       stCamera:Make="Leica Camera AG"
+       stCamera:Model="Leica S"
+       stCamera:UniqueCameraModel="Leica S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Leica S"
+       stCamera:LensPrettyName="Leica S HC 4,5/300"
+       stCamera:ProfileName="Leica S HC 4,5/300"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:ImageWidth="7520"
+       stCamera:ImageLength="5000"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="3.939014"
+       stCamera:ApertureValue="4.33985">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.039377"
+        stCamera:FocalLengthY="3.039377"
+        stCamera:ResidualMeanError="0.000158"
+        stCamera:ResidualStandardDeviation="0.000087"
+        stCamera:RadialDistortParam1="0.258452"
+        stCamera:RadialDistortParam2="-1.59995">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="3.039474"
+        stCamera:FocalLengthY="3.039474"
+        stCamera:ResidualMeanError="0.000159"
+        stCamera:ResidualStandardDeviation="0.000085"
+        stCamera:ScaleFactor="0.999874"
+        stCamera:RadialDistortParam1="0.000616"
+        stCamera:RadialDistortParam2="-0.013765"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="3.039474"
+        stCamera:FocalLengthY="3.039474"
+        stCamera:ResidualMeanError="0.000156"
+        stCamera:ResidualStandardDeviation="0.000087"
+        stCamera:RadialDistortParam1="0.25916"
+        stCamera:RadialDistortParam2="-1.619952"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="3.039474"
+        stCamera:FocalLengthY="3.039474"
+        stCamera:ResidualMeanError="0.000158"
+        stCamera:ResidualStandardDeviation="0.00009"
+        stCamera:ScaleFactor="0.999982"
+        stCamera:RadialDistortParam1="-0.002652"
+        stCamera:RadialDistortParam2="0.076895"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.039377"
+        stCamera:FocalLengthY="3.039377"
+        stCamera:ResidualMeanError="0.016569"
+        stCamera:VignetteModelParam1="-21.218864"
+        stCamera:VignetteModelParam2="605.807007"
+        stCamera:VignetteModelParam3="-10232.982422"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG (www.leica-camera.com)"
+       stCamera:Make="Leica Camera AG"
+       stCamera:Model="Leica S"
+       stCamera:UniqueCameraModel="Leica S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Leica S"
+       stCamera:LensPrettyName="Leica S HC 4,5/300"
+       stCamera:ProfileName="Leica S HC 4,5/300"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:ImageWidth="7520"
+       stCamera:ImageLength="5000"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="3.822758"
+       stCamera:ApertureValue="4.526069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.931902"
+        stCamera:FocalLengthY="2.931902"
+        stCamera:ResidualMeanError="0.000157"
+        stCamera:ResidualStandardDeviation="0.000087"
+        stCamera:RadialDistortParam1="0.244454"
+        stCamera:RadialDistortParam2="-1.502477">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="2.932004"
+        stCamera:FocalLengthY="2.932004"
+        stCamera:ResidualMeanError="0.000158"
+        stCamera:ResidualStandardDeviation="0.000085"
+        stCamera:ScaleFactor="0.999868"
+        stCamera:RadialDistortParam1="0.001245"
+        stCamera:RadialDistortParam2="-0.03206"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="2.932004"
+        stCamera:FocalLengthY="2.932004"
+        stCamera:ResidualMeanError="0.000155"
+        stCamera:ResidualStandardDeviation="0.000087"
+        stCamera:RadialDistortParam1="0.244447"
+        stCamera:RadialDistortParam2="-1.501424"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="2.932004"
+        stCamera:FocalLengthY="2.932004"
+        stCamera:ResidualMeanError="0.000157"
+        stCamera:ResidualStandardDeviation="0.00009"
+        stCamera:ScaleFactor="0.999971"
+        stCamera:RadialDistortParam1="-0.001262"
+        stCamera:RadialDistortParam2="0.036"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.931902"
+        stCamera:FocalLengthY="2.931902"
+        stCamera:ResidualMeanError="0.010857"
+        stCamera:VignetteModelParam1="-7.588507"
+        stCamera:VignetteModelParam2="-245.321976"
+        stCamera:VignetteModelParam3="6787.628418"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG (www.leica-camera.com)"
+       stCamera:Make="Leica Camera AG"
+       stCamera:Model="Leica S"
+       stCamera:UniqueCameraModel="Leica S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Leica S"
+       stCamera:LensPrettyName="Leica S HC 4,5/300"
+       stCamera:ProfileName="Leica S HC 4,5/300"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:ImageWidth="7520"
+       stCamera:ImageLength="5000"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="3.781068"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.900509"
+        stCamera:FocalLengthY="2.900509"
+        stCamera:ResidualMeanError="0.00016"
+        stCamera:ResidualStandardDeviation="0.000089"
+        stCamera:RadialDistortParam1="0.231203"
+        stCamera:RadialDistortParam2="-1.212273">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="2.900624"
+        stCamera:FocalLengthY="2.900624"
+        stCamera:ResidualMeanError="0.000161"
+        stCamera:ResidualStandardDeviation="0.000086"
+        stCamera:ScaleFactor="0.999879"
+        stCamera:RadialDistortParam1="0.000071"
+        stCamera:RadialDistortParam2="-0.002275"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="2.900624"
+        stCamera:FocalLengthY="2.900624"
+        stCamera:ResidualMeanError="0.000158"
+        stCamera:ResidualStandardDeviation="0.000088"
+        stCamera:RadialDistortParam1="0.231157"
+        stCamera:RadialDistortParam2="-1.216704"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="2.900624"
+        stCamera:FocalLengthY="2.900624"
+        stCamera:ResidualMeanError="0.00016"
+        stCamera:ResidualStandardDeviation="0.000091"
+        stCamera:ScaleFactor="0.999936"
+        stCamera:RadialDistortParam1="-0.000013"
+        stCamera:RadialDistortParam2="0.023739"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.900509"
+        stCamera:FocalLengthY="2.900509"
+        stCamera:ResidualMeanError="0.002547"
+        stCamera:VignetteModelParam1="-1.366141"
+        stCamera:VignetteModelParam2="-14.161281"
+        stCamera:VignetteModelParam3="-2476.434814"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG (www.leica-camera.com)"
+       stCamera:Make="Leica Camera AG"
+       stCamera:Model="Leica S"
+       stCamera:UniqueCameraModel="Leica S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Leica S"
+       stCamera:LensPrettyName="Leica S HC 4,5/300"
+       stCamera:ProfileName="Leica S HC 4,5/300"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:ImageWidth="7520"
+       stCamera:ImageLength="5000"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="4.01279"
+       stCamera:ApertureValue="5.531069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.09386"
+        stCamera:FocalLengthY="3.09386"
+        stCamera:ResidualMeanError="0.000159"
+        stCamera:ResidualStandardDeviation="0.000088"
+        stCamera:RadialDistortParam1="0.258506"
+        stCamera:RadialDistortParam2="-1.553629">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="3.09399"
+        stCamera:FocalLengthY="3.09399"
+        stCamera:ResidualMeanError="0.00016"
+        stCamera:ResidualStandardDeviation="0.000086"
+        stCamera:ScaleFactor="0.999885"
+        stCamera:RadialDistortParam1="0.000534"
+        stCamera:RadialDistortParam2="-0.026387"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="3.09399"
+        stCamera:FocalLengthY="3.09399"
+        stCamera:ResidualMeanError="0.000157"
+        stCamera:ResidualStandardDeviation="0.000088"
+        stCamera:RadialDistortParam1="0.258423"
+        stCamera:RadialDistortParam2="-1.553945"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="3.09399"
+        stCamera:FocalLengthY="3.09399"
+        stCamera:ResidualMeanError="0.000159"
+        stCamera:ResidualStandardDeviation="0.000091"
+        stCamera:ScaleFactor="0.999921"
+        stCamera:RadialDistortParam1="-0.000256"
+        stCamera:RadialDistortParam2="0.034251"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.09386"
+        stCamera:FocalLengthY="3.09386"
+        stCamera:ResidualMeanError="0.002652"
+        stCamera:VignetteModelParam1="-2.264616"
+        stCamera:VignetteModelParam2="43.545925"
+        stCamera:VignetteModelParam3="-1131.719238"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG (www.leica-camera.com)"
+       stCamera:Make="Leica Camera AG"
+       stCamera:Model="Leica S"
+       stCamera:UniqueCameraModel="Leica S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Leica S"
+       stCamera:LensPrettyName="Leica S HC 4,5/300"
+       stCamera:ProfileName="Leica S HC 4,5/300"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:ImageWidth="7520"
+       stCamera:ImageLength="5000"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="3.863896"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.966205"
+        stCamera:FocalLengthY="2.966205"
+        stCamera:ResidualMeanError="0.000158"
+        stCamera:ResidualStandardDeviation="0.000088"
+        stCamera:RadialDistortParam1="0.238942"
+        stCamera:RadialDistortParam2="-1.403152">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="2.966332"
+        stCamera:FocalLengthY="2.966332"
+        stCamera:ResidualMeanError="0.000159"
+        stCamera:ResidualStandardDeviation="0.000085"
+        stCamera:ScaleFactor="0.999888"
+        stCamera:RadialDistortParam1="0.000493"
+        stCamera:RadialDistortParam2="-0.019163"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="2.966332"
+        stCamera:FocalLengthY="2.966332"
+        stCamera:ResidualMeanError="0.000156"
+        stCamera:ResidualStandardDeviation="0.000087"
+        stCamera:RadialDistortParam1="0.238895"
+        stCamera:RadialDistortParam2="-1.40399"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="2.966332"
+        stCamera:FocalLengthY="2.966332"
+        stCamera:ResidualMeanError="0.000158"
+        stCamera:ResidualStandardDeviation="0.00009"
+        stCamera:ScaleFactor="0.999912"
+        stCamera:RadialDistortParam1="-0.000357"
+        stCamera:RadialDistortParam2="0.030612"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.966205"
+        stCamera:FocalLengthY="2.966205"
+        stCamera:ResidualMeanError="0.002402"
+        stCamera:VignetteModelParam1="-1.913916"
+        stCamera:VignetteModelParam2="20.95458"
+        stCamera:VignetteModelParam3="-159.284607"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG (www.leica-camera.com)"
+       stCamera:Make="Leica Camera AG"
+       stCamera:Model="Leica S"
+       stCamera:UniqueCameraModel="Leica S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Leica S"
+       stCamera:LensPrettyName="Leica S HC 4,5/300"
+       stCamera:ProfileName="Leica S HC 4,5/300"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:ImageWidth="7520"
+       stCamera:ImageLength="5000"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="3.960737"
+       stCamera:ApertureValue="6.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.050461"
+        stCamera:FocalLengthY="3.050461"
+        stCamera:ResidualMeanError="0.000159"
+        stCamera:ResidualStandardDeviation="0.000088"
+        stCamera:RadialDistortParam1="0.253942"
+        stCamera:RadialDistortParam2="-1.683913">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="3.050595"
+        stCamera:FocalLengthY="3.050595"
+        stCamera:ResidualMeanError="0.00016"
+        stCamera:ResidualStandardDeviation="0.000086"
+        stCamera:ScaleFactor="0.999889"
+        stCamera:RadialDistortParam1="0.000716"
+        stCamera:RadialDistortParam2="-0.025963"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="3.050595"
+        stCamera:FocalLengthY="3.050595"
+        stCamera:ResidualMeanError="0.000157"
+        stCamera:ResidualStandardDeviation="0.000088"
+        stCamera:RadialDistortParam1="0.253776"
+        stCamera:RadialDistortParam2="-1.682453"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="3.050595"
+        stCamera:FocalLengthY="3.050595"
+        stCamera:ResidualMeanError="0.000159"
+        stCamera:ResidualStandardDeviation="0.00009"
+        stCamera:ScaleFactor="0.999907"
+        stCamera:RadialDistortParam1="-0.000433"
+        stCamera:RadialDistortParam2="0.032771"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.050461"
+        stCamera:FocalLengthY="3.050461"
+        stCamera:ResidualMeanError="0.002306"
+        stCamera:VignetteModelParam1="-1.886439"
+        stCamera:VignetteModelParam2="19.573938"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG (www.leica-camera.com)"
+       stCamera:Make="Leica Camera AG"
+       stCamera:Model="Leica S"
+       stCamera:UniqueCameraModel="Leica S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Leica S"
+       stCamera:LensPrettyName="Leica S HC 4,5/300"
+       stCamera:ProfileName="Leica S HC 4,5/300"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:ImageWidth="7520"
+       stCamera:ImageLength="5000"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="4.05808"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.139204"
+        stCamera:FocalLengthY="3.139204"
+        stCamera:ResidualMeanError="0.00016"
+        stCamera:ResidualStandardDeviation="0.000089"
+        stCamera:RadialDistortParam1="0.264547"
+        stCamera:RadialDistortParam2="-1.786827">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="3.139343"
+        stCamera:FocalLengthY="3.139343"
+        stCamera:ResidualMeanError="0.000161"
+        stCamera:ResidualStandardDeviation="0.000087"
+        stCamera:ScaleFactor="0.99989"
+        stCamera:RadialDistortParam1="0.000716"
+        stCamera:RadialDistortParam2="-0.025056"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="3.139343"
+        stCamera:FocalLengthY="3.139343"
+        stCamera:ResidualMeanError="0.000158"
+        stCamera:ResidualStandardDeviation="0.000088"
+        stCamera:RadialDistortParam1="0.264429"
+        stCamera:RadialDistortParam2="-1.78757"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="3.139343"
+        stCamera:FocalLengthY="3.139343"
+        stCamera:ResidualMeanError="0.00016"
+        stCamera:ResidualStandardDeviation="0.000091"
+        stCamera:ScaleFactor="0.999903"
+        stCamera:RadialDistortParam1="-0.000565"
+        stCamera:RadialDistortParam2="0.039296"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.139204"
+        stCamera:FocalLengthY="3.139204"
+        stCamera:ResidualMeanError="0.002362"
+        stCamera:VignetteModelParam1="-2.73475"
+        stCamera:VignetteModelParam2="100.129807"
+        stCamera:VignetteModelParam3="-2342.238281"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG (www.leica-camera.com)"
+       stCamera:Make="Leica Camera AG"
+       stCamera:Model="Leica S"
+       stCamera:UniqueCameraModel="Leica S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Leica S"
+       stCamera:LensPrettyName="Leica S HC 4,5/300"
+       stCamera:ProfileName="Leica S HC 4,5/300"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:ImageWidth="7520"
+       stCamera:ImageLength="5000"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="4.11797"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.182564"
+        stCamera:FocalLengthY="3.182564"
+        stCamera:ResidualMeanError="0.000159"
+        stCamera:ResidualStandardDeviation="0.000088"
+        stCamera:RadialDistortParam1="0.263995"
+        stCamera:RadialDistortParam2="-1.654068">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="3.182709"
+        stCamera:FocalLengthY="3.182709"
+        stCamera:ResidualMeanError="0.000161"
+        stCamera:ResidualStandardDeviation="0.000086"
+        stCamera:ScaleFactor="0.99989"
+        stCamera:RadialDistortParam1="0.000903"
+        stCamera:RadialDistortParam2="-0.032346"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="3.182709"
+        stCamera:FocalLengthY="3.182709"
+        stCamera:ResidualMeanError="0.000157"
+        stCamera:ResidualStandardDeviation="0.000088"
+        stCamera:RadialDistortParam1="0.263764"
+        stCamera:RadialDistortParam2="-1.652039"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="3.182709"
+        stCamera:FocalLengthY="3.182709"
+        stCamera:ResidualMeanError="0.000159"
+        stCamera:ResidualStandardDeviation="0.00009"
+        stCamera:ScaleFactor="0.9999"
+        stCamera:RadialDistortParam1="-0.000461"
+        stCamera:RadialDistortParam2="0.035867"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.182564"
+        stCamera:FocalLengthY="3.182564"
+        stCamera:ResidualMeanError="0.002267"
+        stCamera:VignetteModelParam1="-2.842695"
+        stCamera:VignetteModelParam2="117.469704"
+        stCamera:VignetteModelParam3="-2752.681885"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG (www.leica-camera.com)"
+       stCamera:Make="Leica Camera AG"
+       stCamera:Model="Leica S"
+       stCamera:UniqueCameraModel="Leica S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Leica S"
+       stCamera:LensPrettyName="Leica S HC 4,5/300"
+       stCamera:ProfileName="Leica S HC 4,5/300"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:ImageWidth="7520"
+       stCamera:ImageLength="5000"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="4.930166"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.867663"
+        stCamera:FocalLengthY="3.867663"
+        stCamera:ResidualMeanError="0.000161"
+        stCamera:ResidualStandardDeviation="0.000089"
+        stCamera:RadialDistortParam1="0.332578">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="3.867841"
+        stCamera:FocalLengthY="3.867841"
+        stCamera:ResidualMeanError="0.000162"
+        stCamera:ResidualStandardDeviation="0.000087"
+        stCamera:ScaleFactor="0.999892"
+        stCamera:RadialDistortParam1="0.000313"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="3.867841"
+        stCamera:FocalLengthY="3.867841"
+        stCamera:ResidualMeanError="0.000159"
+        stCamera:ResidualStandardDeviation="0.000088"
+        stCamera:RadialDistortParam1="0.332196"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="3.867841"
+        stCamera:FocalLengthY="3.867841"
+        stCamera:ResidualMeanError="0.000161"
+        stCamera:ResidualStandardDeviation="0.000091"
+        stCamera:ScaleFactor="0.999894"
+        stCamera:RadialDistortParam1="0.000567"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.867663"
+        stCamera:FocalLengthY="3.867663"
+        stCamera:ResidualMeanError="0.00267"
+        stCamera:VignetteModelParam1="-4.703155"
+        stCamera:VignetteModelParam2="354.15509"
+        stCamera:VignetteModelParam3="-13782.869141"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG (www.leica-camera.com)"
+       stCamera:Make="Leica Camera AG"
+       stCamera:Model="Leica S"
+       stCamera:UniqueCameraModel="Leica S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Leica S"
+       stCamera:LensPrettyName="Leica S HC 4,5/300"
+       stCamera:ProfileName="Leica S HC 4,5/300"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:ImageWidth="7520"
+       stCamera:ImageLength="5000"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="4.22035"
+       stCamera:ApertureValue="8.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.27139"
+        stCamera:FocalLengthY="3.27139"
+        stCamera:ResidualMeanError="0.00016"
+        stCamera:ResidualStandardDeviation="0.000089"
+        stCamera:RadialDistortParam1="0.271787"
+        stCamera:RadialDistortParam2="-1.694892">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="3.271543"
+        stCamera:FocalLengthY="3.271543"
+        stCamera:ResidualMeanError="0.000162"
+        stCamera:ResidualStandardDeviation="0.000087"
+        stCamera:ScaleFactor="0.999889"
+        stCamera:RadialDistortParam1="0.001106"
+        stCamera:RadialDistortParam2="-0.040091"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="3.271543"
+        stCamera:FocalLengthY="3.271543"
+        stCamera:ResidualMeanError="0.000158"
+        stCamera:ResidualStandardDeviation="0.000089"
+        stCamera:RadialDistortParam1="0.2714"
+        stCamera:RadialDistortParam2="-1.69014"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="3.271543"
+        stCamera:FocalLengthY="3.271543"
+        stCamera:ResidualMeanError="0.00016"
+        stCamera:ResidualStandardDeviation="0.000091"
+        stCamera:ScaleFactor="0.999897"
+        stCamera:RadialDistortParam1="-0.000555"
+        stCamera:RadialDistortParam2="0.04099"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.27139"
+        stCamera:FocalLengthY="3.27139"
+        stCamera:ResidualMeanError="0.002531"
+        stCamera:VignetteModelParam1="-3.141676"
+        stCamera:VignetteModelParam2="145.334778"
+        stCamera:VignetteModelParam3="-3662.44873"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG (www.leica-camera.com)"
+       stCamera:Make="Leica Camera AG"
+       stCamera:Model="Leica S"
+       stCamera:UniqueCameraModel="Leica S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Leica S"
+       stCamera:LensPrettyName="Leica S HC 4,5/300"
+       stCamera:ProfileName="Leica S HC 4,5/300"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:ImageWidth="7520"
+       stCamera:ImageLength="5000"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="3.996249"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.08447"
+        stCamera:FocalLengthY="3.08447"
+        stCamera:ResidualMeanError="0.00016"
+        stCamera:ResidualStandardDeviation="0.000088"
+        stCamera:RadialDistortParam1="0.239383"
+        stCamera:RadialDistortParam2="-1.318508">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="3.084613"
+        stCamera:FocalLengthY="3.084613"
+        stCamera:ResidualMeanError="0.000162"
+        stCamera:ResidualStandardDeviation="0.000086"
+        stCamera:ScaleFactor="0.99989"
+        stCamera:RadialDistortParam1="0.000845"
+        stCamera:RadialDistortParam2="-0.028121"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="3.084613"
+        stCamera:FocalLengthY="3.084613"
+        stCamera:ResidualMeanError="0.000158"
+        stCamera:ResidualStandardDeviation="0.000088"
+        stCamera:RadialDistortParam1="0.239208"
+        stCamera:RadialDistortParam2="-1.319039"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="3.084613"
+        stCamera:FocalLengthY="3.084613"
+        stCamera:ResidualMeanError="0.00016"
+        stCamera:ResidualStandardDeviation="0.00009"
+        stCamera:ScaleFactor="0.999898"
+        stCamera:RadialDistortParam1="-0.000727"
+        stCamera:RadialDistortParam2="0.038307"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.084471"
+        stCamera:FocalLengthY="3.084471"
+        stCamera:ResidualMeanError="0.00244"
+        stCamera:VignetteModelParam1="-2.60951"
+        stCamera:VignetteModelParam2="94.738953"
+        stCamera:VignetteModelParam3="-2065.241699"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG (www.leica-camera.com)"
+       stCamera:Make="Leica Camera AG"
+       stCamera:Model="Leica S"
+       stCamera:UniqueCameraModel="Leica S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Leica S"
+       stCamera:LensPrettyName="Leica S HC 4,5/300"
+       stCamera:ProfileName="Leica S HC 4,5/300"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:ImageWidth="7520"
+       stCamera:ImageLength="5000"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="4.095091"
+       stCamera:ApertureValue="9.509775">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.162035"
+        stCamera:FocalLengthY="3.162035"
+        stCamera:ResidualMeanError="0.000162"
+        stCamera:ResidualStandardDeviation="0.000089"
+        stCamera:RadialDistortParam1="0.243007"
+        stCamera:RadialDistortParam2="-1.188719">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="3.162173"
+        stCamera:FocalLengthY="3.162173"
+        stCamera:ResidualMeanError="0.000163"
+        stCamera:ResidualStandardDeviation="0.000087"
+        stCamera:ScaleFactor="0.999891"
+        stCamera:RadialDistortParam1="0.001627"
+        stCamera:RadialDistortParam2="-0.050965"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="3.162173"
+        stCamera:FocalLengthY="3.162173"
+        stCamera:ResidualMeanError="0.00016"
+        stCamera:ResidualStandardDeviation="0.000088"
+        stCamera:RadialDistortParam1="0.242886"
+        stCamera:RadialDistortParam2="-1.189085"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="3.162173"
+        stCamera:FocalLengthY="3.162173"
+        stCamera:ResidualMeanError="0.000162"
+        stCamera:ResidualStandardDeviation="0.00009"
+        stCamera:ScaleFactor="0.999899"
+        stCamera:RadialDistortParam1="-0.001871"
+        stCamera:RadialDistortParam2="0.06993"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.162035"
+        stCamera:FocalLengthY="3.162035"
+        stCamera:ResidualMeanError="0.003398"
+        stCamera:VignetteModelParam1="-3.014685"
+        stCamera:VignetteModelParam2="126.106888"
+        stCamera:VignetteModelParam3="-2906.186035"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG (www.leica-camera.com)"
+       stCamera:Make="Leica Camera AG"
+       stCamera:Model="Leica S"
+       stCamera:UniqueCameraModel="Leica S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Leica S"
+       stCamera:LensPrettyName="Leica S HC 4,5/300"
+       stCamera:ProfileName="Leica S HC 4,5/300"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:ImageWidth="7520"
+       stCamera:ImageLength="5000"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="4.336657"
+       stCamera:ApertureValue="10">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.360703"
+        stCamera:FocalLengthY="3.360703"
+        stCamera:ResidualMeanError="0.000162"
+        stCamera:ResidualStandardDeviation="0.000089"
+        stCamera:RadialDistortParam1="0.270434"
+        stCamera:RadialDistortParam2="-1.324635">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="3.360852"
+        stCamera:FocalLengthY="3.360852"
+        stCamera:ResidualMeanError="0.000164"
+        stCamera:ResidualStandardDeviation="0.000088"
+        stCamera:ScaleFactor="0.99989"
+        stCamera:RadialDistortParam1="0.001929"
+        stCamera:RadialDistortParam2="-0.067556"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="3.360852"
+        stCamera:FocalLengthY="3.360852"
+        stCamera:ResidualMeanError="0.00016"
+        stCamera:ResidualStandardDeviation="0.000089"
+        stCamera:RadialDistortParam1="0.270254"
+        stCamera:RadialDistortParam2="-1.323314"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="3.360852"
+        stCamera:FocalLengthY="3.360852"
+        stCamera:ResidualMeanError="0.000163"
+        stCamera:ResidualStandardDeviation="0.000091"
+        stCamera:ScaleFactor="0.999898"
+        stCamera:RadialDistortParam1="-0.002092"
+        stCamera:RadialDistortParam2="0.089449"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.360703"
+        stCamera:FocalLengthY="3.360703"
+        stCamera:ResidualMeanError="0.002766"
+        stCamera:VignetteModelParam1="-3.709977"
+        stCamera:VignetteModelParam2="188.526398"
+        stCamera:VignetteModelParam3="-5207.231445"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG (www.leica-camera.com)"
+       stCamera:Make="Leica Camera AG"
+       stCamera:Model="Leica S"
+       stCamera:UniqueCameraModel="Leica S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Leica S"
+       stCamera:LensPrettyName="Leica S HC 4,5/300"
+       stCamera:ProfileName="Leica S HC 4,5/300"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:ImageWidth="7520"
+       stCamera:ImageLength="5000"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="4.148982"
+       stCamera:ApertureValue="10.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.201414"
+        stCamera:FocalLengthY="3.201414"
+        stCamera:ResidualMeanError="0.000162"
+        stCamera:ResidualStandardDeviation="0.000089"
+        stCamera:RadialDistortParam1="0.245134"
+        stCamera:RadialDistortParam2="-1.137874">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="3.201556"
+        stCamera:FocalLengthY="3.201556"
+        stCamera:ResidualMeanError="0.000164"
+        stCamera:ResidualStandardDeviation="0.000087"
+        stCamera:ScaleFactor="0.999889"
+        stCamera:RadialDistortParam1="0.001882"
+        stCamera:RadialDistortParam2="-0.0581"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="3.201556"
+        stCamera:FocalLengthY="3.201556"
+        stCamera:ResidualMeanError="0.00016"
+        stCamera:ResidualStandardDeviation="0.000089"
+        stCamera:RadialDistortParam1="0.244986"
+        stCamera:RadialDistortParam2="-1.136648"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="3.201556"
+        stCamera:FocalLengthY="3.201556"
+        stCamera:ResidualMeanError="0.000163"
+        stCamera:ResidualStandardDeviation="0.000091"
+        stCamera:ScaleFactor="0.999899"
+        stCamera:RadialDistortParam1="-0.001989"
+        stCamera:RadialDistortParam2="0.074965"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.201414"
+        stCamera:FocalLengthY="3.201414"
+        stCamera:ResidualMeanError="0.00249"
+        stCamera:VignetteModelParam1="-3.293739"
+        stCamera:VignetteModelParam2="150.699493"
+        stCamera:VignetteModelParam3="-3816.781982"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG (www.leica-camera.com)"
+       stCamera:Make="Leica Camera AG"
+       stCamera:Model="Leica S"
+       stCamera:UniqueCameraModel="Leica S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Leica S"
+       stCamera:LensPrettyName="Leica S HC 4,5/300"
+       stCamera:ProfileName="Leica S HC 4,5/300"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:ImageWidth="7520"
+       stCamera:ImageLength="5000"
+       stCamera:FocalLength="300"
+       stCamera:FocusDistance="4.642177"
+       stCamera:ApertureValue="10.983706">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.614983"
+        stCamera:FocalLengthY="3.614983"
+        stCamera:ResidualMeanError="0.00016"
+        stCamera:ResidualStandardDeviation="0.000089"
+        stCamera:RadialDistortParam1="0.330599"
+        stCamera:RadialDistortParam2="-2.127445">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="3.615137"
+        stCamera:FocalLengthY="3.615137"
+        stCamera:ResidualMeanError="0.000161"
+        stCamera:ResidualStandardDeviation="0.000088"
+        stCamera:ScaleFactor="0.999882"
+        stCamera:RadialDistortParam1="0.001644"
+        stCamera:RadialDistortParam2="-0.025524"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="3.615137"
+        stCamera:FocalLengthY="3.615137"
+        stCamera:ResidualMeanError="0.000158"
+        stCamera:ResidualStandardDeviation="0.000089"
+        stCamera:RadialDistortParam1="0.330452"
+        stCamera:RadialDistortParam2="-2.127589"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="3.615137"
+        stCamera:FocalLengthY="3.615137"
+        stCamera:ResidualMeanError="0.00016"
+        stCamera:ResidualStandardDeviation="0.000091"
+        stCamera:ScaleFactor="0.999904"
+        stCamera:RadialDistortParam1="-0.001862"
+        stCamera:RadialDistortParam2="0.056764"/>
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="3.614983"
+        stCamera:FocalLengthY="3.614983"
+        stCamera:ResidualMeanError="0.002383"
+        stCamera:VignetteModelParam1="-3.918307"
+        stCamera:VignetteModelParam2="212.87117"
+        stCamera:VignetteModelParam3="-6890.485352"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

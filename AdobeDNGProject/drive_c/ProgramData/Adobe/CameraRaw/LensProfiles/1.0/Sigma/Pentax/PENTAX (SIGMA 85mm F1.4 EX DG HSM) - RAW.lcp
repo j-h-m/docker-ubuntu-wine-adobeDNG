@@ -1,0 +1,1643 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c007 1.136881, 2010/06/10-18:11:35        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="PENTAX"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="8 22"
+       stCamera:Lens="Sigma Lens"
+       stCamera:CameraPrettyName="PENTAX"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 EX DG HSM, PENTAX)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.051295"
+        stCamera:RadialDistortParam2="-0.889408"
+        stCamera:RadialDistortParam3="1.455884">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999976"
+        stCamera:RadialDistortParam1="-0.000232"
+        stCamera:RadialDistortParam2="-0.001494"
+        stCamera:RadialDistortParam3="0.001874"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.051295"
+        stCamera:RadialDistortParam2="-0.889408"
+        stCamera:RadialDistortParam3="1.455884"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000023"
+        stCamera:RadialDistortParam1="-0.000158"
+        stCamera:RadialDistortParam2="0.003245"
+        stCamera:RadialDistortParam3="0.008395"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.013658"
+        stCamera:VignetteModelParam1="-23.577551"
+        stCamera:VignetteModelParam2="424.620209"
+        stCamera:VignetteModelParam3="-3475.228271"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="PENTAX"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="8 22"
+       stCamera:Lens="Sigma Lens"
+       stCamera:CameraPrettyName="PENTAX"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 EX DG HSM, PENTAX)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="6"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.034462"
+        stCamera:RadialDistortParam2="-0.820247"
+        stCamera:RadialDistortParam3="0.80044">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999974"
+        stCamera:RadialDistortParam1="-0.00062"
+        stCamera:RadialDistortParam2="0.009489"
+        stCamera:RadialDistortParam3="-0.055878"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.034462"
+        stCamera:RadialDistortParam2="-0.820247"
+        stCamera:RadialDistortParam3="0.80044"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000013"
+        stCamera:RadialDistortParam1="0.000519"
+        stCamera:RadialDistortParam2="-0.017414"
+        stCamera:RadialDistortParam3="0.19661"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.009262"
+        stCamera:VignetteModelParam1="-21.074406"
+        stCamera:VignetteModelParam2="348.475494"
+        stCamera:VignetteModelParam3="-2763.087646"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="PENTAX"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="8 22"
+       stCamera:Lens="Sigma Lens"
+       stCamera:CameraPrettyName="PENTAX"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 EX DG HSM, PENTAX)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.019975"
+        stCamera:RadialDistortParam2="-0.758394"
+        stCamera:RadialDistortParam3="0.333768">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999965"
+        stCamera:RadialDistortParam1="-0.000147"
+        stCamera:RadialDistortParam2="0.004264"
+        stCamera:RadialDistortParam3="-0.059228"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.019975"
+        stCamera:RadialDistortParam2="-0.758394"
+        stCamera:RadialDistortParam3="0.333768"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000007"
+        stCamera:RadialDistortParam1="0.000804"
+        stCamera:RadialDistortParam2="-0.025925"
+        stCamera:RadialDistortParam3="0.280815"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.006319"
+        stCamera:VignetteModelParam1="-18.638514"
+        stCamera:VignetteModelParam2="277.431702"
+        stCamera:VignetteModelParam3="-2114.672363"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="PENTAX"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="8 22"
+       stCamera:Lens="Sigma Lens"
+       stCamera:CameraPrettyName="PENTAX"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 EX DG HSM, PENTAX)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.007723"
+        stCamera:RadialDistortParam2="-0.706186"
+        stCamera:RadialDistortParam3="0.039186">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999959"
+        stCamera:RadialDistortParam1="0.000093"
+        stCamera:RadialDistortParam2="-0.000002"
+        stCamera:RadialDistortParam3="-0.035336"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.007723"
+        stCamera:RadialDistortParam2="-0.706186"
+        stCamera:RadialDistortParam3="0.039186"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.001281"
+        stCamera:RadialDistortParam2="-0.035427"
+        stCamera:RadialDistortParam3="0.323297"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.004611"
+        stCamera:VignetteModelParam1="-16.299078"
+        stCamera:VignetteModelParam2="213.585831"
+        stCamera:VignetteModelParam3="-1550.409668"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="PENTAX"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="8 22"
+       stCamera:Lens="Sigma Lens"
+       stCamera:CameraPrettyName="PENTAX"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 EX DG HSM, PENTAX)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.002639"
+        stCamera:RadialDistortParam2="-0.656611"
+        stCamera:RadialDistortParam3="-0.175223">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999955"
+        stCamera:RadialDistortParam1="0.000252"
+        stCamera:RadialDistortParam2="-0.006357"
+        stCamera:RadialDistortParam3="0.058218"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.002639"
+        stCamera:RadialDistortParam2="-0.656611"
+        stCamera:RadialDistortParam3="-0.175223"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999994"
+        stCamera:RadialDistortParam1="0.001441"
+        stCamera:RadialDistortParam2="-0.035211"
+        stCamera:RadialDistortParam3="0.294258"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002618"
+        stCamera:VignetteModelParam1="-13.700428"
+        stCamera:VignetteModelParam2="144.582443"
+        stCamera:VignetteModelParam3="-956.33429"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="PENTAX"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="8 22"
+       stCamera:Lens="Sigma Lens"
+       stCamera:CameraPrettyName="PENTAX"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 EX DG HSM, PENTAX)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.2"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.011147"
+        stCamera:RadialDistortParam2="-0.613261"
+        stCamera:RadialDistortParam3="-0.29074">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999953"
+        stCamera:RadialDistortParam1="0.000166"
+        stCamera:RadialDistortParam2="-0.007141"
+        stCamera:RadialDistortParam3="0.079829"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.011147"
+        stCamera:RadialDistortParam2="-0.613261"
+        stCamera:RadialDistortParam3="-0.29074"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000002"
+        stCamera:RadialDistortParam1="0.000651"
+        stCamera:RadialDistortParam2="-0.005594"
+        stCamera:RadialDistortParam3="-0.015579"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002002"
+        stCamera:VignetteModelParam1="-11.614594"
+        stCamera:VignetteModelParam2="96.639732"
+        stCamera:VignetteModelParam3="-564.111877"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="PENTAX"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="8 22"
+       stCamera:Lens="Sigma Lens"
+       stCamera:CameraPrettyName="PENTAX"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 EX DG HSM, PENTAX)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.01803"
+        stCamera:RadialDistortParam2="-0.570993"
+        stCamera:RadialDistortParam3="-0.373399">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999947"
+        stCamera:RadialDistortParam1="0.000516"
+        stCamera:RadialDistortParam2="-0.018364"
+        stCamera:RadialDistortParam3="0.177629"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.01803"
+        stCamera:RadialDistortParam2="-0.570993"
+        stCamera:RadialDistortParam3="-0.373399"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999995"
+        stCamera:RadialDistortParam1="0.001865"
+        stCamera:RadialDistortParam2="-0.053265"
+        stCamera:RadialDistortParam3="0.484587"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001662"
+        stCamera:VignetteModelParam1="-10.305256"
+        stCamera:VignetteModelParam2="79.803955"
+        stCamera:VignetteModelParam3="-478.005676"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="PENTAX"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="8 22"
+       stCamera:Lens="Sigma Lens"
+       stCamera:CameraPrettyName="PENTAX"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 EX DG HSM, PENTAX)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.85"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.023667"
+        stCamera:RadialDistortParam2="-0.52618"
+        stCamera:RadialDistortParam3="-0.449412">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999942"
+        stCamera:RadialDistortParam1="0.000378"
+        stCamera:RadialDistortParam2="-0.009604"
+        stCamera:RadialDistortParam3="0.074587"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.023667"
+        stCamera:RadialDistortParam2="-0.52618"
+        stCamera:RadialDistortParam3="-0.449412"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999998"
+        stCamera:RadialDistortParam1="0.002011"
+        stCamera:RadialDistortParam2="-0.055415"
+        stCamera:RadialDistortParam3="0.462601"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000953"
+        stCamera:VignetteModelParam1="-9.339686"
+        stCamera:VignetteModelParam2="67.859314"
+        stCamera:VignetteModelParam3="-372.75412"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="PENTAX"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="8 22"
+       stCamera:Lens="Sigma Lens"
+       stCamera:CameraPrettyName="PENTAX"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 EX DG HSM, PENTAX)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.051295"
+        stCamera:RadialDistortParam2="-0.889408"
+        stCamera:RadialDistortParam3="1.455884">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999956"
+        stCamera:RadialDistortParam1="-0.000165"
+        stCamera:RadialDistortParam2="0.010207"
+        stCamera:RadialDistortParam3="-0.125089"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.051295"
+        stCamera:RadialDistortParam2="-0.889408"
+        stCamera:RadialDistortParam3="1.455884"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999985"
+        stCamera:RadialDistortParam1="0.000098"
+        stCamera:RadialDistortParam2="0.021082"
+        stCamera:RadialDistortParam3="-0.194586"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003604"
+        stCamera:VignetteModelParam1="-1.161657"
+        stCamera:VignetteModelParam2="-159.026352"
+        stCamera:VignetteModelParam3="1262.07312"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="PENTAX"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="8 22"
+       stCamera:Lens="Sigma Lens"
+       stCamera:CameraPrettyName="PENTAX"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 EX DG HSM, PENTAX)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="6"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.034462"
+        stCamera:RadialDistortParam2="-0.820247"
+        stCamera:RadialDistortParam3="0.80044">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999959"
+        stCamera:RadialDistortParam1="-0.000412"
+        stCamera:RadialDistortParam2="0.01819"
+        stCamera:RadialDistortParam3="-0.192234"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.034462"
+        stCamera:RadialDistortParam2="-0.820247"
+        stCamera:RadialDistortParam3="0.80044"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.99999"
+        stCamera:RadialDistortParam1="-0.000232"
+        stCamera:RadialDistortParam2="0.02786"
+        stCamera:RadialDistortParam3="-0.258886"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003045"
+        stCamera:VignetteModelParam1="-0.976025"
+        stCamera:VignetteModelParam2="-121.321381"
+        stCamera:VignetteModelParam3="773.968201"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="PENTAX"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="8 22"
+       stCamera:Lens="Sigma Lens"
+       stCamera:CameraPrettyName="PENTAX"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 EX DG HSM, PENTAX)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.019975"
+        stCamera:RadialDistortParam2="-0.758394"
+        stCamera:RadialDistortParam3="0.333768">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99996"
+        stCamera:RadialDistortParam1="-0.000622"
+        stCamera:RadialDistortParam2="0.020569"
+        stCamera:RadialDistortParam3="-0.183734"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.019975"
+        stCamera:RadialDistortParam2="-0.758394"
+        stCamera:RadialDistortParam3="0.333768"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999994"
+        stCamera:RadialDistortParam1="-0.000112"
+        stCamera:RadialDistortParam2="0.015807"
+        stCamera:RadialDistortParam3="-0.117169"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002737"
+        stCamera:VignetteModelParam1="-1.112974"
+        stCamera:VignetteModelParam2="-75.459656"
+        stCamera:VignetteModelParam3="244.239685"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="PENTAX"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="8 22"
+       stCamera:Lens="Sigma Lens"
+       stCamera:CameraPrettyName="PENTAX"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 EX DG HSM, PENTAX)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.007723"
+        stCamera:RadialDistortParam2="-0.706186"
+        stCamera:RadialDistortParam3="0.039186">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999963"
+        stCamera:RadialDistortParam1="-0.000799"
+        stCamera:RadialDistortParam2="0.021815"
+        stCamera:RadialDistortParam3="-0.165471"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.007723"
+        stCamera:RadialDistortParam2="-0.706186"
+        stCamera:RadialDistortParam3="0.039186"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999998"
+        stCamera:RadialDistortParam1="0.000006"
+        stCamera:RadialDistortParam2="0.007019"
+        stCamera:RadialDistortParam3="-0.033196"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002276"
+        stCamera:VignetteModelParam1="-1.589938"
+        stCamera:VignetteModelParam2="-22.022766"
+        stCamera:VignetteModelParam3="-320.939209"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="PENTAX"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="8 22"
+       stCamera:Lens="Sigma Lens"
+       stCamera:CameraPrettyName="PENTAX"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 EX DG HSM, PENTAX)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.002639"
+        stCamera:RadialDistortParam2="-0.656611"
+        stCamera:RadialDistortParam3="-0.175223">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999961"
+        stCamera:RadialDistortParam1="-0.000626"
+        stCamera:RadialDistortParam2="0.017641"
+        stCamera:RadialDistortParam3="-0.13798"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.002639"
+        stCamera:RadialDistortParam2="-0.656611"
+        stCamera:RadialDistortParam3="-0.175223"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000004"
+        stCamera:RadialDistortParam1="-0.000305"
+        stCamera:RadialDistortParam2="0.018285"
+        stCamera:RadialDistortParam3="-0.175308"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001179"
+        stCamera:VignetteModelParam1="-2.14687"
+        stCamera:VignetteModelParam2="23.904594"
+        stCamera:VignetteModelParam3="-739.35437"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="PENTAX"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="8 22"
+       stCamera:Lens="Sigma Lens"
+       stCamera:CameraPrettyName="PENTAX"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 EX DG HSM, PENTAX)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.2"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.011147"
+        stCamera:RadialDistortParam2="-0.613261"
+        stCamera:RadialDistortParam3="-0.29074">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999957"
+        stCamera:RadialDistortParam1="-0.000073"
+        stCamera:RadialDistortParam2="-0.002528"
+        stCamera:RadialDistortParam3="0.04584"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.011147"
+        stCamera:RadialDistortParam2="-0.613261"
+        stCamera:RadialDistortParam3="-0.29074"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000008"
+        stCamera:RadialDistortParam1="-0.000084"
+        stCamera:RadialDistortParam2="0.009577"
+        stCamera:RadialDistortParam3="-0.110225"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001021"
+        stCamera:VignetteModelParam1="-2.4768"
+        stCamera:VignetteModelParam2="46.498837"
+        stCamera:VignetteModelParam3="-839.359924"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="PENTAX"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="8 22"
+       stCamera:Lens="Sigma Lens"
+       stCamera:CameraPrettyName="PENTAX"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 EX DG HSM, PENTAX)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.01803"
+        stCamera:RadialDistortParam2="-0.570993"
+        stCamera:RadialDistortParam3="-0.373399">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999955"
+        stCamera:RadialDistortParam1="-0.00011"
+        stCamera:RadialDistortParam2="0.000638"
+        stCamera:RadialDistortParam3="0.003953"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.01803"
+        stCamera:RadialDistortParam2="-0.570993"
+        stCamera:RadialDistortParam3="-0.373399"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000014"
+        stCamera:RadialDistortParam1="-0.000176"
+        stCamera:RadialDistortParam2="0.012879"
+        stCamera:RadialDistortParam3="-0.152406"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001619"
+        stCamera:VignetteModelParam1="-2.384796"
+        stCamera:VignetteModelParam2="39.933689"
+        stCamera:VignetteModelParam3="-598.038574"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="PENTAX"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="8 22"
+       stCamera:Lens="Sigma Lens"
+       stCamera:CameraPrettyName="PENTAX"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 EX DG HSM, PENTAX)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.85"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.023667"
+        stCamera:RadialDistortParam2="-0.52618"
+        stCamera:RadialDistortParam3="-0.449412">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999951"
+        stCamera:RadialDistortParam1="0.000131"
+        stCamera:RadialDistortParam2="-0.004459"
+        stCamera:RadialDistortParam3="0.034377"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.023667"
+        stCamera:RadialDistortParam2="-0.52618"
+        stCamera:RadialDistortParam3="-0.449412"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000021"
+        stCamera:RadialDistortParam1="-0.000265"
+        stCamera:RadialDistortParam2="0.013316"
+        stCamera:RadialDistortParam3="-0.145818"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000834"
+        stCamera:VignetteModelParam1="-1.98915"
+        stCamera:VignetteModelParam2="16.555277"
+        stCamera:VignetteModelParam3="-217.007523"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="PENTAX"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="8 22"
+       stCamera:Lens="Sigma Lens"
+       stCamera:CameraPrettyName="PENTAX"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 EX DG HSM, PENTAX)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.051295"
+        stCamera:RadialDistortParam2="-0.889408"
+        stCamera:RadialDistortParam3="1.455884">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999952"
+        stCamera:RadialDistortParam1="0.000216"
+        stCamera:RadialDistortParam2="-0.017104"
+        stCamera:RadialDistortParam3="0.181073"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.051295"
+        stCamera:RadialDistortParam2="-0.889408"
+        stCamera:RadialDistortParam3="1.455884"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999988"
+        stCamera:RadialDistortParam1="-0.000094"
+        stCamera:RadialDistortParam2="0.006253"
+        stCamera:RadialDistortParam3="0.036269"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002054"
+        stCamera:VignetteModelParam1="-2.802324"
+        stCamera:VignetteModelParam2="47.59671"
+        stCamera:VignetteModelParam3="-1241.292114"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="PENTAX"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="8 22"
+       stCamera:Lens="Sigma Lens"
+       stCamera:CameraPrettyName="PENTAX"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 EX DG HSM, PENTAX)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="6"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.034462"
+        stCamera:RadialDistortParam2="-0.820247"
+        stCamera:RadialDistortParam3="0.80044">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999954"
+        stCamera:RadialDistortParam1="0.000192"
+        stCamera:RadialDistortParam2="-0.014587"
+        stCamera:RadialDistortParam3="0.150528"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.034462"
+        stCamera:RadialDistortParam2="-0.820247"
+        stCamera:RadialDistortParam3="0.80044"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999991"
+        stCamera:RadialDistortParam1="-0.000211"
+        stCamera:RadialDistortParam2="0.010436"
+        stCamera:RadialDistortParam3="-0.046719"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001814"
+        stCamera:VignetteModelParam1="-3.113381"
+        stCamera:VignetteModelParam2="66.394333"
+        stCamera:VignetteModelParam3="-1223.022095"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="PENTAX"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="8 22"
+       stCamera:Lens="Sigma Lens"
+       stCamera:CameraPrettyName="PENTAX"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 EX DG HSM, PENTAX)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.019975"
+        stCamera:RadialDistortParam2="-0.758394"
+        stCamera:RadialDistortParam3="0.333768">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999955"
+        stCamera:RadialDistortParam1="0.000056"
+        stCamera:RadialDistortParam2="-0.005419"
+        stCamera:RadialDistortParam3="0.031343"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.019975"
+        stCamera:RadialDistortParam2="-0.758394"
+        stCamera:RadialDistortParam3="0.333768"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999995"
+        stCamera:RadialDistortParam1="-0.000262"
+        stCamera:RadialDistortParam2="0.008826"
+        stCamera:RadialDistortParam3="-0.034021"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001899"
+        stCamera:VignetteModelParam1="-2.956273"
+        stCamera:VignetteModelParam2="53.40538"
+        stCamera:VignetteModelParam3="-836.845947"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="PENTAX"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="8 22"
+       stCamera:Lens="Sigma Lens"
+       stCamera:CameraPrettyName="PENTAX"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 EX DG HSM, PENTAX)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.007723"
+        stCamera:RadialDistortParam2="-0.706186"
+        stCamera:RadialDistortParam3="0.039186">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999955"
+        stCamera:RadialDistortParam1="0.000008"
+        stCamera:RadialDistortParam2="-0.001848"
+        stCamera:RadialDistortParam3="-0.007239"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.007723"
+        stCamera:RadialDistortParam2="-0.706186"
+        stCamera:RadialDistortParam3="0.039186"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999998"
+        stCamera:RadialDistortParam1="-0.000177"
+        stCamera:RadialDistortParam2="0.0035"
+        stCamera:RadialDistortParam3="0.027508"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001007"
+        stCamera:VignetteModelParam1="-2.460892"
+        stCamera:VignetteModelParam2="20.691936"
+        stCamera:VignetteModelParam3="-272.039703"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="PENTAX"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="8 22"
+       stCamera:Lens="Sigma Lens"
+       stCamera:CameraPrettyName="PENTAX"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 EX DG HSM, PENTAX)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.002639"
+        stCamera:RadialDistortParam2="-0.656611"
+        stCamera:RadialDistortParam3="-0.175223">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999956"
+        stCamera:RadialDistortParam1="-0.00009"
+        stCamera:RadialDistortParam2="0.002853"
+        stCamera:RadialDistortParam3="-0.049588"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.002639"
+        stCamera:RadialDistortParam2="-0.656611"
+        stCamera:RadialDistortParam3="-0.175223"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000002"
+        stCamera:RadialDistortParam1="-0.000116"
+        stCamera:RadialDistortParam2="0.002294"
+        stCamera:RadialDistortParam3="0.007036"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00027"
+        stCamera:VignetteModelParam1="-2.136989"
+        stCamera:VignetteModelParam2="3.880389"
+        stCamera:VignetteModelParam3="-16.444063"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="PENTAX"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="8 22"
+       stCamera:Lens="Sigma Lens"
+       stCamera:CameraPrettyName="PENTAX"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 EX DG HSM, PENTAX)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.2"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.011147"
+        stCamera:RadialDistortParam2="-0.613261"
+        stCamera:RadialDistortParam3="-0.29074">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999954"
+        stCamera:RadialDistortParam1="-0.000007"
+        stCamera:RadialDistortParam2="0.000915"
+        stCamera:RadialDistortParam3="-0.025867"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.011147"
+        stCamera:RadialDistortParam2="-0.613261"
+        stCamera:RadialDistortParam3="-0.29074"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000009"
+        stCamera:RadialDistortParam1="-0.000468"
+        stCamera:RadialDistortParam2="0.014479"
+        stCamera:RadialDistortParam3="-0.115913"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000216"
+        stCamera:VignetteModelParam1="-2.04122"
+        stCamera:VignetteModelParam2="3.348782"
+        stCamera:VignetteModelParam3="-9.378053"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="PENTAX"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="8 22"
+       stCamera:Lens="Sigma Lens"
+       stCamera:CameraPrettyName="PENTAX"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 EX DG HSM, PENTAX)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.01803"
+        stCamera:RadialDistortParam2="-0.570993"
+        stCamera:RadialDistortParam3="-0.373399">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999953"
+        stCamera:RadialDistortParam1="-0.000018"
+        stCamera:RadialDistortParam2="0.00151"
+        stCamera:RadialDistortParam3="-0.023354"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.01803"
+        stCamera:RadialDistortParam2="-0.570993"
+        stCamera:RadialDistortParam3="-0.373399"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000013"
+        stCamera:RadialDistortParam1="-0.000264"
+        stCamera:RadialDistortParam2="0.006553"
+        stCamera:RadialDistortParam3="-0.043328"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000133"
+        stCamera:VignetteModelParam1="-1.949045"
+        stCamera:VignetteModelParam2="3.109746"
+        stCamera:VignetteModelParam3="-11.010515"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="PENTAX"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="8 22"
+       stCamera:Lens="Sigma Lens"
+       stCamera:CameraPrettyName="PENTAX"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 EX DG HSM, PENTAX)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.85"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.023667"
+        stCamera:RadialDistortParam2="-0.52618"
+        stCamera:RadialDistortParam3="-0.449412">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999951"
+        stCamera:RadialDistortParam1="0.000034"
+        stCamera:RadialDistortParam2="-0.000414"
+        stCamera:RadialDistortParam3="0.005459"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.023667"
+        stCamera:RadialDistortParam2="-0.52618"
+        stCamera:RadialDistortParam3="-0.449412"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.00002"
+        stCamera:RadialDistortParam1="-0.000355"
+        stCamera:RadialDistortParam2="0.008164"
+        stCamera:RadialDistortParam3="-0.056351"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000238"
+        stCamera:VignetteModelParam1="-1.863209"
+        stCamera:VignetteModelParam2="3.295094"
+        stCamera:VignetteModelParam3="-13.222123"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="PENTAX"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="8 22"
+       stCamera:Lens="Sigma Lens"
+       stCamera:CameraPrettyName="PENTAX"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 EX DG HSM, PENTAX)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.051295"
+        stCamera:RadialDistortParam2="-0.889408"
+        stCamera:RadialDistortParam3="1.455884">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99995"
+        stCamera:RadialDistortParam1="0.000068"
+        stCamera:RadialDistortParam2="-0.00303"
+        stCamera:RadialDistortParam3="-0.054333"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.051295"
+        stCamera:RadialDistortParam2="-0.889408"
+        stCamera:RadialDistortParam3="1.455884"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999987"
+        stCamera:RadialDistortParam1="0.000209"
+        stCamera:RadialDistortParam2="-0.011741"
+        stCamera:RadialDistortParam3="0.22875"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002494"
+        stCamera:VignetteModelParam1="-3.232492"
+        stCamera:VignetteModelParam2="53.078125"
+        stCamera:VignetteModelParam3="-763.265747"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="PENTAX"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="8 22"
+       stCamera:Lens="Sigma Lens"
+       stCamera:CameraPrettyName="PENTAX"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 EX DG HSM, PENTAX)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="6"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.034462"
+        stCamera:RadialDistortParam2="-0.820247"
+        stCamera:RadialDistortParam3="0.80044">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999952"
+        stCamera:RadialDistortParam1="-0.00003"
+        stCamera:RadialDistortParam2="0.002134"
+        stCamera:RadialDistortParam3="-0.094005"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.034462"
+        stCamera:RadialDistortParam2="-0.820247"
+        stCamera:RadialDistortParam3="0.80044"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999991"
+        stCamera:RadialDistortParam1="-0.000025"
+        stCamera:RadialDistortParam2="-0.002406"
+        stCamera:RadialDistortParam3="0.097828"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000661"
+        stCamera:VignetteModelParam1="-2.582352"
+        stCamera:VignetteModelParam2="13.185295"
+        stCamera:VignetteModelParam3="-145.886475"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="PENTAX"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="8 22"
+       stCamera:Lens="Sigma Lens"
+       stCamera:CameraPrettyName="PENTAX"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 EX DG HSM, PENTAX)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.019975"
+        stCamera:RadialDistortParam2="-0.758394"
+        stCamera:RadialDistortParam3="0.333768">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999953"
+        stCamera:RadialDistortParam1="-0.000001"
+        stCamera:RadialDistortParam2="0.001216"
+        stCamera:RadialDistortParam3="-0.061833"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.019975"
+        stCamera:RadialDistortParam2="-0.758394"
+        stCamera:RadialDistortParam3="0.333768"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999995"
+        stCamera:RadialDistortParam1="-0.000083"
+        stCamera:RadialDistortParam2="-0.002102"
+        stCamera:RadialDistortParam3="0.085508"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000259"
+        stCamera:VignetteModelParam1="-2.388702"
+        stCamera:VignetteModelParam2="5.625715"
+        stCamera:VignetteModelParam3="-30.583721"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="PENTAX"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="8 22"
+       stCamera:Lens="Sigma Lens"
+       stCamera:CameraPrettyName="PENTAX"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 EX DG HSM, PENTAX)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.007723"
+        stCamera:RadialDistortParam2="-0.706186"
+        stCamera:RadialDistortParam3="0.039186">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999953"
+        stCamera:RadialDistortParam1="0.000113"
+        stCamera:RadialDistortParam2="-0.002117"
+        stCamera:RadialDistortParam3="-0.016276"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.007723"
+        stCamera:RadialDistortParam2="-0.706186"
+        stCamera:RadialDistortParam3="0.039186"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999998"
+        stCamera:RadialDistortParam1="-0.000102"
+        stCamera:RadialDistortParam2="-0.001036"
+        stCamera:RadialDistortParam3="0.053622"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000233"
+        stCamera:VignetteModelParam1="-2.289546"
+        stCamera:VignetteModelParam2="5.224014"
+        stCamera:VignetteModelParam3="-26.847866"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="PENTAX"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="8 22"
+       stCamera:Lens="Sigma Lens"
+       stCamera:CameraPrettyName="PENTAX"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 EX DG HSM, PENTAX)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.002639"
+        stCamera:RadialDistortParam2="-0.656611"
+        stCamera:RadialDistortParam3="-0.175223">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999952"
+        stCamera:RadialDistortParam1="0.000248"
+        stCamera:RadialDistortParam2="-0.006078"
+        stCamera:RadialDistortParam3="0.030275"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.002639"
+        stCamera:RadialDistortParam2="-0.656611"
+        stCamera:RadialDistortParam3="-0.175223"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.000041"
+        stCamera:RadialDistortParam2="-0.005956"
+        stCamera:RadialDistortParam3="0.087495"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000248"
+        stCamera:VignetteModelParam1="-2.171422"
+        stCamera:VignetteModelParam2="4.585476"
+        stCamera:VignetteModelParam3="-26.087601"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="PENTAX"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="8 22"
+       stCamera:Lens="Sigma Lens"
+       stCamera:CameraPrettyName="PENTAX"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 EX DG HSM, PENTAX)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.2"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.011147"
+        stCamera:RadialDistortParam2="-0.613261"
+        stCamera:RadialDistortParam3="-0.29074">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999951"
+        stCamera:RadialDistortParam1="0.000238"
+        stCamera:RadialDistortParam2="-0.005543"
+        stCamera:RadialDistortParam3="0.031364"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.011147"
+        stCamera:RadialDistortParam2="-0.613261"
+        stCamera:RadialDistortParam3="-0.29074"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000006"
+        stCamera:RadialDistortParam1="0.000005"
+        stCamera:RadialDistortParam2="-0.005122"
+        stCamera:RadialDistortParam3="0.070973"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000245"
+        stCamera:VignetteModelParam1="-2.077306"
+        stCamera:VignetteModelParam2="4.528138"
+        stCamera:VignetteModelParam3="-27.916645"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="PENTAX"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="8 22"
+       stCamera:Lens="Sigma Lens"
+       stCamera:CameraPrettyName="PENTAX"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 EX DG HSM, PENTAX)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.01803"
+        stCamera:RadialDistortParam2="-0.570993"
+        stCamera:RadialDistortParam3="-0.373399">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99995"
+        stCamera:RadialDistortParam1="0.000276"
+        stCamera:RadialDistortParam2="-0.0069"
+        stCamera:RadialDistortParam3="0.051675"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.01803"
+        stCamera:RadialDistortParam2="-0.570993"
+        stCamera:RadialDistortParam3="-0.373399"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000011"
+        stCamera:RadialDistortParam1="-0.000024"
+        stCamera:RadialDistortParam2="-0.004547"
+        stCamera:RadialDistortParam3="0.06114"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000214"
+        stCamera:VignetteModelParam1="-1.946228"
+        stCamera:VignetteModelParam2="2.05859"
+        stCamera:VignetteModelParam3="0.884832"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="PENTAX"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="8 22"
+       stCamera:Lens="Sigma Lens"
+       stCamera:CameraPrettyName="PENTAX"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 EX DG HSM, PENTAX)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.85"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.023667"
+        stCamera:RadialDistortParam2="-0.52618"
+        stCamera:RadialDistortParam3="-0.449412">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999949"
+        stCamera:RadialDistortParam1="0.000113"
+        stCamera:RadialDistortParam2="-0.00117"
+        stCamera:RadialDistortParam3="0.002221"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.023667"
+        stCamera:RadialDistortParam2="-0.52618"
+        stCamera:RadialDistortParam3="-0.449412"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000017"
+        stCamera:RadialDistortParam1="-0.000004"
+        stCamera:RadialDistortParam2="-0.004876"
+        stCamera:RadialDistortParam3="0.058168"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000201"
+        stCamera:VignetteModelParam1="-1.901661"
+        stCamera:VignetteModelParam2="4.075361"
+        stCamera:VignetteModelParam3="-21.686846"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

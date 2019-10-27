@@ -1,0 +1,78 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="FUJIFILM"
+       stCamera:Model="X-T1"
+       stCamera:UniqueCameraModel="Fujifilm X-T1"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="IBELUX 40mm F0.85"
+       stCamera:LensInfo="4000/100 4000/100 0/0 0/0"
+       stCamera:CameraPrettyName="X-T1"
+       stCamera:LensPrettyName="HandeVision IBELUX 40mm F0.85"
+       stCamera:ProfileName="Adobe (HandeVision IBELUX 40mm F0.85, Fujifilm)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:ImageWidth="4936"
+       stCamera:ImageLength="3296"
+       stCamera:FocalLength="40"
+       stCamera:FocusDistance="3.472166">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="1.779118"
+       stCamera:FocalLengthY="1.779118"
+       stCamera:ResidualMeanError="0.000354"
+       stCamera:ResidualStandardDeviation="0.000642"
+       stCamera:RadialDistortParam1="-0.255236"
+       stCamera:RadialDistortParam2="-0.136318"
+       stCamera:RadialDistortParam3="11.50962"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="FUJIFILM"
+       stCamera:Model="X-T1"
+       stCamera:UniqueCameraModel="Fujifilm X-T1"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="IBELUX 40mm F0.85"
+       stCamera:LensInfo="4000/100 4000/100 0/0 0/0"
+       stCamera:CameraPrettyName="X-T1"
+       stCamera:LensPrettyName="HandeVision IBELUX 40mm F0.85"
+       stCamera:ProfileName="Adobe (HandeVision IBELUX 40mm F0.85, Fujifilm)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:ImageWidth="4936"
+       stCamera:ImageLength="3296"
+       stCamera:FocalLength="40"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.779118"
+        stCamera:FocalLengthY="1.779118"
+        stCamera:RadialDistortParam1="-0.255236"
+        stCamera:RadialDistortParam2="-0.136318"
+        stCamera:RadialDistortParam3="11.50962">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.779118"
+        stCamera:FocalLengthY="1.779118"
+        stCamera:VignetteModelParam1="-0.968607"
+        stCamera:VignetteModelParam2="16.822793"
+        stCamera:VignetteModelParam3="-102.35149"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

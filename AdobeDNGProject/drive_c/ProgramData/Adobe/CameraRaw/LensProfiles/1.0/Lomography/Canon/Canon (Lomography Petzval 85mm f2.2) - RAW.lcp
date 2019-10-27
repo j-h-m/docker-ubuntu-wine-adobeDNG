@@ -1,0 +1,103 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156380, 2014/05/21-23:38:37        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="85.0 mm"
+       stCamera:LensInfo="850/10 850/10 22/10 160/10"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Lomography Petzval 85mm f/2.2"
+       stCamera:ProfileName="Adobe (Lomography Petzval 85mm f/2.2, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocusDistance="1.94968">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.805512"
+        stCamera:FocalLengthY="1.805512"
+        stCamera:ResidualMeanError="0.00036"
+        stCamera:ResidualStandardDeviation="0.000581"
+        stCamera:RadialDistortParam1="0.097384"
+        stCamera:RadialDistortParam2="1.867824"
+        stCamera:RadialDistortParam3="-13.578875">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.805087"
+        stCamera:FocalLengthY="1.805087"
+        stCamera:ResidualMeanError="0.00036"
+        stCamera:ResidualStandardDeviation="0.000577"
+        stCamera:ScaleFactor="0.999807"
+        stCamera:RadialDistortParam1="0.002085"
+        stCamera:RadialDistortParam2="-0.001784"
+        stCamera:RadialDistortParam3="0.113872"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.805087"
+        stCamera:FocalLengthY="1.805087"
+        stCamera:ResidualMeanError="0.000357"
+        stCamera:ResidualStandardDeviation="0.000578"
+        stCamera:RadialDistortParam1="0.097968"
+        stCamera:RadialDistortParam2="1.866219"
+        stCamera:RadialDistortParam3="-13.489701"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.805087"
+        stCamera:FocalLengthY="1.805087"
+        stCamera:ResidualMeanError="0.000358"
+        stCamera:ResidualStandardDeviation="0.000577"
+        stCamera:ScaleFactor="1.000096"
+        stCamera:RadialDistortParam1="-0.004202"
+        stCamera:RadialDistortParam2="0.004917"
+        stCamera:RadialDistortParam3="-0.298145"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="85.0 mm"
+       stCamera:LensInfo="850/10 850/10 22/10 160/10"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Lomography Petzval 85mm f/2.2"
+       stCamera:ProfileName="Adobe (Lomography Petzval 85mm f/2.2, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5640"
+       stCamera:ImageLength="3752"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.805087"
+        stCamera:FocalLengthY="1.805087"
+        stCamera:RadialDistortParam1="0.097968"
+        stCamera:RadialDistortParam2="1.866219"
+        stCamera:RadialDistortParam3="-13.489701">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.805087"
+        stCamera:FocalLengthY="1.805087"
+        stCamera:VignetteModelParam1="-3.543503"
+        stCamera:VignetteModelParam2="22.78956"
+        stCamera:VignetteModelParam3="-43.201828"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

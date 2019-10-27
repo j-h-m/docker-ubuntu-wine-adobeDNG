@@ -1,0 +1,74 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156380, 2014/05/21-23:38:37        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:Model="ILCE-7"
+       stCamera:UniqueCameraModel="Sony ILCE-7"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="SLR Magic 50mm F0.95 Hyperprime Lens"
+       stCamera:CameraPrettyName="ILCE-7"
+       stCamera:LensPrettyName="SLR Magic 50mm F0.95 Hyperprime Lens"
+       stCamera:ProfileName="Adobe (SLR Magic 50mm F0.95 Hyperprime Lens)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="4.406962">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="2.155501"
+       stCamera:FocalLengthY="2.155501"
+       stCamera:ResidualMeanError="0.00025"
+       stCamera:ResidualStandardDeviation="0.000346"
+       stCamera:RadialDistortParam1="0.052728"
+       stCamera:RadialDistortParam2="-1.71102"
+       stCamera:RadialDistortParam3="16.682219"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:Model="ILCE-7"
+       stCamera:UniqueCameraModel="Sony ILCE-7"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="SLR Magic 50mm F0.95 Hyperprime Lens"
+       stCamera:CameraPrettyName="ILCE-7"
+       stCamera:LensPrettyName="SLR Magic 50mm F0.95 Hyperprime Lens"
+       stCamera:ProfileName="Adobe (SLR Magic 50mm F0.95 Hyperprime Lens)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.155501"
+        stCamera:FocalLengthY="2.155501"
+        stCamera:RadialDistortParam1="0.052728"
+        stCamera:RadialDistortParam2="-1.71102"
+        stCamera:RadialDistortParam3="16.682219">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.155501"
+        stCamera:FocalLengthY="2.155501"
+        stCamera:VignetteModelParam1="-1.424716"
+        stCamera:VignetteModelParam2="18.383476"
+        stCamera:VignetteModelParam3="-112.962596"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

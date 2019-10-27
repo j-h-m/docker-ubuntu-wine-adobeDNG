@@ -1,0 +1,107 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156380, 2014/05/21-23:38:37        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="40mm f/2.8"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Voigtlander VM 40mm f/2.8 Heliar"
+       stCamera:ProfileName="Adobe (Voigtlander VM 40mm f/2.8 Heliar)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6048"
+       stCamera:ImageLength="4024"
+       stCamera:FocusDistance="2.495797">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.130697"
+        stCamera:FocalLengthY="1.130697"
+        stCamera:ImageXCenter="0.50052"
+        stCamera:ImageYCenter="0.495285"
+        stCamera:ResidualMeanError="0.000194"
+        stCamera:ResidualStandardDeviation="0.000257"
+        stCamera:RadialDistortParam1="0.039734"
+        stCamera:RadialDistortParam2="0.034937"
+        stCamera:RadialDistortParam3="-0.271644">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.130709"
+        stCamera:FocalLengthY="1.130709"
+        stCamera:ImageXCenter="0.500513"
+        stCamera:ImageYCenter="0.495281"
+        stCamera:ResidualMeanError="0.000194"
+        stCamera:ResidualStandardDeviation="0.000257"
+        stCamera:ScaleFactor="0.999994"
+        stCamera:RadialDistortParam1="-0.000196"
+        stCamera:RadialDistortParam2="-0.001011"
+        stCamera:RadialDistortParam3="0.002079"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.130709"
+        stCamera:FocalLengthY="1.130709"
+        stCamera:ImageXCenter="0.500513"
+        stCamera:ImageYCenter="0.495281"
+        stCamera:ResidualMeanError="0.000194"
+        stCamera:ResidualStandardDeviation="0.000257"
+        stCamera:RadialDistortParam1="0.039671"
+        stCamera:RadialDistortParam2="0.034808"
+        stCamera:RadialDistortParam3="-0.272088"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.130709"
+        stCamera:FocalLengthY="1.130709"
+        stCamera:ImageXCenter="0.500513"
+        stCamera:ImageYCenter="0.495281"
+        stCamera:ResidualMeanError="0.000195"
+        stCamera:ResidualStandardDeviation="0.000257"
+        stCamera:ScaleFactor="1.000006"
+        stCamera:RadialDistortParam1="0.000422"
+        stCamera:RadialDistortParam2="0.001325"
+        stCamera:RadialDistortParam3="-0.000865"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="40mm f/2.8"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Voigtlander VM 40mm f/2.8 Heliar"
+       stCamera:ProfileName="Adobe (Voigtlander VM 40mm f/2.8 Heliar)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6048"
+       stCamera:ImageLength="4024"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.130709"
+        stCamera:FocalLengthY="1.130709"
+        stCamera:ImageXCenter="0.500513"
+        stCamera:ImageYCenter="0.495281"
+        stCamera:RadialDistortParam1="0.039671"
+        stCamera:RadialDistortParam2="0.034808"
+        stCamera:RadialDistortParam3="-0.272088">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.130709"
+        stCamera:FocalLengthY="1.130709"
+        stCamera:VignetteModelParam1="-2.104714"
+        stCamera:VignetteModelParam2="1.740523"
+        stCamera:VignetteModelParam3="0.476391"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

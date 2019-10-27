@@ -1,0 +1,4232 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156380, 2014/05/21-23:38:37        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.445762"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.630377"
+        stCamera:FocalLengthY="1.630377"
+        stCamera:ImageXCenter="0.48867"
+        stCamera:ImageYCenter="0.486071"
+        stCamera:ResidualMeanError="0.000302"
+        stCamera:ResidualStandardDeviation="0.000318"
+        stCamera:RadialDistortParam1="-0.157251"
+        stCamera:RadialDistortParam2="-0.73614"
+        stCamera:RadialDistortParam3="3.226414">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.630376"
+        stCamera:FocalLengthY="1.630376"
+        stCamera:ImageXCenter="0.48865"
+        stCamera:ImageYCenter="0.485914"
+        stCamera:ResidualMeanError="0.000298"
+        stCamera:ResidualStandardDeviation="0.000315"
+        stCamera:ScaleFactor="1.000344"
+        stCamera:RadialDistortParam1="-0.000418"
+        stCamera:RadialDistortParam2="0.015935"
+        stCamera:RadialDistortParam3="-0.100994"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.630376"
+        stCamera:FocalLengthY="1.630376"
+        stCamera:ImageXCenter="0.48865"
+        stCamera:ImageYCenter="0.485914"
+        stCamera:ResidualMeanError="0.000298"
+        stCamera:ResidualStandardDeviation="0.000315"
+        stCamera:RadialDistortParam1="-0.157074"
+        stCamera:RadialDistortParam2="-0.738473"
+        stCamera:RadialDistortParam3="3.235301"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.630376"
+        stCamera:FocalLengthY="1.630376"
+        stCamera:ImageXCenter="0.48865"
+        stCamera:ImageYCenter="0.485914"
+        stCamera:ResidualMeanError="0.000297"
+        stCamera:ResidualStandardDeviation="0.000316"
+        stCamera:ScaleFactor="0.999673"
+        stCamera:RadialDistortParam1="-0.000335"
+        stCamera:RadialDistortParam2="-0.0041"
+        stCamera:RadialDistortParam3="0.046018"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.967783"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.46668"
+        stCamera:FocalLengthY="1.46668"
+        stCamera:ImageXCenter="0.501409"
+        stCamera:ImageYCenter="0.510177"
+        stCamera:ResidualMeanError="0.000187"
+        stCamera:ResidualStandardDeviation="0.000241"
+        stCamera:RadialDistortParam1="-0.210206"
+        stCamera:RadialDistortParam2="0.382536"
+        stCamera:RadialDistortParam3="-0.929805">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.466665"
+        stCamera:FocalLengthY="1.466665"
+        stCamera:ImageXCenter="0.501444"
+        stCamera:ImageYCenter="0.510212"
+        stCamera:ResidualMeanError="0.000183"
+        stCamera:ResidualStandardDeviation="0.000241"
+        stCamera:ScaleFactor="1.000228"
+        stCamera:RadialDistortParam1="-0.000786"
+        stCamera:RadialDistortParam2="0.005867"
+        stCamera:RadialDistortParam3="-0.030684"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.466665"
+        stCamera:FocalLengthY="1.466665"
+        stCamera:ImageXCenter="0.501444"
+        stCamera:ImageYCenter="0.510212"
+        stCamera:ResidualMeanError="0.000183"
+        stCamera:ResidualStandardDeviation="0.000241"
+        stCamera:RadialDistortParam1="-0.210285"
+        stCamera:RadialDistortParam2="0.382329"
+        stCamera:RadialDistortParam3="-0.929752"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.466665"
+        stCamera:FocalLengthY="1.466665"
+        stCamera:ImageXCenter="0.501444"
+        stCamera:ImageYCenter="0.510212"
+        stCamera:ResidualMeanError="0.000183"
+        stCamera:ResidualStandardDeviation="0.000241"
+        stCamera:ScaleFactor="0.999815"
+        stCamera:RadialDistortParam1="0.000633"
+        stCamera:RadialDistortParam2="-0.000582"
+        stCamera:RadialDistortParam3="0.015052"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3.458858"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.467409"
+        stCamera:FocalLengthY="1.467409"
+        stCamera:ImageXCenter="0.499748"
+        stCamera:ImageYCenter="0.480902"
+        stCamera:ResidualMeanError="0.000259"
+        stCamera:ResidualStandardDeviation="0.000376"
+        stCamera:RadialDistortParam1="-0.177457"
+        stCamera:RadialDistortParam2="0.525035"
+        stCamera:RadialDistortParam3="-1.134822">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.467296"
+        stCamera:FocalLengthY="1.467296"
+        stCamera:ImageXCenter="0.499748"
+        stCamera:ImageYCenter="0.48096"
+        stCamera:ResidualMeanError="0.000257"
+        stCamera:ResidualStandardDeviation="0.000375"
+        stCamera:ScaleFactor="1.000173"
+        stCamera:RadialDistortParam1="-0.000754"
+        stCamera:RadialDistortParam2="-0.001041"
+        stCamera:RadialDistortParam3="-0.004848"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.467296"
+        stCamera:FocalLengthY="1.467296"
+        stCamera:ImageXCenter="0.499748"
+        stCamera:ImageYCenter="0.48096"
+        stCamera:ResidualMeanError="0.000257"
+        stCamera:ResidualStandardDeviation="0.000375"
+        stCamera:RadialDistortParam1="-0.17737"
+        stCamera:RadialDistortParam2="0.523276"
+        stCamera:RadialDistortParam3="-1.131645"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.467296"
+        stCamera:FocalLengthY="1.467296"
+        stCamera:ImageXCenter="0.499748"
+        stCamera:ImageYCenter="0.48096"
+        stCamera:ResidualMeanError="0.000258"
+        stCamera:ResidualStandardDeviation="0.000375"
+        stCamera:ScaleFactor="0.999889"
+        stCamera:RadialDistortParam1="0.001302"
+        stCamera:RadialDistortParam2="-0.003514"
+        stCamera:RadialDistortParam3="0.029108"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.45"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.627518"
+        stCamera:FocalLengthY="1.627518"
+        stCamera:ImageXCenter="0.488873"
+        stCamera:ImageYCenter="0.486338"
+        stCamera:RadialDistortParam1="-0.16937"
+        stCamera:RadialDistortParam2="-0.568607"
+        stCamera:RadialDistortParam3="2.582095">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.627518"
+        stCamera:FocalLengthY="1.627518"
+        stCamera:VignetteModelParam1="-7.090149"
+        stCamera:VignetteModelParam2="22.895378"
+        stCamera:VignetteModelParam3="-48.210213"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.45"
+       stCamera:ApertureValue="1.356144">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.627518"
+        stCamera:FocalLengthY="1.627518"
+        stCamera:ImageXCenter="0.488873"
+        stCamera:ImageYCenter="0.486338"
+        stCamera:RadialDistortParam1="-0.16937"
+        stCamera:RadialDistortParam2="-0.568607"
+        stCamera:RadialDistortParam3="2.582095">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.627518"
+        stCamera:FocalLengthY="1.627518"
+        stCamera:VignetteModelParam1="-4.67448"
+        stCamera:VignetteModelParam2="-8.939166"
+        stCamera:VignetteModelParam3="64.969556"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.45"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.627518"
+        stCamera:FocalLengthY="1.627518"
+        stCamera:ImageXCenter="0.488873"
+        stCamera:ImageYCenter="0.486338"
+        stCamera:RadialDistortParam1="-0.16937"
+        stCamera:RadialDistortParam2="-0.568607"
+        stCamera:RadialDistortParam3="2.582095">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.627518"
+        stCamera:FocalLengthY="1.627518"
+        stCamera:VignetteModelParam1="-1.699026"
+        stCamera:VignetteModelParam2="-42.336342"
+        stCamera:VignetteModelParam3="173.140539"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.45"
+       stCamera:ApertureValue="2">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.627518"
+        stCamera:FocalLengthY="1.627518"
+        stCamera:ImageXCenter="0.488873"
+        stCamera:ImageYCenter="0.486338"
+        stCamera:RadialDistortParam1="-0.16937"
+        stCamera:RadialDistortParam2="-0.568607"
+        stCamera:RadialDistortParam3="2.582095">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.627518"
+        stCamera:FocalLengthY="1.627518"
+        stCamera:VignetteModelParam1="0.034151"
+        stCamera:VignetteModelParam2="-43.477298"
+        stCamera:VignetteModelParam3="133.191226"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.45"
+       stCamera:ApertureValue="2.275007">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.627518"
+        stCamera:FocalLengthY="1.627518"
+        stCamera:ImageXCenter="0.488873"
+        stCamera:ImageYCenter="0.486338"
+        stCamera:RadialDistortParam1="-0.16937"
+        stCamera:RadialDistortParam2="-0.568607"
+        stCamera:RadialDistortParam3="2.582095">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.627518"
+        stCamera:FocalLengthY="1.627518"
+        stCamera:VignetteModelParam1="-0.534629"
+        stCamera:VignetteModelParam2="-14.454991"
+        stCamera:VignetteModelParam3="-16.043233"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.45"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.627518"
+        stCamera:FocalLengthY="1.627518"
+        stCamera:ImageXCenter="0.488873"
+        stCamera:ImageYCenter="0.486338"
+        stCamera:RadialDistortParam1="-0.16937"
+        stCamera:RadialDistortParam2="-0.568607"
+        stCamera:RadialDistortParam3="2.582095">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.627518"
+        stCamera:FocalLengthY="1.627518"
+        stCamera:VignetteModelParam1="-1.305297"
+        stCamera:VignetteModelParam2="6.290496"
+        stCamera:VignetteModelParam3="-106.624865"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.45"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.627518"
+        stCamera:FocalLengthY="1.627518"
+        stCamera:ImageXCenter="0.488873"
+        stCamera:ImageYCenter="0.486338"
+        stCamera:RadialDistortParam1="-0.16937"
+        stCamera:RadialDistortParam2="-0.568607"
+        stCamera:RadialDistortParam3="2.582095">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.627518"
+        stCamera:FocalLengthY="1.627518"
+        stCamera:VignetteModelParam1="-1.405118"
+        stCamera:VignetteModelParam2="7.025225"
+        stCamera:VignetteModelParam3="-66.740912"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.45"
+       stCamera:ApertureValue="4">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.627518"
+        stCamera:FocalLengthY="1.627518"
+        stCamera:ImageXCenter="0.488873"
+        stCamera:ImageYCenter="0.486338"
+        stCamera:RadialDistortParam1="-0.16937"
+        stCamera:RadialDistortParam2="-0.568607"
+        stCamera:RadialDistortParam3="2.582095">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.627518"
+        stCamera:FocalLengthY="1.627518"
+        stCamera:VignetteModelParam1="-1.04462"
+        stCamera:VignetteModelParam2="-6.325878"
+        stCamera:VignetteModelParam3="38.75703"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.45"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.627518"
+        stCamera:FocalLengthY="1.627518"
+        stCamera:ImageXCenter="0.488873"
+        stCamera:ImageYCenter="0.486338"
+        stCamera:RadialDistortParam1="-0.16937"
+        stCamera:RadialDistortParam2="-0.568607"
+        stCamera:RadialDistortParam3="2.582095">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.627518"
+        stCamera:FocalLengthY="1.627518"
+        stCamera:VignetteModelParam1="-1.050954"
+        stCamera:VignetteModelParam2="-6.278255"
+        stCamera:VignetteModelParam3="37.667744"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.45"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.627518"
+        stCamera:FocalLengthY="1.627518"
+        stCamera:ImageXCenter="0.488873"
+        stCamera:ImageYCenter="0.486338"
+        stCamera:RadialDistortParam1="-0.16937"
+        stCamera:RadialDistortParam2="-0.568607"
+        stCamera:RadialDistortParam3="2.582095">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.627518"
+        stCamera:FocalLengthY="1.627518"
+        stCamera:VignetteModelParam1="-1.139019"
+        stCamera:VignetteModelParam2="-5.38656"
+        stCamera:VignetteModelParam3="35.068672"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.45"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.627518"
+        stCamera:FocalLengthY="1.627518"
+        stCamera:ImageXCenter="0.488873"
+        stCamera:ImageYCenter="0.486338"
+        stCamera:RadialDistortParam1="-0.16937"
+        stCamera:RadialDistortParam2="-0.568607"
+        stCamera:RadialDistortParam3="2.582095">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.627518"
+        stCamera:FocalLengthY="1.627518"
+        stCamera:VignetteModelParam1="-1.185681"
+        stCamera:VignetteModelParam2="-5.078365"
+        stCamera:VignetteModelParam3="33.89753"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.45"
+       stCamera:ApertureValue="8">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.627518"
+        stCamera:FocalLengthY="1.627518"
+        stCamera:ImageXCenter="0.488873"
+        stCamera:ImageYCenter="0.486338"
+        stCamera:RadialDistortParam1="-0.16937"
+        stCamera:RadialDistortParam2="-0.568607"
+        stCamera:RadialDistortParam3="2.582095">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.627518"
+        stCamera:FocalLengthY="1.627518"
+        stCamera:VignetteModelParam1="-1.21754"
+        stCamera:VignetteModelParam2="-5.061531"
+        stCamera:VignetteModelParam3="33.971778"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.45"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.627518"
+        stCamera:FocalLengthY="1.627518"
+        stCamera:ImageXCenter="0.488873"
+        stCamera:ImageYCenter="0.486338"
+        stCamera:RadialDistortParam1="-0.16937"
+        stCamera:RadialDistortParam2="-0.568607"
+        stCamera:RadialDistortParam3="2.582095">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.627518"
+        stCamera:FocalLengthY="1.627518"
+        stCamera:VignetteModelParam1="-1.31374"
+        stCamera:VignetteModelParam2="-4.075373"
+        stCamera:VignetteModelParam3="29.397892"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.552356"
+        stCamera:FocalLengthY="1.552356"
+        stCamera:ImageXCenter="0.494747"
+        stCamera:ImageYCenter="0.497494"
+        stCamera:RadialDistortParam1="-0.204922"
+        stCamera:RadialDistortParam2="0.122296"
+        stCamera:RadialDistortParam3="-0.08407">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.552356"
+        stCamera:FocalLengthY="1.552356"
+        stCamera:VignetteModelParam1="-7.491845"
+        stCamera:VignetteModelParam2="29.922241"
+        stCamera:VignetteModelParam3="-72.330104"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="1.356144">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.552356"
+        stCamera:FocalLengthY="1.552356"
+        stCamera:ImageXCenter="0.494747"
+        stCamera:ImageYCenter="0.497494"
+        stCamera:RadialDistortParam1="-0.204922"
+        stCamera:RadialDistortParam2="0.122296"
+        stCamera:RadialDistortParam3="-0.08407">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.552356"
+        stCamera:FocalLengthY="1.552356"
+        stCamera:VignetteModelParam1="-4.186467"
+        stCamera:VignetteModelParam2="-12.343039"
+        stCamera:VignetteModelParam3="70.630201"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.552356"
+        stCamera:FocalLengthY="1.552356"
+        stCamera:ImageXCenter="0.494747"
+        stCamera:ImageYCenter="0.497494"
+        stCamera:RadialDistortParam1="-0.204922"
+        stCamera:RadialDistortParam2="0.122296"
+        stCamera:RadialDistortParam3="-0.08407">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.552356"
+        stCamera:FocalLengthY="1.552356"
+        stCamera:VignetteModelParam1="-1.099174"
+        stCamera:VignetteModelParam2="-46.146224"
+        stCamera:VignetteModelParam3="178.690732"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="2">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.552356"
+        stCamera:FocalLengthY="1.552356"
+        stCamera:ImageXCenter="0.494747"
+        stCamera:ImageYCenter="0.497494"
+        stCamera:RadialDistortParam1="-0.204922"
+        stCamera:RadialDistortParam2="0.122296"
+        stCamera:RadialDistortParam3="-0.08407">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.552356"
+        stCamera:FocalLengthY="1.552356"
+        stCamera:VignetteModelParam1="-0.039673"
+        stCamera:VignetteModelParam2="-39.915995"
+        stCamera:VignetteModelParam3="115.633596"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="2.275007">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.552356"
+        stCamera:FocalLengthY="1.552356"
+        stCamera:ImageXCenter="0.494747"
+        stCamera:ImageYCenter="0.497494"
+        stCamera:RadialDistortParam1="-0.204922"
+        stCamera:RadialDistortParam2="0.122296"
+        stCamera:RadialDistortParam3="-0.08407">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.552356"
+        stCamera:FocalLengthY="1.552356"
+        stCamera:VignetteModelParam1="-0.712157"
+        stCamera:VignetteModelParam2="-9.678832"
+        stCamera:VignetteModelParam3="-28.731266"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.552356"
+        stCamera:FocalLengthY="1.552356"
+        stCamera:ImageXCenter="0.494747"
+        stCamera:ImageYCenter="0.497494"
+        stCamera:RadialDistortParam1="-0.204922"
+        stCamera:RadialDistortParam2="0.122296"
+        stCamera:RadialDistortParam3="-0.08407">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.552356"
+        stCamera:FocalLengthY="1.552356"
+        stCamera:VignetteModelParam1="-1.340429"
+        stCamera:VignetteModelParam2="7.032217"
+        stCamera:VignetteModelParam3="-99.945091"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.552356"
+        stCamera:FocalLengthY="1.552356"
+        stCamera:ImageXCenter="0.494747"
+        stCamera:ImageYCenter="0.497494"
+        stCamera:RadialDistortParam1="-0.204922"
+        stCamera:RadialDistortParam2="0.122296"
+        stCamera:RadialDistortParam3="-0.08407">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.552356"
+        stCamera:FocalLengthY="1.552356"
+        stCamera:VignetteModelParam1="-1.474539"
+        stCamera:VignetteModelParam2="9.22337"
+        stCamera:VignetteModelParam3="-75.199159"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="4">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.552356"
+        stCamera:FocalLengthY="1.552356"
+        stCamera:ImageXCenter="0.494747"
+        stCamera:ImageYCenter="0.497494"
+        stCamera:RadialDistortParam1="-0.204922"
+        stCamera:RadialDistortParam2="0.122296"
+        stCamera:RadialDistortParam3="-0.08407">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.552356"
+        stCamera:FocalLengthY="1.552356"
+        stCamera:VignetteModelParam1="-1.007548"
+        stCamera:VignetteModelParam2="-6.036016"
+        stCamera:VignetteModelParam3="32.94073"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.552356"
+        stCamera:FocalLengthY="1.552356"
+        stCamera:ImageXCenter="0.494747"
+        stCamera:ImageYCenter="0.497494"
+        stCamera:RadialDistortParam1="-0.204922"
+        stCamera:RadialDistortParam2="0.122296"
+        stCamera:RadialDistortParam3="-0.08407">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.552356"
+        stCamera:FocalLengthY="1.552356"
+        stCamera:VignetteModelParam1="-1.097456"
+        stCamera:VignetteModelParam2="-4.808727"
+        stCamera:VignetteModelParam3="27.144779"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.552356"
+        stCamera:FocalLengthY="1.552356"
+        stCamera:ImageXCenter="0.494747"
+        stCamera:ImageYCenter="0.497494"
+        stCamera:RadialDistortParam1="-0.204922"
+        stCamera:RadialDistortParam2="0.122296"
+        stCamera:RadialDistortParam3="-0.08407">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.552356"
+        stCamera:FocalLengthY="1.552356"
+        stCamera:VignetteModelParam1="-1.13857"
+        stCamera:VignetteModelParam2="-4.611821"
+        stCamera:VignetteModelParam3="27.145248"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.552356"
+        stCamera:FocalLengthY="1.552356"
+        stCamera:ImageXCenter="0.494747"
+        stCamera:ImageYCenter="0.497494"
+        stCamera:RadialDistortParam1="-0.204922"
+        stCamera:RadialDistortParam2="0.122296"
+        stCamera:RadialDistortParam3="-0.08407">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.552356"
+        stCamera:FocalLengthY="1.552356"
+        stCamera:VignetteModelParam1="-1.170696"
+        stCamera:VignetteModelParam2="-4.493657"
+        stCamera:VignetteModelParam3="27.094636"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="8">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.552356"
+        stCamera:FocalLengthY="1.552356"
+        stCamera:ImageXCenter="0.494747"
+        stCamera:ImageYCenter="0.497494"
+        stCamera:RadialDistortParam1="-0.204922"
+        stCamera:RadialDistortParam2="0.122296"
+        stCamera:RadialDistortParam3="-0.08407">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.552356"
+        stCamera:FocalLengthY="1.552356"
+        stCamera:VignetteModelParam1="-1.161921"
+        stCamera:VignetteModelParam2="-4.988878"
+        stCamera:VignetteModelParam3="28.809689"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.552356"
+        stCamera:FocalLengthY="1.552356"
+        stCamera:ImageXCenter="0.494747"
+        stCamera:ImageYCenter="0.497494"
+        stCamera:RadialDistortParam1="-0.204922"
+        stCamera:RadialDistortParam2="0.122296"
+        stCamera:RadialDistortParam3="-0.08407">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.552356"
+        stCamera:FocalLengthY="1.552356"
+        stCamera:VignetteModelParam1="-1.307404"
+        stCamera:VignetteModelParam2="-3.383774"
+        stCamera:VignetteModelParam3="21.732739"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.8"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.495984"
+        stCamera:FocalLengthY="1.495984"
+        stCamera:ImageXCenter="0.499153"
+        stCamera:ImageYCenter="0.50586"
+        stCamera:RadialDistortParam1="-0.209874"
+        stCamera:RadialDistortParam2="0.317398"
+        stCamera:RadialDistortParam3="-0.740625">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.495984"
+        stCamera:FocalLengthY="1.495984"
+        stCamera:VignetteModelParam1="-7.714717"
+        stCamera:VignetteModelParam2="33.4172"
+        stCamera:VignetteModelParam3="-81.225229"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.8"
+       stCamera:ApertureValue="1.356144">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.495984"
+        stCamera:FocalLengthY="1.495984"
+        stCamera:ImageXCenter="0.499153"
+        stCamera:ImageYCenter="0.50586"
+        stCamera:RadialDistortParam1="-0.209874"
+        stCamera:RadialDistortParam2="0.317398"
+        stCamera:RadialDistortParam3="-0.740625">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.495984"
+        stCamera:FocalLengthY="1.495984"
+        stCamera:VignetteModelParam1="-4.277188"
+        stCamera:VignetteModelParam2="-9.351399"
+        stCamera:VignetteModelParam3="58.037819"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.8"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.495984"
+        stCamera:FocalLengthY="1.495984"
+        stCamera:ImageXCenter="0.499153"
+        stCamera:ImageYCenter="0.50586"
+        stCamera:RadialDistortParam1="-0.209874"
+        stCamera:RadialDistortParam2="0.317398"
+        stCamera:RadialDistortParam3="-0.740625">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.495984"
+        stCamera:FocalLengthY="1.495984"
+        stCamera:VignetteModelParam1="-1.349313"
+        stCamera:VignetteModelParam2="-39.695331"
+        stCamera:VignetteModelParam3="146.225894"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.8"
+       stCamera:ApertureValue="2">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.495984"
+        stCamera:FocalLengthY="1.495984"
+        stCamera:ImageXCenter="0.499153"
+        stCamera:ImageYCenter="0.50586"
+        stCamera:RadialDistortParam1="-0.209874"
+        stCamera:RadialDistortParam2="0.317398"
+        stCamera:RadialDistortParam3="-0.740625">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.495984"
+        stCamera:FocalLengthY="1.495984"
+        stCamera:VignetteModelParam1="0.136358"
+        stCamera:VignetteModelParam2="-39.017077"
+        stCamera:VignetteModelParam3="110.318091"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.8"
+       stCamera:ApertureValue="2.275007">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.495984"
+        stCamera:FocalLengthY="1.495984"
+        stCamera:ImageXCenter="0.499153"
+        stCamera:ImageYCenter="0.50586"
+        stCamera:RadialDistortParam1="-0.209874"
+        stCamera:RadialDistortParam2="0.317398"
+        stCamera:RadialDistortParam3="-0.740625">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.495984"
+        stCamera:FocalLengthY="1.495984"
+        stCamera:VignetteModelParam1="-0.411882"
+        stCamera:VignetteModelParam2="-14.787101"
+        stCamera:VignetteModelParam3="-0.701267"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.8"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.495984"
+        stCamera:FocalLengthY="1.495984"
+        stCamera:ImageXCenter="0.499153"
+        stCamera:ImageYCenter="0.50586"
+        stCamera:RadialDistortParam1="-0.209874"
+        stCamera:RadialDistortParam2="0.317398"
+        stCamera:RadialDistortParam3="-0.740625">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.495984"
+        stCamera:FocalLengthY="1.495984"
+        stCamera:VignetteModelParam1="-1.23379"
+        stCamera:VignetteModelParam2="4.885117"
+        stCamera:VignetteModelParam3="-80.419752"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.8"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.495984"
+        stCamera:FocalLengthY="1.495984"
+        stCamera:ImageXCenter="0.499153"
+        stCamera:ImageYCenter="0.50586"
+        stCamera:RadialDistortParam1="-0.209874"
+        stCamera:RadialDistortParam2="0.317398"
+        stCamera:RadialDistortParam3="-0.740625">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.495984"
+        stCamera:FocalLengthY="1.495984"
+        stCamera:VignetteModelParam1="-1.524561"
+        stCamera:VignetteModelParam2="10.73497"
+        stCamera:VignetteModelParam3="-80.442006"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.8"
+       stCamera:ApertureValue="4">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.495984"
+        stCamera:FocalLengthY="1.495984"
+        stCamera:ImageXCenter="0.499153"
+        stCamera:ImageYCenter="0.50586"
+        stCamera:RadialDistortParam1="-0.209874"
+        stCamera:RadialDistortParam2="0.317398"
+        stCamera:RadialDistortParam3="-0.740625">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.495984"
+        stCamera:FocalLengthY="1.495984"
+        stCamera:VignetteModelParam1="-1.098376"
+        stCamera:VignetteModelParam2="-3.937736"
+        stCamera:VignetteModelParam3="20.322438"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.8"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.495984"
+        stCamera:FocalLengthY="1.495984"
+        stCamera:ImageXCenter="0.499153"
+        stCamera:ImageYCenter="0.50586"
+        stCamera:RadialDistortParam1="-0.209874"
+        stCamera:RadialDistortParam2="0.317398"
+        stCamera:RadialDistortParam3="-0.740625">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.495984"
+        stCamera:FocalLengthY="1.495984"
+        stCamera:VignetteModelParam1="-1.085367"
+        stCamera:VignetteModelParam2="-4.317134"
+        stCamera:VignetteModelParam3="22.28384"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.8"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.495984"
+        stCamera:FocalLengthY="1.495984"
+        stCamera:ImageXCenter="0.499153"
+        stCamera:ImageYCenter="0.50586"
+        stCamera:RadialDistortParam1="-0.209874"
+        stCamera:RadialDistortParam2="0.317398"
+        stCamera:RadialDistortParam3="-0.740625">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.495984"
+        stCamera:FocalLengthY="1.495984"
+        stCamera:VignetteModelParam1="-1.10107"
+        stCamera:VignetteModelParam2="-4.343377"
+        stCamera:VignetteModelParam3="22.880341"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.8"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.495984"
+        stCamera:FocalLengthY="1.495984"
+        stCamera:ImageXCenter="0.499153"
+        stCamera:ImageYCenter="0.50586"
+        stCamera:RadialDistortParam1="-0.209874"
+        stCamera:RadialDistortParam2="0.317398"
+        stCamera:RadialDistortParam3="-0.740625">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.495984"
+        stCamera:FocalLengthY="1.495984"
+        stCamera:VignetteModelParam1="-1.143463"
+        stCamera:VignetteModelParam2="-4.205544"
+        stCamera:VignetteModelParam3="22.639933"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.8"
+       stCamera:ApertureValue="8">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.495984"
+        stCamera:FocalLengthY="1.495984"
+        stCamera:ImageXCenter="0.499153"
+        stCamera:ImageYCenter="0.50586"
+        stCamera:RadialDistortParam1="-0.209874"
+        stCamera:RadialDistortParam2="0.317398"
+        stCamera:RadialDistortParam3="-0.740625">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.495984"
+        stCamera:FocalLengthY="1.495984"
+        stCamera:VignetteModelParam1="-1.165186"
+        stCamera:VignetteModelParam2="-4.291332"
+        stCamera:VignetteModelParam3="23.336124"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.8"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.495984"
+        stCamera:FocalLengthY="1.495984"
+        stCamera:ImageXCenter="0.499153"
+        stCamera:ImageYCenter="0.50586"
+        stCamera:RadialDistortParam1="-0.209874"
+        stCamera:RadialDistortParam2="0.317398"
+        stCamera:RadialDistortParam3="-0.740625">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.495984"
+        stCamera:FocalLengthY="1.495984"
+        stCamera:VignetteModelParam1="-1.275021"
+        stCamera:VignetteModelParam2="-3.315733"
+        stCamera:VignetteModelParam3="19.433919"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.466693"
+        stCamera:FocalLengthY="1.466693"
+        stCamera:ImageXCenter="0.501368"
+        stCamera:ImageYCenter="0.508903"
+        stCamera:RadialDistortParam1="-0.203298"
+        stCamera:RadialDistortParam2="0.411987"
+        stCamera:RadialDistortParam3="-0.971957">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.466693"
+        stCamera:FocalLengthY="1.466693"
+        stCamera:VignetteModelParam1="-8.268124"
+        stCamera:VignetteModelParam2="40.52982"
+        stCamera:VignetteModelParam3="-104.272719"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="1.356144">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.466693"
+        stCamera:FocalLengthY="1.466693"
+        stCamera:ImageXCenter="0.501368"
+        stCamera:ImageYCenter="0.508903"
+        stCamera:RadialDistortParam1="-0.203298"
+        stCamera:RadialDistortParam2="0.411987"
+        stCamera:RadialDistortParam3="-0.971957">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.466693"
+        stCamera:FocalLengthY="1.466693"
+        stCamera:VignetteModelParam1="-3.766345"
+        stCamera:VignetteModelParam2="-14.227231"
+        stCamera:VignetteModelParam3="72.295134"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.466693"
+        stCamera:FocalLengthY="1.466693"
+        stCamera:ImageXCenter="0.501368"
+        stCamera:ImageYCenter="0.508903"
+        stCamera:RadialDistortParam1="-0.203298"
+        stCamera:RadialDistortParam2="0.411987"
+        stCamera:RadialDistortParam3="-0.971957">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.466693"
+        stCamera:FocalLengthY="1.466693"
+        stCamera:VignetteModelParam1="-1.394592"
+        stCamera:VignetteModelParam2="-36.274191"
+        stCamera:VignetteModelParam3="127.688976"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.466693"
+        stCamera:FocalLengthY="1.466693"
+        stCamera:ImageXCenter="0.501368"
+        stCamera:ImageYCenter="0.508903"
+        stCamera:RadialDistortParam1="-0.203298"
+        stCamera:RadialDistortParam2="0.411987"
+        stCamera:RadialDistortParam3="-0.971957">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.466693"
+        stCamera:FocalLengthY="1.466693"
+        stCamera:VignetteModelParam1="-0.117589"
+        stCamera:VignetteModelParam2="-35.021956"
+        stCamera:VignetteModelParam3="94.453942"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2.275007">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.466693"
+        stCamera:FocalLengthY="1.466693"
+        stCamera:ImageXCenter="0.501368"
+        stCamera:ImageYCenter="0.508903"
+        stCamera:RadialDistortParam1="-0.203298"
+        stCamera:RadialDistortParam2="0.411987"
+        stCamera:RadialDistortParam3="-0.971957">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.466693"
+        stCamera:FocalLengthY="1.466693"
+        stCamera:VignetteModelParam1="-0.534228"
+        stCamera:VignetteModelParam2="-12.634098"
+        stCamera:VignetteModelParam3="-5.584912"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.466693"
+        stCamera:FocalLengthY="1.466693"
+        stCamera:ImageXCenter="0.501368"
+        stCamera:ImageYCenter="0.508903"
+        stCamera:RadialDistortParam1="-0.203298"
+        stCamera:RadialDistortParam2="0.411987"
+        stCamera:RadialDistortParam3="-0.971957">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.466693"
+        stCamera:FocalLengthY="1.466693"
+        stCamera:VignetteModelParam1="-1.003932"
+        stCamera:VignetteModelParam2="1.633392"
+        stCamera:VignetteModelParam3="-61.814375"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.466693"
+        stCamera:FocalLengthY="1.466693"
+        stCamera:ImageXCenter="0.501368"
+        stCamera:ImageYCenter="0.508903"
+        stCamera:RadialDistortParam1="-0.203298"
+        stCamera:RadialDistortParam2="0.411987"
+        stCamera:RadialDistortParam3="-0.971957">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.466693"
+        stCamera:FocalLengthY="1.466693"
+        stCamera:VignetteModelParam1="-1.486697"
+        stCamera:VignetteModelParam2="10.205394"
+        stCamera:VignetteModelParam3="-75.218716"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.466693"
+        stCamera:FocalLengthY="1.466693"
+        stCamera:ImageXCenter="0.501368"
+        stCamera:ImageYCenter="0.508903"
+        stCamera:RadialDistortParam1="-0.203298"
+        stCamera:RadialDistortParam2="0.411987"
+        stCamera:RadialDistortParam3="-0.971957">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.466693"
+        stCamera:FocalLengthY="1.466693"
+        stCamera:VignetteModelParam1="-1.038275"
+        stCamera:VignetteModelParam2="-4.525394"
+        stCamera:VignetteModelParam3="21.744259"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.466693"
+        stCamera:FocalLengthY="1.466693"
+        stCamera:ImageXCenter="0.501368"
+        stCamera:ImageYCenter="0.508903"
+        stCamera:RadialDistortParam1="-0.203298"
+        stCamera:RadialDistortParam2="0.411987"
+        stCamera:RadialDistortParam3="-0.971957">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.466693"
+        stCamera:FocalLengthY="1.466693"
+        stCamera:VignetteModelParam1="-1.096044"
+        stCamera:VignetteModelParam2="-4.010402"
+        stCamera:VignetteModelParam3="20.211934"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.466693"
+        stCamera:FocalLengthY="1.466693"
+        stCamera:ImageXCenter="0.501368"
+        stCamera:ImageYCenter="0.508903"
+        stCamera:RadialDistortParam1="-0.203298"
+        stCamera:RadialDistortParam2="0.411987"
+        stCamera:RadialDistortParam3="-0.971957">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.466693"
+        stCamera:FocalLengthY="1.466693"
+        stCamera:VignetteModelParam1="-1.103668"
+        stCamera:VignetteModelParam2="-4.091696"
+        stCamera:VignetteModelParam3="20.697685"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.466693"
+        stCamera:FocalLengthY="1.466693"
+        stCamera:ImageXCenter="0.501368"
+        stCamera:ImageYCenter="0.508903"
+        stCamera:RadialDistortParam1="-0.203298"
+        stCamera:RadialDistortParam2="0.411987"
+        stCamera:RadialDistortParam3="-0.971957">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.466693"
+        stCamera:FocalLengthY="1.466693"
+        stCamera:VignetteModelParam1="-1.153559"
+        stCamera:VignetteModelParam2="-3.849021"
+        stCamera:VignetteModelParam3="20.192766"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="8">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.466693"
+        stCamera:FocalLengthY="1.466693"
+        stCamera:ImageXCenter="0.501368"
+        stCamera:ImageYCenter="0.508903"
+        stCamera:RadialDistortParam1="-0.203298"
+        stCamera:RadialDistortParam2="0.411987"
+        stCamera:RadialDistortParam3="-0.971957">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.466693"
+        stCamera:FocalLengthY="1.466693"
+        stCamera:VignetteModelParam1="-1.223818"
+        stCamera:VignetteModelParam2="-3.508738"
+        stCamera:VignetteModelParam3="19.54785"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.466693"
+        stCamera:FocalLengthY="1.466693"
+        stCamera:ImageXCenter="0.501368"
+        stCamera:ImageYCenter="0.508903"
+        stCamera:RadialDistortParam1="-0.203298"
+        stCamera:RadialDistortParam2="0.411987"
+        stCamera:RadialDistortParam3="-0.971957">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.466693"
+        stCamera:FocalLengthY="1.466693"
+        stCamera:VignetteModelParam1="-1.294179"
+        stCamera:VignetteModelParam2="-2.925376"
+        stCamera:VignetteModelParam3="17.134584"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.466976"
+        stCamera:FocalLengthY="1.466976"
+        stCamera:ImageXCenter="0.500608"
+        stCamera:ImageYCenter="0.495801"
+        stCamera:RadialDistortParam1="-0.187152"
+        stCamera:RadialDistortParam2="0.481046"
+        stCamera:RadialDistortParam3="-1.070788">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.466976"
+        stCamera:FocalLengthY="1.466976"
+        stCamera:VignetteModelParam1="-8.415807"
+        stCamera:VignetteModelParam2="41.126183"
+        stCamera:VignetteModelParam3="-103.723542"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="1.356144">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.466976"
+        stCamera:FocalLengthY="1.466976"
+        stCamera:ImageXCenter="0.500608"
+        stCamera:ImageYCenter="0.495801"
+        stCamera:RadialDistortParam1="-0.187152"
+        stCamera:RadialDistortParam2="0.481046"
+        stCamera:RadialDistortParam3="-1.070788">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.466976"
+        stCamera:FocalLengthY="1.466976"
+        stCamera:VignetteModelParam1="-3.834431"
+        stCamera:VignetteModelParam2="-14.716864"
+        stCamera:VignetteModelParam3="74.531738"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.466976"
+        stCamera:FocalLengthY="1.466976"
+        stCamera:ImageXCenter="0.500608"
+        stCamera:ImageYCenter="0.495801"
+        stCamera:RadialDistortParam1="-0.187152"
+        stCamera:RadialDistortParam2="0.481046"
+        stCamera:RadialDistortParam3="-1.070788">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.466976"
+        stCamera:FocalLengthY="1.466976"
+        stCamera:VignetteModelParam1="-1.393343"
+        stCamera:VignetteModelParam2="-38.516496"
+        stCamera:VignetteModelParam3="138.144032"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="2">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.466976"
+        stCamera:FocalLengthY="1.466976"
+        stCamera:ImageXCenter="0.500608"
+        stCamera:ImageYCenter="0.495801"
+        stCamera:RadialDistortParam1="-0.187152"
+        stCamera:RadialDistortParam2="0.481046"
+        stCamera:RadialDistortParam3="-1.070788">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.466976"
+        stCamera:FocalLengthY="1.466976"
+        stCamera:VignetteModelParam1="-0.19325"
+        stCamera:VignetteModelParam2="-36.780493"
+        stCamera:VignetteModelParam3="102.229489"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="2.275007">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.466976"
+        stCamera:FocalLengthY="1.466976"
+        stCamera:ImageXCenter="0.500608"
+        stCamera:ImageYCenter="0.495801"
+        stCamera:RadialDistortParam1="-0.187152"
+        stCamera:RadialDistortParam2="0.481046"
+        stCamera:RadialDistortParam3="-1.070788">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.466976"
+        stCamera:FocalLengthY="1.466976"
+        stCamera:VignetteModelParam1="-0.682112"
+        stCamera:VignetteModelParam2="-12.742576"
+        stCamera:VignetteModelParam3="-6.520179"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.466976"
+        stCamera:FocalLengthY="1.466976"
+        stCamera:ImageXCenter="0.500608"
+        stCamera:ImageYCenter="0.495801"
+        stCamera:RadialDistortParam1="-0.187152"
+        stCamera:RadialDistortParam2="0.481046"
+        stCamera:RadialDistortParam3="-1.070788">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.466976"
+        stCamera:FocalLengthY="1.466976"
+        stCamera:VignetteModelParam1="-1.246188"
+        stCamera:VignetteModelParam2="4.167529"
+        stCamera:VignetteModelParam3="-73.743705"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.466976"
+        stCamera:FocalLengthY="1.466976"
+        stCamera:ImageXCenter="0.500608"
+        stCamera:ImageYCenter="0.495801"
+        stCamera:RadialDistortParam1="-0.187152"
+        stCamera:RadialDistortParam2="0.481046"
+        stCamera:RadialDistortParam3="-1.070788">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.466976"
+        stCamera:FocalLengthY="1.466976"
+        stCamera:VignetteModelParam1="-1.597067"
+        stCamera:VignetteModelParam2="11.72064"
+        stCamera:VignetteModelParam3="-85.590391"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="4">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.466976"
+        stCamera:FocalLengthY="1.466976"
+        stCamera:ImageXCenter="0.500608"
+        stCamera:ImageYCenter="0.495801"
+        stCamera:RadialDistortParam1="-0.187152"
+        stCamera:RadialDistortParam2="0.481046"
+        stCamera:RadialDistortParam3="-1.070788">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.466976"
+        stCamera:FocalLengthY="1.466976"
+        stCamera:VignetteModelParam1="-1.077158"
+        stCamera:VignetteModelParam2="-4.680943"
+        stCamera:VignetteModelParam3="22.319744"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.466976"
+        stCamera:FocalLengthY="1.466976"
+        stCamera:ImageXCenter="0.500608"
+        stCamera:ImageYCenter="0.495801"
+        stCamera:RadialDistortParam1="-0.187152"
+        stCamera:RadialDistortParam2="0.481046"
+        stCamera:RadialDistortParam3="-1.070788">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.466976"
+        stCamera:FocalLengthY="1.466976"
+        stCamera:VignetteModelParam1="-1.098836"
+        stCamera:VignetteModelParam2="-4.780811"
+        stCamera:VignetteModelParam3="23.7802"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.466976"
+        stCamera:FocalLengthY="1.466976"
+        stCamera:ImageXCenter="0.500608"
+        stCamera:ImageYCenter="0.495801"
+        stCamera:RadialDistortParam1="-0.187152"
+        stCamera:RadialDistortParam2="0.481046"
+        stCamera:RadialDistortParam3="-1.070788">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.466976"
+        stCamera:FocalLengthY="1.466976"
+        stCamera:VignetteModelParam1="-1.134574"
+        stCamera:VignetteModelParam2="-4.515538"
+        stCamera:VignetteModelParam3="22.896834"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.466976"
+        stCamera:FocalLengthY="1.466976"
+        stCamera:ImageXCenter="0.500608"
+        stCamera:ImageYCenter="0.495801"
+        stCamera:RadialDistortParam1="-0.187152"
+        stCamera:RadialDistortParam2="0.481046"
+        stCamera:RadialDistortParam3="-1.070788">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.466976"
+        stCamera:FocalLengthY="1.466976"
+        stCamera:VignetteModelParam1="-1.187557"
+        stCamera:VignetteModelParam2="-4.128169"
+        stCamera:VignetteModelParam3="21.626297"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="8">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.466976"
+        stCamera:FocalLengthY="1.466976"
+        stCamera:ImageXCenter="0.500608"
+        stCamera:ImageYCenter="0.495801"
+        stCamera:RadialDistortParam1="-0.187152"
+        stCamera:RadialDistortParam2="0.481046"
+        stCamera:RadialDistortParam3="-1.070788">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.466976"
+        stCamera:FocalLengthY="1.466976"
+        stCamera:VignetteModelParam1="-1.239387"
+        stCamera:VignetteModelParam2="-3.971469"
+        stCamera:VignetteModelParam3="21.374614"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.466976"
+        stCamera:FocalLengthY="1.466976"
+        stCamera:ImageXCenter="0.500608"
+        stCamera:ImageYCenter="0.495801"
+        stCamera:RadialDistortParam1="-0.187152"
+        stCamera:RadialDistortParam2="0.481046"
+        stCamera:RadialDistortParam3="-1.070788">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.466976"
+        stCamera:FocalLengthY="1.466976"
+        stCamera:VignetteModelParam1="-1.340926"
+        stCamera:VignetteModelParam2="-3.122599"
+        stCamera:VignetteModelParam3="18.294792"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.467259"
+        stCamera:FocalLengthY="1.467259"
+        stCamera:ImageXCenter="0.499849"
+        stCamera:ImageYCenter="0.482698"
+        stCamera:RadialDistortParam1="-0.178359"
+        stCamera:RadialDistortParam2="0.518993"
+        stCamera:RadialDistortParam3="-1.125457">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.467259"
+        stCamera:FocalLengthY="1.467259"
+        stCamera:VignetteModelParam1="-9.242199"
+        stCamera:VignetteModelParam2="50.296634"
+        stCamera:VignetteModelParam3="-134.456248"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="1.356144">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.467259"
+        stCamera:FocalLengthY="1.467259"
+        stCamera:ImageXCenter="0.499849"
+        stCamera:ImageYCenter="0.482698"
+        stCamera:RadialDistortParam1="-0.178359"
+        stCamera:RadialDistortParam2="0.518993"
+        stCamera:RadialDistortParam3="-1.125457">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.467259"
+        stCamera:FocalLengthY="1.467259"
+        stCamera:VignetteModelParam1="-4.584145"
+        stCamera:VignetteModelParam2="-7.496161"
+        stCamera:VignetteModelParam3="52.365929"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.467259"
+        stCamera:FocalLengthY="1.467259"
+        stCamera:ImageXCenter="0.499849"
+        stCamera:ImageYCenter="0.482698"
+        stCamera:RadialDistortParam1="-0.178359"
+        stCamera:RadialDistortParam2="0.518993"
+        stCamera:RadialDistortParam3="-1.125457">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.467259"
+        stCamera:FocalLengthY="1.467259"
+        stCamera:VignetteModelParam1="-1.492485"
+        stCamera:VignetteModelParam2="-39.013177"
+        stCamera:VignetteModelParam3="141.189333"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.467259"
+        stCamera:FocalLengthY="1.467259"
+        stCamera:ImageXCenter="0.499849"
+        stCamera:ImageYCenter="0.482698"
+        stCamera:RadialDistortParam1="-0.178359"
+        stCamera:RadialDistortParam2="0.518993"
+        stCamera:RadialDistortParam3="-1.125457">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.467259"
+        stCamera:FocalLengthY="1.467259"
+        stCamera:VignetteModelParam1="0.12441"
+        stCamera:VignetteModelParam2="-42.801881"
+        stCamera:VignetteModelParam3="125.037128"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2.275007">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.467259"
+        stCamera:FocalLengthY="1.467259"
+        stCamera:ImageXCenter="0.499849"
+        stCamera:ImageYCenter="0.482698"
+        stCamera:RadialDistortParam1="-0.178359"
+        stCamera:RadialDistortParam2="0.518993"
+        stCamera:RadialDistortParam3="-1.125457">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.467259"
+        stCamera:FocalLengthY="1.467259"
+        stCamera:VignetteModelParam1="-0.47142"
+        stCamera:VignetteModelParam2="-17.332945"
+        stCamera:VignetteModelParam3="10.620744"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.467259"
+        stCamera:FocalLengthY="1.467259"
+        stCamera:ImageXCenter="0.499849"
+        stCamera:ImageYCenter="0.482698"
+        stCamera:RadialDistortParam1="-0.178359"
+        stCamera:RadialDistortParam2="0.518993"
+        stCamera:RadialDistortParam3="-1.125457">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.467259"
+        stCamera:FocalLengthY="1.467259"
+        stCamera:VignetteModelParam1="-1.144286"
+        stCamera:VignetteModelParam2="1.079677"
+        stCamera:VignetteModelParam3="-63.411665"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.467259"
+        stCamera:FocalLengthY="1.467259"
+        stCamera:ImageXCenter="0.499849"
+        stCamera:ImageYCenter="0.482698"
+        stCamera:RadialDistortParam1="-0.178359"
+        stCamera:RadialDistortParam2="0.518993"
+        stCamera:RadialDistortParam3="-1.125457">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.467259"
+        stCamera:FocalLengthY="1.467259"
+        stCamera:VignetteModelParam1="-1.684746"
+        stCamera:VignetteModelParam2="12.873918"
+        stCamera:VignetteModelParam3="-95.352165"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.467259"
+        stCamera:FocalLengthY="1.467259"
+        stCamera:ImageXCenter="0.499849"
+        stCamera:ImageYCenter="0.482698"
+        stCamera:RadialDistortParam1="-0.178359"
+        stCamera:RadialDistortParam2="0.518993"
+        stCamera:RadialDistortParam3="-1.125457">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.467259"
+        stCamera:FocalLengthY="1.467259"
+        stCamera:VignetteModelParam1="-1.107011"
+        stCamera:VignetteModelParam2="-4.946567"
+        stCamera:VignetteModelParam3="23.172483"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.467259"
+        stCamera:FocalLengthY="1.467259"
+        stCamera:ImageXCenter="0.499849"
+        stCamera:ImageYCenter="0.482698"
+        stCamera:RadialDistortParam1="-0.178359"
+        stCamera:RadialDistortParam2="0.518993"
+        stCamera:RadialDistortParam3="-1.125457">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.467259"
+        stCamera:FocalLengthY="1.467259"
+        stCamera:VignetteModelParam1="-1.145262"
+        stCamera:VignetteModelParam2="-4.922956"
+        stCamera:VignetteModelParam3="24.445925"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.467259"
+        stCamera:FocalLengthY="1.467259"
+        stCamera:ImageXCenter="0.499849"
+        stCamera:ImageYCenter="0.482698"
+        stCamera:RadialDistortParam1="-0.178359"
+        stCamera:RadialDistortParam2="0.518993"
+        stCamera:RadialDistortParam3="-1.125457">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.467259"
+        stCamera:FocalLengthY="1.467259"
+        stCamera:VignetteModelParam1="-1.207244"
+        stCamera:VignetteModelParam2="-4.406014"
+        stCamera:VignetteModelParam3="22.721799"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.467259"
+        stCamera:FocalLengthY="1.467259"
+        stCamera:ImageXCenter="0.499849"
+        stCamera:ImageYCenter="0.482698"
+        stCamera:RadialDistortParam1="-0.178359"
+        stCamera:RadialDistortParam2="0.518993"
+        stCamera:RadialDistortParam3="-1.125457">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.467259"
+        stCamera:FocalLengthY="1.467259"
+        stCamera:VignetteModelParam1="-1.236142"
+        stCamera:VignetteModelParam2="-4.206699"
+        stCamera:VignetteModelParam3="22.070565"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="8">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.467259"
+        stCamera:FocalLengthY="1.467259"
+        stCamera:ImageXCenter="0.499849"
+        stCamera:ImageYCenter="0.482698"
+        stCamera:RadialDistortParam1="-0.178359"
+        stCamera:RadialDistortParam2="0.518993"
+        stCamera:RadialDistortParam3="-1.125457">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.467259"
+        stCamera:FocalLengthY="1.467259"
+        stCamera:VignetteModelParam1="-1.300347"
+        stCamera:VignetteModelParam2="-4.021738"
+        stCamera:VignetteModelParam3="22.076505"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.467259"
+        stCamera:FocalLengthY="1.467259"
+        stCamera:ImageXCenter="0.499849"
+        stCamera:ImageYCenter="0.482698"
+        stCamera:RadialDistortParam1="-0.178359"
+        stCamera:RadialDistortParam2="0.518993"
+        stCamera:RadialDistortParam3="-1.125457">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.467259"
+        stCamera:FocalLengthY="1.467259"
+        stCamera:VignetteModelParam1="-1.394843"
+        stCamera:VignetteModelParam2="-3.320452"
+        stCamera:VignetteModelParam3="19.547732"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.467296"
+        stCamera:FocalLengthY="1.467296"
+        stCamera:ImageXCenter="0.499748"
+        stCamera:ImageYCenter="0.48096"
+        stCamera:RadialDistortParam1="-0.17737"
+        stCamera:RadialDistortParam2="0.523276"
+        stCamera:RadialDistortParam3="-1.131645">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.467296"
+        stCamera:FocalLengthY="1.467296"
+        stCamera:VignetteModelParam1="-9.000262"
+        stCamera:VignetteModelParam2="46.167844"
+        stCamera:VignetteModelParam3="-118.246892"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="1.356144">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.467296"
+        stCamera:FocalLengthY="1.467296"
+        stCamera:ImageXCenter="0.499748"
+        stCamera:ImageYCenter="0.48096"
+        stCamera:RadialDistortParam1="-0.17737"
+        stCamera:RadialDistortParam2="0.523276"
+        stCamera:RadialDistortParam3="-1.131645">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.467296"
+        stCamera:FocalLengthY="1.467296"
+        stCamera:VignetteModelParam1="-4.956035"
+        stCamera:VignetteModelParam2="-4.383593"
+        stCamera:VignetteModelParam3="44.130912"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.467296"
+        stCamera:FocalLengthY="1.467296"
+        stCamera:ImageXCenter="0.499748"
+        stCamera:ImageYCenter="0.48096"
+        stCamera:RadialDistortParam1="-0.17737"
+        stCamera:RadialDistortParam2="0.523276"
+        stCamera:RadialDistortParam3="-1.131645">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.467296"
+        stCamera:FocalLengthY="1.467296"
+        stCamera:VignetteModelParam1="-1.507647"
+        stCamera:VignetteModelParam2="-40.749803"
+        stCamera:VignetteModelParam3="150.064568"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.467296"
+        stCamera:FocalLengthY="1.467296"
+        stCamera:ImageXCenter="0.499748"
+        stCamera:ImageYCenter="0.48096"
+        stCamera:RadialDistortParam1="-0.17737"
+        stCamera:RadialDistortParam2="0.523276"
+        stCamera:RadialDistortParam3="-1.131645">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.467296"
+        stCamera:FocalLengthY="1.467296"
+        stCamera:VignetteModelParam1="0.110396"
+        stCamera:VignetteModelParam2="-44.897452"
+        stCamera:VignetteModelParam3="134.136894"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2.275007">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.467296"
+        stCamera:FocalLengthY="1.467296"
+        stCamera:ImageXCenter="0.499748"
+        stCamera:ImageYCenter="0.48096"
+        stCamera:RadialDistortParam1="-0.17737"
+        stCamera:RadialDistortParam2="0.523276"
+        stCamera:RadialDistortParam3="-1.131645">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.467296"
+        stCamera:FocalLengthY="1.467296"
+        stCamera:VignetteModelParam1="-0.475149"
+        stCamera:VignetteModelParam2="-19.687214"
+        stCamera:VignetteModelParam3="20.027251"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.467296"
+        stCamera:FocalLengthY="1.467296"
+        stCamera:ImageXCenter="0.499748"
+        stCamera:ImageYCenter="0.48096"
+        stCamera:RadialDistortParam1="-0.17737"
+        stCamera:RadialDistortParam2="0.523276"
+        stCamera:RadialDistortParam3="-1.131645">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.467296"
+        stCamera:FocalLengthY="1.467296"
+        stCamera:VignetteModelParam1="-1.186059"
+        stCamera:VignetteModelParam2="-0.019945"
+        stCamera:VignetteModelParam3="-61.265747"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.467296"
+        stCamera:FocalLengthY="1.467296"
+        stCamera:ImageXCenter="0.499748"
+        stCamera:ImageYCenter="0.48096"
+        stCamera:RadialDistortParam1="-0.17737"
+        stCamera:RadialDistortParam2="0.523276"
+        stCamera:RadialDistortParam3="-1.131645">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.467296"
+        stCamera:FocalLengthY="1.467296"
+        stCamera:VignetteModelParam1="-1.759886"
+        stCamera:VignetteModelParam2="13.585042"
+        stCamera:VignetteModelParam3="-102.382533"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.467296"
+        stCamera:FocalLengthY="1.467296"
+        stCamera:ImageXCenter="0.499748"
+        stCamera:ImageYCenter="0.48096"
+        stCamera:RadialDistortParam1="-0.17737"
+        stCamera:RadialDistortParam2="0.523276"
+        stCamera:RadialDistortParam3="-1.131645">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.467296"
+        stCamera:FocalLengthY="1.467296"
+        stCamera:VignetteModelParam1="-1.234836"
+        stCamera:VignetteModelParam2="-3.665147"
+        stCamera:VignetteModelParam3="17.082691"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.467296"
+        stCamera:FocalLengthY="1.467296"
+        stCamera:ImageXCenter="0.499748"
+        stCamera:ImageYCenter="0.48096"
+        stCamera:RadialDistortParam1="-0.17737"
+        stCamera:RadialDistortParam2="0.523276"
+        stCamera:RadialDistortParam3="-1.131645">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.467296"
+        stCamera:FocalLengthY="1.467296"
+        stCamera:VignetteModelParam1="-1.230091"
+        stCamera:VignetteModelParam2="-4.443639"
+        stCamera:VignetteModelParam3="22.485532"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.467296"
+        stCamera:FocalLengthY="1.467296"
+        stCamera:ImageXCenter="0.499748"
+        stCamera:ImageYCenter="0.48096"
+        stCamera:RadialDistortParam1="-0.17737"
+        stCamera:RadialDistortParam2="0.523276"
+        stCamera:RadialDistortParam3="-1.131645">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.467296"
+        stCamera:FocalLengthY="1.467296"
+        stCamera:VignetteModelParam1="-1.252296"
+        stCamera:VignetteModelParam2="-4.464679"
+        stCamera:VignetteModelParam3="23.147002"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.467296"
+        stCamera:FocalLengthY="1.467296"
+        stCamera:ImageXCenter="0.499748"
+        stCamera:ImageYCenter="0.48096"
+        stCamera:RadialDistortParam1="-0.17737"
+        stCamera:RadialDistortParam2="0.523276"
+        stCamera:RadialDistortParam3="-1.131645">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.467296"
+        stCamera:FocalLengthY="1.467296"
+        stCamera:VignetteModelParam1="-1.295123"
+        stCamera:VignetteModelParam2="-4.376504"
+        stCamera:VignetteModelParam3="23.310615"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.467296"
+        stCamera:FocalLengthY="1.467296"
+        stCamera:ImageXCenter="0.499748"
+        stCamera:ImageYCenter="0.48096"
+        stCamera:RadialDistortParam1="-0.17737"
+        stCamera:RadialDistortParam2="0.523276"
+        stCamera:RadialDistortParam3="-1.131645">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.467296"
+        stCamera:FocalLengthY="1.467296"
+        stCamera:VignetteModelParam1="-1.366912"
+        stCamera:VignetteModelParam2="-3.833581"
+        stCamera:VignetteModelParam3="21.638472"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="EF50mm f/1.4 USM"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 50mm f/1.4 USM"
+       stCamera:ProfileName="Adobe (Canon EF 50mm f/1.4 USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>50mm F1.4</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.467296"
+        stCamera:FocalLengthY="1.467296"
+        stCamera:ImageXCenter="0.499748"
+        stCamera:ImageYCenter="0.48096"
+        stCamera:RadialDistortParam1="-0.17737"
+        stCamera:RadialDistortParam2="0.523276"
+        stCamera:RadialDistortParam3="-1.131645">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.467296"
+        stCamera:FocalLengthY="1.467296"
+        stCamera:VignetteModelParam1="-1.460016"
+        stCamera:VignetteModelParam2="-3.267472"
+        stCamera:VignetteModelParam3="19.682308"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

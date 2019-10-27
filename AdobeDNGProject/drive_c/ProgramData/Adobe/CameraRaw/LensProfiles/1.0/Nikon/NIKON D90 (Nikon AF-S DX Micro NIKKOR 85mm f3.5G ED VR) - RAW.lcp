@@ -1,0 +1,927 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.1-c055 1.136881, 2010/06/10-18:11:35        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D90</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D90</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>167</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/3.5</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 35/10 35/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D90</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4310</stCamera:ImageWidth>
+      <stCamera:ImageLength>2868</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.993438</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>4.466508</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>4.466508</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000182</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.0001</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.23883</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-5.39675</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>278.196275</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>4.466986</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>4.466986</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000176</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000098</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999819</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.000083</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.019725</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.760609</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>4.466986</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>4.466986</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000159</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000093</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.234913</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-5.959867</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>304.290811</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>4.466986</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>4.466986</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000214</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000106</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999976</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.010195</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>1.753529</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-89.74037</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D90</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D90</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>167</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/3.5</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 35/10 35/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D90</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4310</stCamera:ImageWidth>
+      <stCamera:ImageLength>2868</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.690598</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.862117</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.862117</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000102</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000058</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.323641</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>4.059255</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-76.620066</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.863267</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.863267</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000095</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000045</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999915</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.003959</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.177589</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-4.611893</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.863267</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.863267</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000057</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000047</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.323086</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>3.98327</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-74.227643</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.863267</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.863267</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.00015</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000051</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999884</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.008233</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.224066</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>2.33739</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D90</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D90</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>167</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/3.5</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 35/10 35/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D90</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4310</stCamera:ImageWidth>
+      <stCamera:ImageLength>2868</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>6.061298</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.494284</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.494284</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.00017</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000182</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.392539</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>8.963164</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-196.861238</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.493649</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.493649</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000169</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000176</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999946</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.001987</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.07195</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-2.06351</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.493649</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.493649</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000142</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000184</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.392966</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>8.912132</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-195.436464</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.493649</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.493649</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000198</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000182</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999888</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.004801</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.119617</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>2.839599</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D90</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D90</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>167</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/3.5</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 35/10 35/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D90</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4310</stCamera:ImageWidth>
+      <stCamera:ImageLength>2868</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.28</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.643856</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>4.466986</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>4.466986</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.234913</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-5.959867</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>304.290811</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>4.466986</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>4.466986</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-18.926133</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>435.184212</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-1486.107059</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D90</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D90</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>167</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/3.5</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 35/10 35/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D90</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4310</stCamera:ImageWidth>
+      <stCamera:ImageLength>2868</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.28</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>4.466986</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>4.466986</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.234913</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-5.959867</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>304.290811</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>4.466986</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>4.466986</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-29.393466</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>1554.779931</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-37012.986439</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D90</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D90</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>167</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/3.5</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 35/10 35/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D90</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4310</stCamera:ImageWidth>
+      <stCamera:ImageLength>2868</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.28</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>4.466986</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>4.466986</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.234913</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-5.959867</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>304.290811</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>4.466986</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>4.466986</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>0.401684</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-114.756634</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-5167.780931</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D90</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D90</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>167</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/3.5</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 35/10 35/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D90</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4310</stCamera:ImageWidth>
+      <stCamera:ImageLength>2868</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.28</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>4.466986</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>4.466986</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.234913</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-5.959867</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>304.290811</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>4.466986</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>4.466986</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>1.26207</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-376.470711</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>12264.611419</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D90</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D90</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>167</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/3.5</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 35/10 35/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D90</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4310</stCamera:ImageWidth>
+      <stCamera:ImageLength>2868</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.28</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>4.466986</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>4.466986</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.234913</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-5.959867</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>304.290811</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>4.466986</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>4.466986</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>1.32506</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-331.722023</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>10044.762749</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D90</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D90</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>167</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/3.5</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 35/10 35/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D90</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4310</stCamera:ImageWidth>
+      <stCamera:ImageLength>2868</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.38</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>4.466986</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>4.466986</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.234913</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-5.959867</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>304.290811</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>4.466986</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>4.466986</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-46.106037</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>1772.302417</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-35217.792592</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D90</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D90</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>167</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/3.5</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 35/10 35/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D90</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4310</stCamera:ImageWidth>
+      <stCamera:ImageLength>2868</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.38</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>4.466986</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>4.466986</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.234913</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-5.959867</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>304.290811</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>4.466986</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>4.466986</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>4.985066</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-1298.786703</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>25207.494058</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D90</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D90</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>167</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/3.5</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 35/10 35/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D90</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4310</stCamera:ImageWidth>
+      <stCamera:ImageLength>2868</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.38</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>4.466986</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>4.466986</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.234913</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-5.959867</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>304.290811</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>4.466986</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>4.466986</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.535521</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>262.062512</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-18066.370607</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D90</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D90</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>167</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/3.5</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 35/10 35/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D90</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4310</stCamera:ImageWidth>
+      <stCamera:ImageLength>2868</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.38</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>4.466986</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>4.466986</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.234913</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-5.959867</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>304.290811</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>4.466986</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>4.466986</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>0.27488</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-79.92584</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>513.277395</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D90</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D90</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>167</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/3.5</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 35/10 35/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D90</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4310</stCamera:ImageWidth>
+      <stCamera:ImageLength>2868</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.38</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>4.466986</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>4.466986</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.234913</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-5.959867</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>304.290811</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>4.466986</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>4.466986</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.342335</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>97.484131</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-6018.74816</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D90</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D90</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>167</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/3.5</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 35/10 35/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D90</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4310</stCamera:ImageWidth>
+      <stCamera:ImageLength>2868</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>1</stCamera:FocusDistance>
+      <stCamera:ApertureValue>3.61471</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>4.457379</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>4.457379</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.256944</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-4.385859</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>244.543837</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>4.457379</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>4.457379</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-64.900106</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>3829.712755</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-103987.503169</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D90</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D90</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>167</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/3.5</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 35/10 35/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D90</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4310</stCamera:ImageWidth>
+      <stCamera:ImageLength>2868</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>1</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>4.457379</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>4.457379</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.256944</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-4.385859</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>244.543837</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>4.457379</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>4.457379</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-43.729105</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>1533.908402</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-37686.50562</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D90</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D90</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>167</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/3.5</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 35/10 35/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D90</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4310</stCamera:ImageWidth>
+      <stCamera:ImageLength>2868</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>1</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>4.457379</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>4.457379</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.256944</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-4.385859</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>244.543837</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>4.457379</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>4.457379</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.972285</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>749.55908</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-69188.37258</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D90</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D90</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>167</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/3.5</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 35/10 35/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D90</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4310</stCamera:ImageWidth>
+      <stCamera:ImageLength>2868</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>1</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>4.457379</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>4.457379</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.256944</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-4.385859</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>244.543837</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>4.457379</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>4.457379</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.069795</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>282.097762</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-16112.950664</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D90</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D90</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>167</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/3.5</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 35/10 35/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D90</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4310</stCamera:ImageWidth>
+      <stCamera:ImageLength>2868</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>1</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>4.457379</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>4.457379</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.256944</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-4.385859</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>244.543837</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>4.457379</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>4.457379</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>0.000027</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-0.016022</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>1.087742</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D90</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D90</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>167</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/3.5</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 35/10 35/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D90</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4310</stCamera:ImageWidth>
+      <stCamera:ImageLength>2868</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>1</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>4.457379</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>4.457379</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.256944</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-4.385859</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>244.543837</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>4.457379</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>4.457379</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>0.000022</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-0.013239</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>0.898663</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D90</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D90</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>167</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/3.5</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 35/10 35/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D90</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4310</stCamera:ImageWidth>
+      <stCamera:ImageLength>2868</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>3.61471</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.493649</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.493649</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.392966</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>8.912132</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-195.436464</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.493649</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.493649</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-46.255205</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>1685.558414</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-26556.152136</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D90</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D90</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>167</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/3.5</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 35/10 35/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D90</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4310</stCamera:ImageWidth>
+      <stCamera:ImageLength>2868</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.493649</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.493649</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.392966</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>8.912132</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-195.436464</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.493649</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.493649</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-34.858139</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>912.391242</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-12904.935407</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D90</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D90</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>167</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/3.5</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 35/10 35/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D90</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4310</stCamera:ImageWidth>
+      <stCamera:ImageLength>2868</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.493649</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.493649</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.392966</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>8.912132</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-195.436464</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.493649</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.493649</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>1.351991</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-61.896237</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-7441.738734</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D90</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D90</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>167</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/3.5</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 35/10 35/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D90</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4310</stCamera:ImageWidth>
+      <stCamera:ImageLength>2868</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.493649</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.493649</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.392966</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>8.912132</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-195.436464</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.493649</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.493649</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.481632</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>77.740848</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2633.131778</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D90</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D90</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>167</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/3.5</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 35/10 35/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D90</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4310</stCamera:ImageWidth>
+      <stCamera:ImageLength>2868</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.493649</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.493649</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.392966</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>8.912132</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-195.436464</stCamera:RadialDistortParam3>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D90</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D90</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>167</stCamera:LensID>
+      <stCamera:Lens>85.0 mm f/3.5</stCamera:Lens>
+      <stCamera:LensInfo>850/10 850/10 35/10 35/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D90</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF-S DX Micro NIKKOR 85mm f/3.5G ED VR)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4310</stCamera:ImageWidth>
+      <stCamera:ImageLength>2868</stCamera:ImageLength>
+      <stCamera:FocalLength>85</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.493649</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.493649</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.392966</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>8.912132</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-195.436464</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.493649</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.493649</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>0.000011</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-0.003931</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>0.163548</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

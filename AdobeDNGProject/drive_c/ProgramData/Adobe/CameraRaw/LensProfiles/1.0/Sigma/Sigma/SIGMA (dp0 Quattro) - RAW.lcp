@@ -1,0 +1,998 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156380, 2014/05/21-23:38:37        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SIGMA"
+       stCamera:Model="dp0 Quattro"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:CameraPrettyName="SIGMA"
+       stCamera:LensPrettyName="dp0 Quattro"
+       stCamera:ProfileName="Adobe (dp0 Quattro)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="14"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000097"
+        stCamera:ResidualStandardDeviation="0.000067"
+        stCamera:RadialDistortParam1="0.029843"
+        stCamera:RadialDistortParam2="-0.071223"
+        stCamera:RadialDistortParam3="0.044223">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.00394"
+         stCamera:VignetteModelParam1="-0.55628"
+         stCamera:VignetteModelParam2="-0.469457"
+         stCamera:VignetteModelParam3="0.432661">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.247361, 0.964900</rdf:li>
+          <rdf:li>0.389130, 0.915400</rdf:li>
+          <rdf:li>0.451914, 0.878700</rdf:li>
+          <rdf:li>0.871862, 0.502400</rdf:li>
+          <rdf:li>1.017328, 0.386000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SIGMA"
+       stCamera:Model="dp0 Quattro"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:CameraPrettyName="SIGMA"
+       stCamera:LensPrettyName="dp0 Quattro"
+       stCamera:ProfileName="Adobe (dp0 Quattro)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="14"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000096"
+        stCamera:ResidualStandardDeviation="0.000066"
+        stCamera:RadialDistortParam1="0.025499"
+        stCamera:RadialDistortParam2="-0.069006"
+        stCamera:RadialDistortParam3="0.043494">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003871"
+         stCamera:VignetteModelParam1="-0.554222"
+         stCamera:VignetteModelParam2="-0.48352"
+         stCamera:VignetteModelParam3="0.443495">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.247296, 0.964900</rdf:li>
+          <rdf:li>0.389141, 0.915300</rdf:li>
+          <rdf:li>0.450311, 0.879600</rdf:li>
+          <rdf:li>0.874013, 0.498800</rdf:li>
+          <rdf:li>1.014377, 0.386000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SIGMA"
+       stCamera:Model="dp0 Quattro"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:CameraPrettyName="SIGMA"
+       stCamera:LensPrettyName="dp0 Quattro"
+       stCamera:ProfileName="Adobe (dp0 Quattro)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="14"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000094"
+        stCamera:ResidualStandardDeviation="0.000065"
+        stCamera:RadialDistortParam1="0.020416"
+        stCamera:RadialDistortParam2="-0.066297"
+        stCamera:RadialDistortParam3="0.042572">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003831"
+         stCamera:VignetteModelParam1="-0.551927"
+         stCamera:VignetteModelParam2="-0.498852"
+         stCamera:VignetteModelParam3="0.455154">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.257159, 0.962100</rdf:li>
+          <rdf:li>0.393333, 0.913400</rdf:li>
+          <rdf:li>0.457575, 0.873900</rdf:li>
+          <rdf:li>0.870164, 0.500100</rdf:li>
+          <rdf:li>1.010972, 0.386000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SIGMA"
+       stCamera:Model="dp0 Quattro"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:CameraPrettyName="SIGMA"
+       stCamera:LensPrettyName="dp0 Quattro"
+       stCamera:ProfileName="Adobe (dp0 Quattro)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="14"
+       stCamera:FocusDistance="0.3"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.00009"
+        stCamera:ResidualStandardDeviation="0.000062"
+        stCamera:RadialDistortParam1="0.012165"
+        stCamera:RadialDistortParam2="-0.061683"
+        stCamera:RadialDistortParam3="0.040951">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.00382"
+         stCamera:VignetteModelParam1="-0.547681"
+         stCamera:VignetteModelParam2="-0.529068"
+         stCamera:VignetteModelParam3="0.479665">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.252803, 0.963300</rdf:li>
+          <rdf:li>0.392126, 0.913600</rdf:li>
+          <rdf:li>0.456868, 0.874900</rdf:li>
+          <rdf:li>0.866618, 0.499900</rdf:li>
+          <rdf:li>1.005541, 0.387000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SIGMA"
+       stCamera:Model="dp0 Quattro"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:CameraPrettyName="SIGMA"
+       stCamera:LensPrettyName="dp0 Quattro"
+       stCamera:ProfileName="Adobe (dp0 Quattro)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="14"
+       stCamera:FocusDistance="0.22"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000085"
+        stCamera:ResidualStandardDeviation="0.000059"
+        stCamera:RadialDistortParam1="0.002698"
+        stCamera:RadialDistortParam2="-0.055998"
+        stCamera:RadialDistortParam3="0.038851">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003914"
+         stCamera:VignetteModelParam1="-0.543638"
+         stCamera:VignetteModelParam2="-0.558438"
+         stCamera:VignetteModelParam3="0.50378">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.248441, 0.964500</rdf:li>
+          <rdf:li>0.387159, 0.916700</rdf:li>
+          <rdf:li>0.452872, 0.877300</rdf:li>
+          <rdf:li>0.856154, 0.505400</rdf:li>
+          <rdf:li>0.999470, 0.387000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SIGMA"
+       stCamera:Model="dp0 Quattro"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:CameraPrettyName="SIGMA"
+       stCamera:LensPrettyName="dp0 Quattro"
+       stCamera:ProfileName="Adobe (dp0 Quattro)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="14"
+       stCamera:FocusDistance="0.18"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000079"
+        stCamera:ResidualStandardDeviation="0.000055"
+        stCamera:RadialDistortParam1="-0.007106"
+        stCamera:RadialDistortParam2="-0.049647"
+        stCamera:RadialDistortParam3="0.036396">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003828"
+         stCamera:VignetteModelParam1="-0.542847"
+         stCamera:VignetteModelParam2="-0.581184"
+         stCamera:VignetteModelParam3="0.524106">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.244335, 0.965600</rdf:li>
+          <rdf:li>0.387860, 0.916300</rdf:li>
+          <rdf:li>0.447417, 0.879800</rdf:li>
+          <rdf:li>0.582840, 0.762800</rdf:li>
+          <rdf:li>0.868745, 0.491400</rdf:li>
+          <rdf:li>0.993370, 0.388000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SIGMA"
+       stCamera:Model="dp0 Quattro"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:CameraPrettyName="SIGMA"
+       stCamera:LensPrettyName="dp0 Quattro"
+       stCamera:ProfileName="Adobe (dp0 Quattro)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="14"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000097"
+        stCamera:ResidualStandardDeviation="0.000067"
+        stCamera:RadialDistortParam1="0.02984"
+        stCamera:RadialDistortParam2="-0.071209"
+        stCamera:RadialDistortParam3="0.04421">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.00394"
+         stCamera:VignetteModelParam1="-0.556281"
+         stCamera:VignetteModelParam2="-0.46945"
+         stCamera:VignetteModelParam3="0.432654">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.247361, 0.964900</rdf:li>
+          <rdf:li>0.389130, 0.915400</rdf:li>
+          <rdf:li>0.451913, 0.878700</rdf:li>
+          <rdf:li>0.871861, 0.502400</rdf:li>
+          <rdf:li>1.017326, 0.386000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SIGMA"
+       stCamera:Model="dp0 Quattro"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:CameraPrettyName="SIGMA"
+       stCamera:LensPrettyName="dp0 Quattro"
+       stCamera:ProfileName="Adobe (dp0 Quattro)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="14"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000095"
+        stCamera:ResidualStandardDeviation="0.000066"
+        stCamera:RadialDistortParam1="0.025488"
+        stCamera:RadialDistortParam2="-0.068954"
+        stCamera:RadialDistortParam3="0.043449">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003871"
+         stCamera:VignetteModelParam1="-0.554226"
+         stCamera:VignetteModelParam2="-0.483498"
+         stCamera:VignetteModelParam3="0.443475">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.247296, 0.964900</rdf:li>
+          <rdf:li>0.389141, 0.915300</rdf:li>
+          <rdf:li>0.450311, 0.879600</rdf:li>
+          <rdf:li>0.874014, 0.498800</rdf:li>
+          <rdf:li>1.014371, 0.386000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SIGMA"
+       stCamera:Model="dp0 Quattro"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:CameraPrettyName="SIGMA"
+       stCamera:LensPrettyName="dp0 Quattro"
+       stCamera:ProfileName="Adobe (dp0 Quattro)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="14"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000093"
+        stCamera:ResidualStandardDeviation="0.000065"
+        stCamera:RadialDistortParam1="0.020407"
+        stCamera:RadialDistortParam2="-0.066227"
+        stCamera:RadialDistortParam3="0.042505">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003831"
+         stCamera:VignetteModelParam1="-0.551933"
+         stCamera:VignetteModelParam2="-0.498807"
+         stCamera:VignetteModelParam3="0.455112">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.257159, 0.962100</rdf:li>
+          <rdf:li>0.393332, 0.913400</rdf:li>
+          <rdf:li>0.457575, 0.873900</rdf:li>
+          <rdf:li>0.870166, 0.500100</rdf:li>
+          <rdf:li>1.010965, 0.386000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SIGMA"
+       stCamera:Model="dp0 Quattro"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:CameraPrettyName="SIGMA"
+       stCamera:LensPrettyName="dp0 Quattro"
+       stCamera:ProfileName="Adobe (dp0 Quattro)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="14"
+       stCamera:FocusDistance="0.3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.00009"
+        stCamera:ResidualStandardDeviation="0.000062"
+        stCamera:RadialDistortParam1="0.012159"
+        stCamera:RadialDistortParam2="-0.06157"
+        stCamera:RadialDistortParam3="0.04084">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.00382"
+         stCamera:VignetteModelParam1="-0.547696"
+         stCamera:VignetteModelParam2="-0.528955"
+         stCamera:VignetteModelParam3="0.479564">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.252803, 0.963300</rdf:li>
+          <rdf:li>0.392126, 0.913600</rdf:li>
+          <rdf:li>0.456869, 0.874900</rdf:li>
+          <rdf:li>0.866628, 0.499900</rdf:li>
+          <rdf:li>1.005536, 0.387000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SIGMA"
+       stCamera:Model="dp0 Quattro"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:CameraPrettyName="SIGMA"
+       stCamera:LensPrettyName="dp0 Quattro"
+       stCamera:ProfileName="Adobe (dp0 Quattro)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="14"
+       stCamera:FocusDistance="0.22"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000085"
+        stCamera:ResidualStandardDeviation="0.000059"
+        stCamera:RadialDistortParam1="0.002711"
+        stCamera:RadialDistortParam2="-0.055849"
+        stCamera:RadialDistortParam3="0.0387">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003914"
+         stCamera:VignetteModelParam1="-0.543664"
+         stCamera:VignetteModelParam2="-0.558216"
+         stCamera:VignetteModelParam3="0.503583">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.248441, 0.964500</rdf:li>
+          <rdf:li>0.387160, 0.916700</rdf:li>
+          <rdf:li>0.452875, 0.877300</rdf:li>
+          <rdf:li>0.856179, 0.505400</rdf:li>
+          <rdf:li>0.999476, 0.387000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SIGMA"
+       stCamera:Model="dp0 Quattro"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:CameraPrettyName="SIGMA"
+       stCamera:LensPrettyName="dp0 Quattro"
+       stCamera:ProfileName="Adobe (dp0 Quattro)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="14"
+       stCamera:FocusDistance="0.18"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000079"
+        stCamera:ResidualStandardDeviation="0.000055"
+        stCamera:RadialDistortParam1="-0.007066"
+        stCamera:RadialDistortParam2="-0.049469"
+        stCamera:RadialDistortParam3="0.036205">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003828"
+         stCamera:VignetteModelParam1="-0.542891"
+         stCamera:VignetteModelParam2="-0.580807"
+         stCamera:VignetteModelParam3="0.523774">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.244335, 0.965600</rdf:li>
+          <rdf:li>0.387862, 0.916300</rdf:li>
+          <rdf:li>0.447423, 0.879800</rdf:li>
+          <rdf:li>0.582856, 0.762800</rdf:li>
+          <rdf:li>0.868788, 0.491400</rdf:li>
+          <rdf:li>0.993395, 0.388000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SIGMA"
+       stCamera:Model="dp0 Quattro"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:CameraPrettyName="SIGMA"
+       stCamera:LensPrettyName="dp0 Quattro"
+       stCamera:ProfileName="Adobe (dp0 Quattro)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="14"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000097"
+        stCamera:ResidualStandardDeviation="0.000067"
+        stCamera:RadialDistortParam1="0.029823"
+        stCamera:RadialDistortParam2="-0.071139"
+        stCamera:RadialDistortParam3="0.044147">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003125"
+         stCamera:VignetteModelParam1="-0.553871"
+         stCamera:VignetteModelParam2="0.095045"
+         stCamera:VignetteModelParam3="-0.08178">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.188924, 0.979000</rdf:li>
+          <rdf:li>0.355976, 0.928100</rdf:li>
+          <rdf:li>0.545872, 0.840500</rdf:li>
+          <rdf:li>0.693419, 0.754600</rdf:li>
+          <rdf:li>0.779322, 0.683000</rdf:li>
+          <rdf:li>1.017313, 0.452000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SIGMA"
+       stCamera:Model="dp0 Quattro"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:CameraPrettyName="SIGMA"
+       stCamera:LensPrettyName="dp0 Quattro"
+       stCamera:ProfileName="Adobe (dp0 Quattro)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="14"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000095"
+        stCamera:ResidualStandardDeviation="0.000066"
+        stCamera:RadialDistortParam1="0.025473"
+        stCamera:RadialDistortParam2="-0.068873"
+        stCamera:RadialDistortParam3="0.043373">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003015"
+         stCamera:VignetteModelParam1="-0.55414"
+         stCamera:VignetteModelParam2="0.092954"
+         stCamera:VignetteModelParam3="-0.082685">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.176479, 0.981500</rdf:li>
+          <rdf:li>0.331398, 0.937500</rdf:li>
+          <rdf:li>0.539084, 0.843700</rdf:li>
+          <rdf:li>0.692282, 0.754600</rdf:li>
+          <rdf:li>0.778768, 0.682100</rdf:li>
+          <rdf:li>1.014361, 0.452000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SIGMA"
+       stCamera:Model="dp0 Quattro"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:CameraPrettyName="SIGMA"
+       stCamera:LensPrettyName="dp0 Quattro"
+       stCamera:ProfileName="Adobe (dp0 Quattro)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="14"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000093"
+        stCamera:ResidualStandardDeviation="0.000065"
+        stCamera:RadialDistortParam1="0.020398"
+        stCamera:RadialDistortParam2="-0.066148"
+        stCamera:RadialDistortParam3="0.042428">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.002952"
+         stCamera:VignetteModelParam1="-0.555234"
+         stCamera:VignetteModelParam2="0.09222"
+         stCamera:VignetteModelParam3="-0.084252">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.176450, 0.981500</rdf:li>
+          <rdf:li>0.331221, 0.937500</rdf:li>
+          <rdf:li>0.538405, 0.843700</rdf:li>
+          <rdf:li>0.690478, 0.754900</rdf:li>
+          <rdf:li>0.771630, 0.687100</rdf:li>
+          <rdf:li>1.010956, 0.452000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SIGMA"
+       stCamera:Model="dp0 Quattro"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:CameraPrettyName="SIGMA"
+       stCamera:LensPrettyName="dp0 Quattro"
+       stCamera:ProfileName="Adobe (dp0 Quattro)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="14"
+       stCamera:FocusDistance="0.3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000089"
+        stCamera:ResidualStandardDeviation="0.000062"
+        stCamera:RadialDistortParam1="0.012154"
+        stCamera:RadialDistortParam2="-0.061461"
+        stCamera:RadialDistortParam3="0.040735">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003177"
+         stCamera:VignetteModelParam1="-0.55594"
+         stCamera:VignetteModelParam2="0.090742"
+         stCamera:VignetteModelParam3="-0.088804">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.179132, 0.981100</rdf:li>
+          <rdf:li>0.334158, 0.936400</rdf:li>
+          <rdf:li>0.540498, 0.841900</rdf:li>
+          <rdf:li>0.696363, 0.750300</rdf:li>
+          <rdf:li>0.764493, 0.692100</rdf:li>
+          <rdf:li>1.005532, 0.453000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SIGMA"
+       stCamera:Model="dp0 Quattro"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:CameraPrettyName="SIGMA"
+       stCamera:LensPrettyName="dp0 Quattro"
+       stCamera:ProfileName="Adobe (dp0 Quattro)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="14"
+       stCamera:FocusDistance="0.22"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000084"
+        stCamera:ResidualStandardDeviation="0.000059"
+        stCamera:RadialDistortParam1="0.002722"
+        stCamera:RadialDistortParam2="-0.055725"
+        stCamera:RadialDistortParam3="0.038572">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003066"
+         stCamera:VignetteModelParam1="-0.556742"
+         stCamera:VignetteModelParam2="0.088546"
+         stCamera:VignetteModelParam3="-0.092486">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.179077, 0.981100</rdf:li>
+          <rdf:li>0.329867, 0.937900</rdf:li>
+          <rdf:li>0.512158, 0.856900</rdf:li>
+          <rdf:li>0.686730, 0.755400</rdf:li>
+          <rdf:li>0.765706, 0.688100</rdf:li>
+          <rdf:li>0.999482, 0.454000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SIGMA"
+       stCamera:Model="dp0 Quattro"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:CameraPrettyName="SIGMA"
+       stCamera:LensPrettyName="dp0 Quattro"
+       stCamera:ProfileName="Adobe (dp0 Quattro)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="14"
+       stCamera:FocusDistance="0.18"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000078"
+        stCamera:ResidualStandardDeviation="0.000055"
+        stCamera:RadialDistortParam1="-0.007031"
+        stCamera:RadialDistortParam2="-0.049358"
+        stCamera:RadialDistortParam3="0.036079">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003028"
+         stCamera:VignetteModelParam1="-0.557656"
+         stCamera:VignetteModelParam2="0.082342"
+         stCamera:VignetteModelParam3="-0.09204">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.179019, 0.981100</rdf:li>
+          <rdf:li>0.329531, 0.937900</rdf:li>
+          <rdf:li>0.511036, 0.856900</rdf:li>
+          <rdf:li>0.684330, 0.755400</rdf:li>
+          <rdf:li>0.764911, 0.685800</rdf:li>
+          <rdf:li>0.993414, 0.455000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SIGMA"
+       stCamera:Model="dp0 Quattro"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:CameraPrettyName="SIGMA"
+       stCamera:LensPrettyName="dp0 Quattro"
+       stCamera:ProfileName="Adobe (dp0 Quattro)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="14"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000097"
+        stCamera:ResidualStandardDeviation="0.000067"
+        stCamera:RadialDistortParam1="0.029815"
+        stCamera:RadialDistortParam2="-0.071104"
+        stCamera:RadialDistortParam3="0.044115">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000475"
+        stCamera:VignetteModelParam1="-0.592606"
+        stCamera:VignetteModelParam2="0.202797"
+        stCamera:VignetteModelParam3="-0.073988"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SIGMA"
+       stCamera:Model="dp0 Quattro"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:CameraPrettyName="SIGMA"
+       stCamera:LensPrettyName="dp0 Quattro"
+       stCamera:ProfileName="Adobe (dp0 Quattro)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="14"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000095"
+        stCamera:ResidualStandardDeviation="0.000066"
+        stCamera:RadialDistortParam1="0.02546"
+        stCamera:RadialDistortParam2="-0.068808"
+        stCamera:RadialDistortParam3="0.043313">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000486"
+        stCamera:VignetteModelParam1="-0.595063"
+        stCamera:VignetteModelParam2="0.209418"
+        stCamera:VignetteModelParam3="-0.08044"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SIGMA"
+       stCamera:Model="dp0 Quattro"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:CameraPrettyName="SIGMA"
+       stCamera:LensPrettyName="dp0 Quattro"
+       stCamera:ProfileName="Adobe (dp0 Quattro)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="14"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000093"
+        stCamera:ResidualStandardDeviation="0.000065"
+        stCamera:RadialDistortParam1="0.020389"
+        stCamera:RadialDistortParam2="-0.066097"
+        stCamera:RadialDistortParam3="0.042382">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000416"
+        stCamera:VignetteModelParam1="-0.595707"
+        stCamera:VignetteModelParam2="0.207685"
+        stCamera:VignetteModelParam3="-0.080524"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SIGMA"
+       stCamera:Model="dp0 Quattro"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:CameraPrettyName="SIGMA"
+       stCamera:LensPrettyName="dp0 Quattro"
+       stCamera:ProfileName="Adobe (dp0 Quattro)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="14"
+       stCamera:FocusDistance="0.3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000089"
+        stCamera:ResidualStandardDeviation="0.000062"
+        stCamera:RadialDistortParam1="0.012155"
+        stCamera:RadialDistortParam2="-0.061429"
+        stCamera:RadialDistortParam3="0.040702">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000408"
+        stCamera:VignetteModelParam1="-0.595392"
+        stCamera:VignetteModelParam2="0.197991"
+        stCamera:VignetteModelParam3="-0.074405"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SIGMA"
+       stCamera:Model="dp0 Quattro"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:CameraPrettyName="SIGMA"
+       stCamera:LensPrettyName="dp0 Quattro"
+       stCamera:ProfileName="Adobe (dp0 Quattro)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="14"
+       stCamera:FocusDistance="0.22"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000084"
+        stCamera:ResidualStandardDeviation="0.000058"
+        stCamera:RadialDistortParam1="0.002727"
+        stCamera:RadialDistortParam2="-0.055665"
+        stCamera:RadialDistortParam3="0.038513">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000432"
+        stCamera:VignetteModelParam1="-0.595907"
+        stCamera:VignetteModelParam2="0.191583"
+        stCamera:VignetteModelParam3="-0.071292"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SIGMA"
+       stCamera:Model="dp0 Quattro"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:CameraPrettyName="SIGMA"
+       stCamera:LensPrettyName="dp0 Quattro"
+       stCamera:ProfileName="Adobe (dp0 Quattro)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="14"
+       stCamera:FocusDistance="0.18"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000078"
+        stCamera:ResidualStandardDeviation="0.000054"
+        stCamera:RadialDistortParam1="-0.007016"
+        stCamera:RadialDistortParam2="-0.049283"
+        stCamera:RadialDistortParam3="0.036001">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000468"
+        stCamera:VignetteModelParam1="-0.597371"
+        stCamera:VignetteModelParam2="0.187456"
+        stCamera:VignetteModelParam3="-0.069457"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

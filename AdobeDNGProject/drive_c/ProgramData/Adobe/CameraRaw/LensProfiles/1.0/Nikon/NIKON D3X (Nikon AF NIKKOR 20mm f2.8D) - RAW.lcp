@@ -1,0 +1,1290 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.1-c055 1.136881, 2010/06/10-18:11:35        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>55</stCamera:LensID>
+      <stCamera:Lens>20.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>200/10 200/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 20mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 20mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>20</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.22306</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.605003</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.605003</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.50121</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.49996</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.000178</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000238</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.100984</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.065069</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.00601</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.605</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.605</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.501214</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499958</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000179</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000244</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000439</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.000075</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.001887</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.001117</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.605</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.605</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.501214</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499958</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000178</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000244</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.101046</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.065203</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.006201</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.605</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.605</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.501214</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499958</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.00018</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000245</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999977</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.000065</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.002416</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.001081</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>55</stCamera:LensID>
+      <stCamera:Lens>20.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>200/10 200/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 20mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 20mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>20</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.600158</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.572496</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.572496</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.500601</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.501</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.00053</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000874</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.107487</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.081905</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.0129</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.572535</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.572535</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.500598</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.500999</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000526</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000883</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.00066</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.000524</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.000382</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.000635</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.572535</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.572535</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.500598</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.500999</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000526</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000884</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.107582</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.082099</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.013023</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.572535</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.572535</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.500598</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.500999</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000527</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000886</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.99967</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.000423</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.000219</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.000405</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>55</stCamera:LensID>
+      <stCamera:Lens>20.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>200/10 200/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 20mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 20mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>20</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.981705</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.55598</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.55598</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.499899</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.502289</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.001397</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.002421</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.135924</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.118931</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.029975</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.556033</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.556033</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.4999</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.50228</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.001396</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.002425</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000709</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.00026</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.000165</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.000191</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.556033</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.556033</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.4999</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.50228</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.001397</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.002428</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.136028</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.119158</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.030093</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.556033</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.556033</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.4999</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.50228</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.001398</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.002433</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999521</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.000533</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.000026</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.000338</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>55</stCamera:LensID>
+      <stCamera:Lens>20.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>200/10 200/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 20mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 20mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>20</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.25</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.599432</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.599432</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.501108</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.500137</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.106776</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.07733</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.010434</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.599432</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.599432</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.376258</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>1.540926</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.793</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>55</stCamera:LensID>
+      <stCamera:Lens>20.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>200/10 200/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 20mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 20mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>20</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.25</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.599432</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.599432</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.501108</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.500137</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.106776</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.07733</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.010434</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.599432</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.599432</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.033537</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-0.590207</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>0.1832</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>55</stCamera:LensID>
+      <stCamera:Lens>20.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>200/10 200/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 20mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 20mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>20</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.25</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.599432</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.599432</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.501108</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.500137</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.106776</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.07733</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.010434</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.599432</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.599432</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.282456</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.785861</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.709961</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>55</stCamera:LensID>
+      <stCamera:Lens>20.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>200/10 200/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 20mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 20mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>20</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.25</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.599432</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.599432</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.501108</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.500137</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.106776</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.07733</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.010434</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.599432</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.599432</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.21515</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.43659</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.331482</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>55</stCamera:LensID>
+      <stCamera:Lens>20.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>200/10 200/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 20mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 20mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>20</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.25</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.599432</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.599432</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.501108</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.500137</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.106776</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.07733</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.010434</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.599432</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.599432</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.214871</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.427542</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.321267</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>55</stCamera:LensID>
+      <stCamera:Lens>20.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>200/10 200/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 20mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 20mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>20</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.25</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.599432</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.599432</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.501108</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.500137</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.106776</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.07733</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.010434</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.599432</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.599432</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.208433</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.449333</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.346524</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>55</stCamera:LensID>
+      <stCamera:Lens>20.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>200/10 200/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 20mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 20mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>20</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.5</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.576382</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.576382</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.500671</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.500876</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.10792</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.082361</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.012984</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.576382</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.576382</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.298384</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>1.29367</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.624287</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>55</stCamera:LensID>
+      <stCamera:Lens>20.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>200/10 200/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 20mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 20mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>20</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.5</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.576382</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.576382</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.500671</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.500876</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.10792</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.082361</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.012984</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.576382</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.576382</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.018054</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-0.612415</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>0.17036</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>55</stCamera:LensID>
+      <stCamera:Lens>20.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>200/10 200/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 20mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 20mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>20</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.5</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.576382</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.576382</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.500671</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.500876</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.10792</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.082361</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.012984</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.576382</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.576382</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.267972</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.767202</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.712726</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>55</stCamera:LensID>
+      <stCamera:Lens>20.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>200/10 200/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 20mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 20mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>20</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.5</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.576382</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.576382</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.500671</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.500876</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.10792</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.082361</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.012984</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.576382</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.576382</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.191835</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.331802</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.249019</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>55</stCamera:LensID>
+      <stCamera:Lens>20.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>200/10 200/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 20mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 20mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>20</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.5</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.576382</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.576382</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.500671</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.500876</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.10792</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.082361</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.012984</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.576382</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.576382</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.19519</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.327427</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.240882</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>55</stCamera:LensID>
+      <stCamera:Lens>20.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>200/10 200/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 20mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 20mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>20</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.5</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.576382</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.576382</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.500671</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.500876</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.10792</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.082361</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.012984</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.576382</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.576382</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.190986</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.349256</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.263191</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>55</stCamera:LensID>
+      <stCamera:Lens>20.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>200/10 200/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 20mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 20mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>20</stCamera:FocalLength>
+      <stCamera:FocusDistance>1</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.564274</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.564274</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.500249</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.50164</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.129497</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.11182</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.026639</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.564274</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.564274</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.269532</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>1.204968</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.562966</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>55</stCamera:LensID>
+      <stCamera:Lens>20.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>200/10 200/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 20mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 20mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>20</stCamera:FocalLength>
+      <stCamera:FocusDistance>1</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.564274</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.564274</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.500249</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.50164</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.129497</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.11182</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.026639</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.564274</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.564274</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>0.033997</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-0.679576</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>0.202254</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>55</stCamera:LensID>
+      <stCamera:Lens>20.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>200/10 200/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 20mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 20mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>20</stCamera:FocalLength>
+      <stCamera:FocusDistance>1</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.564274</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.564274</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.500249</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.50164</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.129497</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.11182</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.026639</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.564274</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.564274</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.289544</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.790562</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.713452</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>55</stCamera:LensID>
+      <stCamera:Lens>20.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>200/10 200/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 20mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 20mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>20</stCamera:FocalLength>
+      <stCamera:FocusDistance>1</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.564274</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.564274</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.500249</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.50164</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.129497</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.11182</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.026639</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.564274</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.564274</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.1942</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.342807</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.260704</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>55</stCamera:LensID>
+      <stCamera:Lens>20.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>200/10 200/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 20mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 20mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>20</stCamera:FocalLength>
+      <stCamera:FocusDistance>1</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.564274</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.564274</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.500249</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.50164</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.129497</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.11182</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.026639</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.564274</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.564274</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.185104</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.288052</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.209762</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>55</stCamera:LensID>
+      <stCamera:Lens>20.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>200/10 200/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 20mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 20mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>20</stCamera:FocalLength>
+      <stCamera:FocusDistance>1</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.564274</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.564274</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.500249</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.50164</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.129497</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.11182</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.026639</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.564274</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.564274</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.181539</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.304218</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.225462</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>55</stCamera:LensID>
+      <stCamera:Lens>20.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>200/10 200/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 20mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 20mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>20</stCamera:FocalLength>
+      <stCamera:FocusDistance>2</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.558074</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.558074</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.499986</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.502122</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.134745</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.117847</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.029477</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.558074</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.558074</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.235189</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>1.126679</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.513437</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>55</stCamera:LensID>
+      <stCamera:Lens>20.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>200/10 200/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 20mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 20mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>20</stCamera:FocalLength>
+      <stCamera:FocusDistance>2</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.558074</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.558074</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.499986</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.502122</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.134745</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.117847</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.029477</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.558074</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.558074</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>0.019777</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-0.650439</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>0.188539</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>55</stCamera:LensID>
+      <stCamera:Lens>20.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>200/10 200/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 20mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 20mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>20</stCamera:FocalLength>
+      <stCamera:FocusDistance>2</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.558074</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.558074</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.499986</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.502122</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.134745</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.117847</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.029477</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.558074</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.558074</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.279049</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.751741</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.67656</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>55</stCamera:LensID>
+      <stCamera:Lens>20.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>200/10 200/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 20mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 20mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>20</stCamera:FocalLength>
+      <stCamera:FocusDistance>2</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.558074</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.558074</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.499986</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.502122</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.134745</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.117847</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.029477</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.558074</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.558074</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.204937</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.360241</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.270866</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>55</stCamera:LensID>
+      <stCamera:Lens>20.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>200/10 200/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 20mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 20mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>20</stCamera:FocalLength>
+      <stCamera:FocusDistance>2</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.558074</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.558074</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.499986</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.502122</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.134745</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.117847</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.029477</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.558074</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.558074</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.18268</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.270891</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.193743</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>55</stCamera:LensID>
+      <stCamera:Lens>20.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>200/10 200/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 20mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 20mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>20</stCamera:FocalLength>
+      <stCamera:FocusDistance>2</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.558074</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.558074</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.499986</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.502122</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.134745</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.117847</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.029477</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.558074</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.558074</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.17713</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.285985</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.209855</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>55</stCamera:LensID>
+      <stCamera:Lens>20.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>200/10 200/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 20mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 20mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>20</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.556033</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.556033</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.4999</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.50228</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.136028</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.119158</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.030093</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.556033</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.556033</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.250101</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>1.141304</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.519121</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>55</stCamera:LensID>
+      <stCamera:Lens>20.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>200/10 200/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 20mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 20mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>20</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.556033</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.556033</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.4999</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.50228</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.136028</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.119158</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.030093</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.556033</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.556033</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.002381</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-0.622432</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>0.171722</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>55</stCamera:LensID>
+      <stCamera:Lens>20.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>200/10 200/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 20mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 20mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>20</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.556033</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.556033</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.4999</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.50228</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.136028</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.119158</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.030093</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.556033</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.556033</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.278005</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.745312</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.676441</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>55</stCamera:LensID>
+      <stCamera:Lens>20.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>200/10 200/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 20mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 20mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>20</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.556033</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.556033</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.4999</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.50228</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.136028</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.119158</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.030093</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.556033</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.556033</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.194394</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.341675</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.263378</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>55</stCamera:LensID>
+      <stCamera:Lens>20.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>200/10 200/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 20mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 20mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>20</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.556033</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.556033</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.4999</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.50228</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.136028</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.119158</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.030093</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.556033</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.556033</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.180588</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.25993</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.18655</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>NIKON CORPORATION</stCamera:Make>
+      <stCamera:Model>NIKON D3X</stCamera:Model>
+      <stCamera:UniqueCameraModel>Nikon D3X</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>55</stCamera:LensID>
+      <stCamera:Lens>20.0 mm f/2.8</stCamera:Lens>
+      <stCamera:LensInfo>200/10 200/10 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NIKON D3X</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Nikon AF NIKKOR 20mm f/2.8D</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Nikon AF NIKKOR 20mm f/2.8D)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>6080</stCamera:ImageWidth>
+      <stCamera:ImageLength>4044</stCamera:ImageLength>
+      <stCamera:FocalLength>20</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.556033</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.556033</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.4999</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.50228</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.136028</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.119158</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.030093</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.556033</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.556033</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.174451</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.27359</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.202091</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

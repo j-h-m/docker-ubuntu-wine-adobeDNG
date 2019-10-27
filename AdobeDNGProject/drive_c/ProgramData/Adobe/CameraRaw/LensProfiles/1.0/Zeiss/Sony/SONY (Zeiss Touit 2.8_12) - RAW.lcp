@@ -1,0 +1,880 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c128 79.159124, 2016/03/18-14:01:55        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 12mm F2.8"
+       stCamera:LensInfo="120/10 120/10 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="Zeiss Touit 2.8/12"
+       stCamera:ProfileName="Adobe (Zeiss Touit 2.8/12, SONY)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="12"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.00064"
+        stCamera:ResidualStandardDeviation="0.000518"
+        stCamera:RadialDistortParam1="0.035493"
+        stCamera:RadialDistortParam2="-0.082477"
+        stCamera:RadialDistortParam3="0.033809">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999871"
+        stCamera:RadialDistortParam1="0.000273"
+        stCamera:RadialDistortParam2="-0.000812"
+        stCamera:RadialDistortParam3="0.000236"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.00064"
+        stCamera:ResidualStandardDeviation="0.000518"
+        stCamera:RadialDistortParam1="0.035493"
+        stCamera:RadialDistortParam2="-0.082477"
+        stCamera:RadialDistortParam3="0.033809"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000247"
+        stCamera:RadialDistortParam1="-0.000608"
+        stCamera:RadialDistortParam2="0.001599"
+        stCamera:RadialDistortParam3="-0.000502"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 12mm F2.8"
+       stCamera:LensInfo="120/10 120/10 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="Zeiss Touit 2.8/12"
+       stCamera:ProfileName="Adobe (Zeiss Touit 2.8/12, SONY)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="12"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.00064"
+        stCamera:ResidualStandardDeviation="0.000518"
+        stCamera:RadialDistortParam1="0.035487"
+        stCamera:RadialDistortParam2="-0.08247"
+        stCamera:RadialDistortParam3="0.033807">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999876"
+        stCamera:RadialDistortParam1="0.000249"
+        stCamera:RadialDistortParam2="-0.000781"
+        stCamera:RadialDistortParam3="0.000224"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.00064"
+        stCamera:ResidualStandardDeviation="0.000518"
+        stCamera:RadialDistortParam1="0.035487"
+        stCamera:RadialDistortParam2="-0.08247"
+        stCamera:RadialDistortParam3="0.033807"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000243"
+        stCamera:RadialDistortParam1="-0.000583"
+        stCamera:RadialDistortParam2="0.001567"
+        stCamera:RadialDistortParam3="-0.000489"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 12mm F2.8"
+       stCamera:LensInfo="120/10 120/10 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="Zeiss Touit 2.8/12"
+       stCamera:ProfileName="Adobe (Zeiss Touit 2.8/12, SONY)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="12"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000665"
+        stCamera:ResidualStandardDeviation="0.000538"
+        stCamera:RadialDistortParam1="0.035709"
+        stCamera:RadialDistortParam2="-0.082097"
+        stCamera:RadialDistortParam3="0.033415">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000041"
+        stCamera:RadialDistortParam1="-0.000356"
+        stCamera:RadialDistortParam2="0.000103"
+        stCamera:RadialDistortParam3="-0.000149"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000665"
+        stCamera:ResidualStandardDeviation="0.000538"
+        stCamera:RadialDistortParam1="0.035709"
+        stCamera:RadialDistortParam2="-0.082097"
+        stCamera:RadialDistortParam3="0.033415"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999878"
+        stCamera:RadialDistortParam1="0.000855"
+        stCamera:RadialDistortParam2="-0.000542"
+        stCamera:RadialDistortParam3="0.00037"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 12mm F2.8"
+       stCamera:LensInfo="120/10 120/10 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="Zeiss Touit 2.8/12"
+       stCamera:ProfileName="Adobe (Zeiss Touit 2.8/12, SONY)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="12"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.00064"
+        stCamera:ResidualStandardDeviation="0.000518"
+        stCamera:RadialDistortParam1="0.035485"
+        stCamera:RadialDistortParam2="-0.082467"
+        stCamera:RadialDistortParam3="0.033807">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999878"
+        stCamera:RadialDistortParam1="0.000239"
+        stCamera:RadialDistortParam2="-0.000768"
+        stCamera:RadialDistortParam3="0.000219"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.00064"
+        stCamera:ResidualStandardDeviation="0.000518"
+        stCamera:RadialDistortParam1="0.035485"
+        stCamera:RadialDistortParam2="-0.082467"
+        stCamera:RadialDistortParam3="0.033807"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000241"
+        stCamera:RadialDistortParam1="-0.000573"
+        stCamera:RadialDistortParam2="0.001552"
+        stCamera:RadialDistortParam3="-0.000483"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 12mm F2.8"
+       stCamera:LensInfo="120/10 120/10 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="Zeiss Touit 2.8/12"
+       stCamera:ProfileName="Adobe (Zeiss Touit 2.8/12, SONY)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="12"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000654"
+        stCamera:ResidualStandardDeviation="0.000529"
+        stCamera:RadialDistortParam1="0.03518"
+        stCamera:RadialDistortParam2="-0.081501"
+        stCamera:RadialDistortParam3="0.033254">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999756"
+        stCamera:RadialDistortParam1="0.000848"
+        stCamera:RadialDistortParam2="-0.001557"
+        stCamera:RadialDistortParam3="0.000538"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000654"
+        stCamera:ResidualStandardDeviation="0.000529"
+        stCamera:RadialDistortParam1="0.03518"
+        stCamera:RadialDistortParam2="-0.081501"
+        stCamera:RadialDistortParam3="0.033254"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000309"
+        stCamera:RadialDistortParam1="-0.000923"
+        stCamera:RadialDistortParam2="0.001936"
+        stCamera:RadialDistortParam3="-0.000654"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 12mm F2.8"
+       stCamera:LensInfo="120/10 120/10 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="Zeiss Touit 2.8/12"
+       stCamera:ProfileName="Adobe (Zeiss Touit 2.8/12, SONY)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="12"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000643"
+        stCamera:ResidualStandardDeviation="0.00052"
+        stCamera:RadialDistortParam1="0.035481"
+        stCamera:RadialDistortParam2="-0.082398"
+        stCamera:RadialDistortParam3="0.033755">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999828"
+        stCamera:RadialDistortParam1="0.000504"
+        stCamera:RadialDistortParam2="-0.001153"
+        stCamera:RadialDistortParam3="0.00039"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000643"
+        stCamera:ResidualStandardDeviation="0.00052"
+        stCamera:RadialDistortParam1="0.035481"
+        stCamera:RadialDistortParam2="-0.082398"
+        stCamera:RadialDistortParam3="0.033755"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000313"
+        stCamera:RadialDistortParam1="-0.000988"
+        stCamera:RadialDistortParam2="0.002199"
+        stCamera:RadialDistortParam3="-0.000797"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 12mm F2.8"
+       stCamera:LensInfo="120/10 120/10 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="Zeiss Touit 2.8/12"
+       stCamera:ProfileName="Adobe (Zeiss Touit 2.8/12, SONY)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="12"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000641"
+        stCamera:ResidualStandardDeviation="0.000518"
+        stCamera:RadialDistortParam1="0.035504"
+        stCamera:RadialDistortParam2="-0.082489"
+        stCamera:RadialDistortParam3="0.033813">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999861"
+        stCamera:RadialDistortParam1="0.000328"
+        stCamera:RadialDistortParam2="-0.00089"
+        stCamera:RadialDistortParam3="0.00027"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000641"
+        stCamera:ResidualStandardDeviation="0.000518"
+        stCamera:RadialDistortParam1="0.035504"
+        stCamera:RadialDistortParam2="-0.082489"
+        stCamera:RadialDistortParam3="0.033813"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000274"
+        stCamera:RadialDistortParam1="-0.000758"
+        stCamera:RadialDistortParam2="0.001834"
+        stCamera:RadialDistortParam3="-0.000615"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 12mm F2.8"
+       stCamera:LensInfo="120/10 120/10 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="Zeiss Touit 2.8/12"
+       stCamera:ProfileName="Adobe (Zeiss Touit 2.8/12, SONY)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="12"
+       stCamera:FocusDistance="0.179976"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000687"
+        stCamera:ResidualStandardDeviation="0.000561"
+        stCamera:RadialDistortParam1="0.027045"
+        stCamera:RadialDistortParam2="-0.080446"
+        stCamera:RadialDistortParam3="0.032919">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000026"
+        stCamera:RadialDistortParam1="-0.000075"
+        stCamera:RadialDistortParam2="-0.0003"
+        stCamera:RadialDistortParam3="0.000041"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000687"
+        stCamera:ResidualStandardDeviation="0.000561"
+        stCamera:RadialDistortParam1="0.027045"
+        stCamera:RadialDistortParam2="-0.080446"
+        stCamera:RadialDistortParam3="0.032919"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999851"
+        stCamera:RadialDistortParam1="0.000757"
+        stCamera:RadialDistortParam2="-0.000326"
+        stCamera:RadialDistortParam3="0.000245"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 12mm F2.8"
+       stCamera:LensInfo="120/10 120/10 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="Zeiss Touit 2.8/12"
+       stCamera:ProfileName="Adobe (Zeiss Touit 2.8/12, SONY)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="12"
+       stCamera:FocusDistance="0.179976"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000687"
+        stCamera:ResidualStandardDeviation="0.000561"
+        stCamera:RadialDistortParam1="0.027064"
+        stCamera:RadialDistortParam2="-0.080477"
+        stCamera:RadialDistortParam3="0.032931">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.00002"
+        stCamera:RadialDistortParam1="-0.000045"
+        stCamera:RadialDistortParam2="-0.00034"
+        stCamera:RadialDistortParam3="0.000058"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000687"
+        stCamera:ResidualStandardDeviation="0.000561"
+        stCamera:RadialDistortParam1="0.027064"
+        stCamera:RadialDistortParam2="-0.080477"
+        stCamera:RadialDistortParam3="0.032931"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999859"
+        stCamera:RadialDistortParam1="0.000719"
+        stCamera:RadialDistortParam2="-0.000275"
+        stCamera:RadialDistortParam3="0.000225"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 12mm F2.8"
+       stCamera:LensInfo="120/10 120/10 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="Zeiss Touit 2.8/12"
+       stCamera:ProfileName="Adobe (Zeiss Touit 2.8/12, SONY)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="12"
+       stCamera:FocusDistance="0.179976"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000609"
+        stCamera:ResidualStandardDeviation="0.000498"
+        stCamera:RadialDistortParam1="0.026062"
+        stCamera:RadialDistortParam2="-0.078975"
+        stCamera:RadialDistortParam3="0.03237">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000305"
+        stCamera:RadialDistortParam1="-0.00138"
+        stCamera:RadialDistortParam2="0.001445"
+        stCamera:RadialDistortParam3="-0.000634"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000609"
+        stCamera:ResidualStandardDeviation="0.000498"
+        stCamera:RadialDistortParam1="0.026062"
+        stCamera:RadialDistortParam2="-0.078975"
+        stCamera:RadialDistortParam3="0.03237"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999642"
+        stCamera:RadialDistortParam1="0.001707"
+        stCamera:RadialDistortParam2="-0.001634"
+        stCamera:RadialDistortParam3="0.000731"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 12mm F2.8"
+       stCamera:LensInfo="120/10 120/10 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="Zeiss Touit 2.8/12"
+       stCamera:ProfileName="Adobe (Zeiss Touit 2.8/12, SONY)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="12"
+       stCamera:FocusDistance="0.179976"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000687"
+        stCamera:ResidualStandardDeviation="0.000562"
+        stCamera:RadialDistortParam1="0.027073"
+        stCamera:RadialDistortParam2="-0.08049"
+        stCamera:RadialDistortParam3="0.032936">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000017"
+        stCamera:RadialDistortParam1="-0.000033"
+        stCamera:RadialDistortParam2="-0.000356"
+        stCamera:RadialDistortParam3="0.000064"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000687"
+        stCamera:ResidualStandardDeviation="0.000562"
+        stCamera:RadialDistortParam1="0.027073"
+        stCamera:RadialDistortParam2="-0.08049"
+        stCamera:RadialDistortParam3="0.032936"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999863"
+        stCamera:RadialDistortParam1="0.000703"
+        stCamera:RadialDistortParam2="-0.000253"
+        stCamera:RadialDistortParam3="0.000216"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 12mm F2.8"
+       stCamera:LensInfo="120/10 120/10 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="Zeiss Touit 2.8/12"
+       stCamera:ProfileName="Adobe (Zeiss Touit 2.8/12, SONY)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="12"
+       stCamera:FocusDistance="0.179976"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000677"
+        stCamera:ResidualStandardDeviation="0.000553"
+        stCamera:RadialDistortParam1="0.026854"
+        stCamera:RadialDistortParam2="-0.080198"
+        stCamera:RadialDistortParam3="0.032851">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000116"
+        stCamera:RadialDistortParam1="-0.000491"
+        stCamera:RadialDistortParam2="0.000263"
+        stCamera:RadialDistortParam3="-0.000181"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000677"
+        stCamera:ResidualStandardDeviation="0.000553"
+        stCamera:RadialDistortParam1="0.026854"
+        stCamera:RadialDistortParam2="-0.080198"
+        stCamera:RadialDistortParam3="0.032851"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999744"
+        stCamera:RadialDistortParam1="0.001244"
+        stCamera:RadialDistortParam2="-0.000977"
+        stCamera:RadialDistortParam3="0.00049"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 12mm F2.8"
+       stCamera:LensInfo="120/10 120/10 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="Zeiss Touit 2.8/12"
+       stCamera:ProfileName="Adobe (Zeiss Touit 2.8/12, SONY)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="12"
+       stCamera:FocusDistance="0.179976"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000683"
+        stCamera:ResidualStandardDeviation="0.000558"
+        stCamera:RadialDistortParam1="0.02694"
+        stCamera:RadialDistortParam2="-0.080283"
+        stCamera:RadialDistortParam3="0.032858">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000062"
+        stCamera:RadialDistortParam1="-0.000237"
+        stCamera:RadialDistortParam2="-0.000081"
+        stCamera:RadialDistortParam3="-0.000046"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000683"
+        stCamera:ResidualStandardDeviation="0.000558"
+        stCamera:RadialDistortParam1="0.02694"
+        stCamera:RadialDistortParam2="-0.080283"
+        stCamera:RadialDistortParam3="0.032858"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999806"
+        stCamera:RadialDistortParam1="0.000958"
+        stCamera:RadialDistortParam2="-0.000599"
+        stCamera:RadialDistortParam3="0.000354"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 12mm F2.8"
+       stCamera:LensInfo="120/10 120/10 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="Zeiss Touit 2.8/12"
+       stCamera:ProfileName="Adobe (Zeiss Touit 2.8/12, SONY)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="12"
+       stCamera:FocusDistance="0.179976"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000686"
+        stCamera:ResidualStandardDeviation="0.00056"
+        stCamera:RadialDistortParam1="0.027011"
+        stCamera:RadialDistortParam2="-0.080394"
+        stCamera:RadialDistortParam3="0.032899">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000038"
+        stCamera:RadialDistortParam1="-0.000125"
+        stCamera:RadialDistortParam2="-0.000232"
+        stCamera:RadialDistortParam3="0.000014"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000686"
+        stCamera:ResidualStandardDeviation="0.00056"
+        stCamera:RadialDistortParam1="0.027011"
+        stCamera:RadialDistortParam2="-0.080394"
+        stCamera:RadialDistortParam3="0.032899"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999837"
+        stCamera:RadialDistortParam1="0.00082"
+        stCamera:RadialDistortParam2="-0.000412"
+        stCamera:RadialDistortParam3="0.000279"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 12mm F2.8"
+       stCamera:LensInfo="120/10 120/10 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="Zeiss Touit 2.8/12"
+       stCamera:ProfileName="Adobe (Zeiss Touit 2.8/12, SONY)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="12"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:RadialDistortParam1="0.03513"
+        stCamera:RadialDistortParam2="-0.08191"
+        stCamera:RadialDistortParam3="0.033352">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-0.297704"
+        stCamera:VignetteModelParam2="-0.100575"
+        stCamera:VignetteModelParam3="0.083389"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 12mm F2.8"
+       stCamera:LensInfo="120/10 120/10 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="Zeiss Touit 2.8/12"
+       stCamera:ProfileName="Adobe (Zeiss Touit 2.8/12, SONY)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="12"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:RadialDistortParam1="0.034681"
+        stCamera:RadialDistortParam2="-0.081423"
+        stCamera:RadialDistortParam3="0.03323">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-0.096629"
+        stCamera:VignetteModelParam2="-0.215248"
+        stCamera:VignetteModelParam3="0.124966"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 12mm F2.8"
+       stCamera:LensInfo="120/10 120/10 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="Zeiss Touit 2.8/12"
+       stCamera:ProfileName="Adobe (Zeiss Touit 2.8/12, SONY)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="12"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:RadialDistortParam1="0.034969"
+        stCamera:RadialDistortParam2="-0.082271"
+        stCamera:RadialDistortParam3="0.033701">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-0.183231"
+        stCamera:VignetteModelParam2="-0.165613"
+        stCamera:VignetteModelParam3="0.119414"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 12mm F2.8"
+       stCamera:LensInfo="120/10 120/10 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="Zeiss Touit 2.8/12"
+       stCamera:ProfileName="Adobe (Zeiss Touit 2.8/12, SONY)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="12"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6.33985">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:RadialDistortParam1="0.034992"
+        stCamera:RadialDistortParam2="-0.08236"
+        stCamera:RadialDistortParam3="0.033757">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-0.577334"
+        stCamera:VignetteModelParam2="0.264406"
+        stCamera:VignetteModelParam3="-0.057485"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 12mm F2.8"
+       stCamera:LensInfo="120/10 120/10 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="Zeiss Touit 2.8/12"
+       stCamera:ProfileName="Adobe (Zeiss Touit 2.8/12, SONY)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="12"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:RadialDistortParam1="0.03513"
+        stCamera:RadialDistortParam2="-0.08191"
+        stCamera:RadialDistortParam3="0.033352">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-0.367307"
+        stCamera:VignetteModelParam2="-0.093461"
+        stCamera:VignetteModelParam3="0.090243"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 12mm F2.8"
+       stCamera:LensInfo="120/10 120/10 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="Zeiss Touit 2.8/12"
+       stCamera:ProfileName="Adobe (Zeiss Touit 2.8/12, SONY)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="12"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:RadialDistortParam1="0.034681"
+        stCamera:RadialDistortParam2="-0.081423"
+        stCamera:RadialDistortParam3="0.03323">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="0.15873"
+        stCamera:VignetteModelParam2="-0.551862"
+        stCamera:VignetteModelParam3="0.244032"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 12mm F2.8"
+       stCamera:LensInfo="120/10 120/10 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="Zeiss Touit 2.8/12"
+       stCamera:ProfileName="Adobe (Zeiss Touit 2.8/12, SONY)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="12"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:RadialDistortParam1="0.034969"
+        stCamera:RadialDistortParam2="-0.082271"
+        stCamera:RadialDistortParam3="0.033701">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="0.063833"
+        stCamera:VignetteModelParam2="-0.238382"
+        stCamera:VignetteModelParam3="0.105848"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 12mm F2.8"
+       stCamera:LensInfo="120/10 120/10 28/10 28/10"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="Zeiss Touit 2.8/12"
+       stCamera:ProfileName="Adobe (Zeiss Touit 2.8/12, SONY)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="12"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:RadialDistortParam1="0.034995"
+        stCamera:RadialDistortParam2="-0.082363"
+        stCamera:RadialDistortParam3="0.033758">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-0.539177"
+        stCamera:VignetteModelParam2="0.443394"
+        stCamera:VignetteModelParam3="-0.146158"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

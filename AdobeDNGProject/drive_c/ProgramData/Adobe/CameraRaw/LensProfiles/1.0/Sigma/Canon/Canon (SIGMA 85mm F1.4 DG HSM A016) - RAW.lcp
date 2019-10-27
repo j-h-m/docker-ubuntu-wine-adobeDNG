@@ -1,0 +1,1246 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c128 79.159124, 2016/03/18-14:01:55        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.028114"
+        stCamera:RadialDistortParam2="-0.980848"
+        stCamera:RadialDistortParam3="1.006356">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.015117"
+         stCamera:VignetteModelParam1="-23.341988"
+         stCamera:VignetteModelParam2="446.348955"
+         stCamera:VignetteModelParam3="-3657.149805">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.045914, 0.924361</rdf:li>
+          <rdf:li>0.135400, 0.705938</rdf:li>
+          <rdf:li>0.253956, 0.364868</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="6"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.027937"
+        stCamera:RadialDistortParam2="-0.932939"
+        stCamera:RadialDistortParam3="0.921527">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.012232"
+         stCamera:VignetteModelParam1="-21.870416"
+         stCamera:VignetteModelParam2="404.014236"
+         stCamera:VignetteModelParam3="-3269.583067">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.016153, 0.988904</rdf:li>
+          <rdf:li>0.041254, 0.942483</rdf:li>
+          <rdf:li>0.126703, 0.742172</rdf:li>
+          <rdf:li>0.253999, 0.385990</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="4"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.027632"
+        stCamera:RadialDistortParam2="-0.905116"
+        stCamera:RadialDistortParam3="0.846864">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.010926"
+         stCamera:VignetteModelParam1="-21.013317"
+         stCamera:VignetteModelParam2="377.818203"
+         stCamera:VignetteModelParam3="-3024.324961">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.017955, 0.988287</rdf:li>
+          <rdf:li>0.038955, 0.951703</rdf:li>
+          <rdf:li>0.118936, 0.769143</rdf:li>
+          <rdf:li>0.254018, 0.396990</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.027346"
+        stCamera:RadialDistortParam2="-0.882352"
+        stCamera:RadialDistortParam3="0.836092">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.009861"
+         stCamera:VignetteModelParam1="-20.213242"
+         stCamera:VignetteModelParam2="355.067136"
+         stCamera:VignetteModelParam3="-2820.115547">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.021558, 0.984760</rdf:li>
+          <rdf:li>0.039141, 0.955777</rdf:li>
+          <rdf:li>0.126393, 0.757547</rdf:li>
+          <rdf:li>0.254037, 0.407949</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.026364"
+        stCamera:RadialDistortParam2="-0.830766"
+        stCamera:RadialDistortParam3="0.762546">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.006381"
+         stCamera:VignetteModelParam1="-17.869439"
+         stCamera:VignetteModelParam2="284.045245"
+         stCamera:VignetteModelParam3="-2175.186622">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.041440, 0.962857</rdf:li>
+          <rdf:li>0.110484, 0.816014</rdf:li>
+          <rdf:li>0.254071, 0.433696</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.025043"
+        stCamera:RadialDistortParam2="-0.779299"
+        stCamera:RadialDistortParam3="0.697106">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003959"
+         stCamera:VignetteModelParam1="-15.571979"
+         stCamera:VignetteModelParam2="216.208491"
+         stCamera:VignetteModelParam3="-1562.39789">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.022801, 0.991900</rdf:li>
+          <rdf:li>0.051320, 0.956131</rdf:li>
+          <rdf:li>0.114274, 0.826861</rdf:li>
+          <rdf:li>0.254100, 0.462170</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.2"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.023381"
+        stCamera:RadialDistortParam2="-0.729478"
+        stCamera:RadialDistortParam3="0.657657">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002424"
+        stCamera:VignetteModelParam1="-13.488691"
+        stCamera:VignetteModelParam2="159.692674"
+        stCamera:VignetteModelParam3="-1075.957695"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.021291"
+        stCamera:RadialDistortParam2="-0.677017"
+        stCamera:RadialDistortParam3="0.592326">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001606"
+        stCamera:VignetteModelParam1="-11.674863"
+        stCamera:VignetteModelParam2="116.877417"
+        stCamera:VignetteModelParam3="-735.261001"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.85"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.018719"
+        stCamera:RadialDistortParam2="-0.624006"
+        stCamera:RadialDistortParam3="0.544784">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001225"
+        stCamera:VignetteModelParam1="-9.756256"
+        stCamera:VignetteModelParam2="74.425601"
+        stCamera:VignetteModelParam3="-408.930586"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.028114"
+        stCamera:RadialDistortParam2="-0.980848"
+        stCamera:RadialDistortParam3="1.006356">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002314"
+        stCamera:VignetteModelParam1="-1.232004"
+        stCamera:VignetteModelParam2="-106.316598"
+        stCamera:VignetteModelParam3="549.886616"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="6"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.027937"
+        stCamera:RadialDistortParam2="-0.932939"
+        stCamera:RadialDistortParam3="0.921527">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002614"
+        stCamera:VignetteModelParam1="-1.214067"
+        stCamera:VignetteModelParam2="-78.017748"
+        stCamera:VignetteModelParam3="203.732649"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="4"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.027632"
+        stCamera:RadialDistortParam2="-0.905116"
+        stCamera:RadialDistortParam3="0.846864">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002935"
+        stCamera:VignetteModelParam1="-1.267123"
+        stCamera:VignetteModelParam2="-62.381447"
+        stCamera:VignetteModelParam3="24.054799"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.027346"
+        stCamera:RadialDistortParam2="-0.882352"
+        stCamera:RadialDistortParam3="0.836092">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00302"
+        stCamera:VignetteModelParam1="-1.391247"
+        stCamera:VignetteModelParam2="-44.222098"
+        stCamera:VignetteModelParam3="-178.252758"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.026364"
+        stCamera:RadialDistortParam2="-0.830766"
+        stCamera:RadialDistortParam3="0.762546">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.002922"
+         stCamera:VignetteModelParam1="-1.74998"
+         stCamera:VignetteModelParam2="-6.324483"
+         stCamera:VignetteModelParam3="-574.548315">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.099545, 0.978849</rdf:li>
+          <rdf:li>0.169683, 0.936714</rdf:li>
+          <rdf:li>0.209350, 0.859737</rdf:li>
+          <rdf:li>0.254071, 0.712210</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.025043"
+        stCamera:RadialDistortParam2="-0.779299"
+        stCamera:RadialDistortParam3="0.697106">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002314"
+        stCamera:VignetteModelParam1="-2.08808"
+        stCamera:VignetteModelParam2="25.159786"
+        stCamera:VignetteModelParam3="-869.293369"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.2"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.023381"
+        stCamera:RadialDistortParam2="-0.729478"
+        stCamera:RadialDistortParam3="0.657657">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00181"
+        stCamera:VignetteModelParam1="-2.359115"
+        stCamera:VignetteModelParam2="46.056864"
+        stCamera:VignetteModelParam3="-1006.708505"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.021291"
+        stCamera:RadialDistortParam2="-0.677017"
+        stCamera:RadialDistortParam3="0.592326">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001505"
+        stCamera:VignetteModelParam1="-2.420676"
+        stCamera:VignetteModelParam2="51.486271"
+        stCamera:VignetteModelParam3="-953.69377"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.85"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.018719"
+        stCamera:RadialDistortParam2="-0.624006"
+        stCamera:RadialDistortParam3="0.544784">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000986"
+        stCamera:VignetteModelParam1="-2.190737"
+        stCamera:VignetteModelParam2="37.727311"
+        stCamera:VignetteModelParam3="-673.301675"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.028114"
+        stCamera:RadialDistortParam2="-0.980848"
+        stCamera:RadialDistortParam3="1.006356">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001432"
+        stCamera:VignetteModelParam1="-3.089317"
+        stCamera:VignetteModelParam2="50.062931"
+        stCamera:VignetteModelParam3="-868.087666"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="6"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.027937"
+        stCamera:RadialDistortParam2="-0.932939"
+        stCamera:RadialDistortParam3="0.921527">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001555"
+        stCamera:VignetteModelParam1="-2.963202"
+        stCamera:VignetteModelParam2="43.12713"
+        stCamera:VignetteModelParam3="-653.222002"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="4"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.027632"
+        stCamera:RadialDistortParam2="-0.905116"
+        stCamera:RadialDistortParam3="0.846864">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00144"
+        stCamera:VignetteModelParam1="-2.805209"
+        stCamera:VignetteModelParam2="34.558903"
+        stCamera:VignetteModelParam3="-498.507324"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.027346"
+        stCamera:RadialDistortParam2="-0.882352"
+        stCamera:RadialDistortParam3="0.836092">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001207"
+        stCamera:VignetteModelParam1="-2.623776"
+        stCamera:VignetteModelParam2="23.606412"
+        stCamera:VignetteModelParam3="-312.7973"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.026364"
+        stCamera:RadialDistortParam2="-0.830766"
+        stCamera:RadialDistortParam3="0.762546">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000471"
+        stCamera:VignetteModelParam1="-2.313269"
+        stCamera:VignetteModelParam2="8.318548"
+        stCamera:VignetteModelParam3="-73.839198"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.025043"
+        stCamera:RadialDistortParam2="-0.779299"
+        stCamera:RadialDistortParam3="0.697106">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000222"
+        stCamera:VignetteModelParam1="-2.153774"
+        stCamera:VignetteModelParam2="3.584969"
+        stCamera:VignetteModelParam3="-5.614214"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.2"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.023381"
+        stCamera:RadialDistortParam2="-0.729478"
+        stCamera:RadialDistortParam3="0.657657">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000271"
+        stCamera:VignetteModelParam1="-2.066665"
+        stCamera:VignetteModelParam2="4.362684"
+        stCamera:VignetteModelParam3="-17.789213"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.021291"
+        stCamera:RadialDistortParam2="-0.677017"
+        stCamera:RadialDistortParam3="0.592326">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000261"
+        stCamera:VignetteModelParam1="-1.955949"
+        stCamera:VignetteModelParam2="3.596316"
+        stCamera:VignetteModelParam3="-13.178631"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.85"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.018719"
+        stCamera:RadialDistortParam2="-0.624006"
+        stCamera:RadialDistortParam3="0.544784">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000282"
+        stCamera:VignetteModelParam1="-1.871621"
+        stCamera:VignetteModelParam2="4.371387"
+        stCamera:VignetteModelParam3="-25.73431"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.028114"
+        stCamera:RadialDistortParam2="-0.980848"
+        stCamera:RadialDistortParam3="1.006356">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000287"
+        stCamera:VignetteModelParam1="-2.630974"
+        stCamera:VignetteModelParam2="5.156109"
+        stCamera:VignetteModelParam3="-11.498509"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="6"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.027937"
+        stCamera:RadialDistortParam2="-0.932939"
+        stCamera:RadialDistortParam3="0.921527">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000259"
+        stCamera:VignetteModelParam1="-2.554072"
+        stCamera:VignetteModelParam2="6.561455"
+        stCamera:VignetteModelParam3="-28.315198"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="4"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.027632"
+        stCamera:RadialDistortParam2="-0.905116"
+        stCamera:RadialDistortParam3="0.846864">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000213"
+        stCamera:VignetteModelParam1="-2.475696"
+        stCamera:VignetteModelParam2="5.568728"
+        stCamera:VignetteModelParam3="-19.534144"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.027346"
+        stCamera:RadialDistortParam2="-0.882352"
+        stCamera:RadialDistortParam3="0.836092">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000197"
+        stCamera:VignetteModelParam1="-2.422625"
+        stCamera:VignetteModelParam2="5.308824"
+        stCamera:VignetteModelParam3="-18.572473"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.026364"
+        stCamera:RadialDistortParam2="-0.830766"
+        stCamera:RadialDistortParam3="0.762546">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000271"
+        stCamera:VignetteModelParam1="-2.305322"
+        stCamera:VignetteModelParam2="4.921592"
+        stCamera:VignetteModelParam3="-18.422971"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.025043"
+        stCamera:RadialDistortParam2="-0.779299"
+        stCamera:RadialDistortParam3="0.697106">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000264"
+        stCamera:VignetteModelParam1="-2.204044"
+        stCamera:VignetteModelParam2="4.529534"
+        stCamera:VignetteModelParam3="-16.009832"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.2"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.023381"
+        stCamera:RadialDistortParam2="-0.729478"
+        stCamera:RadialDistortParam3="0.657657">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00026"
+        stCamera:VignetteModelParam1="-2.082841"
+        stCamera:VignetteModelParam2="3.571871"
+        stCamera:VignetteModelParam3="-7.715837"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.021291"
+        stCamera:RadialDistortParam2="-0.677017"
+        stCamera:RadialDistortParam3="0.592326">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000234"
+        stCamera:VignetteModelParam1="-2.006762"
+        stCamera:VignetteModelParam2="4.162871"
+        stCamera:VignetteModelParam3="-14.392049"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="250"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 016"
+       stCamera:LensInfo="85/1 85/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A016"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A016, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.85"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.018719"
+        stCamera:RadialDistortParam2="-0.624006"
+        stCamera:RadialDistortParam3="0.544784">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000256"
+        stCamera:VignetteModelParam1="-1.917322"
+        stCamera:VignetteModelParam2="4.230841"
+        stCamera:VignetteModelParam3="-15.065403"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

@@ -1,0 +1,2703 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.363208"
+        stCamera:RadialDistortParam2="2.897268"
+        stCamera:RadialDistortParam3="60.315701">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000244"
+        stCamera:RadialDistortParam1="-0.001878"
+        stCamera:RadialDistortParam2="-0.511491"
+        stCamera:RadialDistortParam3="4.993491"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.363208"
+        stCamera:RadialDistortParam2="2.897268"
+        stCamera:RadialDistortParam3="60.315701"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999949"
+        stCamera:RadialDistortParam1="-0.000628"
+        stCamera:RadialDistortParam2="0.931283"
+        stCamera:RadialDistortParam3="-18.760292"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.013377"
+         stCamera:VignetteModelParam1="-83.749817"
+         stCamera:VignetteModelParam2="5920.529785"
+         stCamera:VignetteModelParam3="-221113.65625">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.047802, 0.834300</rdf:li>
+          <rdf:li>0.067121, 0.736700</rdf:li>
+          <rdf:li>0.091626, 0.581800</rdf:li>
+          <rdf:li>0.120891, 0.375000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.55"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.456634"
+        stCamera:RadialDistortParam2="-0.861459"
+        stCamera:RadialDistortParam3="-1.083598">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999977"
+        stCamera:RadialDistortParam1="-0.010914"
+        stCamera:RadialDistortParam2="0.580173"
+        stCamera:RadialDistortParam3="-19.238091"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.456634"
+        stCamera:RadialDistortParam2="-0.861459"
+        stCamera:RadialDistortParam3="-1.083598"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999737"
+        stCamera:RadialDistortParam1="0.024786"
+        stCamera:RadialDistortParam2="-0.988771"
+        stCamera:RadialDistortParam3="18.483738"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00265"
+        stCamera:VignetteModelParam1="-57.910915"
+        stCamera:VignetteModelParam2="3220.035889"
+        stCamera:VignetteModelParam3="-91764.140625"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.54425"
+        stCamera:RadialDistortParam2="-1.438769"
+        stCamera:RadialDistortParam3="-4.966707">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999956"
+        stCamera:RadialDistortParam1="-0.03254"
+        stCamera:RadialDistortParam2="3.197599"
+        stCamera:RadialDistortParam3="-115.065414"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.54425"
+        stCamera:RadialDistortParam2="-1.438769"
+        stCamera:RadialDistortParam3="-4.966707"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999648"
+        stCamera:RadialDistortParam1="0.050682"
+        stCamera:RadialDistortParam2="-4.132528"
+        stCamera:RadialDistortParam3="131.863922"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003558"
+        stCamera:VignetteModelParam1="-64.686928"
+        stCamera:VignetteModelParam2="4474.26416"
+        stCamera:VignetteModelParam3="-145558.875"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.46"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.751362"
+        stCamera:RadialDistortParam2="-1.333931"
+        stCamera:RadialDistortParam3="-3.014194">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999811"
+        stCamera:RadialDistortParam1="-0.030154"
+        stCamera:RadialDistortParam2="2.343505"
+        stCamera:RadialDistortParam3="-72.712006"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.751362"
+        stCamera:RadialDistortParam2="-1.333931"
+        stCamera:RadialDistortParam3="-3.014194"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999665"
+        stCamera:RadialDistortParam1="0.05528"
+        stCamera:RadialDistortParam2="-4.78168"
+        stCamera:RadialDistortParam3="162.394653"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002368"
+        stCamera:VignetteModelParam1="-50.194633"
+        stCamera:VignetteModelParam2="2607.39209"
+        stCamera:VignetteModelParam3="-70003.523438"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.369762"
+        stCamera:RadialDistortParam2="2.734245"
+        stCamera:RadialDistortParam3="58.515911">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000215"
+        stCamera:RadialDistortParam1="0.002413"
+        stCamera:RadialDistortParam2="-1.238743"
+        stCamera:RadialDistortParam3="35.329075"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.369762"
+        stCamera:RadialDistortParam2="2.734245"
+        stCamera:RadialDistortParam3="58.515911"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999886"
+        stCamera:RadialDistortParam1="0.012663"
+        stCamera:RadialDistortParam2="-0.111818"
+        stCamera:RadialDistortParam3="11.609794"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003923"
+        stCamera:VignetteModelParam1="-58.728798"
+        stCamera:VignetteModelParam2="2506.204102"
+        stCamera:VignetteModelParam3="-82804.203125"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.369052"
+        stCamera:RadialDistortParam2="2.596122"
+        stCamera:RadialDistortParam3="52.147179">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000199"
+        stCamera:RadialDistortParam1="0.001994"
+        stCamera:RadialDistortParam2="-1.135"
+        stCamera:RadialDistortParam3="28.955889"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.369052"
+        stCamera:RadialDistortParam2="2.596122"
+        stCamera:RadialDistortParam3="52.147179"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999878"
+        stCamera:RadialDistortParam1="0.01238"
+        stCamera:RadialDistortParam2="-0.008491"
+        stCamera:RadialDistortParam3="4.627004"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003823"
+        stCamera:VignetteModelParam1="-58.819489"
+        stCamera:VignetteModelParam2="2744.143555"
+        stCamera:VignetteModelParam3="-94082.71875"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.366441"
+        stCamera:RadialDistortParam2="2.315393"
+        stCamera:RadialDistortParam3="47.896469">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000178"
+        stCamera:RadialDistortParam1="0.004954"
+        stCamera:RadialDistortParam2="-1.577298"
+        stCamera:RadialDistortParam3="48.14827"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.366441"
+        stCamera:RadialDistortParam2="2.315393"
+        stCamera:RadialDistortParam3="47.896469"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999875"
+        stCamera:RadialDistortParam1="0.010663"
+        stCamera:RadialDistortParam2="0.134913"
+        stCamera:RadialDistortParam3="3.022155"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003542"
+        stCamera:VignetteModelParam1="-58.689636"
+        stCamera:VignetteModelParam2="2893.365723"
+        stCamera:VignetteModelParam3="-99553.578125"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="1.2"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.363558"
+        stCamera:RadialDistortParam2="2.051691"
+        stCamera:RadialDistortParam3="39.031601">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000145"
+        stCamera:RadialDistortParam1="0.010695"
+        stCamera:RadialDistortParam2="-2.166018"
+        stCamera:RadialDistortParam3="67.2034"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.363558"
+        stCamera:RadialDistortParam2="2.051691"
+        stCamera:RadialDistortParam3="39.031601"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99986"
+        stCamera:RadialDistortParam1="0.012584"
+        stCamera:RadialDistortParam2="-0.070014"
+        stCamera:RadialDistortParam3="10.79024"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003545"
+        stCamera:VignetteModelParam1="-56.695335"
+        stCamera:VignetteModelParam2="2765.906982"
+        stCamera:VignetteModelParam3="-93027.226563"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.361691"
+        stCamera:RadialDistortParam2="1.63189"
+        stCamera:RadialDistortParam3="33.328232">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000113"
+        stCamera:RadialDistortParam1="0.012752"
+        stCamera:RadialDistortParam2="-2.329005"
+        stCamera:RadialDistortParam3="73.861443"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.361691"
+        stCamera:RadialDistortParam2="1.63189"
+        stCamera:RadialDistortParam3="33.328232"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999854"
+        stCamera:RadialDistortParam1="0.011768"
+        stCamera:RadialDistortParam2="-0.022055"
+        stCamera:RadialDistortParam3="8.789506"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003673"
+        stCamera:VignetteModelParam1="-54.655186"
+        stCamera:VignetteModelParam2="2573.215576"
+        stCamera:VignetteModelParam3="-81410.453125"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.8"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.365922"
+        stCamera:RadialDistortParam2="0.951058"
+        stCamera:RadialDistortParam3="21.835358">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000059"
+        stCamera:RadialDistortParam1="0.015863"
+        stCamera:RadialDistortParam2="-2.300269"
+        stCamera:RadialDistortParam3="65.401459"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.365922"
+        stCamera:RadialDistortParam2="0.951058"
+        stCamera:RadialDistortParam3="21.835358"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999848"
+        stCamera:RadialDistortParam1="0.009552"
+        stCamera:RadialDistortParam2="0.281204"
+        stCamera:RadialDistortParam3="-8.689789"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.004191"
+        stCamera:VignetteModelParam1="-51.973156"
+        stCamera:VignetteModelParam2="2205.941162"
+        stCamera:VignetteModelParam3="-57951.945313"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.380409"
+        stCamera:RadialDistortParam2="0.423273"
+        stCamera:RadialDistortParam3="14.315701">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000027"
+        stCamera:RadialDistortParam1="0.012572"
+        stCamera:RadialDistortParam2="-1.989706"
+        stCamera:RadialDistortParam3="62.532322"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.380409"
+        stCamera:RadialDistortParam2="0.423273"
+        stCamera:RadialDistortParam3="14.315701"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999851"
+        stCamera:RadialDistortParam1="0.005719"
+        stCamera:RadialDistortParam2="0.692793"
+        stCamera:RadialDistortParam3="-24.921419"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.004339"
+        stCamera:VignetteModelParam1="-49.755581"
+        stCamera:VignetteModelParam2="1810.619751"
+        stCamera:VignetteModelParam3="-34428.199219"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.61"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.411708"
+        stCamera:RadialDistortParam2="-0.207377"
+        stCamera:RadialDistortParam3="4.492683">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.002281"
+        stCamera:RadialDistortParam2="-1.078135"
+        stCamera:RadialDistortParam3="44.287125"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.411708"
+        stCamera:RadialDistortParam2="-0.207377"
+        stCamera:RadialDistortParam3="4.492683"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999817"
+        stCamera:RadialDistortParam1="0.012711"
+        stCamera:RadialDistortParam2="-0.297548"
+        stCamera:RadialDistortParam3="13.892509"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003762"
+        stCamera:VignetteModelParam1="-50.915535"
+        stCamera:VignetteModelParam2="2027.569336"
+        stCamera:VignetteModelParam3="-41360.644531"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.363208"
+        stCamera:RadialDistortParam2="2.897268"
+        stCamera:RadialDistortParam3="60.315701">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000388"
+        stCamera:RadialDistortParam1="-0.031981"
+        stCamera:RadialDistortParam2="2.183641"
+        stCamera:RadialDistortParam3="-78.546249"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.363208"
+        stCamera:RadialDistortParam2="2.897268"
+        stCamera:RadialDistortParam3="60.315701"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999713"
+        stCamera:RadialDistortParam1="0.043956"
+        stCamera:RadialDistortParam2="-2.969658"
+        stCamera:RadialDistortParam3="107.547325"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003856"
+        stCamera:VignetteModelParam1="8.367056"
+        stCamera:VignetteModelParam2="-5912.271484"
+        stCamera:VignetteModelParam3="228047.296875"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.55"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.456634"
+        stCamera:RadialDistortParam2="-0.861459"
+        stCamera:RadialDistortParam3="-1.083598">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999754"
+        stCamera:RadialDistortParam1="0.007293"
+        stCamera:RadialDistortParam2="-0.484639"
+        stCamera:RadialDistortParam3="8.425056"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.456634"
+        stCamera:RadialDistortParam2="-0.861459"
+        stCamera:RadialDistortParam3="-1.083598"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999914"
+        stCamera:RadialDistortParam1="-0.003911"
+        stCamera:RadialDistortParam2="0.765397"
+        stCamera:RadialDistortParam3="-9.214251"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003622"
+        stCamera:VignetteModelParam1="6.97025"
+        stCamera:VignetteModelParam2="-4433.654785"
+        stCamera:VignetteModelParam3="162230.375"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.54425"
+        stCamera:RadialDistortParam2="-1.438769"
+        stCamera:RadialDistortParam3="-4.966707">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999664"
+        stCamera:RadialDistortParam1="0.019864"
+        stCamera:RadialDistortParam2="-2.383802"
+        stCamera:RadialDistortParam3="81.715057"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.54425"
+        stCamera:RadialDistortParam2="-1.438769"
+        stCamera:RadialDistortParam3="-4.966707"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999858"
+        stCamera:RadialDistortParam1="-0.01484"
+        stCamera:RadialDistortParam2="2.793009"
+        stCamera:RadialDistortParam3="-94.912766"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003398"
+        stCamera:VignetteModelParam1="5.956024"
+        stCamera:VignetteModelParam2="-4246.562988"
+        stCamera:VignetteModelParam3="158947.40625"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.46"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.751362"
+        stCamera:RadialDistortParam2="-1.333931"
+        stCamera:RadialDistortParam3="-3.014194">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999507"
+        stCamera:RadialDistortParam1="0.012435"
+        stCamera:RadialDistortParam2="-1.150315"
+        stCamera:RadialDistortParam3="27.307966"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.751362"
+        stCamera:RadialDistortParam2="-1.333931"
+        stCamera:RadialDistortParam3="-3.014194"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999922"
+        stCamera:RadialDistortParam1="-0.016147"
+        stCamera:RadialDistortParam2="2.722135"
+        stCamera:RadialDistortParam3="-92.988762"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003711"
+        stCamera:VignetteModelParam1="4.121054"
+        stCamera:VignetteModelParam2="-2843.838623"
+        stCamera:VignetteModelParam3="87157.414063"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.369762"
+        stCamera:RadialDistortParam2="2.734245"
+        stCamera:RadialDistortParam3="58.515911">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000312"
+        stCamera:RadialDistortParam1="-0.025972"
+        stCamera:RadialDistortParam2="1.853275"
+        stCamera:RadialDistortParam3="-72.468002"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.369762"
+        stCamera:RadialDistortParam2="2.734245"
+        stCamera:RadialDistortParam3="58.515911"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999733"
+        stCamera:RadialDistortParam1="0.034673"
+        stCamera:RadialDistortParam2="-1.672832"
+        stCamera:RadialDistortParam3="52.806427"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003593"
+        stCamera:VignetteModelParam1="9.14856"
+        stCamera:VignetteModelParam2="-5333.848633"
+        stCamera:VignetteModelParam3="189718.15625"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.369052"
+        stCamera:RadialDistortParam2="2.596122"
+        stCamera:RadialDistortParam3="52.147179">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000265"
+        stCamera:RadialDistortParam1="-0.023"
+        stCamera:RadialDistortParam2="1.653633"
+        stCamera:RadialDistortParam3="-65.188606"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.369052"
+        stCamera:RadialDistortParam2="2.596122"
+        stCamera:RadialDistortParam3="52.147179"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999759"
+        stCamera:RadialDistortParam1="0.0286"
+        stCamera:RadialDistortParam2="-1.153315"
+        stCamera:RadialDistortParam3="36.558575"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003699"
+        stCamera:VignetteModelParam1="8.484137"
+        stCamera:VignetteModelParam2="-5123.134766"
+        stCamera:VignetteModelParam3="181362.140625"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.366441"
+        stCamera:RadialDistortParam2="2.315393"
+        stCamera:RadialDistortParam3="47.896469">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000217"
+        stCamera:RadialDistortParam1="-0.019787"
+        stCamera:RadialDistortParam2="1.50761"
+        stCamera:RadialDistortParam3="-63.165318"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.366441"
+        stCamera:RadialDistortParam2="2.315393"
+        stCamera:RadialDistortParam3="47.896469"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999785"
+        stCamera:RadialDistortParam1="0.024355"
+        stCamera:RadialDistortParam2="-0.88563"
+        stCamera:RadialDistortParam3="29.460348"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003916"
+        stCamera:VignetteModelParam1="7.995173"
+        stCamera:VignetteModelParam2="-4982.936035"
+        stCamera:VignetteModelParam3="177815.578125"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="1.2"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.363558"
+        stCamera:RadialDistortParam2="2.051691"
+        stCamera:RadialDistortParam3="39.031601">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000173"
+        stCamera:RadialDistortParam1="-0.019282"
+        stCamera:RadialDistortParam2="1.656677"
+        stCamera:RadialDistortParam3="-69.951195"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.363558"
+        stCamera:RadialDistortParam2="2.051691"
+        stCamera:RadialDistortParam3="39.031601"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999812"
+        stCamera:RadialDistortParam1="0.019796"
+        stCamera:RadialDistortParam2="-0.629016"
+        stCamera:RadialDistortParam3="23.983494"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.004014"
+        stCamera:VignetteModelParam1="8.141799"
+        stCamera:VignetteModelParam2="-4945.111328"
+        stCamera:VignetteModelParam3="178560.96875"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.361691"
+        stCamera:RadialDistortParam2="1.63189"
+        stCamera:RadialDistortParam3="33.328232">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000109"
+        stCamera:RadialDistortParam1="-0.01187"
+        stCamera:RadialDistortParam2="0.79778"
+        stCamera:RadialDistortParam3="-34.427509"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.361691"
+        stCamera:RadialDistortParam2="1.63189"
+        stCamera:RadialDistortParam3="33.328232"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999843"
+        stCamera:RadialDistortParam1="0.016272"
+        stCamera:RadialDistortParam2="-0.555304"
+        stCamera:RadialDistortParam3="25.279732"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.004116"
+        stCamera:VignetteModelParam1="8.519385"
+        stCamera:VignetteModelParam2="-4938.419434"
+        stCamera:VignetteModelParam3="179974.96875"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.8"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.365922"
+        stCamera:RadialDistortParam2="0.951058"
+        stCamera:RadialDistortParam3="21.835358">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000018"
+        stCamera:RadialDistortParam1="-0.011924"
+        stCamera:RadialDistortParam2="1.307865"
+        stCamera:RadialDistortParam3="-57.35783"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.365922"
+        stCamera:RadialDistortParam2="0.951058"
+        stCamera:RadialDistortParam3="21.835358"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99989"
+        stCamera:RadialDistortParam1="0.010927"
+        stCamera:RadialDistortParam2="-0.377379"
+        stCamera:RadialDistortParam3="21.548967"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00406"
+        stCamera:VignetteModelParam1="8.773922"
+        stCamera:VignetteModelParam2="-4856.015625"
+        stCamera:VignetteModelParam3="176329.53125"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.380409"
+        stCamera:RadialDistortParam2="0.423273"
+        stCamera:RadialDistortParam3="14.315701">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999943"
+        stCamera:RadialDistortParam1="-0.011833"
+        stCamera:RadialDistortParam2="1.70476"
+        stCamera:RadialDistortParam3="-76.694214"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.380409"
+        stCamera:RadialDistortParam2="0.423273"
+        stCamera:RadialDistortParam3="14.315701"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999924"
+        stCamera:RadialDistortParam1="0.00799"
+        stCamera:RadialDistortParam2="-0.441078"
+        stCamera:RadialDistortParam3="29.016237"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.004084"
+        stCamera:VignetteModelParam1="8.561759"
+        stCamera:VignetteModelParam2="-4663.887695"
+        stCamera:VignetteModelParam3="166380.53125"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.61"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.411708"
+        stCamera:RadialDistortParam2="-0.207377"
+        stCamera:RadialDistortParam3="4.492683">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999834"
+        stCamera:RadialDistortParam1="-0.001529"
+        stCamera:RadialDistortParam2="0.624583"
+        stCamera:RadialDistortParam3="-35.272587"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.411708"
+        stCamera:RadialDistortParam2="-0.207377"
+        stCamera:RadialDistortParam3="4.492683"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999945"
+        stCamera:RadialDistortParam1="-0.000458"
+        stCamera:RadialDistortParam2="0.491608"
+        stCamera:RadialDistortParam3="-6.793941"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003875"
+        stCamera:VignetteModelParam1="8.010373"
+        stCamera:VignetteModelParam2="-4506.90625"
+        stCamera:VignetteModelParam3="160640.640625"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="5.655638">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.363208"
+        stCamera:RadialDistortParam2="2.897268"
+        stCamera:RadialDistortParam3="60.315701">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000456"
+        stCamera:RadialDistortParam1="-0.03095"
+        stCamera:RadialDistortParam2="0.631539"
+        stCamera:RadialDistortParam3="5.879129"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.363208"
+        stCamera:RadialDistortParam2="2.897268"
+        stCamera:RadialDistortParam3="60.315701"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999619"
+        stCamera:RadialDistortParam1="0.039536"
+        stCamera:RadialDistortParam2="-0.938339"
+        stCamera:RadialDistortParam3="10.510826"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.007778"
+         stCamera:VignetteModelParam1="3.95442"
+         stCamera:VignetteModelParam2="-1036.792969"
+         stCamera:VignetteModelParam3="-75994.273438">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.075827, 0.986500</rdf:li>
+          <rdf:li>0.083424, 0.973000</rdf:li>
+          <rdf:li>0.090352, 0.930500</rdf:li>
+          <rdf:li>0.099697, 0.850600</rdf:li>
+          <rdf:li>0.120891, 0.630000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.55"
+       stCamera:ApertureValue="5.655638">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.456634"
+        stCamera:RadialDistortParam2="-0.861459"
+        stCamera:RadialDistortParam3="-1.083598">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999688"
+        stCamera:RadialDistortParam1="-0.003651"
+        stCamera:RadialDistortParam2="0.911573"
+        stCamera:RadialDistortParam3="-40.852863"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.456634"
+        stCamera:RadialDistortParam2="-0.861459"
+        stCamera:RadialDistortParam3="-1.083598"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000013"
+        stCamera:RadialDistortParam1="-0.000422"
+        stCamera:RadialDistortParam2="-0.727407"
+        stCamera:RadialDistortParam3="51.360924"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.00283"
+         stCamera:VignetteModelParam1="-5.192598"
+         stCamera:VignetteModelParam2="1019.215942"
+         stCamera:VignetteModelParam3="-125993.101563">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.090543, 0.966800</rdf:li>
+          <rdf:li>0.103523, 0.900100</rdf:li>
+          <rdf:li>0.120937, 0.767000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="5.655638">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.54425"
+        stCamera:RadialDistortParam2="-1.438769"
+        stCamera:RadialDistortParam3="-4.966707">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999572"
+        stCamera:RadialDistortParam1="0.000768"
+        stCamera:RadialDistortParam2="1.140096"
+        stCamera:RadialDistortParam3="-66.210037"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.54425"
+        stCamera:RadialDistortParam2="-1.438769"
+        stCamera:RadialDistortParam3="-4.966707"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999999"
+        stCamera:RadialDistortParam1="-0.006369"
+        stCamera:RadialDistortParam2="-0.466213"
+        stCamera:RadialDistortParam3="47.699028"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.002488"
+         stCamera:VignetteModelParam1="-5.776725"
+         stCamera:VignetteModelParam2="1058.156616"
+         stCamera:VignetteModelParam3="-118601.046875">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.090931, 0.967200</rdf:li>
+          <rdf:li>0.103940, 0.906600</rdf:li>
+          <rdf:li>0.121073, 0.786000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.46"
+       stCamera:ApertureValue="5.655638">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.751362"
+        stCamera:RadialDistortParam2="-1.333931"
+        stCamera:RadialDistortParam3="-3.014194">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999368"
+        stCamera:RadialDistortParam1="0.008746"
+        stCamera:RadialDistortParam2="0.100324"
+        stCamera:RadialDistortParam3="-20.004446"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.751362"
+        stCamera:RadialDistortParam2="-1.333931"
+        stCamera:RadialDistortParam3="-3.014194"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000081"
+        stCamera:RadialDistortParam1="-0.00332"
+        stCamera:RadialDistortParam2="-1.093396"
+        stCamera:RadialDistortParam3="61.677006"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00197"
+        stCamera:VignetteModelParam1="-7.664121"
+        stCamera:VignetteModelParam2="1191.709595"
+        stCamera:VignetteModelParam3="-91664.90625"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="5.655638">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.369762"
+        stCamera:RadialDistortParam2="2.734245"
+        stCamera:RadialDistortParam3="58.515911">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000371"
+        stCamera:RadialDistortParam1="-0.029473"
+        stCamera:RadialDistortParam2="0.860987"
+        stCamera:RadialDistortParam3="-8.539886"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.369762"
+        stCamera:RadialDistortParam2="2.734245"
+        stCamera:RadialDistortParam3="58.515911"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999673"
+        stCamera:RadialDistortParam1="0.031699"
+        stCamera:RadialDistortParam2="-0.281439"
+        stCamera:RadialDistortParam3="-14.232343"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.006323"
+         stCamera:VignetteModelParam1="-0.050292"
+         stCamera:VignetteModelParam2="210.5159"
+         stCamera:VignetteModelParam3="-134809.796875">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.086268, 0.975400</rdf:li>
+          <rdf:li>0.092994, 0.936200</rdf:li>
+          <rdf:li>0.101366, 0.863600</rdf:li>
+          <rdf:li>0.120898, 0.656000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="5.655638">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.369052"
+        stCamera:RadialDistortParam2="2.596122"
+        stCamera:RadialDistortParam3="52.147179">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.00032"
+        stCamera:RadialDistortParam1="-0.027868"
+        stCamera:RadialDistortParam2="0.765955"
+        stCamera:RadialDistortParam3="-2.091016"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.369052"
+        stCamera:RadialDistortParam2="2.596122"
+        stCamera:RadialDistortParam3="52.147179"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999709"
+        stCamera:RadialDistortParam1="0.027919"
+        stCamera:RadialDistortParam2="-0.160795"
+        stCamera:RadialDistortParam3="-15.650055"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.005432"
+         stCamera:VignetteModelParam1="-1.251018"
+         stCamera:VignetteModelParam2="510.124695"
+         stCamera:VignetteModelParam3="-145361.65625">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.086681, 0.974500</rdf:li>
+          <rdf:li>0.093852, 0.935500</rdf:li>
+          <rdf:li>0.101957, 0.868800</rdf:li>
+          <rdf:li>0.120891, 0.667000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="5.655638">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.366441"
+        stCamera:RadialDistortParam2="2.315393"
+        stCamera:RadialDistortParam3="47.896469">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000257"
+        stCamera:RadialDistortParam1="-0.024697"
+        stCamera:RadialDistortParam2="0.697667"
+        stCamera:RadialDistortParam3="-3.141817"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.366441"
+        stCamera:RadialDistortParam2="2.315393"
+        stCamera:RadialDistortParam3="47.896469"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999746"
+        stCamera:RadialDistortParam1="0.024486"
+        stCamera:RadialDistortParam2="-0.021254"
+        stCamera:RadialDistortParam3="-19.767216"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.004724"
+         stCamera:VignetteModelParam1="-1.934075"
+         stCamera:VignetteModelParam2="653.51355"
+         stCamera:VignetteModelParam3="-146430.203125">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.086974, 0.974700</rdf:li>
+          <rdf:li>0.094796, 0.933100</rdf:li>
+          <rdf:li>0.103408, 0.864500</rdf:li>
+          <rdf:li>0.120878, 0.681000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="1.2"
+       stCamera:ApertureValue="5.655638">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.363558"
+        stCamera:RadialDistortParam2="2.051691"
+        stCamera:RadialDistortParam3="39.031601">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000197"
+        stCamera:RadialDistortParam1="-0.021137"
+        stCamera:RadialDistortParam2="0.449793"
+        stCamera:RadialDistortParam3="5.753138"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.363558"
+        stCamera:RadialDistortParam2="2.051691"
+        stCamera:RadialDistortParam3="39.031601"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999783"
+        stCamera:RadialDistortParam1="0.02246"
+        stCamera:RadialDistortParam2="-0.244574"
+        stCamera:RadialDistortParam3="-4.604107"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.004275"
+         stCamera:VignetteModelParam1="-2.425612"
+         stCamera:VignetteModelParam2="716.575256"
+         stCamera:VignetteModelParam3="-141405.921875">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.088125, 0.971700</rdf:li>
+          <rdf:li>0.094792, 0.938500</rdf:li>
+          <rdf:li>0.103727, 0.870100</rdf:li>
+          <rdf:li>0.120863, 0.700000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="5.655638">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.361691"
+        stCamera:RadialDistortParam2="1.63189"
+        stCamera:RadialDistortParam3="33.328232">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000127"
+        stCamera:RadialDistortParam1="-0.01936"
+        stCamera:RadialDistortParam2="0.644364"
+        stCamera:RadialDistortParam3="-6.749375"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.361691"
+        stCamera:RadialDistortParam2="1.63189"
+        stCamera:RadialDistortParam3="33.328232"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999827"
+        stCamera:RadialDistortParam1="0.018689"
+        stCamera:RadialDistortParam2="-0.169394"
+        stCamera:RadialDistortParam3="-5.041534"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003843"
+         stCamera:VignetteModelParam1="-2.966833"
+         stCamera:VignetteModelParam2="781.289551"
+         stCamera:VignetteModelParam3="-137361.421875">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.087825, 0.973100</rdf:li>
+          <rdf:li>0.102769, 0.886300</rdf:li>
+          <rdf:li>0.120847, 0.718000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.8"
+       stCamera:ApertureValue="5.655638">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.365922"
+        stCamera:RadialDistortParam2="0.951058"
+        stCamera:RadialDistortParam3="21.835358">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000011"
+        stCamera:RadialDistortParam1="-0.015376"
+        stCamera:RadialDistortParam2="0.632715"
+        stCamera:RadialDistortParam3="-7.237454"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.365922"
+        stCamera:RadialDistortParam2="0.951058"
+        stCamera:RadialDistortParam3="21.835358"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999898"
+        stCamera:RadialDistortParam1="0.014262"
+        stCamera:RadialDistortParam2="-0.374698"
+        stCamera:RadialDistortParam3="9.536162"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003571"
+         stCamera:VignetteModelParam1="-3.305304"
+         stCamera:VignetteModelParam2="779.585388"
+         stCamera:VignetteModelParam3="-129078.742188">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.088949, 0.970400</rdf:li>
+          <rdf:li>0.102230, 0.896400</rdf:li>
+          <rdf:li>0.120833, 0.738000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="5.655638">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.380409"
+        stCamera:RadialDistortParam2="0.423273"
+        stCamera:RadialDistortParam3="14.315701">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999912"
+        stCamera:RadialDistortParam1="-0.011655"
+        stCamera:RadialDistortParam2="0.626165"
+        stCamera:RadialDistortParam3="-12.747838"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.380409"
+        stCamera:RadialDistortParam2="0.423273"
+        stCamera:RadialDistortParam3="14.315701"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999959"
+        stCamera:RadialDistortParam1="0.007019"
+        stCamera:RadialDistortParam2="0.058097"
+        stCamera:RadialDistortParam3="-4.052079"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003144"
+         stCamera:VignetteModelParam1="-4.322512"
+         stCamera:VignetteModelParam2="980.648987"
+         stCamera:VignetteModelParam3="-133954.078125">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.089814, 0.969600</rdf:li>
+          <rdf:li>0.103308, 0.895600</rdf:li>
+          <rdf:li>0.120842, 0.749000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.61"
+       stCamera:ApertureValue="5.655638">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.411708"
+        stCamera:RadialDistortParam2="-0.207377"
+        stCamera:RadialDistortParam3="4.492683">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999791"
+        stCamera:RadialDistortParam1="-0.006624"
+        stCamera:RadialDistortParam2="0.536055"
+        stCamera:RadialDistortParam3="-13.115246"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.411708"
+        stCamera:RadialDistortParam2="-0.207377"
+        stCamera:RadialDistortParam3="4.492683"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000006"
+        stCamera:RadialDistortParam1="0.002959"
+        stCamera:RadialDistortParam2="-0.237702"
+        stCamera:RadialDistortParam3="16.72945"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.002957"
+         stCamera:VignetteModelParam1="-5.230201"
+         stCamera:VignetteModelParam2="1114.938477"
+         stCamera:VignetteModelParam3="-135415.265625">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.090307, 0.969300</rdf:li>
+          <rdf:li>0.103928, 0.896700</rdf:li>
+          <rdf:li>0.120877, 0.759000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="6.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.363208"
+        stCamera:RadialDistortParam2="2.897268"
+        stCamera:RadialDistortParam3="60.315701">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000476"
+        stCamera:RadialDistortParam1="-0.019871"
+        stCamera:RadialDistortParam2="-1.278677"
+        stCamera:RadialDistortParam3="72.831085"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.363208"
+        stCamera:RadialDistortParam2="2.897268"
+        stCamera:RadialDistortParam3="60.315701"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999591"
+        stCamera:RadialDistortParam1="0.027262"
+        stCamera:RadialDistortParam2="1.20806"
+        stCamera:RadialDistortParam3="-69.624626"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.004771"
+        stCamera:VignetteModelParam1="-10.719687"
+        stCamera:VignetteModelParam2="3195.075684"
+        stCamera:VignetteModelParam3="-263740.40625"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.55"
+       stCamera:ApertureValue="6.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.456634"
+        stCamera:RadialDistortParam2="-0.861459"
+        stCamera:RadialDistortParam3="-1.083598">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999642"
+        stCamera:RadialDistortParam1="0.000463"
+        stCamera:RadialDistortParam2="0.203052"
+        stCamera:RadialDistortParam3="-11.650443"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.456634"
+        stCamera:RadialDistortParam2="-0.861459"
+        stCamera:RadialDistortParam3="-1.083598"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000062"
+        stCamera:RadialDistortParam1="-0.002094"
+        stCamera:RadialDistortParam2="-0.060221"
+        stCamera:RadialDistortParam3="-0.017516"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.002566"
+         stCamera:VignetteModelParam1="-6.818984"
+         stCamera:VignetteModelParam2="954.005188"
+         stCamera:VignetteModelParam3="-63756.230469">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.053552, 0.989200</rdf:li>
+          <rdf:li>0.106946, 0.958200</rdf:li>
+          <rdf:li>0.114188, 0.938600</rdf:li>
+          <rdf:li>0.120937, 0.886000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="6.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.54425"
+        stCamera:RadialDistortParam2="-1.438769"
+        stCamera:RadialDistortParam3="-4.966707">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999505"
+        stCamera:RadialDistortParam1="0.010437"
+        stCamera:RadialDistortParam2="-0.771906"
+        stCamera:RadialDistortParam3="31.828318"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.54425"
+        stCamera:RadialDistortParam2="-1.438769"
+        stCamera:RadialDistortParam3="-4.966707"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000064"
+        stCamera:RadialDistortParam1="-0.002251"
+        stCamera:RadialDistortParam2="-0.975432"
+        stCamera:RadialDistortParam3="42.908356"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001603"
+        stCamera:VignetteModelParam1="-5.838328"
+        stCamera:VignetteModelParam2="574.246826"
+        stCamera:VignetteModelParam3="-37082.871094"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.46"
+       stCamera:ApertureValue="6.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.751362"
+        stCamera:RadialDistortParam2="-1.333931"
+        stCamera:RadialDistortParam3="-3.014194">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999303"
+        stCamera:RadialDistortParam1="0.009678"
+        stCamera:RadialDistortParam2="-0.374028"
+        stCamera:RadialDistortParam3="13.836046"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.751362"
+        stCamera:RadialDistortParam2="-1.333931"
+        stCamera:RadialDistortParam3="-3.014194"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000167"
+        stCamera:RadialDistortParam1="-0.005903"
+        stCamera:RadialDistortParam2="-0.442572"
+        stCamera:RadialDistortParam3="13.893622"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000231"
+        stCamera:VignetteModelParam1="-4.462061"
+        stCamera:VignetteModelParam2="13.479375"
+        stCamera:VignetteModelParam3="101.412811"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.369762"
+        stCamera:RadialDistortParam2="2.734245"
+        stCamera:RadialDistortParam3="58.515911">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000379"
+        stCamera:RadialDistortParam1="-0.016688"
+        stCamera:RadialDistortParam2="-1.310132"
+        stCamera:RadialDistortParam3="71.767616"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.369762"
+        stCamera:RadialDistortParam2="2.734245"
+        stCamera:RadialDistortParam3="58.515911"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999656"
+        stCamera:RadialDistortParam1="0.022123"
+        stCamera:RadialDistortParam2="1.263893"
+        stCamera:RadialDistortParam3="-66.382523"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.005382"
+        stCamera:VignetteModelParam1="-11.335285"
+        stCamera:VignetteModelParam2="3182.865967"
+        stCamera:VignetteModelParam3="-245059.890625"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="6.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.369052"
+        stCamera:RadialDistortParam2="2.596122"
+        stCamera:RadialDistortParam3="52.147179">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000318"
+        stCamera:RadialDistortParam1="-0.014016"
+        stCamera:RadialDistortParam2="-1.385898"
+        stCamera:RadialDistortParam3="73.296265"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.369052"
+        stCamera:RadialDistortParam2="2.596122"
+        stCamera:RadialDistortParam3="52.147179"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999695"
+        stCamera:RadialDistortParam1="0.02016"
+        stCamera:RadialDistortParam2="1.079456"
+        stCamera:RadialDistortParam3="-55.832855"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.005648"
+        stCamera:VignetteModelParam1="-11.63079"
+        stCamera:VignetteModelParam2="3150.158203"
+        stCamera:VignetteModelParam3="-235202.09375"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="6.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.366441"
+        stCamera:RadialDistortParam2="2.315393"
+        stCamera:RadialDistortParam3="47.896469">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000259"
+        stCamera:RadialDistortParam1="-0.014957"
+        stCamera:RadialDistortParam2="-0.951204"
+        stCamera:RadialDistortParam3="55.503136"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.366441"
+        stCamera:RadialDistortParam2="2.315393"
+        stCamera:RadialDistortParam3="47.896469"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999737"
+        stCamera:RadialDistortParam1="0.018317"
+        stCamera:RadialDistortParam2="0.922733"
+        stCamera:RadialDistortParam3="-47.620689"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.005591"
+        stCamera:VignetteModelParam1="-11.214558"
+        stCamera:VignetteModelParam2="2926.126465"
+        stCamera:VignetteModelParam3="-214413.125"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="1.2"
+       stCamera:ApertureValue="6.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.363558"
+        stCamera:RadialDistortParam2="2.051691"
+        stCamera:RadialDistortParam3="39.031601">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000195"
+        stCamera:RadialDistortParam1="-0.014183"
+        stCamera:RadialDistortParam2="-0.650782"
+        stCamera:RadialDistortParam3="38.44912"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.363558"
+        stCamera:RadialDistortParam2="2.051691"
+        stCamera:RadialDistortParam3="39.031601"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999782"
+        stCamera:RadialDistortParam1="0.015408"
+        stCamera:RadialDistortParam2="0.876116"
+        stCamera:RadialDistortParam3="-43.424896"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.005305"
+         stCamera:VignetteModelParam1="-10.303803"
+         stCamera:VignetteModelParam2="2549.248291"
+         stCamera:VignetteModelParam3="-184021.296875">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.102955, 0.970300</rdf:li>
+          <rdf:li>0.111226, 0.924200</rdf:li>
+          <rdf:li>0.120863, 0.803000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.361691"
+        stCamera:RadialDistortParam2="1.63189"
+        stCamera:RadialDistortParam3="33.328232">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000122"
+        stCamera:RadialDistortParam1="-0.013651"
+        stCamera:RadialDistortParam2="-0.325113"
+        stCamera:RadialDistortParam3="23.233604"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.361691"
+        stCamera:RadialDistortParam2="1.63189"
+        stCamera:RadialDistortParam3="33.328232"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99983"
+        stCamera:RadialDistortParam1="0.013717"
+        stCamera:RadialDistortParam2="0.587754"
+        stCamera:RadialDistortParam3="-28.867033"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.004548"
+        stCamera:VignetteModelParam1="-9.351224"
+        stCamera:VignetteModelParam2="2153.624023"
+        stCamera:VignetteModelParam3="-153297.375"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.8"
+       stCamera:ApertureValue="6.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.365922"
+        stCamera:RadialDistortParam2="0.951058"
+        stCamera:RadialDistortParam3="21.835358">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999994"
+        stCamera:RadialDistortParam1="-0.00999"
+        stCamera:RadialDistortParam2="-0.222887"
+        stCamera:RadialDistortParam3="17.248957"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.365922"
+        stCamera:RadialDistortParam2="0.951058"
+        stCamera:RadialDistortParam3="21.835358"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999909"
+        stCamera:RadialDistortParam1="0.010979"
+        stCamera:RadialDistortParam2="0.181677"
+        stCamera:RadialDistortParam3="-10.171535"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003947"
+         stCamera:VignetteModelParam1="-8.18559"
+         stCamera:VignetteModelParam2="1684.916138"
+         stCamera:VignetteModelParam3="-118189.8125">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.105586, 0.965700</rdf:li>
+          <rdf:li>0.112219, 0.937000</rdf:li>
+          <rdf:li>0.120833, 0.854000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="6.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.380409"
+        stCamera:RadialDistortParam2="0.423273"
+        stCamera:RadialDistortParam3="14.315701">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999891"
+        stCamera:RadialDistortParam1="-0.0076"
+        stCamera:RadialDistortParam2="-0.023064"
+        stCamera:RadialDistortParam3="5.146412"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.380409"
+        stCamera:RadialDistortParam2="0.423273"
+        stCamera:RadialDistortParam3="14.315701"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999976"
+        stCamera:RadialDistortParam1="0.006258"
+        stCamera:RadialDistortParam2="0.254803"
+        stCamera:RadialDistortParam3="-11.869126"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003539"
+         stCamera:VignetteModelParam1="-7.770243"
+         stCamera:VignetteModelParam2="1454.335205"
+         stCamera:VignetteModelParam3="-99987.40625">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.106725, 0.964000</rdf:li>
+          <rdf:li>0.112705, 0.939400</rdf:li>
+          <rdf:li>0.120842, 0.867000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="183"
+       stCamera:Lens="180mm"
+       stCamera:LensInfo="180/1 180/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO MACRO 180mm F3.5 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO MACRO 180mm F3.5 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="180"
+       stCamera:FocusDistance="0.61"
+       stCamera:ApertureValue="6.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.411708"
+        stCamera:RadialDistortParam2="-0.207377"
+        stCamera:RadialDistortParam3="4.492683">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99976"
+        stCamera:RadialDistortParam1="-0.003435"
+        stCamera:RadialDistortParam2="0.016367"
+        stCamera:RadialDistortParam3="2.617737"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.411708"
+        stCamera:RadialDistortParam2="-0.207377"
+        stCamera:RadialDistortParam3="4.492683"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000035"
+        stCamera:RadialDistortParam1="0.003523"
+        stCamera:RadialDistortParam2="-0.184803"
+        stCamera:RadialDistortParam3="8.702688"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003084"
+         stCamera:VignetteModelParam1="-7.286871"
+         stCamera:VignetteModelParam2="1179.970093"
+         stCamera:VignetteModelParam3="-79558.59375">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.107169, 0.961300</rdf:li>
+          <rdf:li>0.113719, 0.938000</rdf:li>
+          <rdf:li>0.120877, 0.878000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

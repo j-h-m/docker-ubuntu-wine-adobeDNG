@@ -1,0 +1,40 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156380, 2014/05/21-23:38:37        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="DxO"
+       stCamera:Model="DxO ONE"
+       stCamera:UniqueCameraModel="DXO ONE"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="DxO ONE"
+       stCamera:LensPrettyName="DxO ONE"
+       stCamera:ProfileName="Adobe (DxO ONE)"
+       stCamera:SensorFormatFactor="2.7"
+       stCamera:ImageWidth="5544"
+       stCamera:ImageLength="3694"
+       stCamera:FocalLength="11.87"
+       stCamera:FocusDistance="2.223327"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.887719"
+       stCamera:FocalLengthY="0.887719"
+       stCamera:ImageXCenter="0.496488"
+       stCamera:ImageYCenter="0.505912"
+       stCamera:ResidualMeanError="0.000171"
+       stCamera:ResidualStandardDeviation="0.000098"
+       stCamera:RadialDistortParam1="0.143499"
+       stCamera:RadialDistortParam2="-0.212916"/>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

@@ -1,0 +1,1342 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="41"
+       stCamera:Lens="DT 11-18mm F4.5-5.6"
+       stCamera:LensInfo="11/1 18/1 45/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 11-18mm F4.5-5.6"
+       stCamera:ProfileName="Adobe (Sony DT 11-18mm F4.5-5.6)"
+       stCamera:SensorFormatFactor="1.454545"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocalLength="11"
+       stCamera:FocusDistance="1.160917"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.473541"
+       stCamera:FocalLengthY="0.473541"
+       stCamera:ResidualMeanError="0.001206"
+       stCamera:ResidualStandardDeviation="0.002733"
+       stCamera:RadialDistortParam1="-0.087031"
+       stCamera:RadialDistortParam2="0.064035"
+       stCamera:RadialDistortParam3="-0.016458"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="41"
+       stCamera:Lens="DT 11-18mm F4.5-5.6"
+       stCamera:LensInfo="11/1 18/1 45/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 11-18mm F4.5-5.6"
+       stCamera:ProfileName="Adobe (Sony DT 11-18mm F4.5-5.6)"
+       stCamera:SensorFormatFactor="1.454545"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocalLength="12"
+       stCamera:FocusDistance="1.261149"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.500925"
+        stCamera:FocalLengthY="0.500925"
+        stCamera:ResidualMeanError="0.000213"
+        stCamera:ResidualStandardDeviation="0.000135"
+        stCamera:RadialDistortParam1="-0.066479"
+        stCamera:RadialDistortParam2="0.031066">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.500889"
+        stCamera:FocalLengthY="0.500889"
+        stCamera:ResidualMeanError="0.000205"
+        stCamera:ResidualStandardDeviation="0.000132"
+        stCamera:ScaleFactor="1.000247"
+        stCamera:RadialDistortParam1="0.000752"
+        stCamera:RadialDistortParam2="-0.000406"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.500889"
+        stCamera:FocalLengthY="0.500889"
+        stCamera:ResidualMeanError="0.000206"
+        stCamera:ResidualStandardDeviation="0.00013"
+        stCamera:RadialDistortParam1="-0.066362"
+        stCamera:RadialDistortParam2="0.031043"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.500889"
+        stCamera:FocalLengthY="0.500889"
+        stCamera:ResidualMeanError="0.000209"
+        stCamera:ResidualStandardDeviation="0.000131"
+        stCamera:ScaleFactor="1.000277"
+        stCamera:RadialDistortParam1="-0.000957"
+        stCamera:RadialDistortParam2="0.000492"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="41"
+       stCamera:Lens="DT 11-18mm F4.5-5.6"
+       stCamera:LensInfo="11/1 18/1 45/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 11-18mm F4.5-5.6"
+       stCamera:ProfileName="Adobe (Sony DT 11-18mm F4.5-5.6)"
+       stCamera:SensorFormatFactor="1.454545"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocalLength="15"
+       stCamera:FocusDistance="1.44739"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.577895"
+        stCamera:FocalLengthY="0.577895"
+        stCamera:ResidualMeanError="0.000176"
+        stCamera:ResidualStandardDeviation="0.000103"
+        stCamera:RadialDistortParam1="-0.069542"
+        stCamera:RadialDistortParam2="0.042849">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.577844"
+        stCamera:FocalLengthY="0.577844"
+        stCamera:ResidualMeanError="0.000169"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:ScaleFactor="1.00021"
+        stCamera:RadialDistortParam1="0.000734"
+        stCamera:RadialDistortParam2="-0.000396"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.577844"
+        stCamera:FocalLengthY="0.577844"
+        stCamera:ResidualMeanError="0.000169"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069481"
+        stCamera:RadialDistortParam2="0.042875"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.577844"
+        stCamera:FocalLengthY="0.577844"
+        stCamera:ResidualMeanError="0.000173"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:ScaleFactor="1.000272"
+        stCamera:RadialDistortParam1="-0.000835"
+        stCamera:RadialDistortParam2="0.00034"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="41"
+       stCamera:Lens="DT 11-18mm F4.5-5.6"
+       stCamera:LensInfo="11/1 18/1 45/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 11-18mm F4.5-5.6"
+       stCamera:ProfileName="Adobe (Sony DT 11-18mm F4.5-5.6)"
+       stCamera:SensorFormatFactor="1.454545"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocalLength="16"
+       stCamera:FocusDistance="1.684334"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.669282"
+        stCamera:FocalLengthY="0.669282"
+        stCamera:ResidualMeanError="0.000149"
+        stCamera:ResidualStandardDeviation="0.000087"
+        stCamera:RadialDistortParam1="-0.054776"
+        stCamera:RadialDistortParam2="0.048364">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.669196"
+        stCamera:FocalLengthY="0.669196"
+        stCamera:ResidualMeanError="0.000135"
+        stCamera:ResidualStandardDeviation="0.000079"
+        stCamera:ScaleFactor="1.000259"
+        stCamera:RadialDistortParam1="0.000749"
+        stCamera:RadialDistortParam2="-0.000335"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.669196"
+        stCamera:FocalLengthY="0.669196"
+        stCamera:ResidualMeanError="0.000135"
+        stCamera:ResidualStandardDeviation="0.000078"
+        stCamera:RadialDistortParam1="-0.054678"
+        stCamera:RadialDistortParam2="0.048325"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.669196"
+        stCamera:FocalLengthY="0.669196"
+        stCamera:ResidualMeanError="0.000137"
+        stCamera:ResidualStandardDeviation="0.000079"
+        stCamera:ScaleFactor="1.000138"
+        stCamera:RadialDistortParam1="-0.00091"
+        stCamera:RadialDistortParam2="0.000351"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="41"
+       stCamera:Lens="DT 11-18mm F4.5-5.6"
+       stCamera:LensInfo="11/1 18/1 45/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 11-18mm F4.5-5.6"
+       stCamera:ProfileName="Adobe (Sony DT 11-18mm F4.5-5.6)"
+       stCamera:SensorFormatFactor="1.454545"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="1.783955"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.733971"
+        stCamera:FocalLengthY="0.733971"
+        stCamera:ResidualMeanError="0.000161"
+        stCamera:ResidualStandardDeviation="0.000096"
+        stCamera:RadialDistortParam1="-0.054514"
+        stCamera:RadialDistortParam2="0.060994">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.733874"
+        stCamera:FocalLengthY="0.733874"
+        stCamera:ResidualMeanError="0.000139"
+        stCamera:ResidualStandardDeviation="0.000081"
+        stCamera:ScaleFactor="1.000349"
+        stCamera:RadialDistortParam1="0.00089"
+        stCamera:RadialDistortParam2="-0.000476"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.733874"
+        stCamera:FocalLengthY="0.733874"
+        stCamera:ResidualMeanError="0.000139"
+        stCamera:ResidualStandardDeviation="0.000081"
+        stCamera:RadialDistortParam1="-0.054504"
+        stCamera:RadialDistortParam2="0.061094"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.733874"
+        stCamera:FocalLengthY="0.733874"
+        stCamera:ResidualMeanError="0.00014"
+        stCamera:ResidualStandardDeviation="0.000081"
+        stCamera:ScaleFactor="0.999945"
+        stCamera:RadialDistortParam1="-0.000846"
+        stCamera:RadialDistortParam2="0.000032"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="41"
+       stCamera:Lens="DT 11-18mm F4.5-5.6"
+       stCamera:LensInfo="11/1 18/1 45/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 11-18mm F4.5-5.6"
+       stCamera:ProfileName="Adobe (Sony DT 11-18mm F4.5-5.6)"
+       stCamera:SensorFormatFactor="1.454545"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocalLength="11"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.33985">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.500889"
+        stCamera:FocalLengthY="0.500889"
+        stCamera:RadialDistortParam1="-0.066362"
+        stCamera:RadialDistortParam2="0.031043">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.500889"
+         stCamera:FocalLengthY="0.500889"
+         stCamera:VignetteModelParam1="-0.538845"
+         stCamera:VignetteModelParam2="0.303838"
+         stCamera:VignetteModelParam3="-0.106736">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.007808, 1.000000</rdf:li>
+          <rdf:li>0.130889, 0.990983</rdf:li>
+          <rdf:li>0.277272, 0.957288</rdf:li>
+          <rdf:li>0.479360, 0.888676</rdf:li>
+          <rdf:li>0.785526, 0.761883</rdf:li>
+          <rdf:li>0.921396, 0.693247</rdf:li>
+          <rdf:li>1.156478, 0.553911</rdf:li>
+          <rdf:li>1.178101, 0.534678</rdf:li>
+          <rdf:li>1.199741, 0.503597</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="41"
+       stCamera:Lens="DT 11-18mm F4.5-5.6"
+       stCamera:LensInfo="11/1 18/1 45/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 11-18mm F4.5-5.6"
+       stCamera:ProfileName="Adobe (Sony DT 11-18mm F4.5-5.6)"
+       stCamera:SensorFormatFactor="1.454545"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocalLength="11"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.500889"
+        stCamera:FocalLengthY="0.500889"
+        stCamera:RadialDistortParam1="-0.066362"
+        stCamera:RadialDistortParam2="0.031043">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.500889"
+         stCamera:FocalLengthY="0.500889"
+         stCamera:VignetteModelParam1="-0.355496"
+         stCamera:VignetteModelParam2="0.146438"
+         stCamera:VignetteModelParam3="-0.04266">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.007808, 1.000000</rdf:li>
+          <rdf:li>0.332466, 0.961973</rdf:li>
+          <rdf:li>0.692465, 0.859160</rdf:li>
+          <rdf:li>1.161212, 0.671925</rdf:li>
+          <rdf:li>1.199741, 0.634882</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="41"
+       stCamera:Lens="DT 11-18mm F4.5-5.6"
+       stCamera:LensInfo="11/1 18/1 45/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 11-18mm F4.5-5.6"
+       stCamera:ProfileName="Adobe (Sony DT 11-18mm F4.5-5.6)"
+       stCamera:SensorFormatFactor="1.454545"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocalLength="11"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.500889"
+        stCamera:FocalLengthY="0.500889"
+        stCamera:RadialDistortParam1="-0.066362"
+        stCamera:RadialDistortParam2="0.031043">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.500889"
+         stCamera:FocalLengthY="0.500889"
+         stCamera:VignetteModelParam1="-0.359554"
+         stCamera:VignetteModelParam2="0.140098"
+         stCamera:VignetteModelParam3="-0.034271">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.007808, 1.000000</rdf:li>
+          <rdf:li>0.275950, 0.971698</rdf:li>
+          <rdf:li>0.507050, 0.916860</rdf:li>
+          <rdf:li>0.796777, 0.821189</rdf:li>
+          <rdf:li>1.199741, 0.655950</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="41"
+       stCamera:Lens="DT 11-18mm F4.5-5.6"
+       stCamera:LensInfo="11/1 18/1 45/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 11-18mm F4.5-5.6"
+       stCamera:ProfileName="Adobe (Sony DT 11-18mm F4.5-5.6)"
+       stCamera:SensorFormatFactor="1.454545"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocalLength="11"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.500889"
+        stCamera:FocalLengthY="0.500889"
+        stCamera:RadialDistortParam1="-0.066362"
+        stCamera:RadialDistortParam2="0.031043">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.500889"
+         stCamera:FocalLengthY="0.500889"
+         stCamera:VignetteModelParam1="-0.374416"
+         stCamera:VignetteModelParam2="0.157035"
+         stCamera:VignetteModelParam3="-0.03958">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.007808, 1.000000</rdf:li>
+          <rdf:li>0.275950, 0.968693</rdf:li>
+          <rdf:li>0.509927, 0.913007</rdf:li>
+          <rdf:li>0.780855, 0.823955</rdf:li>
+          <rdf:li>1.199741, 0.653225</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="41"
+       stCamera:Lens="DT 11-18mm F4.5-5.6"
+       stCamera:LensInfo="11/1 18/1 45/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 11-18mm F4.5-5.6"
+       stCamera:ProfileName="Adobe (Sony DT 11-18mm F4.5-5.6)"
+       stCamera:SensorFormatFactor="1.454545"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocalLength="11"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.500889"
+        stCamera:FocalLengthY="0.500889"
+        stCamera:RadialDistortParam1="-0.066362"
+        stCamera:RadialDistortParam2="0.031043">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.500889"
+         stCamera:FocalLengthY="0.500889"
+         stCamera:VignetteModelParam1="-0.430053"
+         stCamera:VignetteModelParam2="0.230575"
+         stCamera:VignetteModelParam3="-0.066163">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.007808, 1.000000</rdf:li>
+          <rdf:li>0.418520, 0.927533</rdf:li>
+          <rdf:li>0.548408, 0.890785</rdf:li>
+          <rdf:li>0.828585, 0.795281</rdf:li>
+          <rdf:li>1.199741, 0.644639</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="41"
+       stCamera:Lens="DT 11-18mm F4.5-5.6"
+       stCamera:LensInfo="11/1 18/1 45/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 11-18mm F4.5-5.6"
+       stCamera:ProfileName="Adobe (Sony DT 11-18mm F4.5-5.6)"
+       stCamera:SensorFormatFactor="1.454545"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocalLength="12"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.33985">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.500889"
+        stCamera:FocalLengthY="0.500889"
+        stCamera:RadialDistortParam1="-0.066362"
+        stCamera:RadialDistortParam2="0.031043">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.500889"
+         stCamera:FocalLengthY="0.500889"
+         stCamera:VignetteModelParam1="-0.490956"
+         stCamera:VignetteModelParam2="0.205158"
+         stCamera:VignetteModelParam3="-0.058439">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.007808, 1.000000</rdf:li>
+          <rdf:li>0.217089, 0.973774</rdf:li>
+          <rdf:li>0.579121, 0.856723</rdf:li>
+          <rdf:li>0.812086, 0.752350</rdf:li>
+          <rdf:li>1.199741, 0.528178</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="41"
+       stCamera:Lens="DT 11-18mm F4.5-5.6"
+       stCamera:LensInfo="11/1 18/1 45/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 11-18mm F4.5-5.6"
+       stCamera:ProfileName="Adobe (Sony DT 11-18mm F4.5-5.6)"
+       stCamera:SensorFormatFactor="1.454545"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocalLength="12"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.500889"
+        stCamera:FocalLengthY="0.500889"
+        stCamera:RadialDistortParam1="-0.066362"
+        stCamera:RadialDistortParam2="0.031043">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.500889"
+         stCamera:FocalLengthY="0.500889"
+         stCamera:VignetteModelParam1="-0.330447"
+         stCamera:VignetteModelParam2="0.136089"
+         stCamera:VignetteModelParam3="-0.044822">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.007808, 1.000000</rdf:li>
+          <rdf:li>0.308891, 0.969307</rdf:li>
+          <rdf:li>0.611683, 0.894293</rdf:li>
+          <rdf:li>0.968243, 0.769136</rdf:li>
+          <rdf:li>1.199741, 0.659213</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="41"
+       stCamera:Lens="DT 11-18mm F4.5-5.6"
+       stCamera:LensInfo="11/1 18/1 45/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 11-18mm F4.5-5.6"
+       stCamera:ProfileName="Adobe (Sony DT 11-18mm F4.5-5.6)"
+       stCamera:SensorFormatFactor="1.454545"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocalLength="12"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.500889"
+        stCamera:FocalLengthY="0.500889"
+        stCamera:RadialDistortParam1="-0.066362"
+        stCamera:RadialDistortParam2="0.031043">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.500889"
+         stCamera:FocalLengthY="0.500889"
+         stCamera:VignetteModelParam1="-0.337838"
+         stCamera:VignetteModelParam2="0.131884"
+         stCamera:VignetteModelParam3="-0.033117">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.007808, 1.000000</rdf:li>
+          <rdf:li>0.277272, 0.972299</rdf:li>
+          <rdf:li>0.522447, 0.918127</rdf:li>
+          <rdf:li>0.829467, 0.820618</rdf:li>
+          <rdf:li>1.199741, 0.674190</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="41"
+       stCamera:Lens="DT 11-18mm F4.5-5.6"
+       stCamera:LensInfo="11/1 18/1 45/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 11-18mm F4.5-5.6"
+       stCamera:ProfileName="Adobe (Sony DT 11-18mm F4.5-5.6)"
+       stCamera:SensorFormatFactor="1.454545"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocalLength="12"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.500889"
+        stCamera:FocalLengthY="0.500889"
+        stCamera:RadialDistortParam1="-0.066362"
+        stCamera:RadialDistortParam2="0.031043">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.500889"
+         stCamera:FocalLengthY="0.500889"
+         stCamera:VignetteModelParam1="-0.351636"
+         stCamera:VignetteModelParam2="0.146481"
+         stCamera:VignetteModelParam3="-0.037423">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.007808, 1.000000</rdf:li>
+          <rdf:li>0.317073, 0.963087</rdf:li>
+          <rdf:li>0.533761, 0.911851</rdf:li>
+          <rdf:li>0.827996, 0.817536</rdf:li>
+          <rdf:li>1.199741, 0.669939</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="41"
+       stCamera:Lens="DT 11-18mm F4.5-5.6"
+       stCamera:LensInfo="11/1 18/1 45/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 11-18mm F4.5-5.6"
+       stCamera:ProfileName="Adobe (Sony DT 11-18mm F4.5-5.6)"
+       stCamera:SensorFormatFactor="1.454545"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocalLength="12"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.500889"
+        stCamera:FocalLengthY="0.500889"
+        stCamera:RadialDistortParam1="-0.066362"
+        stCamera:RadialDistortParam2="0.031043">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.500889"
+         stCamera:FocalLengthY="0.500889"
+         stCamera:VignetteModelParam1="-0.400773"
+         stCamera:VignetteModelParam2="0.210336"
+         stCamera:VignetteModelParam3="-0.060086">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.007808, 1.000000</rdf:li>
+          <rdf:li>0.430300, 0.929889</rdf:li>
+          <rdf:li>0.593471, 0.886706</rdf:li>
+          <rdf:li>0.922189, 0.775200</rdf:li>
+          <rdf:li>1.199741, 0.660241</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="41"
+       stCamera:Lens="DT 11-18mm F4.5-5.6"
+       stCamera:LensInfo="11/1 18/1 45/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 11-18mm F4.5-5.6"
+       stCamera:ProfileName="Adobe (Sony DT 11-18mm F4.5-5.6)"
+       stCamera:SensorFormatFactor="1.454545"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocalLength="15"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.577844"
+        stCamera:FocalLengthY="0.577844"
+        stCamera:RadialDistortParam1="-0.069481"
+        stCamera:RadialDistortParam2="0.042875">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.577844"
+         stCamera:FocalLengthY="0.577844"
+         stCamera:VignetteModelParam1="-0.655513"
+         stCamera:VignetteModelParam2="0.292713"
+         stCamera:VignetteModelParam3="-0.083787">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.006768, 1.000000</rdf:li>
+          <rdf:li>0.166478, 0.979192</rdf:li>
+          <rdf:li>0.397259, 0.908176</rdf:li>
+          <rdf:li>0.651903, 0.765581</rdf:li>
+          <rdf:li>1.039964, 0.516157</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="41"
+       stCamera:Lens="DT 11-18mm F4.5-5.6"
+       stCamera:LensInfo="11/1 18/1 45/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 11-18mm F4.5-5.6"
+       stCamera:ProfileName="Adobe (Sony DT 11-18mm F4.5-5.6)"
+       stCamera:SensorFormatFactor="1.454545"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocalLength="15"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.577844"
+        stCamera:FocalLengthY="0.577844"
+        stCamera:RadialDistortParam1="-0.069481"
+        stCamera:RadialDistortParam2="0.042875">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.577844"
+         stCamera:FocalLengthY="0.577844"
+         stCamera:VignetteModelParam1="-0.377377"
+         stCamera:VignetteModelParam2="-0.033632"
+         stCamera:VignetteModelParam3="0.035022">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.006768, 1.000000</rdf:li>
+          <rdf:li>0.299722, 0.968513</rdf:li>
+          <rdf:li>0.524314, 0.901004</rdf:li>
+          <rdf:li>0.736253, 0.789854</rdf:li>
+          <rdf:li>1.039964, 0.583957</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="41"
+       stCamera:Lens="DT 11-18mm F4.5-5.6"
+       stCamera:LensInfo="11/1 18/1 45/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 11-18mm F4.5-5.6"
+       stCamera:ProfileName="Adobe (Sony DT 11-18mm F4.5-5.6)"
+       stCamera:SensorFormatFactor="1.454545"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocalLength="15"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.577844"
+        stCamera:FocalLengthY="0.577844"
+        stCamera:RadialDistortParam1="-0.069481"
+        stCamera:RadialDistortParam2="0.042875">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.577844"
+         stCamera:FocalLengthY="0.577844"
+         stCamera:VignetteModelParam1="-0.366116"
+         stCamera:VignetteModelParam2="0.173785"
+         stCamera:VignetteModelParam3="-0.057681">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.006768, 1.000000</rdf:li>
+          <rdf:li>0.245252, 0.976073</rdf:li>
+          <rdf:li>0.466227, 0.930151</rdf:li>
+          <rdf:li>0.734134, 0.843961</rdf:li>
+          <rdf:li>1.039964, 0.722023</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="41"
+       stCamera:Lens="DT 11-18mm F4.5-5.6"
+       stCamera:LensInfo="11/1 18/1 45/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 11-18mm F4.5-5.6"
+       stCamera:ProfileName="Adobe (Sony DT 11-18mm F4.5-5.6)"
+       stCamera:SensorFormatFactor="1.454545"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocalLength="15"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.577844"
+        stCamera:FocalLengthY="0.577844"
+        stCamera:RadialDistortParam1="-0.069481"
+        stCamera:RadialDistortParam2="0.042875">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.577844"
+         stCamera:FocalLengthY="0.577844"
+         stCamera:VignetteModelParam1="-0.381601"
+         stCamera:VignetteModelParam2="0.198063"
+         stCamera:VignetteModelParam3="-0.069782">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.006768, 1.000000</rdf:li>
+          <rdf:li>0.275512, 0.969857</rdf:li>
+          <rdf:li>0.479595, 0.924098</rdf:li>
+          <rdf:li>0.760613, 0.831828</rdf:li>
+          <rdf:li>1.039964, 0.717445</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="41"
+       stCamera:Lens="DT 11-18mm F4.5-5.6"
+       stCamera:LensInfo="11/1 18/1 45/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 11-18mm F4.5-5.6"
+       stCamera:ProfileName="Adobe (Sony DT 11-18mm F4.5-5.6)"
+       stCamera:SensorFormatFactor="1.454545"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocalLength="15"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.577844"
+        stCamera:FocalLengthY="0.577844"
+        stCamera:RadialDistortParam1="-0.069481"
+        stCamera:RadialDistortParam2="0.042875">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.577844"
+         stCamera:FocalLengthY="0.577844"
+         stCamera:VignetteModelParam1="-0.434441"
+         stCamera:VignetteModelParam2="0.276004"
+         stCamera:VignetteModelParam3="-0.09844">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.006768, 1.000000</rdf:li>
+          <rdf:li>0.394017, 0.938601</rdf:li>
+          <rdf:li>0.540320, 0.900020</rdf:li>
+          <rdf:li>0.839296, 0.795315</rdf:li>
+          <rdf:li>1.039964, 0.708837</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="41"
+       stCamera:Lens="DT 11-18mm F4.5-5.6"
+       stCamera:LensInfo="11/1 18/1 45/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 11-18mm F4.5-5.6"
+       stCamera:ProfileName="Adobe (Sony DT 11-18mm F4.5-5.6)"
+       stCamera:SensorFormatFactor="1.454545"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocalLength="16"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.669196"
+        stCamera:FocalLengthY="0.669196"
+        stCamera:RadialDistortParam1="-0.054678"
+        stCamera:RadialDistortParam2="0.048325">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.669196"
+         stCamera:FocalLengthY="0.669196"
+         stCamera:VignetteModelParam1="-0.976869"
+         stCamera:VignetteModelParam2="0.6971"
+         stCamera:VignetteModelParam3="-0.28042">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005844, 1.000000</rdf:li>
+          <rdf:li>0.159520, 0.974673</rdf:li>
+          <rdf:li>0.290636, 0.927530</rdf:li>
+          <rdf:li>0.447275, 0.831343</rdf:li>
+          <rdf:li>0.897998, 0.507264</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="41"
+       stCamera:Lens="DT 11-18mm F4.5-5.6"
+       stCamera:LensInfo="11/1 18/1 45/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 11-18mm F4.5-5.6"
+       stCamera:ProfileName="Adobe (Sony DT 11-18mm F4.5-5.6)"
+       stCamera:SensorFormatFactor="1.454545"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocalLength="16"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.669196"
+        stCamera:FocalLengthY="0.669196"
+        stCamera:RadialDistortParam1="-0.054678"
+        stCamera:RadialDistortParam2="0.048325">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.669196"
+         stCamera:FocalLengthY="0.669196"
+         stCamera:VignetteModelParam1="-0.414563"
+         stCamera:VignetteModelParam2="0.268606"
+         stCamera:VignetteModelParam3="-0.128958">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005844, 1.000000</rdf:li>
+          <rdf:li>0.249671, 0.973297</rdf:li>
+          <rdf:li>0.447275, 0.929588</rdf:li>
+          <rdf:li>0.707457, 0.841503</rdf:li>
+          <rdf:li>0.897998, 0.757753</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="41"
+       stCamera:Lens="DT 11-18mm F4.5-5.6"
+       stCamera:LensInfo="11/1 18/1 45/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 11-18mm F4.5-5.6"
+       stCamera:ProfileName="Adobe (Sony DT 11-18mm F4.5-5.6)"
+       stCamera:SensorFormatFactor="1.454545"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocalLength="16"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.669196"
+        stCamera:FocalLengthY="0.669196"
+        stCamera:RadialDistortParam1="-0.054678"
+        stCamera:RadialDistortParam2="0.048325">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.669196"
+         stCamera:FocalLengthY="0.669196"
+         stCamera:VignetteModelParam1="-0.420184"
+         stCamera:VignetteModelParam2="0.270794"
+         stCamera:VignetteModelParam3="-0.124106">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005844, 1.000000</rdf:li>
+          <rdf:li>0.237327, 0.975015</rdf:li>
+          <rdf:li>0.433469, 0.933355</rdf:li>
+          <rdf:li>0.679681, 0.850437</rdf:li>
+          <rdf:li>0.897998, 0.758699</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="41"
+       stCamera:Lens="DT 11-18mm F4.5-5.6"
+       stCamera:LensInfo="11/1 18/1 45/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 11-18mm F4.5-5.6"
+       stCamera:ProfileName="Adobe (Sony DT 11-18mm F4.5-5.6)"
+       stCamera:SensorFormatFactor="1.454545"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocalLength="16"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.669196"
+        stCamera:FocalLengthY="0.669196"
+        stCamera:RadialDistortParam1="-0.054678"
+        stCamera:RadialDistortParam2="0.048325">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.669196"
+         stCamera:FocalLengthY="0.669196"
+         stCamera:VignetteModelParam1="-0.466238"
+         stCamera:VignetteModelParam2="0.37766"
+         stCamera:VignetteModelParam3="-0.194171">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.013068, 1.000000</rdf:li>
+          <rdf:li>0.305084, 0.959434</rdf:li>
+          <rdf:li>0.460371, 0.920967</rdf:li>
+          <rdf:li>0.653550, 0.856761</rdf:li>
+          <rdf:li>0.897998, 0.752052</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="41"
+       stCamera:Lens="DT 11-18mm F4.5-5.6"
+       stCamera:LensInfo="11/1 18/1 45/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 11-18mm F4.5-5.6"
+       stCamera:ProfileName="Adobe (Sony DT 11-18mm F4.5-5.6)"
+       stCamera:SensorFormatFactor="1.454545"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.733874"
+        stCamera:FocalLengthY="0.733874"
+        stCamera:RadialDistortParam1="-0.054504"
+        stCamera:RadialDistortParam2="0.061094">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.733874"
+         stCamera:FocalLengthY="0.733874"
+         stCamera:VignetteModelParam1="-1.269593"
+         stCamera:VignetteModelParam2="1.257815"
+         stCamera:VignetteModelParam3="-0.663436">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005329, 1.000000</rdf:li>
+          <rdf:li>0.150452, 0.973950</rdf:li>
+          <rdf:li>0.237437, 0.936233</rdf:li>
+          <rdf:li>0.348039, 0.864073</rdf:li>
+          <rdf:li>0.818856, 0.503323</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="41"
+       stCamera:Lens="DT 11-18mm F4.5-5.6"
+       stCamera:LensInfo="11/1 18/1 45/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 11-18mm F4.5-5.6"
+       stCamera:ProfileName="Adobe (Sony DT 11-18mm F4.5-5.6)"
+       stCamera:SensorFormatFactor="1.454545"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.733874"
+        stCamera:FocalLengthY="0.733874"
+        stCamera:RadialDistortParam1="-0.054504"
+        stCamera:RadialDistortParam2="0.061094">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.733874"
+         stCamera:FocalLengthY="0.733874"
+         stCamera:VignetteModelParam1="-0.456154"
+         stCamera:VignetteModelParam2="0.572017"
+         stCamera:VignetteModelParam3="-0.653561">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005329, 1.000000</rdf:li>
+          <rdf:li>0.295042, 0.966352</rdf:li>
+          <rdf:li>0.559980, 0.894116</rdf:li>
+          <rdf:li>0.689045, 0.839810</rdf:li>
+          <rdf:li>0.818856, 0.747517</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="41"
+       stCamera:Lens="DT 11-18mm F4.5-5.6"
+       stCamera:LensInfo="11/1 18/1 45/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 11-18mm F4.5-5.6"
+       stCamera:ProfileName="Adobe (Sony DT 11-18mm F4.5-5.6)"
+       stCamera:SensorFormatFactor="1.454545"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.733874"
+        stCamera:FocalLengthY="0.733874"
+        stCamera:RadialDistortParam1="-0.054504"
+        stCamera:RadialDistortParam2="0.061094">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.733874"
+         stCamera:FocalLengthY="0.733874"
+         stCamera:VignetteModelParam1="-0.441428"
+         stCamera:VignetteModelParam2="0.341495"
+         stCamera:VignetteModelParam3="-0.191595">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005329, 1.000000</rdf:li>
+          <rdf:li>0.239818, 0.974655</rdf:li>
+          <rdf:li>0.409246, 0.938729</rdf:li>
+          <rdf:li>0.599751, 0.877026</rdf:li>
+          <rdf:li>0.818856, 0.787757</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="41"
+       stCamera:Lens="DT 11-18mm F4.5-5.6"
+       stCamera:LensInfo="11/1 18/1 45/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 11-18mm F4.5-5.6"
+       stCamera:ProfileName="Adobe (Sony DT 11-18mm F4.5-5.6)"
+       stCamera:SensorFormatFactor="1.454545"
+       stCamera:ImageWidth="3968"
+       stCamera:ImageLength="2648"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.733874"
+        stCamera:FocalLengthY="0.733874"
+        stCamera:RadialDistortParam1="-0.054504"
+        stCamera:RadialDistortParam2="0.061094">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.733874"
+         stCamera:FocalLengthY="0.733874"
+         stCamera:VignetteModelParam1="-0.48521"
+         stCamera:VignetteModelParam2="0.468355"
+         stCamera:VignetteModelParam3="-0.294089">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005329, 1.000000</rdf:li>
+          <rdf:li>0.265021, 0.967065</rdf:li>
+          <rdf:li>0.429032, 0.930745</rdf:li>
+          <rdf:li>0.591646, 0.878583</rdf:li>
+          <rdf:li>0.818856, 0.783625</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

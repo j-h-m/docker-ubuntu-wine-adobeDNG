@@ -1,0 +1,1278 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 4.2-c020 1.124078, Tue Sep 11 2007 23:21:40        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>NX10</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung NX10</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>3</stCamera:LensID>
+      <stCamera:Lens>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:Lens>
+      <stCamera:LensInfo>50/1 200/1 40/10 56/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung NX10</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung 50-200mm f/4-5.6 ED OIS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.54</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4686</stCamera:ImageWidth>
+      <stCamera:ImageLength>3122</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>5.444942</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.392976</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.392976</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000182</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000256</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.344705</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.88648</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-22.126187</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.392889</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.392889</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000182</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000255</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000194</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.002322</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.016913</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.246952</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.392889</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.392889</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.00018</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000256</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.344244</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>1.89434</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-22.215728</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.392889</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.392889</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000181</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000255</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000023</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.002697</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.092771</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>1.137162</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>NX10</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung NX10</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>3</stCamera:LensID>
+      <stCamera:Lens>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:Lens>
+      <stCamera:LensInfo>50/1 200/1 40/10 56/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung NX10</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung 50-200mm f/4-5.6 ED OIS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.54</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4686</stCamera:ImageWidth>
+      <stCamera:ImageLength>3122</stCamera:ImageLength>
+      <stCamera:FocalLength>70</stCamera:FocalLength>
+      <stCamera:FocusDistance>7.006966</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.404973</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.404973</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000171</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000244</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.193942</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>8.266298</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-215.200386</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.404421</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.404421</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000171</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000244</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999965</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.003664</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.103229</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-2.525398</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.404421</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.404421</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.00017</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000244</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.192669</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>8.246975</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-214.47312</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.404421</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.404421</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000171</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000243</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000144</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.006121</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.20402</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>4.83232</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>NX10</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung NX10</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>3</stCamera:LensID>
+      <stCamera:Lens>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:Lens>
+      <stCamera:LensInfo>50/1 200/1 40/10 56/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung NX10</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung 50-200mm f/4-5.6 ED OIS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.54</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4686</stCamera:ImageWidth>
+      <stCamera:ImageLength>3122</stCamera:ImageLength>
+      <stCamera:FocalLength>104</stCamera:FocalLength>
+      <stCamera:FocusDistance>11.956064</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.417325</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.417325</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000108</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000123</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>0.276942</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>27.483014</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-1781.961941</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.416464</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.416464</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000101</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000123</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999732</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.015171</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.231569</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>2.063211</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.416464</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.416464</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.0001</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000123</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>0.279321</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>27.527711</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-1781.041081</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.416464</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.416464</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000102</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000122</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000274</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.027089</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.347565</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>2.703567</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>NX10</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung NX10</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>3</stCamera:LensID>
+      <stCamera:Lens>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:Lens>
+      <stCamera:LensInfo>50/1 200/1 40/10 56/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung NX10</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung 50-200mm f/4-5.6 ED OIS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.54</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4686</stCamera:ImageWidth>
+      <stCamera:ImageLength>3122</stCamera:ImageLength>
+      <stCamera:FocalLength>130</stCamera:FocalLength>
+      <stCamera:FocusDistance>12.052193</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.807702</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.807702</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000084</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000065</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>0.548873</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>16.121177</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-1168.736282</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.808643</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.808643</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.00007</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000061</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999492</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.016533</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.326889</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>50.645009</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.808643</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.808643</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.00007</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.00006</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>0.552219</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>16.319557</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-1183.780912</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.808643</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.808643</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000074</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000058</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000287</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.028567</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.481339</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>28.826419</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>NX10</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung NX10</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>3</stCamera:LensID>
+      <stCamera:Lens>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:Lens>
+      <stCamera:LensInfo>50/1 200/1 40/10 56/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung NX10</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung 50-200mm f/4-5.6 ED OIS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.54</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4686</stCamera:ImageWidth>
+      <stCamera:ImageLength>3122</stCamera:ImageLength>
+      <stCamera:FocalLength>171</stCamera:FocalLength>
+      <stCamera:FocusDistance>12.367137</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>7.179359</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>7.179359</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000084</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000064</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>1.203072</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>22.432583</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-3764.883562</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>7.17995</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>7.17995</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000073</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000059</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999421</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.025634</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-2.138173</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>377.469734</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>7.17995</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>7.17995</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000073</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000058</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>1.215946</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>19.870916</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-3506.880188</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>7.17995</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>7.17995</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000075</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000056</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000115</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.051734</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>2.596103</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-247.330244</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>NX10</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung NX10</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>3</stCamera:LensID>
+      <stCamera:Lens>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:Lens>
+      <stCamera:LensInfo>50/1 200/1 40/10 56/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung NX10</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung 50-200mm f/4-5.6 ED OIS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.54</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4686</stCamera:ImageWidth>
+      <stCamera:ImageLength>3122</stCamera:ImageLength>
+      <stCamera:FocalLength>200</stCamera:FocalLength>
+      <stCamera:FocusDistance>15.9359</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>7.336569</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>7.336569</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.00008</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000049</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>1.218849</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>17.303497</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-2611.560423</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>7.337408</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>7.337408</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000066</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000037</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999424</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.027516</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-4.420805</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>707.179216</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>7.337408</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>7.337408</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000064</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000038</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>1.295357</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-7.195823</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.220872</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>7.337408</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>7.337408</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000066</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000038</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999889</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.039298</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-1.864956</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>300.709944</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>NX10</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung NX10</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>3</stCamera:LensID>
+      <stCamera:Lens>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:Lens>
+      <stCamera:LensInfo>50/1 200/1 40/10 56/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung NX10</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung 50-200mm f/4-5.6 ED OIS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.54</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4686</stCamera:ImageWidth>
+      <stCamera:ImageLength>3122</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.392889</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.392889</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.344244</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.89434</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-22.215728</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.392889</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.392889</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-5.903182</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>51.258099</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-184.043414</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>NX10</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung NX10</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>3</stCamera:LensID>
+      <stCamera:Lens>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:Lens>
+      <stCamera:LensInfo>50/1 200/1 40/10 56/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung NX10</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung 50-200mm f/4-5.6 ED OIS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.54</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4686</stCamera:ImageWidth>
+      <stCamera:ImageLength>3122</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.392889</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.392889</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.344244</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.89434</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-22.215728</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.392889</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.392889</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.277203</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>54.298902</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-1413.514273</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>NX10</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung NX10</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>3</stCamera:LensID>
+      <stCamera:Lens>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:Lens>
+      <stCamera:LensInfo>50/1 200/1 40/10 56/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung NX10</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung 50-200mm f/4-5.6 ED OIS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.54</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4686</stCamera:ImageWidth>
+      <stCamera:ImageLength>3122</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.392889</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.392889</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.344244</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.89434</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-22.215728</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.392889</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.392889</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.97077</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>107.604079</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-1622.607353</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>NX10</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung NX10</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>3</stCamera:LensID>
+      <stCamera:Lens>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:Lens>
+      <stCamera:LensInfo>50/1 200/1 40/10 56/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung NX10</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung 50-200mm f/4-5.6 ED OIS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.54</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4686</stCamera:ImageWidth>
+      <stCamera:ImageLength>3122</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.392889</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.392889</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.344244</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.89434</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-22.215728</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.392889</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.392889</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.038795</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>23.827037</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-171.436171</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>NX10</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung NX10</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>3</stCamera:LensID>
+      <stCamera:Lens>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:Lens>
+      <stCamera:LensInfo>50/1 200/1 40/10 56/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung NX10</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung 50-200mm f/4-5.6 ED OIS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.54</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4686</stCamera:ImageWidth>
+      <stCamera:ImageLength>3122</stCamera:ImageLength>
+      <stCamera:FocalLength>50</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.392889</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.392889</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.344244</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.89434</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-22.215728</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.392889</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.392889</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.489495</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>41.731087</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-321.168475</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>NX10</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung NX10</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>3</stCamera:LensID>
+      <stCamera:Lens>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:Lens>
+      <stCamera:LensInfo>50/1 200/1 40/10 56/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung NX10</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung 50-200mm f/4-5.6 ED OIS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.54</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4686</stCamera:ImageWidth>
+      <stCamera:ImageLength>3122</stCamera:ImageLength>
+      <stCamera:FocalLength>70</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.208673</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.404421</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.404421</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.192669</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>8.246975</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-214.47312</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.404421</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.404421</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-10.994213</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>228.729088</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2837.793809</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>NX10</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung NX10</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>3</stCamera:LensID>
+      <stCamera:Lens>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:Lens>
+      <stCamera:LensInfo>50/1 200/1 40/10 56/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung NX10</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung 50-200mm f/4-5.6 ED OIS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.54</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4686</stCamera:ImageWidth>
+      <stCamera:ImageLength>3122</stCamera:ImageLength>
+      <stCamera:FocalLength>70</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.404421</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.404421</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.192669</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>8.246975</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-214.47312</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.404421</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.404421</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.87941</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>182.658395</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-8982.556182</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>NX10</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung NX10</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>3</stCamera:LensID>
+      <stCamera:Lens>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:Lens>
+      <stCamera:LensInfo>50/1 200/1 40/10 56/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung NX10</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung 50-200mm f/4-5.6 ED OIS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.54</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4686</stCamera:ImageWidth>
+      <stCamera:ImageLength>3122</stCamera:ImageLength>
+      <stCamera:FocalLength>70</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.404421</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.404421</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.192669</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>8.246975</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-214.47312</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.404421</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.404421</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.64898</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>53.024706</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-858.410307</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>NX10</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung NX10</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>3</stCamera:LensID>
+      <stCamera:Lens>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:Lens>
+      <stCamera:LensInfo>50/1 200/1 40/10 56/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung NX10</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung 50-200mm f/4-5.6 ED OIS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.54</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4686</stCamera:ImageWidth>
+      <stCamera:ImageLength>3122</stCamera:ImageLength>
+      <stCamera:FocalLength>70</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.404421</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.404421</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.192669</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>8.246975</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-214.47312</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.404421</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.404421</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.18785</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>16.189398</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>152.358799</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>NX10</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung NX10</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>3</stCamera:LensID>
+      <stCamera:Lens>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:Lens>
+      <stCamera:LensInfo>50/1 200/1 40/10 56/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung NX10</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung 50-200mm f/4-5.6 ED OIS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.54</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4686</stCamera:ImageWidth>
+      <stCamera:ImageLength>3122</stCamera:ImageLength>
+      <stCamera:FocalLength>70</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.404421</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.404421</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.192669</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>8.246975</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-214.47312</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.404421</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.404421</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.953754</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>80.477772</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-983.852517</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>NX10</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung NX10</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>3</stCamera:LensID>
+      <stCamera:Lens>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:Lens>
+      <stCamera:LensInfo>50/1 200/1 40/10 56/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung NX10</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung 50-200mm f/4-5.6 ED OIS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.54</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4686</stCamera:ImageWidth>
+      <stCamera:ImageLength>3122</stCamera:ImageLength>
+      <stCamera:FocalLength>104</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.208673</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.416464</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.416464</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.279321</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>27.527711</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-1781.041081</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.416464</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.416464</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-21.69851</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>1010.822789</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-56427.355512</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>NX10</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung NX10</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>3</stCamera:LensID>
+      <stCamera:Lens>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:Lens>
+      <stCamera:LensInfo>50/1 200/1 40/10 56/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung NX10</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung 50-200mm f/4-5.6 ED OIS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.54</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4686</stCamera:ImageWidth>
+      <stCamera:ImageLength>3122</stCamera:ImageLength>
+      <stCamera:FocalLength>104</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.416464</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.416464</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.279321</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>27.527711</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-1781.041081</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.416464</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.416464</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>1.74486</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>74.128891</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-108876.02609</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>NX10</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung NX10</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>3</stCamera:LensID>
+      <stCamera:Lens>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:Lens>
+      <stCamera:LensInfo>50/1 200/1 40/10 56/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung NX10</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung 50-200mm f/4-5.6 ED OIS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.54</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4686</stCamera:ImageWidth>
+      <stCamera:ImageLength>3122</stCamera:ImageLength>
+      <stCamera:FocalLength>104</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.416464</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.416464</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.279321</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>27.527711</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-1781.041081</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.416464</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.416464</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-14.197148</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>4170.568992</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-362161.51023</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>NX10</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung NX10</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>3</stCamera:LensID>
+      <stCamera:Lens>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:Lens>
+      <stCamera:LensInfo>50/1 200/1 40/10 56/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung NX10</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung 50-200mm f/4-5.6 ED OIS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.54</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4686</stCamera:ImageWidth>
+      <stCamera:ImageLength>3122</stCamera:ImageLength>
+      <stCamera:FocalLength>104</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.416464</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.416464</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.279321</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>27.527711</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-1781.041081</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.416464</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.416464</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-8.015434</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>1241.483034</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-81893.591542</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>NX10</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung NX10</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>3</stCamera:LensID>
+      <stCamera:Lens>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:Lens>
+      <stCamera:LensInfo>50/1 200/1 40/10 56/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung NX10</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung 50-200mm f/4-5.6 ED OIS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.54</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4686</stCamera:ImageWidth>
+      <stCamera:ImageLength>3122</stCamera:ImageLength>
+      <stCamera:FocalLength>104</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.416464</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.416464</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.279321</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>27.527711</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-1781.041081</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.416464</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.416464</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-7.137172</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>751.393542</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-32025.589952</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>NX10</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung NX10</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>3</stCamera:LensID>
+      <stCamera:Lens>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:Lens>
+      <stCamera:LensInfo>50/1 200/1 40/10 56/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung NX10</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung 50-200mm f/4-5.6 ED OIS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.54</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4686</stCamera:ImageWidth>
+      <stCamera:ImageLength>3122</stCamera:ImageLength>
+      <stCamera:FocalLength>130</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.643856</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.808643</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.808643</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.552219</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>16.319557</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-1183.780912</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.808643</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.808643</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-15.808814</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-3687.518422</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>293408.760399</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>NX10</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung NX10</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>3</stCamera:LensID>
+      <stCamera:Lens>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:Lens>
+      <stCamera:LensInfo>50/1 200/1 40/10 56/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung NX10</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung 50-200mm f/4-5.6 ED OIS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.54</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4686</stCamera:ImageWidth>
+      <stCamera:ImageLength>3122</stCamera:ImageLength>
+      <stCamera:FocalLength>130</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.808643</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.808643</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.552219</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>16.319557</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-1183.780912</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.808643</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.808643</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-4.766729</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2541.941819</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-392082.714246</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>NX10</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung NX10</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>3</stCamera:LensID>
+      <stCamera:Lens>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:Lens>
+      <stCamera:LensInfo>50/1 200/1 40/10 56/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung NX10</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung 50-200mm f/4-5.6 ED OIS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.54</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4686</stCamera:ImageWidth>
+      <stCamera:ImageLength>3122</stCamera:ImageLength>
+      <stCamera:FocalLength>130</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.808643</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.808643</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.552219</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>16.319557</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-1183.780912</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.808643</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.808643</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-15.86641</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>5641.537252</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-540295.505913</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>NX10</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung NX10</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>3</stCamera:LensID>
+      <stCamera:Lens>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:Lens>
+      <stCamera:LensInfo>50/1 200/1 40/10 56/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung NX10</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung 50-200mm f/4-5.6 ED OIS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.54</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4686</stCamera:ImageWidth>
+      <stCamera:ImageLength>3122</stCamera:ImageLength>
+      <stCamera:FocalLength>130</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>5.808643</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>5.808643</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.552219</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>16.319557</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-1183.780912</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>5.808643</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>5.808643</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-4.694234</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>624.887997</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-38213.500307</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>NX10</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung NX10</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>3</stCamera:LensID>
+      <stCamera:Lens>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:Lens>
+      <stCamera:LensInfo>50/1 200/1 40/10 56/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung NX10</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung 50-200mm f/4-5.6 ED OIS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.54</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4686</stCamera:ImageWidth>
+      <stCamera:ImageLength>3122</stCamera:ImageLength>
+      <stCamera:FocalLength>150</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.643856</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>6.477573</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>6.477573</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.909498</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>16.359642</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-1992.993904</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>6.477573</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>6.477573</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-44.998509</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-324.069769</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>228051.240856</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>NX10</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung NX10</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>3</stCamera:LensID>
+      <stCamera:Lens>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:Lens>
+      <stCamera:LensInfo>50/1 200/1 40/10 56/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung NX10</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung 50-200mm f/4-5.6 ED OIS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.54</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4686</stCamera:ImageWidth>
+      <stCamera:ImageLength>3122</stCamera:ImageLength>
+      <stCamera:FocalLength>150</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>6.477573</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>6.477573</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.909498</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>16.359642</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-1992.993904</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>6.477573</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>6.477573</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>13.69207</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-6452.510634</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>207518.860495</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>NX10</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung NX10</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>3</stCamera:LensID>
+      <stCamera:Lens>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:Lens>
+      <stCamera:LensInfo>50/1 200/1 40/10 56/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung NX10</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung 50-200mm f/4-5.6 ED OIS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.54</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4686</stCamera:ImageWidth>
+      <stCamera:ImageLength>3122</stCamera:ImageLength>
+      <stCamera:FocalLength>150</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>6.477573</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>6.477573</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.909498</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>16.359642</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-1992.993904</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>6.477573</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>6.477573</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-15.808124</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>7709.241613</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-1053004.489921</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>NX10</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung NX10</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>3</stCamera:LensID>
+      <stCamera:Lens>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:Lens>
+      <stCamera:LensInfo>50/1 200/1 40/10 56/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung NX10</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung 50-200mm f/4-5.6 ED OIS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.54</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4686</stCamera:ImageWidth>
+      <stCamera:ImageLength>3122</stCamera:ImageLength>
+      <stCamera:FocalLength>150</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>6.477573</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>6.477573</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.909498</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>16.359642</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-1992.993904</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>6.477573</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>6.477573</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-4.827059</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>883.457874</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-67936.44793</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>NX10</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung NX10</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>3</stCamera:LensID>
+      <stCamera:Lens>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:Lens>
+      <stCamera:LensInfo>50/1 200/1 40/10 56/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung NX10</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung 50-200mm f/4-5.6 ED OIS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.54</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4686</stCamera:ImageWidth>
+      <stCamera:ImageLength>3122</stCamera:ImageLength>
+      <stCamera:FocalLength>200</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>7.337408</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>7.337408</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.295357</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-7.195823</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.220872</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>7.337408</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>7.337408</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-104.440399</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>15354.177315</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-844860.997854</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>NX10</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung NX10</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>3</stCamera:LensID>
+      <stCamera:Lens>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:Lens>
+      <stCamera:LensInfo>50/1 200/1 40/10 56/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung NX10</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung 50-200mm f/4-5.6 ED OIS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.54</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4686</stCamera:ImageWidth>
+      <stCamera:ImageLength>3122</stCamera:ImageLength>
+      <stCamera:FocalLength>200</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>7.337408</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>7.337408</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.295357</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-7.195823</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.220872</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>7.337408</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>7.337408</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>24.980323</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-18973.282122</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>1539120.770336</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>NX10</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung NX10</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>3</stCamera:LensID>
+      <stCamera:Lens>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:Lens>
+      <stCamera:LensInfo>50/1 200/1 40/10 56/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung NX10</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung 50-200mm f/4-5.6 ED OIS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.54</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4686</stCamera:ImageWidth>
+      <stCamera:ImageLength>3122</stCamera:ImageLength>
+      <stCamera:FocalLength>200</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>7.337408</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>7.337408</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.295357</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-7.195823</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.220872</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>7.337408</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>7.337408</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-6.714008</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>4456.520433</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-1315431.315581</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>NX10</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung NX10</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>3</stCamera:LensID>
+      <stCamera:Lens>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:Lens>
+      <stCamera:LensInfo>50/1 200/1 40/10 56/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung NX10</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung 50-200mm f/4-5.6 ED OIS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung 50-200mm f/4-5.6 ED OIS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.54</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4686</stCamera:ImageWidth>
+      <stCamera:ImageLength>3122</stCamera:ImageLength>
+      <stCamera:FocalLength>200</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>7.337408</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>7.337408</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>1.295357</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-7.195823</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.220872</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>7.337408</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>7.337408</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-5.527174</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>1385.234846</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-133314.057049</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

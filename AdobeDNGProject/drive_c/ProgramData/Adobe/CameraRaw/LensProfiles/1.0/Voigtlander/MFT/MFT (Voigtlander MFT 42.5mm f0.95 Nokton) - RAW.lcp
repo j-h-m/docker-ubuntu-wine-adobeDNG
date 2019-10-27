@@ -1,0 +1,99 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156380, 2014/05/21-23:38:37        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Panasonic"
+       stCamera:Model="DMC-G1"
+       stCamera:UniqueCameraModel="Panasonic DMC-G1"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="DMC-G1"
+       stCamera:LensPrettyName="Voigtlander MFT 42.5mm f/0.95 Nokton"
+       stCamera:ProfileName="Adobe (Voigtlander MFT 42.5mm f/0.95 Nokton)"
+       stCamera:SensorFormatFactor="2"
+       stCamera:ImageWidth="4008"
+       stCamera:ImageLength="3004"
+       stCamera:FocusDistance="2.270114">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.495953"
+        stCamera:FocalLengthY="2.495953"
+        stCamera:ResidualMeanError="0.000142"
+        stCamera:ResidualStandardDeviation="0.000147"
+        stCamera:RadialDistortParam1="-0.349804"
+        stCamera:RadialDistortParam2="-0.363768"
+        stCamera:RadialDistortParam3="15.527331">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="2.49658"
+        stCamera:FocalLengthY="2.49658"
+        stCamera:ResidualMeanError="0.000134"
+        stCamera:ResidualStandardDeviation="0.000146"
+        stCamera:ScaleFactor="1.000266"
+        stCamera:RadialDistortParam1="-0.002963"
+        stCamera:RadialDistortParam2="-0.037966"
+        stCamera:RadialDistortParam3="-0.273776"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="2.49658"
+        stCamera:FocalLengthY="2.49658"
+        stCamera:ResidualMeanError="0.000134"
+        stCamera:ResidualStandardDeviation="0.000146"
+        stCamera:RadialDistortParam1="-0.350969"
+        stCamera:RadialDistortParam2="-0.356867"
+        stCamera:RadialDistortParam3="15.358718"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="2.49658"
+        stCamera:FocalLengthY="2.49658"
+        stCamera:ResidualMeanError="0.000134"
+        stCamera:ResidualStandardDeviation="0.000146"
+        stCamera:ScaleFactor="0.999595"
+        stCamera:RadialDistortParam1="0.006109"
+        stCamera:RadialDistortParam2="0.010663"
+        stCamera:RadialDistortParam3="1.00227"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Panasonic"
+       stCamera:Model="DMC-G1"
+       stCamera:UniqueCameraModel="Panasonic DMC-G1"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="DMC-G1"
+       stCamera:LensPrettyName="Voigtlander MFT 42.5mm f/0.95 Nokton"
+       stCamera:ProfileName="Adobe (Voigtlander MFT 42.5mm f/0.95 Nokton)"
+       stCamera:SensorFormatFactor="2"
+       stCamera:ImageWidth="4008"
+       stCamera:ImageLength="3004"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.49658"
+        stCamera:FocalLengthY="2.49658"
+        stCamera:RadialDistortParam1="-0.350969"
+        stCamera:RadialDistortParam2="-0.356867"
+        stCamera:RadialDistortParam3="15.358718">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.49658"
+        stCamera:FocalLengthY="2.49658"
+        stCamera:VignetteModelParam1="-1.131174"
+        stCamera:VignetteModelParam2="3.363196"
+        stCamera:VignetteModelParam3="-79.970582"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

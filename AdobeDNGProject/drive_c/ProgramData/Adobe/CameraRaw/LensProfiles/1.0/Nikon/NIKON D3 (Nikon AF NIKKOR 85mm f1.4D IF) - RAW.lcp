@@ -1,0 +1,1965 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156380, 2014/05/21-23:38:37        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.84"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.493925"
+        stCamera:FocalLengthY="0.493925"
+        stCamera:ResidualMeanError="0.000199"
+        stCamera:ResidualStandardDeviation="0.000155"
+        stCamera:RadialDistortParam1="-0.005704"
+        stCamera:RadialDistortParam2="0.001633"
+        stCamera:RadialDistortParam3="-0.00154">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.493937"
+        stCamera:FocalLengthY="0.493937"
+        stCamera:ResidualMeanError="0.000199"
+        stCamera:ResidualStandardDeviation="0.000154"
+        stCamera:ScaleFactor="0.999888"
+        stCamera:RadialDistortParam1="0.000042"
+        stCamera:RadialDistortParam2="-0.000019"
+        stCamera:RadialDistortParam3="0.000009"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.493937"
+        stCamera:FocalLengthY="0.493937"
+        stCamera:ResidualMeanError="0.000199"
+        stCamera:ResidualStandardDeviation="0.000154"
+        stCamera:RadialDistortParam1="-0.005686"
+        stCamera:RadialDistortParam2="0.001622"
+        stCamera:RadialDistortParam3="-0.001532"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.493937"
+        stCamera:FocalLengthY="0.493937"
+        stCamera:ResidualMeanError="0.000198"
+        stCamera:ResidualStandardDeviation="0.000154"
+        stCamera:ScaleFactor="0.999844"
+        stCamera:RadialDistortParam1="-0.000094"
+        stCamera:RadialDistortParam2="0.000048"
+        stCamera:RadialDistortParam3="-0.000033"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.842286"
+        stCamera:FocalLengthY="1.842286"
+        stCamera:ResidualMeanError="0.000328"
+        stCamera:ResidualStandardDeviation="0.000476"
+        stCamera:RadialDistortParam1="-0.090946"
+        stCamera:RadialDistortParam2="1.123073"
+        stCamera:RadialDistortParam3="-9.840542">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.841105"
+        stCamera:FocalLengthY="1.841105"
+        stCamera:ResidualMeanError="0.000327"
+        stCamera:ResidualStandardDeviation="0.000476"
+        stCamera:ScaleFactor="0.999848"
+        stCamera:RadialDistortParam1="0.000492"
+        stCamera:RadialDistortParam2="0.000993"
+        stCamera:RadialDistortParam3="0.001569"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.841105"
+        stCamera:FocalLengthY="1.841105"
+        stCamera:ResidualMeanError="0.000327"
+        stCamera:ResidualStandardDeviation="0.000476"
+        stCamera:RadialDistortParam1="-0.090849"
+        stCamera:RadialDistortParam2="1.121885"
+        stCamera:RadialDistortParam3="-9.805956"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.841105"
+        stCamera:FocalLengthY="1.841105"
+        stCamera:ResidualMeanError="0.000327"
+        stCamera:ResidualStandardDeviation="0.000476"
+        stCamera:ScaleFactor="0.999784"
+        stCamera:RadialDistortParam1="-0.001133"
+        stCamera:RadialDistortParam2="-0.009587"
+        stCamera:RadialDistortParam3="0.071581"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="5.96"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.479076"
+        stCamera:FocalLengthY="2.479076"
+        stCamera:ResidualMeanError="0.000114"
+        stCamera:ResidualStandardDeviation="0.000139"
+        stCamera:RadialDistortParam1="0.016909"
+        stCamera:RadialDistortParam2="-2.452784"
+        stCamera:RadialDistortParam3="17.317622">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:ResidualMeanError="0.000112"
+        stCamera:ResidualStandardDeviation="0.000141"
+        stCamera:ScaleFactor="0.999763"
+        stCamera:RadialDistortParam1="-0.000152"
+        stCamera:RadialDistortParam2="0.060413"
+        stCamera:RadialDistortParam3="-0.72105"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:ResidualMeanError="0.000112"
+        stCamera:ResidualStandardDeviation="0.00014"
+        stCamera:RadialDistortParam1="0.017823"
+        stCamera:RadialDistortParam2="-2.475412"
+        stCamera:RadialDistortParam3="17.49113"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:ResidualMeanError="0.000112"
+        stCamera:ResidualStandardDeviation="0.000141"
+        stCamera:ScaleFactor="0.999822"
+        stCamera:RadialDistortParam1="-0.005509"
+        stCamera:RadialDistortParam2="0.066846"
+        stCamera:RadialDistortParam3="-0.326876"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.84"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.493937"
+        stCamera:FocalLengthY="0.493937"
+        stCamera:RadialDistortParam1="-0.005686"
+        stCamera:RadialDistortParam2="0.001622"
+        stCamera:RadialDistortParam3="-0.001532">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.493937"
+        stCamera:FocalLengthY="0.493937"
+        stCamera:VignetteModelParam1="-0.423955"
+        stCamera:VignetteModelParam2="0.245917"
+        stCamera:VignetteModelParam3="-0.120843"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.84"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.493937"
+        stCamera:FocalLengthY="0.493937"
+        stCamera:RadialDistortParam1="-0.005686"
+        stCamera:RadialDistortParam2="0.001622"
+        stCamera:RadialDistortParam3="-0.001532">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.493937"
+        stCamera:FocalLengthY="0.493937"
+        stCamera:VignetteModelParam1="-0.162447"
+        stCamera:VignetteModelParam2="0.1696"
+        stCamera:VignetteModelParam3="-0.126667"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.84"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.493937"
+        stCamera:FocalLengthY="0.493937"
+        stCamera:RadialDistortParam1="-0.005686"
+        stCamera:RadialDistortParam2="0.001622"
+        stCamera:RadialDistortParam3="-0.001532">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.493937"
+        stCamera:FocalLengthY="0.493937"
+        stCamera:VignetteModelParam1="-0.116301"
+        stCamera:VignetteModelParam2="0.052339"
+        stCamera:VignetteModelParam3="-0.019825"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.84"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.493937"
+        stCamera:FocalLengthY="0.493937"
+        stCamera:RadialDistortParam1="-0.005686"
+        stCamera:RadialDistortParam2="0.001622"
+        stCamera:RadialDistortParam3="-0.001532">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.493937"
+        stCamera:FocalLengthY="0.493937"
+        stCamera:VignetteModelParam1="-0.105775"
+        stCamera:VignetteModelParam2="0.049208"
+        stCamera:VignetteModelParam3="-0.018748"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.84"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.493937"
+        stCamera:FocalLengthY="0.493937"
+        stCamera:RadialDistortParam1="-0.005686"
+        stCamera:RadialDistortParam2="0.001622"
+        stCamera:RadialDistortParam3="-0.001532">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.493937"
+        stCamera:FocalLengthY="0.493937"
+        stCamera:VignetteModelParam1="-0.109692"
+        stCamera:VignetteModelParam2="0.067151"
+        stCamera:VignetteModelParam3="-0.026785"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.84"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.493937"
+        stCamera:FocalLengthY="0.493937"
+        stCamera:RadialDistortParam1="-0.005686"
+        stCamera:RadialDistortParam2="0.001622"
+        stCamera:RadialDistortParam3="-0.001532">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.493937"
+        stCamera:FocalLengthY="0.493937"
+        stCamera:VignetteModelParam1="-0.116549"
+        stCamera:VignetteModelParam2="0.081936"
+        stCamera:VignetteModelParam3="-0.033095"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.84"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.493937"
+        stCamera:FocalLengthY="0.493937"
+        stCamera:RadialDistortParam1="-0.005686"
+        stCamera:RadialDistortParam2="0.001622"
+        stCamera:RadialDistortParam3="-0.001532">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.493937"
+        stCamera:FocalLengthY="0.493937"
+        stCamera:VignetteModelParam1="-0.130263"
+        stCamera:VignetteModelParam2="0.105312"
+        stCamera:VignetteModelParam3="-0.043383"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="0.84"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.493937"
+        stCamera:FocalLengthY="0.493937"
+        stCamera:RadialDistortParam1="-0.005686"
+        stCamera:RadialDistortParam2="0.001622"
+        stCamera:RadialDistortParam3="-0.001532">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.493937"
+        stCamera:FocalLengthY="0.493937"
+        stCamera:VignetteModelParam1="-0.138971"
+        stCamera:VignetteModelParam2="0.124885"
+        stCamera:VignetteModelParam3="-0.055039"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.19"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.39445"
+        stCamera:FocalLengthY="1.39445"
+        stCamera:RadialDistortParam1="-0.051704"
+        stCamera:RadialDistortParam2="0.35307"
+        stCamera:RadialDistortParam3="-1.786004">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.39445"
+        stCamera:FocalLengthY="1.39445"
+        stCamera:VignetteModelParam1="-3.99367"
+        stCamera:VignetteModelParam2="12.969242"
+        stCamera:VignetteModelParam3="-39.909208"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.19"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.39445"
+        stCamera:FocalLengthY="1.39445"
+        stCamera:RadialDistortParam1="-0.051704"
+        stCamera:RadialDistortParam2="0.35307"
+        stCamera:RadialDistortParam3="-1.786004">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.39445"
+        stCamera:FocalLengthY="1.39445"
+        stCamera:VignetteModelParam1="-1.308213"
+        stCamera:VignetteModelParam2="9.817788"
+        stCamera:VignetteModelParam3="-70.180671"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.19"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.39445"
+        stCamera:FocalLengthY="1.39445"
+        stCamera:RadialDistortParam1="-0.051704"
+        stCamera:RadialDistortParam2="0.35307"
+        stCamera:RadialDistortParam3="-1.786004">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.39445"
+        stCamera:FocalLengthY="1.39445"
+        stCamera:VignetteModelParam1="-0.90641"
+        stCamera:VignetteModelParam2="2.332452"
+        stCamera:VignetteModelParam3="-7.412459"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.19"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.39445"
+        stCamera:FocalLengthY="1.39445"
+        stCamera:RadialDistortParam1="-0.051704"
+        stCamera:RadialDistortParam2="0.35307"
+        stCamera:RadialDistortParam3="-1.786004">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.39445"
+        stCamera:FocalLengthY="1.39445"
+        stCamera:VignetteModelParam1="-0.835295"
+        stCamera:VignetteModelParam2="2.377623"
+        stCamera:VignetteModelParam3="-8.156249"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.19"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.39445"
+        stCamera:FocalLengthY="1.39445"
+        stCamera:RadialDistortParam1="-0.051704"
+        stCamera:RadialDistortParam2="0.35307"
+        stCamera:RadialDistortParam3="-1.786004">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.39445"
+        stCamera:FocalLengthY="1.39445"
+        stCamera:VignetteModelParam1="-0.903275"
+        stCamera:VignetteModelParam2="4.262032"
+        stCamera:VignetteModelParam3="-15.264085"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.19"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.39445"
+        stCamera:FocalLengthY="1.39445"
+        stCamera:RadialDistortParam1="-0.051704"
+        stCamera:RadialDistortParam2="0.35307"
+        stCamera:RadialDistortParam3="-1.786004">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.39445"
+        stCamera:FocalLengthY="1.39445"
+        stCamera:VignetteModelParam1="-0.991807"
+        stCamera:VignetteModelParam2="5.634769"
+        stCamera:VignetteModelParam3="-19.781989"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.19"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.39445"
+        stCamera:FocalLengthY="1.39445"
+        stCamera:RadialDistortParam1="-0.051704"
+        stCamera:RadialDistortParam2="0.35307"
+        stCamera:RadialDistortParam3="-1.786004">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.39445"
+        stCamera:FocalLengthY="1.39445"
+        stCamera:VignetteModelParam1="-1.123216"
+        stCamera:VignetteModelParam2="7.257673"
+        stCamera:VignetteModelParam3="-25.048994"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="1.19"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.39445"
+        stCamera:FocalLengthY="1.39445"
+        stCamera:RadialDistortParam1="-0.051704"
+        stCamera:RadialDistortParam2="0.35307"
+        stCamera:RadialDistortParam3="-1.786004">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.39445"
+        stCamera:FocalLengthY="1.39445"
+        stCamera:VignetteModelParam1="-1.176542"
+        stCamera:VignetteModelParam2="7.821318"
+        stCamera:VignetteModelParam3="-27.663936"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.053128"
+        stCamera:FocalLengthY="2.053128"
+        stCamera:RadialDistortParam1="-0.033491"
+        stCamera:RadialDistortParam2="-0.109325"
+        stCamera:RadialDistortParam3="-3.277934">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.053128"
+        stCamera:FocalLengthY="2.053128"
+        stCamera:VignetteModelParam1="-13.161367"
+        stCamera:VignetteModelParam2="137.218332"
+        stCamera:VignetteModelParam3="-813.82446"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.053128"
+        stCamera:FocalLengthY="2.053128"
+        stCamera:RadialDistortParam1="-0.033491"
+        stCamera:RadialDistortParam2="-0.109325"
+        stCamera:RadialDistortParam3="-3.277934">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.053128"
+        stCamera:FocalLengthY="2.053128"
+        stCamera:VignetteModelParam1="-2.348949"
+        stCamera:VignetteModelParam2="-26.413606"
+        stCamera:VignetteModelParam3="-89.549814"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.053128"
+        stCamera:FocalLengthY="2.053128"
+        stCamera:RadialDistortParam1="-0.033491"
+        stCamera:RadialDistortParam2="-0.109325"
+        stCamera:RadialDistortParam3="-3.277934">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.053128"
+        stCamera:FocalLengthY="2.053128"
+        stCamera:VignetteModelParam1="-2.871543"
+        stCamera:VignetteModelParam2="44.876257"
+        stCamera:VignetteModelParam3="-540.488675"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.053128"
+        stCamera:FocalLengthY="2.053128"
+        stCamera:RadialDistortParam1="-0.033491"
+        stCamera:RadialDistortParam2="-0.109325"
+        stCamera:RadialDistortParam3="-3.277934">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.053128"
+        stCamera:FocalLengthY="2.053128"
+        stCamera:VignetteModelParam1="-1.950761"
+        stCamera:VignetteModelParam2="10.096521"
+        stCamera:VignetteModelParam3="-95.159027"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.053128"
+        stCamera:FocalLengthY="2.053128"
+        stCamera:RadialDistortParam1="-0.033491"
+        stCamera:RadialDistortParam2="-0.109325"
+        stCamera:RadialDistortParam3="-3.277934">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.053128"
+        stCamera:FocalLengthY="2.053128"
+        stCamera:VignetteModelParam1="-1.854281"
+        stCamera:VignetteModelParam2="12.79479"
+        stCamera:VignetteModelParam3="-125.608834"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.053128"
+        stCamera:FocalLengthY="2.053128"
+        stCamera:RadialDistortParam1="-0.033491"
+        stCamera:RadialDistortParam2="-0.109325"
+        stCamera:RadialDistortParam3="-3.277934">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.053128"
+        stCamera:FocalLengthY="2.053128"
+        stCamera:VignetteModelParam1="-1.857096"
+        stCamera:VignetteModelParam2="12.665911"
+        stCamera:VignetteModelParam3="-112.843253"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.053128"
+        stCamera:FocalLengthY="2.053128"
+        stCamera:RadialDistortParam1="-0.033491"
+        stCamera:RadialDistortParam2="-0.109325"
+        stCamera:RadialDistortParam3="-3.277934">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.053128"
+        stCamera:FocalLengthY="2.053128"
+        stCamera:VignetteModelParam1="-1.95638"
+        stCamera:VignetteModelParam2="13.701548"
+        stCamera:VignetteModelParam3="-111.627139"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.053128"
+        stCamera:FocalLengthY="2.053128"
+        stCamera:RadialDistortParam1="-0.033491"
+        stCamera:RadialDistortParam2="-0.109325"
+        stCamera:RadialDistortParam3="-3.277934">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.053128"
+        stCamera:FocalLengthY="2.053128"
+        stCamera:VignetteModelParam1="-2.3068"
+        stCamera:VignetteModelParam2="19.498163"
+        stCamera:VignetteModelParam3="-141.910137"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="5.01"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.435278"
+        stCamera:FocalLengthY="2.435278"
+        stCamera:RadialDistortParam1="0.012945"
+        stCamera:RadialDistortParam2="-2.177097"
+        stCamera:RadialDistortParam3="14.175696">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.435278"
+        stCamera:FocalLengthY="2.435278"
+        stCamera:VignetteModelParam1="-23.720876"
+        stCamera:VignetteModelParam2="403.462148"
+        stCamera:VignetteModelParam3="-3261.421321"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="5.01"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.435278"
+        stCamera:FocalLengthY="2.435278"
+        stCamera:RadialDistortParam1="0.012945"
+        stCamera:RadialDistortParam2="-2.177097"
+        stCamera:RadialDistortParam3="14.175696">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.435278"
+        stCamera:FocalLengthY="2.435278"
+        stCamera:VignetteModelParam1="-4.787167"
+        stCamera:VignetteModelParam2="-94.616205"
+        stCamera:VignetteModelParam3="470.336738"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="5.01"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.435278"
+        stCamera:FocalLengthY="2.435278"
+        stCamera:RadialDistortParam1="0.012945"
+        stCamera:RadialDistortParam2="-2.177097"
+        stCamera:RadialDistortParam3="14.175696">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.435278"
+        stCamera:FocalLengthY="2.435278"
+        stCamera:VignetteModelParam1="-2.778542"
+        stCamera:VignetteModelParam2="-25.250493"
+        stCamera:VignetteModelParam3="-443.084255"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="5.01"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.435278"
+        stCamera:FocalLengthY="2.435278"
+        stCamera:RadialDistortParam1="0.012945"
+        stCamera:RadialDistortParam2="-2.177097"
+        stCamera:RadialDistortParam3="14.175696">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.435278"
+        stCamera:FocalLengthY="2.435278"
+        stCamera:VignetteModelParam1="-4.02793"
+        stCamera:VignetteModelParam2="106.187509"
+        stCamera:VignetteModelParam3="-1871.930701"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="5.01"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.435278"
+        stCamera:FocalLengthY="2.435278"
+        stCamera:RadialDistortParam1="0.012945"
+        stCamera:RadialDistortParam2="-2.177097"
+        stCamera:RadialDistortParam3="14.175696">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.435278"
+        stCamera:FocalLengthY="2.435278"
+        stCamera:VignetteModelParam1="-2.521683"
+        stCamera:VignetteModelParam2="9.392945"
+        stCamera:VignetteModelParam3="-236.117485"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="5.01"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.435278"
+        stCamera:FocalLengthY="2.435278"
+        stCamera:RadialDistortParam1="0.012945"
+        stCamera:RadialDistortParam2="-2.177097"
+        stCamera:RadialDistortParam3="14.175696">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.435278"
+        stCamera:FocalLengthY="2.435278"
+        stCamera:VignetteModelParam1="-2.391627"
+        stCamera:VignetteModelParam2="3.170937"
+        stCamera:VignetteModelParam3="-125.291559"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="5.01"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.435278"
+        stCamera:FocalLengthY="2.435278"
+        stCamera:RadialDistortParam1="0.012945"
+        stCamera:RadialDistortParam2="-2.177097"
+        stCamera:RadialDistortParam3="14.175696">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.435278"
+        stCamera:FocalLengthY="2.435278"
+        stCamera:VignetteModelParam1="-2.322132"
+        stCamera:VignetteModelParam2="-4.046707"
+        stCamera:VignetteModelParam3="-11.810623"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="5.01"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.435278"
+        stCamera:FocalLengthY="2.435278"
+        stCamera:RadialDistortParam1="0.012945"
+        stCamera:RadialDistortParam2="-2.177097"
+        stCamera:RadialDistortParam3="14.175696">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.435278"
+        stCamera:FocalLengthY="2.435278"
+        stCamera:VignetteModelParam1="-2.588724"
+        stCamera:VignetteModelParam2="0.28758"
+        stCamera:VignetteModelParam3="-32.15164"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:RadialDistortParam1="0.017823"
+        stCamera:RadialDistortParam2="-2.475412"
+        stCamera:RadialDistortParam3="17.49113">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:VignetteModelParam1="-26.450324"
+        stCamera:VignetteModelParam2="487.479018"
+        stCamera:VignetteModelParam3="-4072.539469"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:RadialDistortParam1="0.017823"
+        stCamera:RadialDistortParam2="-2.475412"
+        stCamera:RadialDistortParam3="17.49113">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:VignetteModelParam1="-6.707458"
+        stCamera:VignetteModelParam2="-73.083737"
+        stCamera:VignetteModelParam3="358.321255"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:RadialDistortParam1="0.017823"
+        stCamera:RadialDistortParam2="-2.475412"
+        stCamera:RadialDistortParam3="17.49113">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:VignetteModelParam1="-2.104015"
+        stCamera:VignetteModelParam2="-108.788627"
+        stCamera:VignetteModelParam3="489.23514"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:RadialDistortParam1="0.017823"
+        stCamera:RadialDistortParam2="-2.475412"
+        stCamera:RadialDistortParam3="17.49113">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:VignetteModelParam1="-4.320493"
+        stCamera:VignetteModelParam2="133.292624"
+        stCamera:VignetteModelParam3="-2714.321681"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:RadialDistortParam1="0.017823"
+        stCamera:RadialDistortParam2="-2.475412"
+        stCamera:RadialDistortParam3="17.49113">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:VignetteModelParam1="-3.019427"
+        stCamera:VignetteModelParam2="41.983734"
+        stCamera:VignetteModelParam3="-886.959684"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:RadialDistortParam1="0.017823"
+        stCamera:RadialDistortParam2="-2.475412"
+        stCamera:RadialDistortParam3="17.49113">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:VignetteModelParam1="-2.413441"
+        stCamera:VignetteModelParam2="-3.38377"
+        stCamera:VignetteModelParam3="-89.743248"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:RadialDistortParam1="0.017823"
+        stCamera:RadialDistortParam2="-2.475412"
+        stCamera:RadialDistortParam3="17.49113">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:VignetteModelParam1="-2.288082"
+        stCamera:VignetteModelParam2="-13.430072"
+        stCamera:VignetteModelParam3="59.239476"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:RadialDistortParam1="0.017823"
+        stCamera:RadialDistortParam2="-2.475412"
+        stCamera:RadialDistortParam3="17.49113">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:VignetteModelParam1="-2.408465"
+        stCamera:VignetteModelParam2="-15.922051"
+        stCamera:VignetteModelParam3="116.036341"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:RadialDistortParam1="0.017823"
+        stCamera:RadialDistortParam2="-2.475412"
+        stCamera:RadialDistortParam3="17.49113">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:VignetteModelParam1="-28.983917"
+        stCamera:VignetteModelParam2="554.259113"
+        stCamera:VignetteModelParam3="-4621.470289"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:RadialDistortParam1="0.017823"
+        stCamera:RadialDistortParam2="-2.475412"
+        stCamera:RadialDistortParam3="17.49113">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:VignetteModelParam1="-8.810772"
+        stCamera:VignetteModelParam2="-37.980769"
+        stCamera:VignetteModelParam3="172.636232"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:RadialDistortParam1="0.017823"
+        stCamera:RadialDistortParam2="-2.475412"
+        stCamera:RadialDistortParam3="17.49113">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:VignetteModelParam1="-1.684406"
+        stCamera:VignetteModelParam2="-180.72685"
+        stCamera:VignetteModelParam3="1360.818207"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:RadialDistortParam1="0.017823"
+        stCamera:RadialDistortParam2="-2.475412"
+        stCamera:RadialDistortParam3="17.49113">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:VignetteModelParam1="-3.894353"
+        stCamera:VignetteModelParam2="96.398302"
+        stCamera:VignetteModelParam3="-2573.425462"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:RadialDistortParam1="0.017823"
+        stCamera:RadialDistortParam2="-2.475412"
+        stCamera:RadialDistortParam3="17.49113">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:VignetteModelParam1="-4.168157"
+        stCamera:VignetteModelParam2="128.168431"
+        stCamera:VignetteModelParam3="-2518.168257"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:RadialDistortParam1="0.017823"
+        stCamera:RadialDistortParam2="-2.475412"
+        stCamera:RadialDistortParam3="17.49113">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:VignetteModelParam1="-2.687036"
+        stCamera:VignetteModelParam2="15.107126"
+        stCamera:VignetteModelParam3="-518.339601"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:RadialDistortParam1="0.017823"
+        stCamera:RadialDistortParam2="-2.475412"
+        stCamera:RadialDistortParam3="17.49113">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:VignetteModelParam1="-2.250414"
+        stCamera:VignetteModelParam2="-23.664702"
+        stCamera:VignetteModelParam3="142.150354"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="74"
+       stCamera:Lens="85.0 mm f/1.4"
+       stCamera:LensInfo="850/10 850/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF NIKKOR 85mm f/1.4D IF"
+       stCamera:ProfileName="Adobe (Nikon AF NIKKOR 85mm f/1.4D IF)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="85"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:RadialDistortParam1="0.017823"
+        stCamera:RadialDistortParam2="-2.475412"
+        stCamera:RadialDistortParam3="17.49113">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.475752"
+        stCamera:FocalLengthY="2.475752"
+        stCamera:VignetteModelParam1="-2.535928"
+        stCamera:VignetteModelParam2="-21.020862"
+        stCamera:VignetteModelParam3="159.009565"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

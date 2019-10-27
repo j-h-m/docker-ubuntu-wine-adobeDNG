@@ -1,0 +1,1564 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="180"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 50mm F1.4 DG HSM A014"
+       stCamera:ProfileName="Adobe (SIGMA 50mm F1.4 DG HSM A014, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.003027"
+        stCamera:RadialDistortParam2="0.100562"
+        stCamera:RadialDistortParam3="-0.140505">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000006"
+        stCamera:RadialDistortParam1="0.000424"
+        stCamera:RadialDistortParam2="-0.013017"
+        stCamera:RadialDistortParam3="0.020755"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.003027"
+        stCamera:RadialDistortParam2="0.100562"
+        stCamera:RadialDistortParam3="-0.140505"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.00009"
+        stCamera:RadialDistortParam1="-0.003006"
+        stCamera:RadialDistortParam2="0.047991"
+        stCamera:RadialDistortParam3="-0.13746"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.013603"
+         stCamera:VignetteModelParam1="-8.640712"
+         stCamera:VignetteModelParam2="54.858456"
+         stCamera:VignetteModelParam3="-152.753311">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.090933, 0.903300</rdf:li>
+          <rdf:li>0.178069, 0.772800</rdf:li>
+          <rdf:li>0.433475, 0.330000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="180"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 50mm F1.4 DG HSM A014"
+       stCamera:ProfileName="Adobe (SIGMA 50mm F1.4 DG HSM A014, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.006798"
+        stCamera:RadialDistortParam2="0.08716"
+        stCamera:RadialDistortParam3="-0.10326">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000018"
+        stCamera:RadialDistortParam1="0.00019"
+        stCamera:RadialDistortParam2="-0.012242"
+        stCamera:RadialDistortParam3="0.023546"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.006798"
+        stCamera:RadialDistortParam2="0.08716"
+        stCamera:RadialDistortParam3="-0.10326"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000074"
+        stCamera:RadialDistortParam1="-0.002218"
+        stCamera:RadialDistortParam2="0.036126"
+        stCamera:RadialDistortParam3="-0.090562"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.012549"
+         stCamera:VignetteModelParam1="-8.298566"
+         stCamera:VignetteModelParam2="51.895348"
+         stCamera:VignetteModelParam3="-144.339478">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.087023, 0.913400</rdf:li>
+          <rdf:li>0.180051, 0.777800</rdf:li>
+          <rdf:li>0.433073, 0.345000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="180"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 50mm F1.4 DG HSM A014"
+       stCamera:ProfileName="Adobe (SIGMA 50mm F1.4 DG HSM A014, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.011702"
+        stCamera:RadialDistortParam2="0.074446"
+        stCamera:RadialDistortParam3="-0.072979">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000015"
+        stCamera:RadialDistortParam1="0.000537"
+        stCamera:RadialDistortParam2="-0.017858"
+        stCamera:RadialDistortParam3="0.047347"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.011702"
+        stCamera:RadialDistortParam2="0.074446"
+        stCamera:RadialDistortParam3="-0.072979"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000007"
+        stCamera:RadialDistortParam1="-0.000906"
+        stCamera:RadialDistortParam2="0.024942"
+        stCamera:RadialDistortParam3="-0.060787"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.009694"
+         stCamera:VignetteModelParam1="-7.693905"
+         stCamera:VignetteModelParam2="45.816612"
+         stCamera:VignetteModelParam3="-125.703041">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.080051, 0.933200</rdf:li>
+          <rdf:li>0.197855, 0.763900</rdf:li>
+          <rdf:li>0.432571, 0.365000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="180"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 50mm F1.4 DG HSM A014"
+       stCamera:ProfileName="Adobe (SIGMA 50mm F1.4 DG HSM A014, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.017603"
+        stCamera:RadialDistortParam2="0.06195"
+        stCamera:RadialDistortParam3="-0.047715">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000041"
+        stCamera:RadialDistortParam1="0.000207"
+        stCamera:RadialDistortParam2="-0.015008"
+        stCamera:RadialDistortParam3="0.040584"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.017603"
+        stCamera:RadialDistortParam2="0.06195"
+        stCamera:RadialDistortParam3="-0.047715"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999952"
+        stCamera:RadialDistortParam1="-0.0002"
+        stCamera:RadialDistortParam2="0.02192"
+        stCamera:RadialDistortParam3="-0.063932"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.006148"
+         stCamera:VignetteModelParam1="-6.85278"
+         stCamera:VignetteModelParam2="37.107635"
+         stCamera:VignetteModelParam3="-98.565971">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.029255, 0.992000</rdf:li>
+          <rdf:li>0.074663, 0.953400</rdf:li>
+          <rdf:li>0.209614, 0.765200</rdf:li>
+          <rdf:li>0.431976, 0.390000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="180"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 50mm F1.4 DG HSM A014"
+       stCamera:ProfileName="Adobe (SIGMA 50mm F1.4 DG HSM A014, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.024857"
+        stCamera:RadialDistortParam2="0.048104"
+        stCamera:RadialDistortParam3="-0.023524">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.00007"
+        stCamera:RadialDistortParam1="0.000012"
+        stCamera:RadialDistortParam2="-0.012922"
+        stCamera:RadialDistortParam3="0.035322"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.024857"
+        stCamera:RadialDistortParam2="0.048104"
+        stCamera:RadialDistortParam3="-0.023524"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999861"
+        stCamera:RadialDistortParam1="0.001532"
+        stCamera:RadialDistortParam2="0.004997"
+        stCamera:RadialDistortParam3="-0.016519"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003033"
+         stCamera:VignetteModelParam1="-5.85011"
+         stCamera:VignetteModelParam2="27.092079"
+         stCamera:VignetteModelParam3="-67.593925">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.039076, 0.992400</rdf:li>
+          <rdf:li>0.086061, 0.954500</rdf:li>
+          <rdf:li>0.202485, 0.801400</rdf:li>
+          <rdf:li>0.323555, 0.608400</rdf:li>
+          <rdf:li>0.431249, 0.424000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="180"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 50mm F1.4 DG HSM A014"
+       stCamera:ProfileName="Adobe (SIGMA 50mm F1.4 DG HSM A014, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.03479"
+        stCamera:RadialDistortParam2="0.032066"
+        stCamera:RadialDistortParam3="-0.002236">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000131"
+        stCamera:RadialDistortParam1="-0.000731"
+        stCamera:RadialDistortParam2="-0.005477"
+        stCamera:RadialDistortParam3="0.016451"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.03479"
+        stCamera:RadialDistortParam2="0.032066"
+        stCamera:RadialDistortParam3="-0.002236"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999726"
+        stCamera:RadialDistortParam1="0.003379"
+        stCamera:RadialDistortParam2="-0.010987"
+        stCamera:RadialDistortParam3="0.024187"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001508"
+        stCamera:VignetteModelParam1="-4.615902"
+        stCamera:VignetteModelParam2="16.316814"
+        stCamera:VignetteModelParam3="-36.36401"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="180"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 50mm F1.4 DG HSM A014"
+       stCamera:ProfileName="Adobe (SIGMA 50mm F1.4 DG HSM A014, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.046341"
+        stCamera:RadialDistortParam2="0.018695"
+        stCamera:RadialDistortParam3="0.007152">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000251"
+        stCamera:RadialDistortParam1="-0.002138"
+        stCamera:RadialDistortParam2="0.006906"
+        stCamera:RadialDistortParam3="-0.014147"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.046341"
+        stCamera:RadialDistortParam2="0.018695"
+        stCamera:RadialDistortParam3="0.007152"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999649"
+        stCamera:RadialDistortParam1="0.002658"
+        stCamera:RadialDistortParam2="-0.005638"
+        stCamera:RadialDistortParam3="0.008421"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001458"
+        stCamera:VignetteModelParam1="-3.68603"
+        stCamera:VignetteModelParam2="10.676287"
+        stCamera:VignetteModelParam3="-23.175848"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="180"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 50mm F1.4 DG HSM A014"
+       stCamera:ProfileName="Adobe (SIGMA 50mm F1.4 DG HSM A014, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.003027"
+        stCamera:RadialDistortParam2="0.100562"
+        stCamera:RadialDistortParam3="-0.140505">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.00024"
+        stCamera:RadialDistortParam1="-0.004834"
+        stCamera:RadialDistortParam2="0.027257"
+        stCamera:RadialDistortParam3="-0.078331"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.003027"
+        stCamera:RadialDistortParam2="0.100562"
+        stCamera:RadialDistortParam3="-0.140505"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999701"
+        stCamera:RadialDistortParam1="0.005773"
+        stCamera:RadialDistortParam2="-0.02483"
+        stCamera:RadialDistortParam3="0.061764"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003131"
+        stCamera:VignetteModelParam1="-0.557032"
+        stCamera:VignetteModelParam2="-10.110584"
+        stCamera:VignetteModelParam3="6.101703"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="180"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 50mm F1.4 DG HSM A014"
+       stCamera:ProfileName="Adobe (SIGMA 50mm F1.4 DG HSM A014, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.006798"
+        stCamera:RadialDistortParam2="0.08716"
+        stCamera:RadialDistortParam3="-0.10326">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000221"
+        stCamera:RadialDistortParam1="-0.00378"
+        stCamera:RadialDistortParam2="0.012499"
+        stCamera:RadialDistortParam3="-0.024797"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.006798"
+        stCamera:RadialDistortParam2="0.08716"
+        stCamera:RadialDistortParam3="-0.10326"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999724"
+        stCamera:RadialDistortParam1="0.004777"
+        stCamera:RadialDistortParam2="-0.012346"
+        stCamera:RadialDistortParam3="0.01699"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003517"
+         stCamera:VignetteModelParam1="-0.641348"
+         stCamera:VignetteModelParam2="-6.163833"
+         stCamera:VignetteModelParam3="-9.510113">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.151331, 0.977000</rdf:li>
+          <rdf:li>0.276273, 0.917500</rdf:li>
+          <rdf:li>0.319519, 0.863600</rdf:li>
+          <rdf:li>0.347990, 0.813400</rdf:li>
+          <rdf:li>0.433073, 0.614000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="180"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 50mm F1.4 DG HSM A014"
+       stCamera:ProfileName="Adobe (SIGMA 50mm F1.4 DG HSM A014, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.011702"
+        stCamera:RadialDistortParam2="0.074446"
+        stCamera:RadialDistortParam3="-0.072979">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000209"
+        stCamera:RadialDistortParam1="-0.003023"
+        stCamera:RadialDistortParam2="0.005921"
+        stCamera:RadialDistortParam3="-0.00725"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.011702"
+        stCamera:RadialDistortParam2="0.074446"
+        stCamera:RadialDistortParam3="-0.072979"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999734"
+        stCamera:RadialDistortParam1="0.004432"
+        stCamera:RadialDistortParam2="-0.01256"
+        stCamera:RadialDistortParam3="0.023961"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003323"
+         stCamera:VignetteModelParam1="-0.737495"
+         stCamera:VignetteModelParam2="-2.25155"
+         stCamera:VignetteModelParam3="-23.947964">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.148990, 0.978700</rdf:li>
+          <rdf:li>0.288818, 0.915900</rdf:li>
+          <rdf:li>0.324923, 0.874100</rdf:li>
+          <rdf:li>0.356613, 0.816300</rdf:li>
+          <rdf:li>0.432571, 0.641000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="180"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 50mm F1.4 DG HSM A014"
+       stCamera:ProfileName="Adobe (SIGMA 50mm F1.4 DG HSM A014, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.017603"
+        stCamera:RadialDistortParam2="0.06195"
+        stCamera:RadialDistortParam3="-0.047715">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000205"
+        stCamera:RadialDistortParam1="-0.002245"
+        stCamera:RadialDistortParam2="-0.00202"
+        stCamera:RadialDistortParam3="0.01842"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.017603"
+        stCamera:RadialDistortParam2="0.06195"
+        stCamera:RadialDistortParam3="-0.047715"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999754"
+        stCamera:RadialDistortParam1="0.003449"
+        stCamera:RadialDistortParam2="-0.005552"
+        stCamera:RadialDistortParam3="0.005716"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.002804"
+         stCamera:VignetteModelParam1="-0.882107"
+         stCamera:VignetteModelParam2="2.192876"
+         stCamera:VignetteModelParam3="-39.112686">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.153717, 0.978300</rdf:li>
+          <rdf:li>0.307513, 0.910900</rdf:li>
+          <rdf:li>0.361139, 0.831100</rdf:li>
+          <rdf:li>0.431976, 0.673000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="180"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 50mm F1.4 DG HSM A014"
+       stCamera:ProfileName="Adobe (SIGMA 50mm F1.4 DG HSM A014, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.024857"
+        stCamera:RadialDistortParam2="0.048104"
+        stCamera:RadialDistortParam3="-0.023524">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000197"
+        stCamera:RadialDistortParam1="-0.001605"
+        stCamera:RadialDistortParam2="-0.004704"
+        stCamera:RadialDistortParam3="0.020696"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.024857"
+        stCamera:RadialDistortParam2="0.048104"
+        stCamera:RadialDistortParam3="-0.023524"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999782"
+        stCamera:RadialDistortParam1="0.002362"
+        stCamera:RadialDistortParam2="0.000143"
+        stCamera:RadialDistortParam3="-0.003539"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001886"
+        stCamera:VignetteModelParam1="-0.995086"
+        stCamera:VignetteModelParam2="5.584651"
+        stCamera:VignetteModelParam3="-47.667175"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="180"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 50mm F1.4 DG HSM A014"
+       stCamera:ProfileName="Adobe (SIGMA 50mm F1.4 DG HSM A014, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.03479"
+        stCamera:RadialDistortParam2="0.032066"
+        stCamera:RadialDistortParam3="-0.002236">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.00018"
+        stCamera:RadialDistortParam1="-0.000798"
+        stCamera:RadialDistortParam2="-0.005983"
+        stCamera:RadialDistortParam3="0.014239"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.03479"
+        stCamera:RadialDistortParam2="0.032066"
+        stCamera:RadialDistortParam3="-0.002236"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999804"
+        stCamera:RadialDistortParam1="0.001704"
+        stCamera:RadialDistortParam2="0.000621"
+        stCamera:RadialDistortParam3="-0.001642"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000901"
+        stCamera:VignetteModelParam1="-0.973358"
+        stCamera:VignetteModelParam2="5.317147"
+        stCamera:VignetteModelParam3="-37.266689"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="180"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 50mm F1.4 DG HSM A014"
+       stCamera:ProfileName="Adobe (SIGMA 50mm F1.4 DG HSM A014, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.046341"
+        stCamera:RadialDistortParam2="0.018695"
+        stCamera:RadialDistortParam3="0.007152">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000195"
+        stCamera:RadialDistortParam1="-0.000846"
+        stCamera:RadialDistortParam2="0.000808"
+        stCamera:RadialDistortParam3="-0.012893"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.046341"
+        stCamera:RadialDistortParam2="0.018695"
+        stCamera:RadialDistortParam3="0.007152"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.99983"
+        stCamera:RadialDistortParam1="0.000662"
+        stCamera:RadialDistortParam2="0.008168"
+        stCamera:RadialDistortParam3="-0.03294"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000895"
+        stCamera:VignetteModelParam1="-0.82105"
+        stCamera:VignetteModelParam2="3.015212"
+        stCamera:VignetteModelParam3="-23.951443"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="180"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 50mm F1.4 DG HSM A014"
+       stCamera:ProfileName="Adobe (SIGMA 50mm F1.4 DG HSM A014, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.003027"
+        stCamera:RadialDistortParam2="0.100562"
+        stCamera:RadialDistortParam3="-0.140505">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000241"
+        stCamera:RadialDistortParam1="-0.001158"
+        stCamera:RadialDistortParam2="-0.015933"
+        stCamera:RadialDistortParam3="0.048811"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.003027"
+        stCamera:RadialDistortParam2="0.100562"
+        stCamera:RadialDistortParam3="-0.140505"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.99972"
+        stCamera:RadialDistortParam1="0.001495"
+        stCamera:RadialDistortParam2="0.017858"
+        stCamera:RadialDistortParam3="-0.053174"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.0014"
+        stCamera:VignetteModelParam1="-1.186271"
+        stCamera:VignetteModelParam2="4.003368"
+        stCamera:VignetteModelParam3="-20.881887"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="180"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 50mm F1.4 DG HSM A014"
+       stCamera:ProfileName="Adobe (SIGMA 50mm F1.4 DG HSM A014, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.006798"
+        stCamera:RadialDistortParam2="0.08716"
+        stCamera:RadialDistortParam3="-0.10326">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000224"
+        stCamera:RadialDistortParam1="-0.001512"
+        stCamera:RadialDistortParam2="-0.006967"
+        stCamera:RadialDistortParam3="0.014298"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.006798"
+        stCamera:RadialDistortParam2="0.08716"
+        stCamera:RadialDistortParam3="-0.10326"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999744"
+        stCamera:RadialDistortParam1="0.002022"
+        stCamera:RadialDistortParam2="0.006683"
+        stCamera:RadialDistortParam3="-0.012478"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00079"
+        stCamera:VignetteModelParam1="-1.079837"
+        stCamera:VignetteModelParam2="2.006315"
+        stCamera:VignetteModelParam3="-9.654523"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="180"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 50mm F1.4 DG HSM A014"
+       stCamera:ProfileName="Adobe (SIGMA 50mm F1.4 DG HSM A014, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.011702"
+        stCamera:RadialDistortParam2="0.074446"
+        stCamera:RadialDistortParam3="-0.072979">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000214"
+        stCamera:RadialDistortParam1="-0.001796"
+        stCamera:RadialDistortParam2="0.000107"
+        stCamera:RadialDistortParam3="-0.01075"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.011702"
+        stCamera:RadialDistortParam2="0.074446"
+        stCamera:RadialDistortParam3="-0.072979"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999768"
+        stCamera:RadialDistortParam1="0.002008"
+        stCamera:RadialDistortParam2="0.002744"
+        stCamera:RadialDistortParam3="0.001477"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000353"
+        stCamera:VignetteModelParam1="-1.001136"
+        stCamera:VignetteModelParam2="0.704717"
+        stCamera:VignetteModelParam3="-2.552228"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="180"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 50mm F1.4 DG HSM A014"
+       stCamera:ProfileName="Adobe (SIGMA 50mm F1.4 DG HSM A014, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.017603"
+        stCamera:RadialDistortParam2="0.06195"
+        stCamera:RadialDistortParam3="-0.047715">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000195"
+        stCamera:RadialDistortParam1="-0.001398"
+        stCamera:RadialDistortParam2="-0.002101"
+        stCamera:RadialDistortParam3="-0.000511"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.017603"
+        stCamera:RadialDistortParam2="0.06195"
+        stCamera:RadialDistortParam3="-0.047715"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999791"
+        stCamera:RadialDistortParam1="0.001903"
+        stCamera:RadialDistortParam2="0.001043"
+        stCamera:RadialDistortParam3="0.00336"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00024"
+        stCamera:VignetteModelParam1="-0.94652"
+        stCamera:VignetteModelParam2="0.321515"
+        stCamera:VignetteModelParam3="-0.842143"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="180"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 50mm F1.4 DG HSM A014"
+       stCamera:ProfileName="Adobe (SIGMA 50mm F1.4 DG HSM A014, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.024857"
+        stCamera:RadialDistortParam2="0.048104"
+        stCamera:RadialDistortParam3="-0.023524">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000174"
+        stCamera:RadialDistortParam1="-0.000991"
+        stCamera:RadialDistortParam2="-0.003896"
+        stCamera:RadialDistortParam3="0.006305"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.024857"
+        stCamera:RadialDistortParam2="0.048104"
+        stCamera:RadialDistortParam3="-0.023524"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999821"
+        stCamera:RadialDistortParam1="0.001715"
+        stCamera:RadialDistortParam2="0.000476"
+        stCamera:RadialDistortParam3="0.000317"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000242"
+        stCamera:VignetteModelParam1="-0.910536"
+        stCamera:VignetteModelParam2="0.393955"
+        stCamera:VignetteModelParam3="-1.067005"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="180"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 50mm F1.4 DG HSM A014"
+       stCamera:ProfileName="Adobe (SIGMA 50mm F1.4 DG HSM A014, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.03479"
+        stCamera:RadialDistortParam2="0.032066"
+        stCamera:RadialDistortParam3="-0.002236">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000146"
+        stCamera:RadialDistortParam1="-0.000774"
+        stCamera:RadialDistortParam2="-0.002987"
+        stCamera:RadialDistortParam3="0.006179"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.03479"
+        stCamera:RadialDistortParam2="0.032066"
+        stCamera:RadialDistortParam3="-0.002236"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999869"
+        stCamera:RadialDistortParam1="0.001396"
+        stCamera:RadialDistortParam2="0.000253"
+        stCamera:RadialDistortParam3="-0.000681"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00028"
+        stCamera:VignetteModelParam1="-0.824259"
+        stCamera:VignetteModelParam2="0.00537"
+        stCamera:VignetteModelParam3="0.282584"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="180"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 50mm F1.4 DG HSM A014"
+       stCamera:ProfileName="Adobe (SIGMA 50mm F1.4 DG HSM A014, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.046341"
+        stCamera:RadialDistortParam2="0.018695"
+        stCamera:RadialDistortParam3="0.007152">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000137"
+        stCamera:RadialDistortParam1="-0.000555"
+        stCamera:RadialDistortParam2="-0.002258"
+        stCamera:RadialDistortParam3="0.004095"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.046341"
+        stCamera:RadialDistortParam2="0.018695"
+        stCamera:RadialDistortParam3="0.007152"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999902"
+        stCamera:RadialDistortParam1="0.001197"
+        stCamera:RadialDistortParam2="-0.002533"
+        stCamera:RadialDistortParam3="0.011814"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000211"
+        stCamera:VignetteModelParam1="-0.770942"
+        stCamera:VignetteModelParam2="0.205752"
+        stCamera:VignetteModelParam3="-0.702852"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="180"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 50mm F1.4 DG HSM A014"
+       stCamera:ProfileName="Adobe (SIGMA 50mm F1.4 DG HSM A014, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.003027"
+        stCamera:RadialDistortParam2="0.100562"
+        stCamera:RadialDistortParam3="-0.140505">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.00026"
+        stCamera:RadialDistortParam1="-0.00212"
+        stCamera:RadialDistortParam2="0.000669"
+        stCamera:RadialDistortParam3="-0.005434"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.003027"
+        stCamera:RadialDistortParam2="0.100562"
+        stCamera:RadialDistortParam3="-0.140505"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999712"
+        stCamera:RadialDistortParam1="0.002496"
+        stCamera:RadialDistortParam2="-0.000912"
+        stCamera:RadialDistortParam3="0.00735"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000218"
+        stCamera:VignetteModelParam1="-1.061202"
+        stCamera:VignetteModelParam2="0.379564"
+        stCamera:VignetteModelParam3="-0.44048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="180"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 50mm F1.4 DG HSM A014"
+       stCamera:ProfileName="Adobe (SIGMA 50mm F1.4 DG HSM A014, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.006798"
+        stCamera:RadialDistortParam2="0.08716"
+        stCamera:RadialDistortParam3="-0.10326">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000224"
+        stCamera:RadialDistortParam1="-0.001753"
+        stCamera:RadialDistortParam2="-0.001274"
+        stCamera:RadialDistortParam3="0.001351"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.006798"
+        stCamera:RadialDistortParam2="0.08716"
+        stCamera:RadialDistortParam3="-0.10326"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999754"
+        stCamera:RadialDistortParam1="0.002266"
+        stCamera:RadialDistortParam2="-0.000063"
+        stCamera:RadialDistortParam3="0.002538"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000243"
+        stCamera:VignetteModelParam1="-1.026748"
+        stCamera:VignetteModelParam2="0.321737"
+        stCamera:VignetteModelParam3="-0.37271"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="180"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 50mm F1.4 DG HSM A014"
+       stCamera:ProfileName="Adobe (SIGMA 50mm F1.4 DG HSM A014, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.011702"
+        stCamera:RadialDistortParam2="0.074446"
+        stCamera:RadialDistortParam3="-0.072979">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000203"
+        stCamera:RadialDistortParam1="-0.001562"
+        stCamera:RadialDistortParam2="-0.001872"
+        stCamera:RadialDistortParam3="0.005054"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.011702"
+        stCamera:RadialDistortParam2="0.074446"
+        stCamera:RadialDistortParam3="-0.072979"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999782"
+        stCamera:RadialDistortParam1="0.002241"
+        stCamera:RadialDistortParam2="-0.00246"
+        stCamera:RadialDistortParam3="0.011149"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000224"
+        stCamera:VignetteModelParam1="-1.004166"
+        stCamera:VignetteModelParam2="0.437794"
+        stCamera:VignetteModelParam3="-0.836334"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="180"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 50mm F1.4 DG HSM A014"
+       stCamera:ProfileName="Adobe (SIGMA 50mm F1.4 DG HSM A014, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.017603"
+        stCamera:RadialDistortParam2="0.06195"
+        stCamera:RadialDistortParam3="-0.047715">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000183"
+        stCamera:RadialDistortParam1="-0.001308"
+        stCamera:RadialDistortParam2="-0.00294"
+        stCamera:RadialDistortParam3="0.009209"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.017603"
+        stCamera:RadialDistortParam2="0.06195"
+        stCamera:RadialDistortParam3="-0.047715"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999812"
+        stCamera:RadialDistortParam1="0.00202"
+        stCamera:RadialDistortParam2="-0.001665"
+        stCamera:RadialDistortParam3="0.006185"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000171"
+        stCamera:VignetteModelParam1="-0.948366"
+        stCamera:VignetteModelParam2="0.14442"
+        stCamera:VignetteModelParam3="0.112277"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="180"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 50mm F1.4 DG HSM A014"
+       stCamera:ProfileName="Adobe (SIGMA 50mm F1.4 DG HSM A014, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.024857"
+        stCamera:RadialDistortParam2="0.048104"
+        stCamera:RadialDistortParam3="-0.023524">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000162"
+        stCamera:RadialDistortParam1="-0.001223"
+        stCamera:RadialDistortParam2="-0.000936"
+        stCamera:RadialDistortParam3="0.001162"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.024857"
+        stCamera:RadialDistortParam2="0.048104"
+        stCamera:RadialDistortParam3="-0.023524"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999849"
+        stCamera:RadialDistortParam1="0.001687"
+        stCamera:RadialDistortParam2="0.000024"
+        stCamera:RadialDistortParam3="-0.001006"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000214"
+        stCamera:VignetteModelParam1="-0.911337"
+        stCamera:VignetteModelParam2="0.285733"
+        stCamera:VignetteModelParam3="-0.611717"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="180"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 50mm F1.4 DG HSM A014"
+       stCamera:ProfileName="Adobe (SIGMA 50mm F1.4 DG HSM A014, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.03479"
+        stCamera:RadialDistortParam2="0.032066"
+        stCamera:RadialDistortParam3="-0.002236">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000127"
+        stCamera:RadialDistortParam1="-0.000908"
+        stCamera:RadialDistortParam2="-0.001878"
+        stCamera:RadialDistortParam3="0.005513"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.03479"
+        stCamera:RadialDistortParam2="0.032066"
+        stCamera:RadialDistortParam3="-0.002236"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999902"
+        stCamera:RadialDistortParam1="0.001358"
+        stCamera:RadialDistortParam2="0.000704"
+        stCamera:RadialDistortParam3="-0.002964"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000269"
+        stCamera:VignetteModelParam1="-0.850748"
+        stCamera:VignetteModelParam2="0.332621"
+        stCamera:VignetteModelParam3="-0.916473"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="180"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 50mm F1.4 DG HSM A014"
+       stCamera:ProfileName="Adobe (SIGMA 50mm F1.4 DG HSM A014, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.046341"
+        stCamera:RadialDistortParam2="0.018695"
+        stCamera:RadialDistortParam3="0.007152">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000112"
+        stCamera:RadialDistortParam1="-0.00068"
+        stCamera:RadialDistortParam2="-0.001456"
+        stCamera:RadialDistortParam3="0.003051"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.046341"
+        stCamera:RadialDistortParam2="0.018695"
+        stCamera:RadialDistortParam3="0.007152"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999931"
+        stCamera:RadialDistortParam1="0.001336"
+        stCamera:RadialDistortParam2="-0.001691"
+        stCamera:RadialDistortParam3="0.004246"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000253"
+        stCamera:VignetteModelParam1="-0.781843"
+        stCamera:VignetteModelParam2="0.236402"
+        stCamera:VignetteModelParam3="-0.701178"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

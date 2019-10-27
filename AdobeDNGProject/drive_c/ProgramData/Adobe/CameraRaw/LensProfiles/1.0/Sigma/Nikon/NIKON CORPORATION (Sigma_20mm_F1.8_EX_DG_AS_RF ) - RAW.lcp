@@ -1,0 +1,1152 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c007 1.136881, 2010/06/10-18:11:35        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="228"
+       stCamera:Lens="20.0 mm f/1.8"
+       stCamera:LensInfo="200/10 200/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.8 EX DG ASPHERICAL RF"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.8 EX DG ASPHERICAL RF, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>38</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000007"
+        stCamera:ResidualStandardDeviation="0.000008"
+        stCamera:RadialDistortParam1="-0.099295"
+        stCamera:RadialDistortParam2="0.089931"
+        stCamera:RadialDistortParam3="-0.010819">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:ScaleFactor="1.000081"
+        stCamera:RadialDistortParam1="0.00035"
+        stCamera:RadialDistortParam2="0.000346"
+        stCamera:RadialDistortParam3="-0.000409"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000007"
+        stCamera:ResidualStandardDeviation="0.000008"
+        stCamera:RadialDistortParam1="-0.099295"
+        stCamera:RadialDistortParam2="0.089931"
+        stCamera:RadialDistortParam3="-0.010819"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000005"
+        stCamera:ScaleFactor="1.000527"
+        stCamera:RadialDistortParam1="-0.000457"
+        stCamera:RadialDistortParam2="-0.000278"
+        stCamera:RadialDistortParam3="0.000417"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.005396"
+        stCamera:VignetteModelParam1="-0.120995"
+        stCamera:VignetteModelParam2="-1.052452"
+        stCamera:VignetteModelParam3="0.594699"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="228"
+       stCamera:Lens="20.0 mm f/1.8"
+       stCamera:LensInfo="200/10 200/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.8 EX DG ASPHERICAL RF"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.8 EX DG ASPHERICAL RF, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>38</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000006"
+        stCamera:ResidualStandardDeviation="0.000008"
+        stCamera:RadialDistortParam1="-0.100095"
+        stCamera:RadialDistortParam2="0.085456"
+        stCamera:RadialDistortParam3="-0.010203">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:ScaleFactor="1.000037"
+        stCamera:RadialDistortParam1="0.00029"
+        stCamera:RadialDistortParam2="0.000359"
+        stCamera:RadialDistortParam3="-0.000422"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000006"
+        stCamera:ResidualStandardDeviation="0.000008"
+        stCamera:RadialDistortParam1="-0.100095"
+        stCamera:RadialDistortParam2="0.085456"
+        stCamera:RadialDistortParam3="-0.010203"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:ScaleFactor="1.000584"
+        stCamera:RadialDistortParam1="-0.000413"
+        stCamera:RadialDistortParam2="-0.000313"
+        stCamera:RadialDistortParam3="0.000482"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.004957"
+        stCamera:VignetteModelParam1="-0.118898"
+        stCamera:VignetteModelParam2="-1.002444"
+        stCamera:VignetteModelParam3="0.555699"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="228"
+       stCamera:Lens="20.0 mm f/1.8"
+       stCamera:LensInfo="200/10 200/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.8 EX DG ASPHERICAL RF"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.8 EX DG ASPHERICAL RF, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>38</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000007"
+        stCamera:RadialDistortParam1="-0.101026"
+        stCamera:RadialDistortParam2="0.079781"
+        stCamera:RadialDistortParam3="-0.009354">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:ScaleFactor="0.999973"
+        stCamera:RadialDistortParam1="0.000297"
+        stCamera:RadialDistortParam2="0.00023"
+        stCamera:RadialDistortParam3="-0.000369"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000007"
+        stCamera:RadialDistortParam1="-0.101026"
+        stCamera:RadialDistortParam2="0.079781"
+        stCamera:RadialDistortParam3="-0.009354"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:ScaleFactor="1.000667"
+        stCamera:RadialDistortParam1="-0.000421"
+        stCamera:RadialDistortParam2="-0.000218"
+        stCamera:RadialDistortParam3="0.000465"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.004332"
+        stCamera:VignetteModelParam1="-0.12537"
+        stCamera:VignetteModelParam2="-0.919538"
+        stCamera:VignetteModelParam3="0.496853"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="228"
+       stCamera:Lens="20.0 mm f/1.8"
+       stCamera:LensInfo="200/10 200/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.8 EX DG ASPHERICAL RF"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.8 EX DG ASPHERICAL RF, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.3"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>38</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000006"
+        stCamera:RadialDistortParam1="-0.102466"
+        stCamera:RadialDistortParam2="0.069754"
+        stCamera:RadialDistortParam3="-0.00773">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000007"
+        stCamera:ResidualStandardDeviation="0.000005"
+        stCamera:ScaleFactor="0.999798"
+        stCamera:RadialDistortParam1="0.000724"
+        stCamera:RadialDistortParam2="-0.000588"
+        stCamera:RadialDistortParam3="-0.000007"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000006"
+        stCamera:RadialDistortParam1="-0.102466"
+        stCamera:RadialDistortParam2="0.069754"
+        stCamera:RadialDistortParam3="-0.00773"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:ScaleFactor="1.000768"
+        stCamera:RadialDistortParam1="-0.000089"
+        stCamera:RadialDistortParam2="-0.000835"
+        stCamera:RadialDistortParam3="0.000857"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003463"
+        stCamera:VignetteModelParam1="-0.152137"
+        stCamera:VignetteModelParam2="-0.732085"
+        stCamera:VignetteModelParam3="0.367674"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="228"
+       stCamera:Lens="20.0 mm f/1.8"
+       stCamera:LensInfo="200/10 200/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.8 EX DG ASPHERICAL RF"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.8 EX DG ASPHERICAL RF, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.2"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>38</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:RadialDistortParam1="-0.104616"
+        stCamera:RadialDistortParam2="0.049146"
+        stCamera:RadialDistortParam3="-0.004111">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000024"
+        stCamera:ResidualStandardDeviation="0.000024"
+        stCamera:ScaleFactor="0.999667"
+        stCamera:RadialDistortParam1="0.00029"
+        stCamera:RadialDistortParam2="0.000356"
+        stCamera:RadialDistortParam3="-0.000744"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:RadialDistortParam1="-0.104616"
+        stCamera:RadialDistortParam2="0.049146"
+        stCamera:RadialDistortParam3="-0.004111"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000026"
+        stCamera:ResidualStandardDeviation="0.000026"
+        stCamera:ScaleFactor="1.001131"
+        stCamera:RadialDistortParam1="-0.001116"
+        stCamera:RadialDistortParam2="0.001738"
+        stCamera:RadialDistortParam3="-0.000829"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001663"
+        stCamera:VignetteModelParam1="-0.2024"
+        stCamera:VignetteModelParam2="-0.454145"
+        stCamera:VignetteModelParam3="0.210519"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="228"
+       stCamera:Lens="20.0 mm f/1.8"
+       stCamera:LensInfo="200/10 200/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.8 EX DG ASPHERICAL RF"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.8 EX DG ASPHERICAL RF, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>38</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000007"
+        stCamera:ResidualStandardDeviation="0.000008"
+        stCamera:RadialDistortParam1="-0.099295"
+        stCamera:RadialDistortParam2="0.089931"
+        stCamera:RadialDistortParam3="-0.010819">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:ScaleFactor="1.00021"
+        stCamera:RadialDistortParam1="0.000361"
+        stCamera:RadialDistortParam2="0.000018"
+        stCamera:RadialDistortParam3="-0.000196"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000007"
+        stCamera:ResidualStandardDeviation="0.000008"
+        stCamera:RadialDistortParam1="-0.099295"
+        stCamera:RadialDistortParam2="0.089931"
+        stCamera:RadialDistortParam3="-0.010819"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000005"
+        stCamera:ScaleFactor="1.000333"
+        stCamera:RadialDistortParam1="-0.000139"
+        stCamera:RadialDistortParam2="-0.000481"
+        stCamera:RadialDistortParam3="0.000478"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002232"
+        stCamera:VignetteModelParam1="-0.321661"
+        stCamera:VignetteModelParam2="0.105752"
+        stCamera:VignetteModelParam3="-0.148357"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="228"
+       stCamera:Lens="20.0 mm f/1.8"
+       stCamera:LensInfo="200/10 200/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.8 EX DG ASPHERICAL RF"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.8 EX DG ASPHERICAL RF, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>38</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000006"
+        stCamera:ResidualStandardDeviation="0.000008"
+        stCamera:RadialDistortParam1="-0.100095"
+        stCamera:RadialDistortParam2="0.085456"
+        stCamera:RadialDistortParam3="-0.010203">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:ScaleFactor="1.000159"
+        stCamera:RadialDistortParam1="0.000273"
+        stCamera:RadialDistortParam2="0.000119"
+        stCamera:RadialDistortParam3="-0.000269"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000006"
+        stCamera:ResidualStandardDeviation="0.000008"
+        stCamera:RadialDistortParam1="-0.100095"
+        stCamera:RadialDistortParam2="0.085456"
+        stCamera:RadialDistortParam3="-0.010203"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000006"
+        stCamera:ResidualStandardDeviation="0.000005"
+        stCamera:ScaleFactor="1.000383"
+        stCamera:RadialDistortParam1="-0.00013"
+        stCamera:RadialDistortParam2="-0.000338"
+        stCamera:RadialDistortParam3="0.000384"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.0022"
+        stCamera:VignetteModelParam1="-0.318792"
+        stCamera:VignetteModelParam2="0.098996"
+        stCamera:VignetteModelParam3="-0.13437"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="228"
+       stCamera:Lens="20.0 mm f/1.8"
+       stCamera:LensInfo="200/10 200/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.8 EX DG ASPHERICAL RF"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.8 EX DG ASPHERICAL RF, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>38</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000007"
+        stCamera:RadialDistortParam1="-0.101026"
+        stCamera:RadialDistortParam2="0.079781"
+        stCamera:RadialDistortParam3="-0.009354">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:ScaleFactor="1.000111"
+        stCamera:RadialDistortParam1="0.0002"
+        stCamera:RadialDistortParam2="0.000192"
+        stCamera:RadialDistortParam3="-0.000347"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000007"
+        stCamera:RadialDistortParam1="-0.101026"
+        stCamera:RadialDistortParam2="0.079781"
+        stCamera:RadialDistortParam3="-0.009354"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:ScaleFactor="1.000479"
+        stCamera:RadialDistortParam1="-0.000309"
+        stCamera:RadialDistortParam2="0.000215"
+        stCamera:RadialDistortParam3="0.000056"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001911"
+        stCamera:VignetteModelParam1="-0.31076"
+        stCamera:VignetteModelParam2="0.066269"
+        stCamera:VignetteModelParam3="-0.098099"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="228"
+       stCamera:Lens="20.0 mm f/1.8"
+       stCamera:LensInfo="200/10 200/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.8 EX DG ASPHERICAL RF"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.8 EX DG ASPHERICAL RF, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.3"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>38</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000006"
+        stCamera:RadialDistortParam1="-0.102466"
+        stCamera:RadialDistortParam2="0.069754"
+        stCamera:RadialDistortParam3="-0.00773">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000006"
+        stCamera:ResidualStandardDeviation="0.000006"
+        stCamera:ScaleFactor="1.000011"
+        stCamera:RadialDistortParam1="0.000198"
+        stCamera:RadialDistortParam2="-0.000022"
+        stCamera:RadialDistortParam3="-0.000214"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000006"
+        stCamera:RadialDistortParam1="-0.102466"
+        stCamera:RadialDistortParam2="0.069754"
+        stCamera:RadialDistortParam3="-0.00773"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:ScaleFactor="1.000587"
+        stCamera:RadialDistortParam1="-0.000251"
+        stCamera:RadialDistortParam2="0.000328"
+        stCamera:RadialDistortParam3="0.000022"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00102"
+        stCamera:VignetteModelParam1="-0.286801"
+        stCamera:VignetteModelParam2="-0.007813"
+        stCamera:VignetteModelParam3="-0.035353"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="228"
+       stCamera:Lens="20.0 mm f/1.8"
+       stCamera:LensInfo="200/10 200/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.8 EX DG ASPHERICAL RF"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.8 EX DG ASPHERICAL RF, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.2"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>38</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:RadialDistortParam1="-0.104616"
+        stCamera:RadialDistortParam2="0.049146"
+        stCamera:RadialDistortParam3="-0.004111">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.00001"
+        stCamera:ResidualStandardDeviation="0.00001"
+        stCamera:ScaleFactor="0.999769"
+        stCamera:RadialDistortParam1="0.000755"
+        stCamera:RadialDistortParam2="-0.001466"
+        stCamera:RadialDistortParam3="0.000643"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:RadialDistortParam1="-0.104616"
+        stCamera:RadialDistortParam2="0.049146"
+        stCamera:RadialDistortParam3="-0.004111"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000015"
+        stCamera:ResidualStandardDeviation="0.000015"
+        stCamera:ScaleFactor="1.000797"
+        stCamera:RadialDistortParam1="0.000142"
+        stCamera:RadialDistortParam2="-0.000634"
+        stCamera:RadialDistortParam3="0.000644"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000933"
+        stCamera:VignetteModelParam1="-0.269342"
+        stCamera:VignetteModelParam2="-0.01386"
+        stCamera:VignetteModelParam3="-0.041162"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="228"
+       stCamera:Lens="20.0 mm f/1.8"
+       stCamera:LensInfo="200/10 200/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.8 EX DG ASPHERICAL RF"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.8 EX DG ASPHERICAL RF, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>38</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000007"
+        stCamera:ResidualStandardDeviation="0.000008"
+        stCamera:RadialDistortParam1="-0.099295"
+        stCamera:RadialDistortParam2="0.089931"
+        stCamera:RadialDistortParam3="-0.010819">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000271"
+        stCamera:RadialDistortParam1="0.000134"
+        stCamera:RadialDistortParam2="0.000417"
+        stCamera:RadialDistortParam3="-0.000392"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000007"
+        stCamera:ResidualStandardDeviation="0.000008"
+        stCamera:RadialDistortParam1="-0.099295"
+        stCamera:RadialDistortParam2="0.089931"
+        stCamera:RadialDistortParam3="-0.010819"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:ScaleFactor="1.000328"
+        stCamera:RadialDistortParam1="-0.000391"
+        stCamera:RadialDistortParam2="0.000036"
+        stCamera:RadialDistortParam3="0.000184"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000344"
+        stCamera:VignetteModelParam1="-0.279323"
+        stCamera:VignetteModelParam2="-0.091308"
+        stCamera:VignetteModelParam3="0.064593"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="228"
+       stCamera:Lens="20.0 mm f/1.8"
+       stCamera:LensInfo="200/10 200/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.8 EX DG ASPHERICAL RF"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.8 EX DG ASPHERICAL RF, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>38</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000006"
+        stCamera:ResidualStandardDeviation="0.000008"
+        stCamera:RadialDistortParam1="-0.100095"
+        stCamera:RadialDistortParam2="0.085456"
+        stCamera:RadialDistortParam3="-0.010203">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000202"
+        stCamera:RadialDistortParam1="0.000345"
+        stCamera:RadialDistortParam2="-0.000124"
+        stCamera:RadialDistortParam3="-0.00011"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000006"
+        stCamera:ResidualStandardDeviation="0.000008"
+        stCamera:RadialDistortParam1="-0.100095"
+        stCamera:RadialDistortParam2="0.085456"
+        stCamera:RadialDistortParam3="-0.010203"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:ScaleFactor="1.000352"
+        stCamera:RadialDistortParam1="-0.000117"
+        stCamera:RadialDistortParam2="-0.000427"
+        stCamera:RadialDistortParam3="0.00047"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000316"
+        stCamera:VignetteModelParam1="-0.275989"
+        stCamera:VignetteModelParam2="-0.097002"
+        stCamera:VignetteModelParam3="0.066932"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="228"
+       stCamera:Lens="20.0 mm f/1.8"
+       stCamera:LensInfo="200/10 200/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.8 EX DG ASPHERICAL RF"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.8 EX DG ASPHERICAL RF, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>38</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000007"
+        stCamera:RadialDistortParam1="-0.101026"
+        stCamera:RadialDistortParam2="0.079781"
+        stCamera:RadialDistortParam3="-0.009354">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000156"
+        stCamera:RadialDistortParam1="0.000214"
+        stCamera:RadialDistortParam2="0.000066"
+        stCamera:RadialDistortParam3="-0.000245"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000007"
+        stCamera:RadialDistortParam1="-0.101026"
+        stCamera:RadialDistortParam2="0.079781"
+        stCamera:RadialDistortParam3="-0.009354"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:ScaleFactor="1.000439"
+        stCamera:RadialDistortParam1="-0.00031"
+        stCamera:RadialDistortParam2="0.000115"
+        stCamera:RadialDistortParam3="0.000187"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00024"
+        stCamera:VignetteModelParam1="-0.272831"
+        stCamera:VignetteModelParam2="-0.096692"
+        stCamera:VignetteModelParam3="0.063927"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="228"
+       stCamera:Lens="20.0 mm f/1.8"
+       stCamera:LensInfo="200/10 200/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.8 EX DG ASPHERICAL RF"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.8 EX DG ASPHERICAL RF, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.3"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>38</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000006"
+        stCamera:RadialDistortParam1="-0.102466"
+        stCamera:RadialDistortParam2="0.069754"
+        stCamera:RadialDistortParam3="-0.00773">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:ScaleFactor="1.000049"
+        stCamera:RadialDistortParam1="0.000301"
+        stCamera:RadialDistortParam2="-0.000303"
+        stCamera:RadialDistortParam3="-0.000036"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000006"
+        stCamera:RadialDistortParam1="-0.102466"
+        stCamera:RadialDistortParam2="0.069754"
+        stCamera:RadialDistortParam3="-0.00773"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000006"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:ScaleFactor="1.000544"
+        stCamera:RadialDistortParam1="-0.000139"
+        stCamera:RadialDistortParam2="-0.000143"
+        stCamera:RadialDistortParam3="0.000405"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000213"
+        stCamera:VignetteModelParam1="-0.267774"
+        stCamera:VignetteModelParam2="-0.094657"
+        stCamera:VignetteModelParam3="0.057108"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="228"
+       stCamera:Lens="20.0 mm f/1.8"
+       stCamera:LensInfo="200/10 200/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.8 EX DG ASPHERICAL RF"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.8 EX DG ASPHERICAL RF, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.2"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>38</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:RadialDistortParam1="-0.104616"
+        stCamera:RadialDistortParam2="0.049146"
+        stCamera:RadialDistortParam3="-0.004111">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000006"
+        stCamera:ResidualStandardDeviation="0.000005"
+        stCamera:ScaleFactor="0.999834"
+        stCamera:RadialDistortParam1="0.00038"
+        stCamera:RadialDistortParam2="-0.000371"
+        stCamera:RadialDistortParam3="-0.000092"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:RadialDistortParam1="-0.104616"
+        stCamera:RadialDistortParam2="0.049146"
+        stCamera:RadialDistortParam3="-0.004111"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000011"
+        stCamera:ResidualStandardDeviation="0.000011"
+        stCamera:ScaleFactor="1.000759"
+        stCamera:RadialDistortParam1="-0.000463"
+        stCamera:RadialDistortParam2="0.000782"
+        stCamera:RadialDistortParam3="-0.000067"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000222"
+        stCamera:VignetteModelParam1="-0.249642"
+        stCamera:VignetteModelParam2="-0.099914"
+        stCamera:VignetteModelParam3="0.047067"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="228"
+       stCamera:Lens="20.0 mm f/1.8"
+       stCamera:LensInfo="200/10 200/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.8 EX DG ASPHERICAL RF"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.8 EX DG ASPHERICAL RF, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>38</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000007"
+        stCamera:ResidualStandardDeviation="0.000008"
+        stCamera:RadialDistortParam1="-0.099295"
+        stCamera:RadialDistortParam2="0.089931"
+        stCamera:RadialDistortParam3="-0.010819">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:ScaleFactor="0.999773"
+        stCamera:RadialDistortParam1="0.001508"
+        stCamera:RadialDistortParam2="-0.001153"
+        stCamera:RadialDistortParam3="0.000227"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000007"
+        stCamera:ResidualStandardDeviation="0.000008"
+        stCamera:RadialDistortParam1="-0.099295"
+        stCamera:RadialDistortParam2="0.089931"
+        stCamera:RadialDistortParam3="-0.010819"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000009"
+        stCamera:ResidualStandardDeviation="0.000005"
+        stCamera:ScaleFactor="1.000877"
+        stCamera:RadialDistortParam1="-0.002017"
+        stCamera:RadialDistortParam2="0.002027"
+        stCamera:RadialDistortParam3="-0.000654"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.020805"
+        stCamera:VignetteModelParam1="-1.967783"
+        stCamera:VignetteModelParam2="2.185517"
+        stCamera:VignetteModelParam3="-0.968562"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="228"
+       stCamera:Lens="20.0 mm f/1.8"
+       stCamera:LensInfo="200/10 200/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.8 EX DG ASPHERICAL RF"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.8 EX DG ASPHERICAL RF, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>38</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000006"
+        stCamera:ResidualStandardDeviation="0.000008"
+        stCamera:RadialDistortParam1="-0.100095"
+        stCamera:RadialDistortParam2="0.085456"
+        stCamera:RadialDistortParam3="-0.010203">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:ScaleFactor="0.99972"
+        stCamera:RadialDistortParam1="0.001472"
+        stCamera:RadialDistortParam2="-0.001134"
+        stCamera:RadialDistortParam3="0.00019"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000006"
+        stCamera:ResidualStandardDeviation="0.000008"
+        stCamera:RadialDistortParam1="-0.100095"
+        stCamera:RadialDistortParam2="0.085456"
+        stCamera:RadialDistortParam3="-0.010203"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000006"
+        stCamera:ResidualStandardDeviation="0.000005"
+        stCamera:ScaleFactor="1.000943"
+        stCamera:RadialDistortParam1="-0.002053"
+        stCamera:RadialDistortParam2="0.002209"
+        stCamera:RadialDistortParam3="-0.000734"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.02037"
+        stCamera:VignetteModelParam1="-1.936272"
+        stCamera:VignetteModelParam2="2.161182"
+        stCamera:VignetteModelParam3="-0.970853"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="228"
+       stCamera:Lens="20.0 mm f/1.8"
+       stCamera:LensInfo="200/10 200/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.8 EX DG ASPHERICAL RF"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.8 EX DG ASPHERICAL RF, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>38</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000007"
+        stCamera:RadialDistortParam1="-0.101026"
+        stCamera:RadialDistortParam2="0.079781"
+        stCamera:RadialDistortParam3="-0.009354">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:ScaleFactor="0.999629"
+        stCamera:RadialDistortParam1="0.001636"
+        stCamera:RadialDistortParam2="-0.001525"
+        stCamera:RadialDistortParam3="0.000377"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000007"
+        stCamera:RadialDistortParam1="-0.101026"
+        stCamera:RadialDistortParam2="0.079781"
+        stCamera:RadialDistortParam3="-0.009354"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000007"
+        stCamera:ResidualStandardDeviation="0.000006"
+        stCamera:ScaleFactor="1.000996"
+        stCamera:RadialDistortParam1="-0.001861"
+        stCamera:RadialDistortParam2="0.001925"
+        stCamera:RadialDistortParam3="-0.000563"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.018169"
+        stCamera:VignetteModelParam1="-1.859571"
+        stCamera:VignetteModelParam2="2.053338"
+        stCamera:VignetteModelParam3="-0.931379"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="228"
+       stCamera:Lens="20.0 mm f/1.8"
+       stCamera:LensInfo="200/10 200/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.8 EX DG ASPHERICAL RF"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.8 EX DG ASPHERICAL RF, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.3"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>38</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000006"
+        stCamera:RadialDistortParam1="-0.102466"
+        stCamera:RadialDistortParam2="0.069754"
+        stCamera:RadialDistortParam3="-0.00773">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:ScaleFactor="0.999489"
+        stCamera:RadialDistortParam1="0.001717"
+        stCamera:RadialDistortParam2="-0.00174"
+        stCamera:RadialDistortParam3="0.000447"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000006"
+        stCamera:RadialDistortParam1="-0.102466"
+        stCamera:RadialDistortParam2="0.069754"
+        stCamera:RadialDistortParam3="-0.00773"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000007"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:ScaleFactor="1.001121"
+        stCamera:RadialDistortParam1="-0.001771"
+        stCamera:RadialDistortParam2="0.001795"
+        stCamera:RadialDistortParam3="-0.000427"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.01314"
+        stCamera:VignetteModelParam1="-1.678681"
+        stCamera:VignetteModelParam2="1.760305"
+        stCamera:VignetteModelParam3="-0.799759"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="228"
+       stCamera:Lens="20.0 mm f/1.8"
+       stCamera:LensInfo="200/10 200/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 20mm F1.8 EX DG ASPHERICAL RF"
+       stCamera:ProfileName="Adobe (SIGMA 20mm F1.8 EX DG ASPHERICAL RF, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="0.2"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>38</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:RadialDistortParam1="-0.104616"
+        stCamera:RadialDistortParam2="0.049146"
+        stCamera:RadialDistortParam3="-0.004111">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000021"
+        stCamera:ResidualStandardDeviation="0.000019"
+        stCamera:ScaleFactor="0.999286"
+        stCamera:RadialDistortParam1="0.002036"
+        stCamera:RadialDistortParam2="-0.002919"
+        stCamera:RadialDistortParam3="0.001169"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:RadialDistortParam1="-0.104616"
+        stCamera:RadialDistortParam2="0.049146"
+        stCamera:RadialDistortParam3="-0.004111"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000016"
+        stCamera:ResidualStandardDeviation="0.000017"
+        stCamera:ScaleFactor="1.001181"
+        stCamera:RadialDistortParam1="-0.00045"
+        stCamera:RadialDistortParam2="-0.000763"
+        stCamera:RadialDistortParam3="0.000988"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.004661"
+        stCamera:VignetteModelParam1="-1.247014"
+        stCamera:VignetteModelParam2="1.040503"
+        stCamera:VignetteModelParam3="-0.44914"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

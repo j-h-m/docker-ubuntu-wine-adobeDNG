@@ -1,0 +1,2140 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c128 79.159124, 2016/03/18-14:01:55        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.294859"
+        stCamera:RadialDistortParam2="-2.213616"
+        stCamera:RadialDistortParam3="-1.292747">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999982"
+        stCamera:RadialDistortParam1="0.007531"
+        stCamera:RadialDistortParam2="-0.109655"
+        stCamera:RadialDistortParam3="1.675408"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.294859"
+        stCamera:RadialDistortParam2="-2.213616"
+        stCamera:RadialDistortParam3="-1.292747"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000189"
+        stCamera:RadialDistortParam1="-0.0131"
+        stCamera:RadialDistortParam2="0.365167"
+        stCamera:RadialDistortParam3="-7.07005"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.01511"
+         stCamera:VignetteModelParam1="-55.114581"
+         stCamera:VignetteModelParam2="2806.282106"
+         stCamera:VignetteModelParam3="-59662.448848">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.012283, 0.975601</rdf:li>
+          <rdf:li>0.042425, 0.882534</rdf:li>
+          <rdf:li>0.103764, 0.664503</rdf:li>
+          <rdf:li>0.136726, 0.533510</rdf:li>
+          <rdf:li>0.161198, 0.424530</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="0.875"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.75127"
+        stCamera:RadialDistortParam2="-0.877344"
+        stCamera:RadialDistortParam3="2.630938">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999869"
+        stCamera:RadialDistortParam1="-0.02187"
+        stCamera:RadialDistortParam2="0.882675"
+        stCamera:RadialDistortParam3="-16.059532"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.75127"
+        stCamera:RadialDistortParam2="-0.877344"
+        stCamera:RadialDistortParam3="2.630938"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.00007"
+        stCamera:RadialDistortParam1="0.029741"
+        stCamera:RadialDistortParam2="-1.218878"
+        stCamera:RadialDistortParam3="20.462885"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002203"
+        stCamera:VignetteModelParam1="-27.770645"
+        stCamera:VignetteModelParam2="1023.360415"
+        stCamera:VignetteModelParam3="-19874.24687"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="6"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.318023"
+        stCamera:RadialDistortParam2="-2.131454"
+        stCamera:RadialDistortParam3="-1.450687">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999969"
+        stCamera:RadialDistortParam1="0.007938"
+        stCamera:RadialDistortParam2="-0.280853"
+        stCamera:RadialDistortParam3="6.751979"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.318023"
+        stCamera:RadialDistortParam2="-2.131454"
+        stCamera:RadialDistortParam3="-1.450687"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.00016"
+        stCamera:RadialDistortParam1="-0.009577"
+        stCamera:RadialDistortParam2="0.281369"
+        stCamera:RadialDistortParam3="-5.599974"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.01552"
+         stCamera:VignetteModelParam1="-54.22372"
+         stCamera:VignetteModelParam2="2817.430052"
+         stCamera:VignetteModelParam3="-60367.618633">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.044778, 0.876220</rdf:li>
+          <rdf:li>0.110899, 0.649108</rdf:li>
+          <rdf:li>0.137066, 0.549711</rdf:li>
+          <rdf:li>0.161301, 0.444282</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="4"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.333598"
+        stCamera:RadialDistortParam2="-2.069633"
+        stCamera:RadialDistortParam3="-1.529701">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999963"
+        stCamera:RadialDistortParam1="0.008109"
+        stCamera:RadialDistortParam2="-0.380219"
+        stCamera:RadialDistortParam3="9.302313"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.333598"
+        stCamera:RadialDistortParam2="-2.069633"
+        stCamera:RadialDistortParam3="-1.529701"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000136"
+        stCamera:RadialDistortParam1="-0.003924"
+        stCamera:RadialDistortParam2="-0.048896"
+        stCamera:RadialDistortParam3="0.702808"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.015694"
+         stCamera:VignetteModelParam1="-53.522081"
+         stCamera:VignetteModelParam2="2799.596423"
+         stCamera:VignetteModelParam3="-60153.035156">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.055484, 0.843654</rdf:li>
+          <rdf:li>0.113965, 0.644757</rdf:li>
+          <rdf:li>0.138815, 0.551539</rdf:li>
+          <rdf:li>0.161372, 0.454123</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.352722"
+        stCamera:RadialDistortParam2="-2.013545"
+        stCamera:RadialDistortParam3="-0.979919">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999971"
+        stCamera:RadialDistortParam1="0.00255"
+        stCamera:RadialDistortParam2="-0.002865"
+        stCamera:RadialDistortParam3="0.993539"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.352722"
+        stCamera:RadialDistortParam2="-2.013545"
+        stCamera:RadialDistortParam3="-0.979919"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000128"
+        stCamera:RadialDistortParam1="-0.003223"
+        stCamera:RadialDistortParam2="-0.008332"
+        stCamera:RadialDistortParam3="-0.644517"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.013431"
+         stCamera:VignetteModelParam1="-50.61047"
+         stCamera:VignetteModelParam2="2575.685424"
+         stCamera:VignetteModelParam3="-54836.097421">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.010758, 0.983921</rdf:li>
+          <rdf:li>0.038354, 0.904459</rdf:li>
+          <rdf:li>0.096880, 0.715794</rdf:li>
+          <rdf:li>0.132273, 0.590182</rdf:li>
+          <rdf:li>0.161458, 0.468839</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.402795"
+        stCamera:RadialDistortParam2="-1.832633"
+        stCamera:RadialDistortParam3="-0.419715">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.99996"
+        stCamera:RadialDistortParam1="-0.000922"
+        stCamera:RadialDistortParam2="0.064763"
+        stCamera:RadialDistortParam3="1.903727"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.402795"
+        stCamera:RadialDistortParam2="-1.832633"
+        stCamera:RadialDistortParam3="-0.419715"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000088"
+        stCamera:RadialDistortParam1="0.006722"
+        stCamera:RadialDistortParam2="-0.548537"
+        stCamera:RadialDistortParam3="10.547205"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.009452"
+         stCamera:VignetteModelParam1="-45.016718"
+         stCamera:VignetteModelParam2="2166.258675"
+         stCamera:VignetteModelParam3="-45425.874463">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.009310, 0.995305</rdf:li>
+          <rdf:li>0.024297, 0.957755</rdf:li>
+          <rdf:li>0.080982, 0.789597</rdf:li>
+          <rdf:li>0.135821, 0.604209</rdf:li>
+          <rdf:li>0.161684, 0.497153</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.467588"
+        stCamera:RadialDistortParam2="-1.617084"
+        stCamera:RadialDistortParam3="0.41262">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999956"
+        stCamera:RadialDistortParam1="-0.008967"
+        stCamera:RadialDistortParam2="0.604251"
+        stCamera:RadialDistortParam3="-12.627314"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.467588"
+        stCamera:RadialDistortParam2="-1.617084"
+        stCamera:RadialDistortParam3="0.41262"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000062"
+        stCamera:RadialDistortParam1="0.014904"
+        stCamera:RadialDistortParam2="-0.879559"
+        stCamera:RadialDistortParam3="15.475323"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.006411"
+         stCamera:VignetteModelParam1="-39.770992"
+         stCamera:VignetteModelParam2="1789.479467"
+         stCamera:VignetteModelParam3="-36765.107246">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.010445, 0.996660</rdf:li>
+          <rdf:li>0.022771, 0.972433</rdf:li>
+          <rdf:li>0.083859, 0.799588</rdf:li>
+          <rdf:li>0.137991, 0.623426</rdf:li>
+          <rdf:li>0.161976, 0.526261</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.3"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.51779"
+        stCamera:RadialDistortParam2="-1.453045"
+        stCamera:RadialDistortParam3="0.739952">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999934"
+        stCamera:RadialDistortParam1="-0.009153"
+        stCamera:RadialDistortParam2="0.41684"
+        stCamera:RadialDistortParam3="-6.188339"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.51779"
+        stCamera:RadialDistortParam2="-1.453045"
+        stCamera:RadialDistortParam3="0.739952"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000052"
+        stCamera:RadialDistortParam1="0.019685"
+        stCamera:RadialDistortParam2="-1.093498"
+        stCamera:RadialDistortParam3="19.924965"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.004934"
+         stCamera:VignetteModelParam1="-36.486371"
+         stCamera:VignetteModelParam2="1558.685143"
+         stCamera:VignetteModelParam3="-31488.845469">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.020149, 0.983831</rdf:li>
+          <rdf:li>0.084047, 0.811506</rdf:li>
+          <rdf:li>0.139654, 0.634338</rdf:li>
+          <rdf:li>0.162200, 0.544606</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.1"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.598327"
+        stCamera:RadialDistortParam2="-1.227362"
+        stCamera:RadialDistortParam3="1.640374">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999925"
+        stCamera:RadialDistortParam1="-0.01658"
+        stCamera:RadialDistortParam2="0.753782"
+        stCamera:RadialDistortParam3="-12.711256"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.598327"
+        stCamera:RadialDistortParam2="-1.227362"
+        stCamera:RadialDistortParam3="1.640374"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000051"
+        stCamera:RadialDistortParam1="0.024345"
+        stCamera:RadialDistortParam2="-1.12813"
+        stCamera:RadialDistortParam3="17.978815"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003336"
+        stCamera:VignetteModelParam1="-32.518338"
+        stCamera:VignetteModelParam2="1296.964329"
+        stCamera:VignetteModelParam3="-25639.607241"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.654059"
+        stCamera:RadialDistortParam2="-1.075437"
+        stCamera:RadialDistortParam3="1.842867">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999913"
+        stCamera:RadialDistortParam1="-0.021002"
+        stCamera:RadialDistortParam2="0.983673"
+        stCamera:RadialDistortParam3="-17.766794"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.654059"
+        stCamera:RadialDistortParam2="-1.075437"
+        stCamera:RadialDistortParam3="1.842867"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000049"
+        stCamera:RadialDistortParam1="0.026534"
+        stCamera:RadialDistortParam2="-1.047108"
+        stCamera:RadialDistortParam3="14.948904"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002743"
+        stCamera:VignetteModelParam1="-30.238605"
+        stCamera:VignetteModelParam2="1150.771008"
+        stCamera:VignetteModelParam3="-22438.159473"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.294859"
+        stCamera:RadialDistortParam2="-2.213616"
+        stCamera:RadialDistortParam3="-1.292747">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000028"
+        stCamera:RadialDistortParam1="-0.00297"
+        stCamera:RadialDistortParam2="0.548185"
+        stCamera:RadialDistortParam3="-10.575529"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.294859"
+        stCamera:RadialDistortParam2="-2.213616"
+        stCamera:RadialDistortParam3="-1.292747"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000058"
+        stCamera:RadialDistortParam1="0.005249"
+        stCamera:RadialDistortParam2="-0.554511"
+        stCamera:RadialDistortParam3="8.081227"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002175"
+        stCamera:VignetteModelParam1="-0.992307"
+        stCamera:VignetteModelParam2="-447.311753"
+        stCamera:VignetteModelParam3="2018.067118"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="0.875"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.75127"
+        stCamera:RadialDistortParam2="-0.877344"
+        stCamera:RadialDistortParam3="2.630938">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999672"
+        stCamera:RadialDistortParam1="-0.003302"
+        stCamera:RadialDistortParam2="0.278407"
+        stCamera:RadialDistortParam3="-10.584811"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.75127"
+        stCamera:RadialDistortParam2="-0.877344"
+        stCamera:RadialDistortParam3="2.630938"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000295"
+        stCamera:RadialDistortParam1="-0.008201"
+        stCamera:RadialDistortParam2="0.817331"
+        stCamera:RadialDistortParam3="-15.663177"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00138"
+        stCamera:VignetteModelParam1="-4.711179"
+        stCamera:VignetteModelParam2="33.525073"
+        stCamera:VignetteModelParam3="-4040.957411"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="6"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.318023"
+        stCamera:RadialDistortParam2="-2.131454"
+        stCamera:RadialDistortParam3="-1.450687">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000005"
+        stCamera:RadialDistortParam1="-0.002356"
+        stCamera:RadialDistortParam2="0.415451"
+        stCamera:RadialDistortParam3="-7.148461"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.318023"
+        stCamera:RadialDistortParam2="-2.131454"
+        stCamera:RadialDistortParam3="-1.450687"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000066"
+        stCamera:RadialDistortParam1="0.001711"
+        stCamera:RadialDistortParam2="-0.208408"
+        stCamera:RadialDistortParam3="0.989983"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002122"
+        stCamera:VignetteModelParam1="-1.574361"
+        stCamera:VignetteModelParam2="-347.184655"
+        stCamera:VignetteModelParam3="394.494461"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="4"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.333598"
+        stCamera:RadialDistortParam2="-2.069633"
+        stCamera:RadialDistortParam3="-1.529701">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999985"
+        stCamera:RadialDistortParam1="-0.000548"
+        stCamera:RadialDistortParam2="0.253684"
+        stCamera:RadialDistortParam3="-3.843271"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.333598"
+        stCamera:RadialDistortParam2="-2.069633"
+        stCamera:RadialDistortParam3="-1.529701"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000069"
+        stCamera:RadialDistortParam1="0.000858"
+        stCamera:RadialDistortParam2="-0.099767"
+        stCamera:RadialDistortParam3="-1.253037"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002274"
+        stCamera:VignetteModelParam1="-1.741001"
+        stCamera:VignetteModelParam2="-318.207954"
+        stCamera:VignetteModelParam3="199.878728"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.352722"
+        stCamera:RadialDistortParam2="-2.013545"
+        stCamera:RadialDistortParam3="-0.979919">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999966"
+        stCamera:RadialDistortParam1="0.000972"
+        stCamera:RadialDistortParam2="0.099932"
+        stCamera:RadialDistortParam3="-0.642356"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.352722"
+        stCamera:RadialDistortParam2="-2.013545"
+        stCamera:RadialDistortParam3="-0.979919"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000078"
+        stCamera:RadialDistortParam1="-0.000623"
+        stCamera:RadialDistortParam2="0.023097"
+        stCamera:RadialDistortParam3="-3.20254"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002322"
+        stCamera:VignetteModelParam1="-1.928437"
+        stCamera:VignetteModelParam2="-290.088558"
+        stCamera:VignetteModelParam3="88.171906"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.402795"
+        stCamera:RadialDistortParam2="-1.832633"
+        stCamera:RadialDistortParam3="-0.419715">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999924"
+        stCamera:RadialDistortParam1="0.001348"
+        stCamera:RadialDistortParam2="0.003498"
+        stCamera:RadialDistortParam3="1.121226"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.402795"
+        stCamera:RadialDistortParam2="-1.832633"
+        stCamera:RadialDistortParam3="-0.419715"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000103"
+        stCamera:RadialDistortParam1="-0.00431"
+        stCamera:RadialDistortParam2="0.392396"
+        stCamera:RadialDistortParam3="-11.066978"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002175"
+        stCamera:VignetteModelParam1="-2.34816"
+        stCamera:VignetteModelParam2="-230.461615"
+        stCamera:VignetteModelParam3="-349.839164"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.467588"
+        stCamera:RadialDistortParam2="-1.617084"
+        stCamera:RadialDistortParam3="0.41262">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999874"
+        stCamera:RadialDistortParam1="0.000697"
+        stCamera:RadialDistortParam2="0.017338"
+        stCamera:RadialDistortParam3="0.009398"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.467588"
+        stCamera:RadialDistortParam2="-1.617084"
+        stCamera:RadialDistortParam3="0.41262"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000136"
+        stCamera:RadialDistortParam1="-0.005319"
+        stCamera:RadialDistortParam2="0.4958"
+        stCamera:RadialDistortParam3="-11.957297"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002197"
+        stCamera:VignetteModelParam1="-2.883092"
+        stCamera:VignetteModelParam2="-170.354793"
+        stCamera:VignetteModelParam3="-819.699977"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.3"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.51779"
+        stCamera:RadialDistortParam2="-1.453045"
+        stCamera:RadialDistortParam3="0.739952">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999829"
+        stCamera:RadialDistortParam1="0.004188"
+        stCamera:RadialDistortParam2="-0.323204"
+        stCamera:RadialDistortParam3="7.542573"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.51779"
+        stCamera:RadialDistortParam2="-1.453045"
+        stCamera:RadialDistortParam3="0.739952"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000159"
+        stCamera:RadialDistortParam1="-0.003576"
+        stCamera:RadialDistortParam2="0.304772"
+        stCamera:RadialDistortParam3="-5.471106"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002132"
+        stCamera:VignetteModelParam1="-3.19921"
+        stCamera:VignetteModelParam2="-129.193448"
+        stCamera:VignetteModelParam3="-1439.130774"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.1"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.598327"
+        stCamera:RadialDistortParam2="-1.227362"
+        stCamera:RadialDistortParam3="1.640374">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999766"
+        stCamera:RadialDistortParam1="0.004052"
+        stCamera:RadialDistortParam2="-0.32135"
+        stCamera:RadialDistortParam3="6.083437"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.598327"
+        stCamera:RadialDistortParam2="-1.227362"
+        stCamera:RadialDistortParam3="1.640374"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000198"
+        stCamera:RadialDistortParam1="-0.002454"
+        stCamera:RadialDistortParam2="0.264884"
+        stCamera:RadialDistortParam3="-3.809287"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001878"
+        stCamera:VignetteModelParam1="-3.73782"
+        stCamera:VignetteModelParam2="-70.898814"
+        stCamera:VignetteModelParam3="-2213.866212"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.654059"
+        stCamera:RadialDistortParam2="-1.075437"
+        stCamera:RadialDistortParam3="1.842867">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999724"
+        stCamera:RadialDistortParam1="0.003368"
+        stCamera:RadialDistortParam2="-0.255748"
+        stCamera:RadialDistortParam3="3.385353"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.654059"
+        stCamera:RadialDistortParam2="-1.075437"
+        stCamera:RadialDistortParam3="1.842867"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000232"
+        stCamera:RadialDistortParam1="-0.002668"
+        stCamera:RadialDistortParam2="0.295696"
+        stCamera:RadialDistortParam3="-3.980263"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00173"
+        stCamera:VignetteModelParam1="-4.031555"
+        stCamera:VignetteModelParam2="-36.901101"
+        stCamera:VignetteModelParam3="-2765.814588"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.294859"
+        stCamera:RadialDistortParam2="-2.213616"
+        stCamera:RadialDistortParam3="-1.292747">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000053"
+        stCamera:RadialDistortParam1="0.003034"
+        stCamera:RadialDistortParam2="-0.195319"
+        stCamera:RadialDistortParam3="7.001902"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.294859"
+        stCamera:RadialDistortParam2="-2.213616"
+        stCamera:RadialDistortParam3="-1.292747"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000004"
+        stCamera:RadialDistortParam1="-0.004181"
+        stCamera:RadialDistortParam2="0.387364"
+        stCamera:RadialDistortParam3="-11.255453"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001905"
+        stCamera:VignetteModelParam1="-4.986286"
+        stCamera:VignetteModelParam2="297.282311"
+        stCamera:VignetteModelParam3="-11837.04634"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="0.875"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.75127"
+        stCamera:RadialDistortParam2="-0.877344"
+        stCamera:RadialDistortParam3="2.630938">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99952"
+        stCamera:RadialDistortParam1="0.001359"
+        stCamera:RadialDistortParam2="-0.096617"
+        stCamera:RadialDistortParam3="2.619455"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.75127"
+        stCamera:RadialDistortParam2="-0.877344"
+        stCamera:RadialDistortParam3="2.630938"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000443"
+        stCamera:RadialDistortParam1="-0.004491"
+        stCamera:RadialDistortParam2="0.253042"
+        stCamera:RadialDistortParam3="-4.055494"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00023"
+        stCamera:VignetteModelParam1="-5.135345"
+        stCamera:VignetteModelParam2="29.074447"
+        stCamera:VignetteModelParam3="-266.521349"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="6"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.318023"
+        stCamera:RadialDistortParam2="-2.131454"
+        stCamera:RadialDistortParam3="-1.450687">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000004"
+        stCamera:RadialDistortParam1="0.003728"
+        stCamera:RadialDistortParam2="-0.177968"
+        stCamera:RadialDistortParam3="5.418526"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.318023"
+        stCamera:RadialDistortParam2="-2.131454"
+        stCamera:RadialDistortParam3="-1.450687"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000036"
+        stCamera:RadialDistortParam1="-0.003682"
+        stCamera:RadialDistortParam2="0.227566"
+        stCamera:RadialDistortParam3="-6.325828"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001638"
+        stCamera:VignetteModelParam1="-4.883664"
+        stCamera:VignetteModelParam2="230.70294"
+        stCamera:VignetteModelParam3="-8633.185442"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="4"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.333598"
+        stCamera:RadialDistortParam2="-2.069633"
+        stCamera:RadialDistortParam3="-1.529701">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999977"
+        stCamera:RadialDistortParam1="0.003869"
+        stCamera:RadialDistortParam2="-0.155092"
+        stCamera:RadialDistortParam3="4.406718"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.333598"
+        stCamera:RadialDistortParam2="-2.069633"
+        stCamera:RadialDistortParam3="-1.529701"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000056"
+        stCamera:RadialDistortParam1="-0.003472"
+        stCamera:RadialDistortParam2="0.153303"
+        stCamera:RadialDistortParam3="-3.953633"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001384"
+        stCamera:VignetteModelParam1="-4.796534"
+        stCamera:VignetteModelParam2="193.467516"
+        stCamera:VignetteModelParam3="-6997.260091"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.352722"
+        stCamera:RadialDistortParam2="-2.013545"
+        stCamera:RadialDistortParam3="-0.979919">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999948"
+        stCamera:RadialDistortParam1="0.00357"
+        stCamera:RadialDistortParam2="-0.086414"
+        stCamera:RadialDistortParam3="2.249612"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.352722"
+        stCamera:RadialDistortParam2="-2.013545"
+        stCamera:RadialDistortParam3="-0.979919"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000076"
+        stCamera:RadialDistortParam1="-0.003528"
+        stCamera:RadialDistortParam2="0.162335"
+        stCamera:RadialDistortParam3="-4.464542"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001344"
+        stCamera:VignetteModelParam1="-4.660296"
+        stCamera:VignetteModelParam2="147.437964"
+        stCamera:VignetteModelParam3="-5108.174678"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.402795"
+        stCamera:RadialDistortParam2="-1.832633"
+        stCamera:RadialDistortParam3="-0.419715">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999887"
+        stCamera:RadialDistortParam1="0.001664"
+        stCamera:RadialDistortParam2="0.099102"
+        stCamera:RadialDistortParam3="-2.738763"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.402795"
+        stCamera:RadialDistortParam2="-1.832633"
+        stCamera:RadialDistortParam3="-0.419715"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.00013"
+        stCamera:RadialDistortParam1="-0.004442"
+        stCamera:RadialDistortParam2="0.193811"
+        stCamera:RadialDistortParam3="-5.081039"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000676"
+        stCamera:VignetteModelParam1="-4.470286"
+        stCamera:VignetteModelParam2="74.487255"
+        stCamera:VignetteModelParam3="-2188.703956"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.467588"
+        stCamera:RadialDistortParam2="-1.617084"
+        stCamera:RadialDistortParam3="0.41262">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99981"
+        stCamera:RadialDistortParam1="0.001912"
+        stCamera:RadialDistortParam2="0.05305"
+        stCamera:RadialDistortParam3="-1.141776"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.467588"
+        stCamera:RadialDistortParam2="-1.617084"
+        stCamera:RadialDistortParam3="0.41262"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000195"
+        stCamera:RadialDistortParam1="-0.005018"
+        stCamera:RadialDistortParam2="0.191502"
+        stCamera:RadialDistortParam3="-3.835571"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000372"
+        stCamera:VignetteModelParam1="-4.4709"
+        stCamera:VignetteModelParam2="33.310597"
+        stCamera:VignetteModelParam3="-626.034901"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.3"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.51779"
+        stCamera:RadialDistortParam2="-1.453045"
+        stCamera:RadialDistortParam3="0.739952">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999757"
+        stCamera:RadialDistortParam1="0.002875"
+        stCamera:RadialDistortParam2="-0.107512"
+        stCamera:RadialDistortParam3="3.38841"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.51779"
+        stCamera:RadialDistortParam2="-1.453045"
+        stCamera:RadialDistortParam3="0.739952"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000241"
+        stCamera:RadialDistortParam1="-0.003859"
+        stCamera:RadialDistortParam2="0.064428"
+        stCamera:RadialDistortParam3="-0.322006"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000216"
+        stCamera:VignetteModelParam1="-4.584431"
+        stCamera:VignetteModelParam2="24.457869"
+        stCamera:VignetteModelParam3="-203.885086"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.1"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.598327"
+        stCamera:RadialDistortParam2="-1.227362"
+        stCamera:RadialDistortParam3="1.640374">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999672"
+        stCamera:RadialDistortParam1="0.00245"
+        stCamera:RadialDistortParam2="-0.072702"
+        stCamera:RadialDistortParam3="1.637612"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.598327"
+        stCamera:RadialDistortParam2="-1.227362"
+        stCamera:RadialDistortParam3="1.640374"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000319"
+        stCamera:RadialDistortParam1="-0.006223"
+        stCamera:RadialDistortParam2="0.321044"
+        stCamera:RadialDistortParam3="-6.762101"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000246"
+        stCamera:VignetteModelParam1="-4.716787"
+        stCamera:VignetteModelParam2="17.199964"
+        stCamera:VignetteModelParam3="-21.241793"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.654059"
+        stCamera:RadialDistortParam2="-1.075437"
+        stCamera:RadialDistortParam3="1.842867">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999615"
+        stCamera:RadialDistortParam1="0.002317"
+        stCamera:RadialDistortParam2="-0.085071"
+        stCamera:RadialDistortParam3="1.736084"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.654059"
+        stCamera:RadialDistortParam2="-1.075437"
+        stCamera:RadialDistortParam3="1.842867"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000367"
+        stCamera:RadialDistortParam1="-0.005614"
+        stCamera:RadialDistortParam2="0.300693"
+        stCamera:RadialDistortParam3="-6.080772"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000236"
+        stCamera:VignetteModelParam1="-4.906205"
+        stCamera:VignetteModelParam2="22.949717"
+        stCamera:VignetteModelParam3="-130.40862"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.294859"
+        stCamera:RadialDistortParam2="-2.213616"
+        stCamera:RadialDistortParam3="-1.292747">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000068"
+        stCamera:RadialDistortParam1="0.001951"
+        stCamera:RadialDistortParam2="0.031206"
+        stCamera:RadialDistortParam3="-0.80305"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.294859"
+        stCamera:RadialDistortParam2="-2.213616"
+        stCamera:RadialDistortParam3="-1.292747"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99997"
+        stCamera:RadialDistortParam1="-0.002213"
+        stCamera:RadialDistortParam2="0.055943"
+        stCamera:RadialDistortParam3="-0.502336"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000257"
+        stCamera:VignetteModelParam1="-3.655606"
+        stCamera:VignetteModelParam2="24.24018"
+        stCamera:VignetteModelParam3="-284.920638"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="0.875"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.75127"
+        stCamera:RadialDistortParam2="-0.877344"
+        stCamera:RadialDistortParam3="2.630938">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999454"
+        stCamera:RadialDistortParam1="0.001614"
+        stCamera:RadialDistortParam2="-0.097761"
+        stCamera:RadialDistortParam3="2.977896"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.75127"
+        stCamera:RadialDistortParam2="-0.877344"
+        stCamera:RadialDistortParam3="2.630938"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000525"
+        stCamera:RadialDistortParam1="-0.001693"
+        stCamera:RadialDistortParam2="-0.091283"
+        stCamera:RadialDistortParam3="3.411005"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000199"
+        stCamera:VignetteModelParam1="-5.137792"
+        stCamera:VignetteModelParam2="22.064735"
+        stCamera:VignetteModelParam3="-36.671795"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="6"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.318023"
+        stCamera:RadialDistortParam2="-2.131454"
+        stCamera:RadialDistortParam3="-1.450687">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000009"
+        stCamera:RadialDistortParam1="0.001937"
+        stCamera:RadialDistortParam2="0.084905"
+        stCamera:RadialDistortParam3="-2.091941"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.318023"
+        stCamera:RadialDistortParam2="-2.131454"
+        stCamera:RadialDistortParam3="-1.450687"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000019"
+        stCamera:RadialDistortParam1="-0.002817"
+        stCamera:RadialDistortParam2="0.04552"
+        stCamera:RadialDistortParam3="-0.632508"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000253"
+        stCamera:VignetteModelParam1="-3.71932"
+        stCamera:VignetteModelParam2="9.899412"
+        stCamera:VignetteModelParam3="96.747453"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="4"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.333598"
+        stCamera:RadialDistortParam2="-2.069633"
+        stCamera:RadialDistortParam3="-1.529701">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999976"
+        stCamera:RadialDistortParam1="0.002087"
+        stCamera:RadialDistortParam2="0.089593"
+        stCamera:RadialDistortParam3="-2.175782"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.333598"
+        stCamera:RadialDistortParam2="-2.069633"
+        stCamera:RadialDistortParam3="-1.529701"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000046"
+        stCamera:RadialDistortParam1="-0.003103"
+        stCamera:RadialDistortParam2="0.042193"
+        stCamera:RadialDistortParam3="-0.682546"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000274"
+        stCamera:VignetteModelParam1="-3.826861"
+        stCamera:VignetteModelParam2="10.578644"
+        stCamera:VignetteModelParam3="132.55247"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.352722"
+        stCamera:RadialDistortParam2="-2.013545"
+        stCamera:RadialDistortParam3="-0.979919">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999941"
+        stCamera:RadialDistortParam1="0.002227"
+        stCamera:RadialDistortParam2="0.090669"
+        stCamera:RadialDistortParam3="-2.170434"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.352722"
+        stCamera:RadialDistortParam2="-2.013545"
+        stCamera:RadialDistortParam3="-0.979919"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000077"
+        stCamera:RadialDistortParam1="-0.004125"
+        stCamera:RadialDistortParam2="0.113733"
+        stCamera:RadialDistortParam3="-2.528458"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000208"
+        stCamera:VignetteModelParam1="-4.002742"
+        stCamera:VignetteModelParam2="22.534834"
+        stCamera:VignetteModelParam3="-239.881184"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.402795"
+        stCamera:RadialDistortParam2="-1.832633"
+        stCamera:RadialDistortParam3="-0.419715">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999856"
+        stCamera:RadialDistortParam1="0.004561"
+        stCamera:RadialDistortParam2="-0.086756"
+        stCamera:RadialDistortParam3="1.845081"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.402795"
+        stCamera:RadialDistortParam2="-1.832633"
+        stCamera:RadialDistortParam3="-0.419715"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000141"
+        stCamera:RadialDistortParam1="-0.002469"
+        stCamera:RadialDistortParam2="-0.062592"
+        stCamera:RadialDistortParam3="1.651404"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000221"
+        stCamera:VignetteModelParam1="-4.283987"
+        stCamera:VignetteModelParam2="30.190261"
+        stCamera:VignetteModelParam3="-459.690585"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.467588"
+        stCamera:RadialDistortParam2="-1.617084"
+        stCamera:RadialDistortParam3="0.41262">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999768"
+        stCamera:RadialDistortParam1="0.004665"
+        stCamera:RadialDistortParam2="-0.111576"
+        stCamera:RadialDistortParam3="2.461226"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.467588"
+        stCamera:RadialDistortParam2="-1.617084"
+        stCamera:RadialDistortParam3="0.41262"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000217"
+        stCamera:RadialDistortParam1="-0.001914"
+        stCamera:RadialDistortParam2="-0.111183"
+        stCamera:RadialDistortParam3="2.7098"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000232"
+        stCamera:VignetteModelParam1="-4.41532"
+        stCamera:VignetteModelParam2="17.417861"
+        stCamera:VignetteModelParam3="-26.316858"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.3"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.51779"
+        stCamera:RadialDistortParam2="-1.453045"
+        stCamera:RadialDistortParam3="0.739952">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999703"
+        stCamera:RadialDistortParam1="0.005475"
+        stCamera:RadialDistortParam2="-0.191514"
+        stCamera:RadialDistortParam3="4.269103"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.51779"
+        stCamera:RadialDistortParam2="-1.453045"
+        stCamera:RadialDistortParam3="0.739952"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000272"
+        stCamera:RadialDistortParam1="-0.001597"
+        stCamera:RadialDistortParam2="-0.118493"
+        stCamera:RadialDistortParam3="2.763564"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00026"
+        stCamera:VignetteModelParam1="-4.570367"
+        stCamera:VignetteModelParam2="19.130419"
+        stCamera:VignetteModelParam3="-76.822751"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1.1"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.598327"
+        stCamera:RadialDistortParam2="-1.227362"
+        stCamera:RadialDistortParam3="1.640374">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999612"
+        stCamera:RadialDistortParam1="0.003813"
+        stCamera:RadialDistortParam2="-0.079559"
+        stCamera:RadialDistortParam3="1.391596"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.598327"
+        stCamera:RadialDistortParam2="-1.227362"
+        stCamera:RadialDistortParam3="1.640374"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000363"
+        stCamera:RadialDistortParam1="-0.003103"
+        stCamera:RadialDistortParam2="0.024779"
+        stCamera:RadialDistortParam3="-0.190242"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000293"
+        stCamera:VignetteModelParam1="-4.828614"
+        stCamera:VignetteModelParam2="25.620604"
+        stCamera:VignetteModelParam3="-246.699757"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="248"
+       stCamera:Lens="135mm F1.8 DG HSM | Art 017"
+       stCamera:LensInfo="135/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 135mm F1.8 DG HSM A017"
+       stCamera:ProfileName="Adobe (SIGMA 135mm F1.8 DG HSM A017, Canon)"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.654059"
+        stCamera:RadialDistortParam2="-1.075437"
+        stCamera:RadialDistortParam3="1.842867">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999553"
+        stCamera:RadialDistortParam1="0.003395"
+        stCamera:RadialDistortParam2="-0.094874"
+        stCamera:RadialDistortParam3="1.829457"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.654059"
+        stCamera:RadialDistortParam2="-1.075437"
+        stCamera:RadialDistortParam3="1.842867"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000424"
+        stCamera:RadialDistortParam1="-0.002127"
+        stCamera:RadialDistortParam2="-0.057157"
+        stCamera:RadialDistortParam3="1.807974"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000257"
+        stCamera:VignetteModelParam1="-4.903727"
+        stCamera:VignetteModelParam2="19.285056"
+        stCamera:VignetteModelParam3="-48.715108"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

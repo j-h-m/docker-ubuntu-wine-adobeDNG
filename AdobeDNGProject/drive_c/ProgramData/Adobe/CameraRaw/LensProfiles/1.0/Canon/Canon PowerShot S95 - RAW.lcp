@@ -1,0 +1,2600 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.1-c055 1.136881, 2010/06/10-18:11:35        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>6</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.24</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.824863</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.824863</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.503009</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.501436</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.000209</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000305</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.075764</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.060844</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.035841</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.824763</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.824763</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.503001</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.501437</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000185</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000308</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999926</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.001696</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.000455</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.000158</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.824763</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.824763</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.503001</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.501437</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000184</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000307</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.075708</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.060868</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.035675</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.824763</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.824763</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.503001</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.501437</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000186</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000306</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.001288</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.001722</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.000396</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.002353</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>6</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.96</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.818712</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.818712</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.502762</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.501376</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.000215</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000287</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.085147</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.066119</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.032132</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.818569</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.818569</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.502725</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.501324</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000197</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000291</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999937</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.001801</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.000468</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.001495</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.818569</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.818569</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.502725</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.501324</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000196</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.00029</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.085168</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.066387</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.032329</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.818569</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.818569</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.502725</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.501324</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000197</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.00029</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.001259</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.001545</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.00051</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.000549</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>6.852</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.26</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.922633</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.922633</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.503374</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.500163</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.000105</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000076</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.074473</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.03773</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.014954</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.922547</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.922547</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.503355</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.500183</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000071</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000069</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999951</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.001824</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.000294</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.001315</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.922547</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.922547</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.503355</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.500183</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.00007</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000069</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.07444</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.03777</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.014619</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.922547</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.922547</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.503355</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.500183</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000073</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000068</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.001209</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.001918</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.001845</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.005619</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>6.852</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.06</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.916132</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.916132</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.501778</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499716</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.00013</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000088</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.086696</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.055555</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.017538</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.915937</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.915937</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.501728</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499668</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000106</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000085</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999953</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.001863</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.000881</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.001974</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.915937</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.915937</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.501728</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499668</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000105</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000084</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.086757</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.055917</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.017678</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.915937</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.915937</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.501728</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499668</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000107</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000084</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.001201</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.001526</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.000404</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.0014</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>7.493</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.28</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.004066</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.004066</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.503699</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.500316</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.000108</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000087</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.103133</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.042305</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.028669</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.003923</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.003923</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.503706</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.500331</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000077</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000082</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999985</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.001784</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.000631</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.002401</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.003923</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.003923</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.503706</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.500331</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000076</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000082</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.103111</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.042239</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.02791</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.003923</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.003923</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.503706</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.500331</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000078</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000082</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.001134</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.001958</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.002491</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.008732</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>7.493</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.08</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.005537</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.005537</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.500974</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499414</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.000126</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000076</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.11283</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.063524</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.021847</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.00536</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.00536</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.500923</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499327</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000102</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000073</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999969</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.00191</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.001934</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.004886</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.00536</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.00536</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.500923</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499327</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000101</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000072</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.112869</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.063961</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.022096</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.00536</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.00536</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.500923</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499327</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000103</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000071</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.001136</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.001438</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.000619</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.002436</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>8.557</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.31</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.142956</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.142956</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.503072</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.49943</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.000151</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000185</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.115513</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.07964</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.131841</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.142863</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.142863</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.503079</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499436</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000128</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000185</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000024</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.002074</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.003514</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.010506</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.142863</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.142863</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.503079</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499436</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000127</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000186</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.115468</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.07966</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.131032</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.142863</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.142863</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.503079</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.499436</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000129</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000185</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.001014</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.001902</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.00389</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.016779</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>8.557</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.52</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.137121</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.137121</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.499792</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.498551</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.000177</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000208</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.127283</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.134367</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.172517</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.136841</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.136841</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.499731</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.49843</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000159</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000208</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000007</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.001494</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.000001</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.002106</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.136841</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.136841</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.499731</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.49843</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000157</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000208</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.127311</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.134581</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.172109</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.136841</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.136841</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.499731</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.49843</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000159</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000208</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.001031</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.001014</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.003877</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.004625</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>9.636</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.34</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.294185</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.294185</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.501556</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.498333</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.000122</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000141</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.142039</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.097919</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.228069</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.294066</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.294066</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.501568</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.498335</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000102</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000139</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000091</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.001735</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.003471</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.014296</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.294066</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.294066</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.501568</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.498335</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.0001</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000139</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.142014</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.097708</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.225177</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.294066</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.294066</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.501568</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.498335</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000104</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000138</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000881</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.001668</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.006084</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.034043</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>9.636</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.58</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.293674</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.293674</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.50039</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.497454</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.000164</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000175</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.15378</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.19685</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.330062</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.293418</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.293418</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.500317</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.497256</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.00015</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000176</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000045</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.001466</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.000727</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.005441</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.293418</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.293418</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.500317</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.497256</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000148</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000176</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.15384</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.197917</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.332507</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.293418</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.293418</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.500317</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.497256</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.00015</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000176</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000927</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.000744</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.007635</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.017332</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>10.701</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.39</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.441234</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.441234</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.49911</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.495315</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.000133</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000174</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.198131</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.15766</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.481005</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.441122</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.441122</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.499194</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.495305</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000116</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.00017</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000149</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.001149</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.002671</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.004247</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.441122</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.441122</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.499194</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.495305</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000115</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.00017</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.197899</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.155084</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.46896</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.441122</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.441122</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.499194</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.495305</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000119</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000169</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000776</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.00194</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.010763</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.065637</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>10.701</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.03</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.442379</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.442379</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.498769</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.49514</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.000177</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000219</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.210641</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.32203</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.744451</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.44208</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.44208</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.498631</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.494851</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000166</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000219</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000092</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.001045</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.00273</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.006201</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.44208</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.44208</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.498631</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.494851</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000164</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000219</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.210668</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.322435</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.744093</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.44208</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.44208</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.498631</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.494851</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000167</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000218</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000829</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.000997</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.004143</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.003051</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>12.845</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.45</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.71657</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.71657</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000103</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000127</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.255928</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.251734</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-1.038547</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.716454</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.716454</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000095</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000125</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000237</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.000684</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.004726</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.001364</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.716454</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.716454</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000092</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000125</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.25583</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.250719</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-1.029476</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.716454</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.716454</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000096</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000124</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000557</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.001061</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.001937</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.057387</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>12.845</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.83</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.70603</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.70603</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000154</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000181</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.265372</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.523728</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-1.63319</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.705785</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.705785</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000147</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000181</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000154</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.000611</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.003899</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.004035</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.705785</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.705785</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000145</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000181</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.26531</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.52473</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-1.640057</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.705785</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.705785</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000147</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000181</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000675</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.000591</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.011517</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.050137</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>14.976</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.53</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.988494</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.988494</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.00009</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.0001</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.279518</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.362132</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-2.042294</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.988193</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.988193</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000085</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000099</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000315</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.000025</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.00458</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.059244</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.988193</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.988193</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000081</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000099</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.27943</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.363058</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-2.04899</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.988193</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.988193</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000087</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000098</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.0004</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.000239</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.014928</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.015715</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>14.976</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.97</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.995926</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.995926</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000119</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000116</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.282871</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.709377</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-2.758924</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.995532</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.995532</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000114</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000115</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000201</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.001132</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.017572</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.164052</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.995532</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.995532</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.00011</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000116</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.282846</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.712819</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-2.787687</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.995532</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.995532</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000114</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000116</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000524</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.000082</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.018683</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.097819</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>18.188999</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.52</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.386241</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.386241</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000082</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000074</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.275528</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.521791</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-5.649247</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.386212</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.386212</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000074</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.00007</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000491</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.000185</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.005953</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.053672</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.386212</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.386212</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.00007</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000071</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.275422</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.525013</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-5.689106</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.386212</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.386212</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000077</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.00007</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000091</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.000725</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.006004</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.22474</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>18.188999</stCamera:FocalLength>
+      <stCamera:FocusDistance>3.9</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.405614</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.405614</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000118</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000115</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.258483</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.530012</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-9.849644</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.405006</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.405006</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000117</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000112</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000291</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.000117</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.004648</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.118786</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.405006</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.405006</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000112</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000114</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.258342</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>1.526087</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-9.796944</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.405006</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.405006</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000116</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000114</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000365</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.000734</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.024536</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.339719</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>22.5</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.6</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.783217</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.783217</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000095</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000066</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.276377</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.706476</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-10.222347</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.782921</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.782921</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000069</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000051</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000689</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.000066</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.005252</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.070357</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.782921</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.782921</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000061</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000051</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.276295</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.703256</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-10.094586</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.782921</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.782921</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000076</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000051</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999762</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.000245</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.019568</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.698863</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>22.5</stCamera:FocalLength>
+      <stCamera:FocusDistance>8.69</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.83433</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.83433</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000098</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000061</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.217637</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.776313</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-10.997649</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.833305</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.833305</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000094</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000057</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000444</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.000305</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.003806</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.070389</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.833305</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.833305</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000085</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000059</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.217305</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>1.7592</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-10.735923</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.833305</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.833305</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000097</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000061</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000099</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.000057</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.005059</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.146246</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>10.701</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.58</stCamera:FocusDistance>
+      <stCamera:ApertureValue>3.356144</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.44151</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.44151</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.498966</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.495121</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.205964</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.261407</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.643347</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.44151</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.44151</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.565966</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-17.757812</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>87.499044</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>10.701</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.58</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.44151</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.44151</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.498966</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.495121</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.205964</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.261407</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.643347</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.44151</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.44151</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>0.716228</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-26.579186</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>96.562184</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>10.701</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.58</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.44151</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.44151</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.498966</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.495121</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.205964</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.261407</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.643347</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.44151</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.44151</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.537196</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>10.76809</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-67.454426</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>10.701</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.58</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.44151</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.44151</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.498966</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.495121</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.205964</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.261407</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.643347</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.44151</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.44151</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.789434</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>21.502606</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-101.492336</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>10.701</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.02</stCamera:FocusDistance>
+      <stCamera:ApertureValue>3.356144</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.441854</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.441854</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.498764</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.494958</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.209032</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.301286</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.709117</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.441854</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.441854</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.33602</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-19.56363</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>90.242978</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>10.701</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.02</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.441854</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.441854</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.498764</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.494958</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.209032</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.301286</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.709117</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.441854</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.441854</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>0.658641</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-26.402447</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>95.021061</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>10.701</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.02</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.441854</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.441854</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.498764</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.494958</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.209032</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.301286</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.709117</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.441854</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.441854</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.077565</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-0.948763</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-19.96358</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>10.701</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.02</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.441854</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.441854</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.498764</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.494958</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.209032</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.301286</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.709117</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.441854</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.441854</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.069719</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>23.475242</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-105.912241</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>10.701</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.03</stCamera:FocusDistance>
+      <stCamera:ApertureValue>3.356144</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.44208</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.44208</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.498631</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.494851</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.210668</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.322435</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.744093</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.44208</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.44208</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.354994</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-19.387276</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>89.694453</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>10.701</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.03</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.44208</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.44208</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.498631</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.494851</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.210668</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.322435</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.744093</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.44208</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.44208</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>0.625913</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-26.127869</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>93.970963</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>10.701</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.03</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.44208</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.44208</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.498631</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.494851</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.210668</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.322435</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.744093</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.44208</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.44208</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.107226</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-0.34656</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-21.829115</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>10.701</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.03</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.44208</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.44208</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.498631</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.494851</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.210668</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.322435</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.744093</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.44208</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.44208</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.00899</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>22.54102</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-101.076998</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>10.701</stCamera:FocalLength>
+      <stCamera:FocusDistance>64.4</stCamera:FocusDistance>
+      <stCamera:ApertureValue>3.356144</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.44208</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.44208</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.498631</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.494851</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.210668</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.322435</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.744093</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.44208</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.44208</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.308484</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-19.771486</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>90.690082</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>10.701</stCamera:FocalLength>
+      <stCamera:FocusDistance>64.4</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.44208</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.44208</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.498631</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.494851</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.210668</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.322435</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.744093</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.44208</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.44208</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>0.666763</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-26.254195</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>95.193179</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>10.701</stCamera:FocalLength>
+      <stCamera:FocusDistance>64.4</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.44208</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.44208</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.498631</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.494851</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.210668</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.322435</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.744093</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.44208</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.44208</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.265448</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-2.391795</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-18.804227</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>10.701</stCamera:FocalLength>
+      <stCamera:FocusDistance>64.4</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.44208</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.44208</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.498631</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.494851</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.210668</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.322435</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.744093</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.44208</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.44208</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.975204</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>21.61982</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-96.156287</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>18.189</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.58</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.33985</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.388455</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.388455</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.268577</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.8587</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-6.994857</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.388455</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.388455</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-8.583925</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>101.965504</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-660.800362</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>18.189</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.58</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.388455</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.388455</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.268577</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.8587</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-6.994857</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.388455</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.388455</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.090514</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-50.914129</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>370.535546</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>18.189</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.58</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.388455</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.388455</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.268577</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.8587</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-6.994857</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.388455</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.388455</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.92617</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>71.044024</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-913.813349</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>18.189</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.04</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.33985</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.397055</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.397055</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.261683</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.273382</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-8.702835</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.397055</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.397055</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-8.265868</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>91.410749</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-583.815865</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>18.189</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.04</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.397055</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.397055</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.261683</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.273382</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-8.702835</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.397055</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.397055</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.961916</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-55.404332</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>416.269782</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>18.189</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.04</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.397055</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.397055</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.261683</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.273382</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-8.702835</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.397055</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.397055</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-3.032892</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>66.243718</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-811.948966</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>18.189</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.04</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.33985</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.40237</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.40237</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.259271</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.448258</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-9.454585</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.40237</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.40237</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-8.225218</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>89.346028</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-568.830935</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>18.189</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.04</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.40237</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.40237</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.259271</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.448258</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-9.454585</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.40237</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.40237</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.063442</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-52.072903</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>387.881075</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>18.189</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.04</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.40237</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.40237</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.259271</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.448258</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-9.454585</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.40237</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.40237</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-3.115193</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>63.373943</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-758.741001</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>18.189</stCamera:FocalLength>
+      <stCamera:FocusDistance>64.4</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.33985</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.405006</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.405006</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.258289</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.525767</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-9.793924</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.405006</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.405006</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-8.097363</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>84.474823</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-525.608425</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>18.189</stCamera:FocalLength>
+      <stCamera:FocusDistance>64.4</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.405006</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.405006</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.258289</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.525767</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-9.793924</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.405006</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.405006</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.355505</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-43.607643</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>319.681791</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>18.189</stCamera:FocalLength>
+      <stCamera:FocusDistance>64.4</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.405006</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.405006</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.258289</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.525767</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-9.793924</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.405006</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.405006</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-3.332582</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>62.829011</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-710.030667</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>22.5</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.59</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.585563</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.782921</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.782921</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.276295</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.703256</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-10.094586</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.782921</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.782921</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-11.636376</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>200.86495</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-1702.71917</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>22.5</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.59</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.782921</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.782921</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.276295</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.703256</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-10.094586</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.782921</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.782921</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-5.827691</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-7.470458</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>267.162658</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>22.5</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.59</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.782921</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.782921</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.276295</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.703256</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-10.094586</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.782921</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.782921</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-3.504535</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>96.578656</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-1932.331119</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>22.5</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.06</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.585563</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.806407</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.806407</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.234481</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.390018</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-10.288792</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.806407</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.806407</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-11.204142</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>180.906108</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-1509.710804</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>22.5</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.06</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.806407</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.806407</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.234481</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.390018</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-10.288792</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.806407</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.806407</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-5.495398</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-25.652588</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>472.781237</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>22.5</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.06</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.806407</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.806407</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.234481</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.390018</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-10.288792</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.806407</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.806407</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-3.656962</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>95.673937</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-1890.313205</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>22.5</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.11</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.585563</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.821652</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.821652</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.223841</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.610563</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-10.533649</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.821652</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.821652</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-10.917374</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>166.79954</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-1365.531179</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>22.5</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.11</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.821652</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.821652</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.223841</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.610563</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-10.533649</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.821652</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.821652</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-5.523838</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-28.907619</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>526.321785</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>22.5</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.11</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.821652</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.821652</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.223841</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.610563</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-10.533649</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.821652</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.821652</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-3.723956</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>92.4228</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-1803.821624</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>22.5</stCamera:FocalLength>
+      <stCamera:FocusDistance>64.4</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.585563</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.833305</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.833305</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.217305</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.7592</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-10.735923</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.833305</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.833305</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-11.385817</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>178.831993</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-1478.313617</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>22.5</stCamera:FocalLength>
+      <stCamera:FocusDistance>64.4</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.833305</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.833305</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.217305</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.7592</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-10.735923</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.833305</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.833305</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-5.235677</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-47.810823</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>795.254371</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot S95</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot S95</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>6.0-22.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6000/1000 22500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot S95</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot S95</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot S95)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>22.5</stCamera:FocalLength>
+      <stCamera:FocusDistance>64.4</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.833305</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.833305</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.217305</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.7592</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-10.735923</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.833305</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.833305</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-3.811243</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>85.898553</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-1607.583545</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

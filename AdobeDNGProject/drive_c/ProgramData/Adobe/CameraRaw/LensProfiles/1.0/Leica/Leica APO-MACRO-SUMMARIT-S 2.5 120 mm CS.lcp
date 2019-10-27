@@ -1,0 +1,3158 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="0.568129"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.07442"
+        stCamera:RadialDistortParam2="0.233971"
+        stCamera:RadialDistortParam3="1.061088">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999965"
+        stCamera:RadialDistortParam1="-0.001001"
+        stCamera:RadialDistortParam2="-0.005233"
+        stCamera:RadialDistortParam3="-0.016685"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.07442"
+        stCamera:RadialDistortParam2="0.233971"
+        stCamera:RadialDistortParam3="1.061088"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999944"
+        stCamera:RadialDistortParam1="0.001179"
+        stCamera:RadialDistortParam2="0.006115"
+        stCamera:RadialDistortParam3="0.01901"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="0.568129"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.074435"
+        stCamera:RadialDistortParam2="0.233583"
+        stCamera:RadialDistortParam3="1.06439">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999965"
+        stCamera:RadialDistortParam1="-0.001001"
+        stCamera:RadialDistortParam2="-0.005232"
+        stCamera:RadialDistortParam3="-0.016677"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.074435"
+        stCamera:RadialDistortParam2="0.233583"
+        stCamera:RadialDistortParam3="1.06439"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999944"
+        stCamera:RadialDistortParam1="0.001178"
+        stCamera:RadialDistortParam2="0.006114"
+        stCamera:RadialDistortParam3="0.018999"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="0.568129"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.074447"
+        stCamera:RadialDistortParam2="0.233252"
+        stCamera:RadialDistortParam3="1.067213">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999965"
+        stCamera:RadialDistortParam1="-0.001"
+        stCamera:RadialDistortParam2="-0.005232"
+        stCamera:RadialDistortParam3="-0.016669"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.074447"
+        stCamera:RadialDistortParam2="0.233252"
+        stCamera:RadialDistortParam3="1.067213"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999944"
+        stCamera:RadialDistortParam1="0.001177"
+        stCamera:RadialDistortParam2="0.006114"
+        stCamera:RadialDistortParam3="0.01899"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="0.568129"
+       stCamera:ApertureValue="8.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.074453"
+        stCamera:RadialDistortParam2="0.233065"
+        stCamera:RadialDistortParam3="1.068807">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999965"
+        stCamera:RadialDistortParam1="-0.001"
+        stCamera:RadialDistortParam2="-0.005232"
+        stCamera:RadialDistortParam3="-0.016664"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.074453"
+        stCamera:RadialDistortParam2="0.233065"
+        stCamera:RadialDistortParam3="1.068807"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999944"
+        stCamera:RadialDistortParam1="0.001177"
+        stCamera:RadialDistortParam2="0.006113"
+        stCamera:RadialDistortParam3="0.018985"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="0.568129"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.073474"
+        stCamera:RadialDistortParam2="0.133766"
+        stCamera:RadialDistortParam3="4.086537">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999958"
+        stCamera:RadialDistortParam1="0.001721"
+        stCamera:RadialDistortParam2="-0.060934"
+        stCamera:RadialDistortParam3="-0.138853"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.073474"
+        stCamera:RadialDistortParam2="0.133766"
+        stCamera:RadialDistortParam3="4.086537"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999949"
+        stCamera:RadialDistortParam1="-0.000167"
+        stCamera:RadialDistortParam2="0.080129"
+        stCamera:RadialDistortParam3="-1.083463"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="0.568129"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.075801"
+        stCamera:RadialDistortParam2="0.045901"
+        stCamera:RadialDistortParam3="4.889237">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999971"
+        stCamera:RadialDistortParam1="-0.00167"
+        stCamera:RadialDistortParam2="0.067665"
+        stCamera:RadialDistortParam3="-1.45399"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.075801"
+        stCamera:RadialDistortParam2="0.045901"
+        stCamera:RadialDistortParam3="4.889237"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999948"
+        stCamera:RadialDistortParam1="0.000125"
+        stCamera:RadialDistortParam2="0.068388"
+        stCamera:RadialDistortParam3="-0.957896"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="0.568129"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.074458"
+        stCamera:RadialDistortParam2="0.232949"
+        stCamera:RadialDistortParam3="1.069791">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999965"
+        stCamera:RadialDistortParam1="-0.000999"
+        stCamera:RadialDistortParam2="-0.005231"
+        stCamera:RadialDistortParam3="-0.016661"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.074458"
+        stCamera:RadialDistortParam2="0.232949"
+        stCamera:RadialDistortParam3="1.069791"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999944"
+        stCamera:RadialDistortParam1="0.001177"
+        stCamera:RadialDistortParam2="0.006113"
+        stCamera:RadialDistortParam3="0.018982"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="0.568129"
+       stCamera:ApertureValue="3.53107">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.075893"
+        stCamera:RadialDistortParam2="0.087208"
+        stCamera:RadialDistortParam3="3.895263">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999974"
+        stCamera:RadialDistortParam1="-0.002212"
+        stCamera:RadialDistortParam2="0.064889"
+        stCamera:RadialDistortParam3="-1.158059"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.075893"
+        stCamera:RadialDistortParam2="0.087208"
+        stCamera:RadialDistortParam3="3.895263"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999948"
+        stCamera:RadialDistortParam1="0.00008"
+        stCamera:RadialDistortParam2="0.068448"
+        stCamera:RadialDistortParam3="-0.930682"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="0.568129"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.075101"
+        stCamera:RadialDistortParam2="0.16537"
+        stCamera:RadialDistortParam3="2.323025">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999972"
+        stCamera:RadialDistortParam1="-0.001932"
+        stCamera:RadialDistortParam2="0.043612"
+        stCamera:RadialDistortParam3="-0.736224"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.075101"
+        stCamera:RadialDistortParam2="0.16537"
+        stCamera:RadialDistortParam3="2.323025"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999946"
+        stCamera:RadialDistortParam1="0.000706"
+        stCamera:RadialDistortParam2="0.032181"
+        stCamera:RadialDistortParam3="-0.360219"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="0.568129"
+       stCamera:ApertureValue="4.526069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.074298"
+        stCamera:RadialDistortParam2="0.233068"
+        stCamera:RadialDistortParam3="1.123592">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999967"
+        stCamera:RadialDistortParam1="-0.001118"
+        stCamera:RadialDistortParam2="0.000111"
+        stCamera:RadialDistortParam3="-0.092246"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.074298"
+        stCamera:RadialDistortParam2="0.233068"
+        stCamera:RadialDistortParam3="1.123592"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999944"
+        stCamera:RadialDistortParam1="0.001149"
+        stCamera:RadialDistortParam2="0.008276"
+        stCamera:RadialDistortParam3="-0.01109"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="0.568129"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.074277"
+        stCamera:RadialDistortParam2="0.237916"
+        stCamera:RadialDistortParam3="1.027528">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999966"
+        stCamera:RadialDistortParam1="-0.001009"
+        stCamera:RadialDistortParam2="-0.00524"
+        stCamera:RadialDistortParam3="-0.016775"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.074277"
+        stCamera:RadialDistortParam2="0.237916"
+        stCamera:RadialDistortParam3="1.027528"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999944"
+        stCamera:RadialDistortParam1="0.001187"
+        stCamera:RadialDistortParam2="0.006123"
+        stCamera:RadialDistortParam3="0.019121"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="0.568129"
+       stCamera:ApertureValue="5.531069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.07434"
+        stCamera:RadialDistortParam2="0.236193"
+        stCamera:RadialDistortParam3="1.04218">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999966"
+        stCamera:RadialDistortParam1="-0.001006"
+        stCamera:RadialDistortParam2="-0.005237"
+        stCamera:RadialDistortParam3="-0.016736"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.07434"
+        stCamera:RadialDistortParam2="0.236193"
+        stCamera:RadialDistortParam3="1.04218"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999944"
+        stCamera:RadialDistortParam1="0.001184"
+        stCamera:RadialDistortParam2="0.00612"
+        stCamera:RadialDistortParam3="0.019073"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="0.568129"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.074376"
+        stCamera:RadialDistortParam2="0.235192"
+        stCamera:RadialDistortParam3="1.0507">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999965"
+        stCamera:RadialDistortParam1="-0.001004"
+        stCamera:RadialDistortParam2="-0.005235"
+        stCamera:RadialDistortParam3="-0.016715"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.074376"
+        stCamera:RadialDistortParam2="0.235192"
+        stCamera:RadialDistortParam3="1.0507"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999944"
+        stCamera:RadialDistortParam1="0.001181"
+        stCamera:RadialDistortParam2="0.006118"
+        stCamera:RadialDistortParam3="0.019044"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="0.568129"
+       stCamera:ApertureValue="6.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.074404"
+        stCamera:RadialDistortParam2="0.234437"
+        stCamera:RadialDistortParam3="1.057121">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999965"
+        stCamera:RadialDistortParam1="-0.001002"
+        stCamera:RadialDistortParam2="-0.005234"
+        stCamera:RadialDistortParam3="-0.016697"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.074404"
+        stCamera:RadialDistortParam2="0.234437"
+        stCamera:RadialDistortParam3="1.057121"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999944"
+        stCamera:RadialDistortParam1="0.00118"
+        stCamera:RadialDistortParam2="0.006116"
+        stCamera:RadialDistortParam3="0.019023"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.02451"
+        stCamera:RadialDistortParam2="0.07221"
+        stCamera:RadialDistortParam3="0.121261">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99999"
+        stCamera:RadialDistortParam1="-0.000006"
+        stCamera:RadialDistortParam2="-0.001848"
+        stCamera:RadialDistortParam3="-0.00785"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.02451"
+        stCamera:RadialDistortParam2="0.07221"
+        stCamera:RadialDistortParam3="0.121261"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999903"
+        stCamera:RadialDistortParam1="0.000006"
+        stCamera:RadialDistortParam2="0.002282"
+        stCamera:RadialDistortParam3="0.008928"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.024533"
+        stCamera:RadialDistortParam2="0.071293"
+        stCamera:RadialDistortParam3="0.131819">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99999"
+        stCamera:RadialDistortParam1="-0.000005"
+        stCamera:RadialDistortParam2="-0.001849"
+        stCamera:RadialDistortParam3="-0.007846"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.024533"
+        stCamera:RadialDistortParam2="0.071293"
+        stCamera:RadialDistortParam3="0.131819"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999903"
+        stCamera:RadialDistortParam1="0.000004"
+        stCamera:RadialDistortParam2="0.002284"
+        stCamera:RadialDistortParam3="0.008921"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.024553"
+        stCamera:RadialDistortParam2="0.070508"
+        stCamera:RadialDistortParam3="0.140855">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99999"
+        stCamera:RadialDistortParam1="-0.000003"
+        stCamera:RadialDistortParam2="-0.00185"
+        stCamera:RadialDistortParam3="-0.007841"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.024553"
+        stCamera:RadialDistortParam2="0.070508"
+        stCamera:RadialDistortParam3="0.140855"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999903"
+        stCamera:RadialDistortParam1="0.000003"
+        stCamera:RadialDistortParam2="0.002285"
+        stCamera:RadialDistortParam3="0.008915"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="8.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.024564"
+        stCamera:RadialDistortParam2="0.070066"
+        stCamera:RadialDistortParam3="0.145956">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99999"
+        stCamera:RadialDistortParam1="-0.000002"
+        stCamera:RadialDistortParam2="-0.001851"
+        stCamera:RadialDistortParam3="-0.007838"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.024564"
+        stCamera:RadialDistortParam2="0.070066"
+        stCamera:RadialDistortParam3="0.145956"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999903"
+        stCamera:RadialDistortParam1="0.000002"
+        stCamera:RadialDistortParam2="0.002286"
+        stCamera:RadialDistortParam3="0.008911"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.019717"
+        stCamera:RadialDistortParam2="0.193806"
+        stCamera:RadialDistortParam3="-0.473392">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999997"
+        stCamera:RadialDistortParam1="0.002527"
+        stCamera:RadialDistortParam2="-0.061169"
+        stCamera:RadialDistortParam3="0.1196"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.019717"
+        stCamera:RadialDistortParam2="0.193806"
+        stCamera:RadialDistortParam3="-0.473392"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999904"
+        stCamera:RadialDistortParam1="-0.000223"
+        stCamera:RadialDistortParam2="0.036797"
+        stCamera:RadialDistortParam3="-0.555163"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.023527"
+        stCamera:RadialDistortParam2="0.016251"
+        stCamera:RadialDistortParam3="1.57623">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999993"
+        stCamera:RadialDistortParam1="0.000446"
+        stCamera:RadialDistortParam2="0.040139"
+        stCamera:RadialDistortParam3="-1.047284"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.023527"
+        stCamera:RadialDistortParam2="0.016251"
+        stCamera:RadialDistortParam3="1.57623"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999904"
+        stCamera:RadialDistortParam1="-0.000477"
+        stCamera:RadialDistortParam2="0.04753"
+        stCamera:RadialDistortParam3="-0.671473"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.024571"
+        stCamera:RadialDistortParam2="0.069792"
+        stCamera:RadialDistortParam3="0.149114">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99999"
+        stCamera:RadialDistortParam1="-0.000002"
+        stCamera:RadialDistortParam2="-0.001851"
+        stCamera:RadialDistortParam3="-0.007835"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.024571"
+        stCamera:RadialDistortParam2="0.069792"
+        stCamera:RadialDistortParam3="0.149114"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999903"
+        stCamera:RadialDistortParam1="0.000001"
+        stCamera:RadialDistortParam2="0.002286"
+        stCamera:RadialDistortParam3="0.00891"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="3.53107">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.024204"
+        stCamera:RadialDistortParam2="0.074473"
+        stCamera:RadialDistortParam3="0.061092">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999998"
+        stCamera:RadialDistortParam1="-0.000795"
+        stCamera:RadialDistortParam2="0.032009"
+        stCamera:RadialDistortParam3="-0.384925"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.024204"
+        stCamera:RadialDistortParam2="0.074473"
+        stCamera:RadialDistortParam3="0.061092"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999905"
+        stCamera:RadialDistortParam1="-0.000405"
+        stCamera:RadialDistortParam2="0.023"
+        stCamera:RadialDistortParam3="-0.198306"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.023961"
+        stCamera:RadialDistortParam2="0.094256"
+        stCamera:RadialDistortParam3="-0.134926">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999993"
+        stCamera:RadialDistortParam1="-0.000041"
+        stCamera:RadialDistortParam2="-0.002128"
+        stCamera:RadialDistortParam3="-0.003622"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.023961"
+        stCamera:RadialDistortParam2="0.094256"
+        stCamera:RadialDistortParam3="-0.134926"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999902"
+        stCamera:RadialDistortParam1="0.000059"
+        stCamera:RadialDistortParam2="0.001764"
+        stCamera:RadialDistortParam3="0.015899"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="4.526069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.024161"
+        stCamera:RadialDistortParam2="0.08608"
+        stCamera:RadialDistortParam3="-0.038344">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999992"
+        stCamera:RadialDistortParam1="-0.000033"
+        stCamera:RadialDistortParam2="-0.001829"
+        stCamera:RadialDistortParam3="-0.007933"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.024161"
+        stCamera:RadialDistortParam2="0.08608"
+        stCamera:RadialDistortParam3="-0.038344"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999903"
+        stCamera:RadialDistortParam1="0.000034"
+        stCamera:RadialDistortParam2="0.002258"
+        stCamera:RadialDistortParam3="0.009033"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.024276"
+        stCamera:RadialDistortParam2="0.081504"
+        stCamera:RadialDistortParam3="0.014279">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999991"
+        stCamera:RadialDistortParam1="-0.000024"
+        stCamera:RadialDistortParam2="-0.001835"
+        stCamera:RadialDistortParam3="-0.007906"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.024276"
+        stCamera:RadialDistortParam2="0.081504"
+        stCamera:RadialDistortParam3="0.014279"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999903"
+        stCamera:RadialDistortParam1="0.000025"
+        stCamera:RadialDistortParam2="0.002266"
+        stCamera:RadialDistortParam3="0.008998"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="5.531069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.024378"
+        stCamera:RadialDistortParam2="0.077452"
+        stCamera:RadialDistortParam3="0.06091">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999991"
+        stCamera:RadialDistortParam1="-0.000017"
+        stCamera:RadialDistortParam2="-0.00184"
+        stCamera:RadialDistortParam3="-0.007882"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.024378"
+        stCamera:RadialDistortParam2="0.077452"
+        stCamera:RadialDistortParam3="0.06091"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999903"
+        stCamera:RadialDistortParam1="0.000017"
+        stCamera:RadialDistortParam2="0.002273"
+        stCamera:RadialDistortParam3="0.008969"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.024437"
+        stCamera:RadialDistortParam2="0.075092"
+        stCamera:RadialDistortParam3="0.088069">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99999"
+        stCamera:RadialDistortParam1="-0.000012"
+        stCamera:RadialDistortParam2="-0.001844"
+        stCamera:RadialDistortParam3="-0.007868"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.024437"
+        stCamera:RadialDistortParam2="0.075092"
+        stCamera:RadialDistortParam3="0.088069"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999903"
+        stCamera:RadialDistortParam1="0.000012"
+        stCamera:RadialDistortParam2="0.002277"
+        stCamera:RadialDistortParam3="0.00895"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="6.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.024482"
+        stCamera:RadialDistortParam2="0.073311"
+        stCamera:RadialDistortParam3="0.108578">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99999"
+        stCamera:RadialDistortParam1="-0.000008"
+        stCamera:RadialDistortParam2="-0.001846"
+        stCamera:RadialDistortParam3="-0.007858"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.024482"
+        stCamera:RadialDistortParam2="0.073311"
+        stCamera:RadialDistortParam3="0.108578"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999903"
+        stCamera:RadialDistortParam1="0.000008"
+        stCamera:RadialDistortParam2="0.00228"
+        stCamera:RadialDistortParam3="0.008937"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.003155"
+        stCamera:RadialDistortParam2="-0.158379"
+        stCamera:RadialDistortParam3="0.101332">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999973"
+        stCamera:RadialDistortParam1="0.000925"
+        stCamera:RadialDistortParam2="0.001425"
+        stCamera:RadialDistortParam3="-0.000747"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.003155"
+        stCamera:RadialDistortParam2="-0.158379"
+        stCamera:RadialDistortParam3="0.101332"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99991"
+        stCamera:RadialDistortParam1="-0.001108"
+        stCamera:RadialDistortParam2="-0.001401"
+        stCamera:RadialDistortParam3="0.000998"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.003149"
+        stCamera:RadialDistortParam2="-0.158428"
+        stCamera:RadialDistortParam3="0.104311">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999972"
+        stCamera:RadialDistortParam1="0.000929"
+        stCamera:RadialDistortParam2="0.001421"
+        stCamera:RadialDistortParam3="-0.000753"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.003149"
+        stCamera:RadialDistortParam2="-0.158428"
+        stCamera:RadialDistortParam3="0.104311"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99991"
+        stCamera:RadialDistortParam1="-0.001112"
+        stCamera:RadialDistortParam2="-0.001395"
+        stCamera:RadialDistortParam3="0.001004"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.003144"
+        stCamera:RadialDistortParam2="-0.15847"
+        stCamera:RadialDistortParam3="0.10686">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999972"
+        stCamera:RadialDistortParam1="0.000932"
+        stCamera:RadialDistortParam2="0.001417"
+        stCamera:RadialDistortParam3="-0.00076"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.003144"
+        stCamera:RadialDistortParam2="-0.15847"
+        stCamera:RadialDistortParam3="0.10686"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99991"
+        stCamera:RadialDistortParam1="-0.001115"
+        stCamera:RadialDistortParam2="-0.001391"
+        stCamera:RadialDistortParam3="0.00101"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="8.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.003142"
+        stCamera:RadialDistortParam2="-0.158493"
+        stCamera:RadialDistortParam3="0.1083">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999972"
+        stCamera:RadialDistortParam1="0.000933"
+        stCamera:RadialDistortParam2="0.001415"
+        stCamera:RadialDistortParam3="-0.000762"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.003142"
+        stCamera:RadialDistortParam2="-0.158493"
+        stCamera:RadialDistortParam3="0.1083"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99991"
+        stCamera:RadialDistortParam1="-0.001117"
+        stCamera:RadialDistortParam2="-0.001388"
+        stCamera:RadialDistortParam3="0.001012"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.003954"
+        stCamera:RadialDistortParam2="-0.123719"
+        stCamera:RadialDistortParam3="-0.908112">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000007"
+        stCamera:RadialDistortParam1="0.002989"
+        stCamera:RadialDistortParam2="-0.057047"
+        stCamera:RadialDistortParam3="0.232819"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.003954"
+        stCamera:RadialDistortParam2="-0.123719"
+        stCamera:RadialDistortParam3="-0.908112"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999905"
+        stCamera:RadialDistortParam1="-0.001021"
+        stCamera:RadialDistortParam2="0.019865"
+        stCamera:RadialDistortParam3="-0.246913"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.003629"
+        stCamera:RadialDistortParam2="-0.111662"
+        stCamera:RadialDistortParam3="-1.016418">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999978"
+        stCamera:RadialDistortParam1="0.003518"
+        stCamera:RadialDistortParam2="-0.041619"
+        stCamera:RadialDistortParam3="-0.051212"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.003629"
+        stCamera:RadialDistortParam2="-0.111662"
+        stCamera:RadialDistortParam3="-1.016418"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999909"
+        stCamera:RadialDistortParam1="-0.001219"
+        stCamera:RadialDistortParam2="0.023528"
+        stCamera:RadialDistortParam3="-0.270052"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.00314"
+        stCamera:RadialDistortParam2="-0.158508"
+        stCamera:RadialDistortParam3="0.109191">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999972"
+        stCamera:RadialDistortParam1="0.000934"
+        stCamera:RadialDistortParam2="0.001414"
+        stCamera:RadialDistortParam3="-0.000764"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.00314"
+        stCamera:RadialDistortParam2="-0.158508"
+        stCamera:RadialDistortParam3="0.109191"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99991"
+        stCamera:RadialDistortParam1="-0.001118"
+        stCamera:RadialDistortParam2="-0.001386"
+        stCamera:RadialDistortParam3="0.001015"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="3.53107">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.002617"
+        stCamera:RadialDistortParam2="-0.094649"
+        stCamera:RadialDistortParam3="-0.932548">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999982"
+        stCamera:RadialDistortParam1="-0.000027"
+        stCamera:RadialDistortParam2="0.059917"
+        stCamera:RadialDistortParam3="-0.734427"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.002617"
+        stCamera:RadialDistortParam2="-0.094649"
+        stCamera:RadialDistortParam3="-0.932548"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99991"
+        stCamera:RadialDistortParam1="-0.001409"
+        stCamera:RadialDistortParam2="0.021431"
+        stCamera:RadialDistortParam3="-0.177499"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.003105"
+        stCamera:RadialDistortParam2="-0.146564"
+        stCamera:RadialDistortParam3="-0.081814">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999979"
+        stCamera:RadialDistortParam1="0.000689"
+        stCamera:RadialDistortParam2="0.005634"
+        stCamera:RadialDistortParam3="0.028666"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.003105"
+        stCamera:RadialDistortParam2="-0.146564"
+        stCamera:RadialDistortParam3="-0.081814"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999909"
+        stCamera:RadialDistortParam1="-0.000956"
+        stCamera:RadialDistortParam2="-0.010247"
+        stCamera:RadialDistortParam3="0.235531"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4.526069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.003242"
+        stCamera:RadialDistortParam2="-0.158038"
+        stCamera:RadialDistortParam3="0.063702">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999976"
+        stCamera:RadialDistortParam1="0.000898"
+        stCamera:RadialDistortParam2="0.000156"
+        stCamera:RadialDistortParam3="0.018392"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.003242"
+        stCamera:RadialDistortParam2="-0.158038"
+        stCamera:RadialDistortParam3="0.063702"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999909"
+        stCamera:RadialDistortParam1="-0.000982"
+        stCamera:RadialDistortParam2="-0.00503"
+        stCamera:RadialDistortParam3="0.051843"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.00321"
+        stCamera:RadialDistortParam2="-0.157865"
+        stCamera:RadialDistortParam3="0.071203">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999975"
+        stCamera:RadialDistortParam1="0.00089"
+        stCamera:RadialDistortParam2="0.001465"
+        stCamera:RadialDistortParam3="-0.000677"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.00321"
+        stCamera:RadialDistortParam2="-0.157865"
+        stCamera:RadialDistortParam3="0.071203"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99991"
+        stCamera:RadialDistortParam1="-0.001069"
+        stCamera:RadialDistortParam2="-0.001453"
+        stCamera:RadialDistortParam3="0.000928"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="5.531069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.003186"
+        stCamera:RadialDistortParam2="-0.158092"
+        stCamera:RadialDistortParam3="0.084324">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999974"
+        stCamera:RadialDistortParam1="0.000905"
+        stCamera:RadialDistortParam2="0.001448"
+        stCamera:RadialDistortParam3="-0.000707"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.003186"
+        stCamera:RadialDistortParam2="-0.158092"
+        stCamera:RadialDistortParam3="0.084324"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99991"
+        stCamera:RadialDistortParam1="-0.001086"
+        stCamera:RadialDistortParam2="-0.00143"
+        stCamera:RadialDistortParam3="0.000958"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.003172"
+        stCamera:RadialDistortParam2="-0.158222"
+        stCamera:RadialDistortParam3="0.091974">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999973"
+        stCamera:RadialDistortParam1="0.000914"
+        stCamera:RadialDistortParam2="0.001438"
+        stCamera:RadialDistortParam3="-0.000727"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.003172"
+        stCamera:RadialDistortParam2="-0.158222"
+        stCamera:RadialDistortParam3="0.091974"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99991"
+        stCamera:RadialDistortParam1="-0.001096"
+        stCamera:RadialDistortParam2="-0.001417"
+        stCamera:RadialDistortParam3="0.000976"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.003161"
+        stCamera:RadialDistortParam2="-0.158319"
+        stCamera:RadialDistortParam3="0.097755">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999973"
+        stCamera:RadialDistortParam1="0.000921"
+        stCamera:RadialDistortParam2="0.00143"
+        stCamera:RadialDistortParam3="-0.000739"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.003161"
+        stCamera:RadialDistortParam2="-0.158319"
+        stCamera:RadialDistortParam3="0.097755"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99991"
+        stCamera:RadialDistortParam1="-0.001103"
+        stCamera:RadialDistortParam2="-0.001407"
+        stCamera:RadialDistortParam3="0.000989"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.02261"
+        stCamera:RadialDistortParam2="-0.519225"
+        stCamera:RadialDistortParam3="1.185137">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999886"
+        stCamera:RadialDistortParam1="0.001593"
+        stCamera:RadialDistortParam2="0.004701"
+        stCamera:RadialDistortParam3="0.005412"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.02261"
+        stCamera:RadialDistortParam2="-0.519225"
+        stCamera:RadialDistortParam3="1.185137"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999999"
+        stCamera:RadialDistortParam1="-0.00193"
+        stCamera:RadialDistortParam2="-0.005058"
+        stCamera:RadialDistortParam3="-0.005629"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.022583"
+        stCamera:RadialDistortParam2="-0.518503"
+        stCamera:RadialDistortParam3="1.180303">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999886"
+        stCamera:RadialDistortParam1="0.001599"
+        stCamera:RadialDistortParam2="0.004697"
+        stCamera:RadialDistortParam3="0.005378"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.022583"
+        stCamera:RadialDistortParam2="-0.518503"
+        stCamera:RadialDistortParam3="1.180303"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.001937"
+        stCamera:RadialDistortParam2="-0.005052"
+        stCamera:RadialDistortParam3="-0.005591"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.022561"
+        stCamera:RadialDistortParam2="-0.517883"
+        stCamera:RadialDistortParam3="1.17616">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999885"
+        stCamera:RadialDistortParam1="0.001604"
+        stCamera:RadialDistortParam2="0.004694"
+        stCamera:RadialDistortParam3="0.005346"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.022561"
+        stCamera:RadialDistortParam2="-0.517883"
+        stCamera:RadialDistortParam3="1.17616"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.001943"
+        stCamera:RadialDistortParam2="-0.005046"
+        stCamera:RadialDistortParam3="-0.005558"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="8.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.022548"
+        stCamera:RadialDistortParam2="-0.517533"
+        stCamera:RadialDistortParam3="1.173819">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999885"
+        stCamera:RadialDistortParam1="0.001607"
+        stCamera:RadialDistortParam2="0.004691"
+        stCamera:RadialDistortParam3="0.00533"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.022548"
+        stCamera:RadialDistortParam2="-0.517533"
+        stCamera:RadialDistortParam3="1.173819"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.001946"
+        stCamera:RadialDistortParam2="-0.005043"
+        stCamera:RadialDistortParam3="-0.00554"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.02888"
+        stCamera:RadialDistortParam2="-0.660767"
+        stCamera:RadialDistortParam3="1.948652">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999951"
+        stCamera:RadialDistortParam1="0.002328"
+        stCamera:RadialDistortParam2="-0.044806"
+        stCamera:RadialDistortParam3="0.388004"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.02888"
+        stCamera:RadialDistortParam2="-0.660767"
+        stCamera:RadialDistortParam3="1.948652"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99999"
+        stCamera:RadialDistortParam1="-0.001098"
+        stCamera:RadialDistortParam2="0.009739"
+        stCamera:RadialDistortParam3="-0.191481"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.026856"
+        stCamera:RadialDistortParam2="-0.570261"
+        stCamera:RadialDistortParam3="0.933628">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999905"
+        stCamera:RadialDistortParam1="0.005035"
+        stCamera:RadialDistortParam2="-0.108075"
+        stCamera:RadialDistortParam3="0.943917"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.026856"
+        stCamera:RadialDistortParam2="-0.570261"
+        stCamera:RadialDistortParam3="0.933628"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999996"
+        stCamera:RadialDistortParam1="-0.001608"
+        stCamera:RadialDistortParam2="0.0237"
+        stCamera:RadialDistortParam3="-0.313267"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.02254"
+        stCamera:RadialDistortParam2="-0.517316"
+        stCamera:RadialDistortParam3="1.172368">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999885"
+        stCamera:RadialDistortParam1="0.001609"
+        stCamera:RadialDistortParam2="0.00469"
+        stCamera:RadialDistortParam3="0.005319"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.02254"
+        stCamera:RadialDistortParam2="-0.517316"
+        stCamera:RadialDistortParam3="1.172368"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.001948"
+        stCamera:RadialDistortParam2="-0.005041"
+        stCamera:RadialDistortParam3="-0.005528"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="3.53107">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.022845"
+        stCamera:RadialDistortParam2="-0.43711"
+        stCamera:RadialDistortParam3="-0.269908">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999889"
+        stCamera:RadialDistortParam1="0.002208"
+        stCamera:RadialDistortParam2="0.01273"
+        stCamera:RadialDistortParam3="-0.338275"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.022845"
+        stCamera:RadialDistortParam2="-0.43711"
+        stCamera:RadialDistortParam3="-0.269908"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999999"
+        stCamera:RadialDistortParam1="-0.002121"
+        stCamera:RadialDistortParam2="0.031517"
+        stCamera:RadialDistortParam3="-0.334804"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.022196"
+        stCamera:RadialDistortParam2="-0.459932"
+        stCamera:RadialDistortParam3="0.358934">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999895"
+        stCamera:RadialDistortParam1="0.000719"
+        stCamera:RadialDistortParam2="0.048209"
+        stCamera:RadialDistortParam3="-0.550147"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.022196"
+        stCamera:RadialDistortParam2="-0.459932"
+        stCamera:RadialDistortParam3="0.358934"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000002"
+        stCamera:RadialDistortParam1="-0.002511"
+        stCamera:RadialDistortParam2="0.028411"
+        stCamera:RadialDistortParam3="-0.207155"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="4.526069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.022987"
+        stCamera:RadialDistortParam2="-0.533465"
+        stCamera:RadialDistortParam3="1.423899">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999891"
+        stCamera:RadialDistortParam1="0.001397"
+        stCamera:RadialDistortParam2="0.009102"
+        stCamera:RadialDistortParam3="-0.029916"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.022987"
+        stCamera:RadialDistortParam2="-0.533465"
+        stCamera:RadialDistortParam3="1.423899"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999998"
+        stCamera:RadialDistortParam1="-0.001512"
+        stCamera:RadialDistortParam2="-0.029508"
+        stCamera:RadialDistortParam3="0.487785"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.022958"
+        stCamera:RadialDistortParam2="-0.532887"
+        stCamera:RadialDistortParam3="1.345981">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999889"
+        stCamera:RadialDistortParam1="0.001532"
+        stCamera:RadialDistortParam2="0.004763"
+        stCamera:RadialDistortParam3="0.005833"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.022958"
+        stCamera:RadialDistortParam2="-0.532887"
+        stCamera:RadialDistortParam3="1.345981"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999997"
+        stCamera:RadialDistortParam1="-0.00148"
+        stCamera:RadialDistortParam2="-0.025767"
+        stCamera:RadialDistortParam3="0.300377"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="5.531069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.02276"
+        stCamera:RadialDistortParam2="-0.523319"
+        stCamera:RadialDistortParam3="1.212605">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999888"
+        stCamera:RadialDistortParam1="0.001559"
+        stCamera:RadialDistortParam2="0.004725"
+        stCamera:RadialDistortParam3="0.005609"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.02276"
+        stCamera:RadialDistortParam2="-0.523319"
+        stCamera:RadialDistortParam3="1.212605"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999999"
+        stCamera:RadialDistortParam1="-0.001892"
+        stCamera:RadialDistortParam2="-0.005093"
+        stCamera:RadialDistortParam3="-0.005851"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.022693"
+        stCamera:RadialDistortParam2="-0.521483"
+        stCamera:RadialDistortParam3="1.200277">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999887"
+        stCamera:RadialDistortParam1="0.001574"
+        stCamera:RadialDistortParam2="0.004714"
+        stCamera:RadialDistortParam3="0.00552"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.022693"
+        stCamera:RadialDistortParam2="-0.521483"
+        stCamera:RadialDistortParam3="1.200277"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999999"
+        stCamera:RadialDistortParam1="-0.001909"
+        stCamera:RadialDistortParam2="-0.005078"
+        stCamera:RadialDistortParam3="-0.005752"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="6.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.022642"
+        stCamera:RadialDistortParam2="-0.52009"
+        stCamera:RadialDistortParam3="1.190932">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999886"
+        stCamera:RadialDistortParam1="0.001586"
+        stCamera:RadialDistortParam2="0.004707"
+        stCamera:RadialDistortParam3="0.005452"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.022642"
+        stCamera:RadialDistortParam2="-0.52009"
+        stCamera:RadialDistortParam3="1.190932"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999999"
+        stCamera:RadialDistortParam1="-0.001922"
+        stCamera:RadialDistortParam2="-0.005066"
+        stCamera:RadialDistortParam3="-0.005678"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.067858"
+        stCamera:RadialDistortParam2="-0.902523"
+        stCamera:RadialDistortParam3="2.116276">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999796"
+        stCamera:RadialDistortParam1="0.002007"
+        stCamera:RadialDistortParam2="0.00822"
+        stCamera:RadialDistortParam3="0.010579"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.067858"
+        stCamera:RadialDistortParam2="-0.902523"
+        stCamera:RadialDistortParam3="2.116276"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000095"
+        stCamera:RadialDistortParam1="-0.002466"
+        stCamera:RadialDistortParam2="-0.00898"
+        stCamera:RadialDistortParam3="-0.010889"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.067881"
+        stCamera:RadialDistortParam2="-0.903273"
+        stCamera:RadialDistortParam3="2.125667">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999796"
+        stCamera:RadialDistortParam1="0.002016"
+        stCamera:RadialDistortParam2="0.008222"
+        stCamera:RadialDistortParam3="0.010497"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.067881"
+        stCamera:RadialDistortParam2="-0.903273"
+        stCamera:RadialDistortParam3="2.125667"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000095"
+        stCamera:RadialDistortParam1="-0.002476"
+        stCamera:RadialDistortParam2="-0.008979"
+        stCamera:RadialDistortParam3="-0.010793"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.067901"
+        stCamera:RadialDistortParam2="-0.903914"
+        stCamera:RadialDistortParam3="2.133713">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999795"
+        stCamera:RadialDistortParam1="0.002023"
+        stCamera:RadialDistortParam2="0.008222"
+        stCamera:RadialDistortParam3="0.010429"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.067901"
+        stCamera:RadialDistortParam2="-0.903914"
+        stCamera:RadialDistortParam3="2.133713"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000095"
+        stCamera:RadialDistortParam1="-0.002485"
+        stCamera:RadialDistortParam2="-0.008977"
+        stCamera:RadialDistortParam3="-0.010716"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="8.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.067912"
+        stCamera:RadialDistortParam2="-0.904275"
+        stCamera:RadialDistortParam3="2.138257">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999795"
+        stCamera:RadialDistortParam1="0.002028"
+        stCamera:RadialDistortParam2="0.008223"
+        stCamera:RadialDistortParam3="0.010389"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.067912"
+        stCamera:RadialDistortParam2="-0.904275"
+        stCamera:RadialDistortParam3="2.138257"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000095"
+        stCamera:RadialDistortParam1="-0.00249"
+        stCamera:RadialDistortParam2="-0.008976"
+        stCamera:RadialDistortParam3="-0.01067"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="2.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.058253"
+        stCamera:RadialDistortParam2="-0.575324"
+        stCamera:RadialDistortParam3="-1.208246">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999876"
+        stCamera:RadialDistortParam1="0.001294"
+        stCamera:RadialDistortParam2="-0.026937"
+        stCamera:RadialDistortParam3="0.395413"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.058253"
+        stCamera:RadialDistortParam2="-0.575324"
+        stCamera:RadialDistortParam3="-1.208246"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000093"
+        stCamera:RadialDistortParam1="-0.000593"
+        stCamera:RadialDistortParam2="-0.010847"
+        stCamera:RadialDistortParam3="-0.000732"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.061358"
+        stCamera:RadialDistortParam2="-0.718644"
+        stCamera:RadialDistortParam3="0.443587">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99983"
+        stCamera:RadialDistortParam1="0.004489"
+        stCamera:RadialDistortParam2="-0.10977"
+        stCamera:RadialDistortParam3="1.150777"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.061358"
+        stCamera:RadialDistortParam2="-0.718644"
+        stCamera:RadialDistortParam3="0.443587"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000093"
+        stCamera:RadialDistortParam1="-0.000849"
+        stCamera:RadialDistortParam2="-0.001515"
+        stCamera:RadialDistortParam3="-0.082433"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.067919"
+        stCamera:RadialDistortParam2="-0.904499"
+        stCamera:RadialDistortParam3="2.141073">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999795"
+        stCamera:RadialDistortParam1="0.00203"
+        stCamera:RadialDistortParam2="0.008223"
+        stCamera:RadialDistortParam3="0.010366"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.067919"
+        stCamera:RadialDistortParam2="-0.904499"
+        stCamera:RadialDistortParam3="2.141073"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000095"
+        stCamera:RadialDistortParam1="-0.002493"
+        stCamera:RadialDistortParam2="-0.008975"
+        stCamera:RadialDistortParam3="-0.010645"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="3.53107">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.066476"
+        stCamera:RadialDistortParam2="-0.915492"
+        stCamera:RadialDistortParam3="2.503119">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999796"
+        stCamera:RadialDistortParam1="0.003991"
+        stCamera:RadialDistortParam2="-0.05253"
+        stCamera:RadialDistortParam3="0.382852"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.066476"
+        stCamera:RadialDistortParam2="-0.915492"
+        stCamera:RadialDistortParam3="2.503119"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000092"
+        stCamera:RadialDistortParam1="-0.001899"
+        stCamera:RadialDistortParam2="0.028292"
+        stCamera:RadialDistortParam3="-0.370955"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.068011"
+        stCamera:RadialDistortParam2="-0.950646"
+        stCamera:RadialDistortParam3="2.668609">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999802"
+        stCamera:RadialDistortParam1="0.001789"
+        stCamera:RadialDistortParam2="0.028497"
+        stCamera:RadialDistortParam3="-0.431679"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.068011"
+        stCamera:RadialDistortParam2="-0.950646"
+        stCamera:RadialDistortParam3="2.668609"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000098"
+        stCamera:RadialDistortParam1="-0.003373"
+        stCamera:RadialDistortParam2="0.063782"
+        stCamera:RadialDistortParam3="-0.656623"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="4.526069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.067821"
+        stCamera:RadialDistortParam2="-0.905422"
+        stCamera:RadialDistortParam3="1.911848">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999801"
+        stCamera:RadialDistortParam1="0.001556"
+        stCamera:RadialDistortParam2="0.028623"
+        stCamera:RadialDistortParam3="-0.331529"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.067821"
+        stCamera:RadialDistortParam2="-0.905422"
+        stCamera:RadialDistortParam3="1.911848"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000099"
+        stCamera:RadialDistortParam1="-0.003124"
+        stCamera:RadialDistortParam2="0.018786"
+        stCamera:RadialDistortParam3="0.01474"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.067371"
+        stCamera:RadialDistortParam2="-0.869499"
+        stCamera:RadialDistortParam3="1.458608">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.9998"
+        stCamera:RadialDistortParam1="0.001674"
+        stCamera:RadialDistortParam2="0.0231"
+        stCamera:RadialDistortParam3="-0.237327"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.067371"
+        stCamera:RadialDistortParam2="-0.869499"
+        stCamera:RadialDistortParam3="1.458608"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000093"
+        stCamera:RadialDistortParam1="-0.001811"
+        stCamera:RadialDistortParam2="-0.049783"
+        stCamera:RadialDistortParam3="0.7911"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="5.531069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.067509"
+        stCamera:RadialDistortParam2="-0.881469"
+        stCamera:RadialDistortParam3="1.773923">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999798"
+        stCamera:RadialDistortParam1="0.001799"
+        stCamera:RadialDistortParam2="0.016702"
+        stCamera:RadialDistortParam3="-0.11391"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.067509"
+        stCamera:RadialDistortParam2="-0.881469"
+        stCamera:RadialDistortParam3="1.773923"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000092"
+        stCamera:RadialDistortParam1="-0.001815"
+        stCamera:RadialDistortParam2="-0.040956"
+        stCamera:RadialDistortParam3="0.460467"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.067786"
+        stCamera:RadialDistortParam2="-0.900158"
+        stCamera:RadialDistortParam3="2.086801">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999797"
+        stCamera:RadialDistortParam1="0.00198"
+        stCamera:RadialDistortParam2="0.008217"
+        stCamera:RadialDistortParam3="0.010831"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.067786"
+        stCamera:RadialDistortParam2="-0.900158"
+        stCamera:RadialDistortParam3="2.086801"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000095"
+        stCamera:RadialDistortParam1="-0.002435"
+        stCamera:RadialDistortParam2="-0.008985"
+        stCamera:RadialDistortParam3="-0.011178"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Apo-Macro-Summarit-S 120 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS"
+       stCamera:ProfileName="Adobe (Leica APO-MACRO-SUMMARIT-S 1:2.5/120mm CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="6.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.067831"
+        stCamera:RadialDistortParam2="-0.901621"
+        stCamera:RadialDistortParam3="2.105002">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999796"
+        stCamera:RadialDistortParam1="0.001997"
+        stCamera:RadialDistortParam2="0.008219"
+        stCamera:RadialDistortParam3="0.010674"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.067831"
+        stCamera:RadialDistortParam2="-0.901621"
+        stCamera:RadialDistortParam3="2.105002"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000095"
+        stCamera:RadialDistortParam1="-0.002454"
+        stCamera:RadialDistortParam2="-0.008982"
+        stCamera:RadialDistortParam3="-0.010999"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

@@ -1,0 +1,412 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Zeiss Otus 1.4/55 ZF.2"
+       stCamera:LensInfo="55/1 55/1 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Otus 1.4/55 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Otus 1.4/55 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="4"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="1.526098"
+       stCamera:FocalLengthY="1.526098"
+       stCamera:ResidualMeanError="0.000085"
+       stCamera:ResidualStandardDeviation="0.000051"
+       stCamera:RadialDistortParam1="-0.040503"
+       stCamera:RadialDistortParam2="-0.197868"
+       stCamera:RadialDistortParam3="0.133435"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Zeiss Otus 1.4/55 ZF.2"
+       stCamera:LensInfo="55/1 55/1 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Otus 1.4/55 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Otus 1.4/55 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.526098"
+        stCamera:FocalLengthY="1.526098"
+        stCamera:RadialDistortParam1="-0.040503"
+        stCamera:RadialDistortParam2="-0.197868"
+        stCamera:RadialDistortParam3="0.133435">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.526098"
+         stCamera:FocalLengthY="1.526098"
+         stCamera:VignetteModelParam1="-11.454176"
+         stCamera:VignetteModelParam2="78.883087"
+         stCamera:VignetteModelParam3="-234.757277">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002563, 1.000000</rdf:li>
+          <rdf:li>0.042971, 0.958619</rdf:li>
+          <rdf:li>0.145215, 0.781835</rdf:li>
+          <rdf:li>0.196519, 0.668657</rdf:li>
+          <rdf:li>0.373290, 0.280512</rdf:li>
+          <rdf:li>0.393882, 0.230783</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Zeiss Otus 1.4/55 ZF.2"
+       stCamera:LensInfo="55/1 55/1 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Otus 1.4/55 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Otus 1.4/55 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.526098"
+        stCamera:FocalLengthY="1.526098"
+        stCamera:RadialDistortParam1="-0.040503"
+        stCamera:RadialDistortParam2="-0.197868"
+        stCamera:RadialDistortParam3="0.133435">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.526098"
+         stCamera:FocalLengthY="1.526098"
+         stCamera:VignetteModelParam1="-0.920673"
+         stCamera:VignetteModelParam2="-52.674763"
+         stCamera:VignetteModelParam3="206.688189">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002563, 1.000000</rdf:li>
+          <rdf:li>0.077965, 0.999626</rdf:li>
+          <rdf:li>0.150460, 0.979546</rdf:li>
+          <rdf:li>0.191781, 0.918944</rdf:li>
+          <rdf:li>0.238622, 0.808385</rdf:li>
+          <rdf:li>0.347394, 0.498660</rdf:li>
+          <rdf:li>0.375221, 0.414897</rdf:li>
+          <rdf:li>0.393882, 0.344757</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Zeiss Otus 1.4/55 ZF.2"
+       stCamera:LensInfo="55/1 55/1 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Otus 1.4/55 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Otus 1.4/55 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.526098"
+        stCamera:FocalLengthY="1.526098"
+        stCamera:RadialDistortParam1="-0.040503"
+        stCamera:RadialDistortParam2="-0.197868"
+        stCamera:RadialDistortParam3="0.133435">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.526098"
+         stCamera:FocalLengthY="1.526098"
+         stCamera:VignetteModelParam1="-1.749571"
+         stCamera:VignetteModelParam2="18.241958"
+         stCamera:VignetteModelParam3="-146.589271">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002563, 1.000000</rdf:li>
+          <rdf:li>0.077965, 0.999121</rdf:li>
+          <rdf:li>0.137019, 0.979366</rdf:li>
+          <rdf:li>0.261486, 0.916345</rdf:li>
+          <rdf:li>0.311490, 0.877847</rdf:li>
+          <rdf:li>0.346067, 0.798441</rdf:li>
+          <rdf:li>0.393882, 0.622379</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Zeiss Otus 1.4/55 ZF.2"
+       stCamera:LensInfo="55/1 55/1 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Otus 1.4/55 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Otus 1.4/55 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.526098"
+        stCamera:FocalLengthY="1.526098"
+        stCamera:RadialDistortParam1="-0.040503"
+        stCamera:RadialDistortParam2="-0.197868"
+        stCamera:RadialDistortParam3="0.133435">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.526098"
+         stCamera:FocalLengthY="1.526098"
+         stCamera:VignetteModelParam1="-1.452314"
+         stCamera:VignetteModelParam2="2.745605"
+         stCamera:VignetteModelParam3="-5.265064">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002563, 1.000000</rdf:li>
+          <rdf:li>0.087496, 0.995748</rdf:li>
+          <rdf:li>0.192328, 0.951012</rdf:li>
+          <rdf:li>0.376968, 0.832882</rdf:li>
+          <rdf:li>0.393882, 0.806322</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Zeiss Otus 1.4/55 ZF.2"
+       stCamera:LensInfo="55/1 55/1 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Otus 1.4/55 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Otus 1.4/55 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.526098"
+        stCamera:FocalLengthY="1.526098"
+        stCamera:RadialDistortParam1="-0.040503"
+        stCamera:RadialDistortParam2="-0.197868"
+        stCamera:RadialDistortParam3="0.133435">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.526098"
+         stCamera:FocalLengthY="1.526098"
+         stCamera:VignetteModelParam1="-1.317042"
+         stCamera:VignetteModelParam2="0.510909"
+         stCamera:VignetteModelParam3="5.315796">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002563, 1.000000</rdf:li>
+          <rdf:li>0.078970, 0.999426</rdf:li>
+          <rdf:li>0.135282, 0.980095</rdf:li>
+          <rdf:li>0.267203, 0.910248</rdf:li>
+          <rdf:li>0.393882, 0.823899</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Zeiss Otus 1.4/55 ZF.2"
+       stCamera:LensInfo="55/1 55/1 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Otus 1.4/55 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Otus 1.4/55 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.526098"
+        stCamera:FocalLengthY="1.526098"
+        stCamera:RadialDistortParam1="-0.040503"
+        stCamera:RadialDistortParam2="-0.197868"
+        stCamera:RadialDistortParam3="0.133435">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.526098"
+         stCamera:FocalLengthY="1.526098"
+         stCamera:VignetteModelParam1="-1.320451"
+         stCamera:VignetteModelParam2="0.476793"
+         stCamera:VignetteModelParam3="5.474877">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002563, 1.000000</rdf:li>
+          <rdf:li>0.078970, 0.999135</rdf:li>
+          <rdf:li>0.133817, 0.981074</rdf:li>
+          <rdf:li>0.260630, 0.913601</rdf:li>
+          <rdf:li>0.393882, 0.823629</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Zeiss Otus 1.4/55 ZF.2"
+       stCamera:LensInfo="55/1 55/1 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Otus 1.4/55 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Otus 1.4/55 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.526098"
+        stCamera:FocalLengthY="1.526098"
+        stCamera:RadialDistortParam1="-0.040503"
+        stCamera:RadialDistortParam2="-0.197868"
+        stCamera:RadialDistortParam3="0.133435">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.526098"
+         stCamera:FocalLengthY="1.526098"
+         stCamera:VignetteModelParam1="-1.457819"
+         stCamera:VignetteModelParam2="2.170869"
+         stCamera:VignetteModelParam3="-0.730591">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002563, 1.000000</rdf:li>
+          <rdf:li>0.083971, 0.995082</rdf:li>
+          <rdf:li>0.145396, 0.973835</rdf:li>
+          <rdf:li>0.265080, 0.907811</rdf:li>
+          <rdf:li>0.393882, 0.818482</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Zeiss Otus 1.4/55 ZF.2"
+       stCamera:LensInfo="55/1 55/1 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Otus 1.4/55 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Otus 1.4/55 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.526098"
+        stCamera:FocalLengthY="1.526098"
+        stCamera:RadialDistortParam1="-0.040503"
+        stCamera:RadialDistortParam2="-0.197868"
+        stCamera:RadialDistortParam3="0.133435">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.526098"
+         stCamera:FocalLengthY="1.526098"
+         stCamera:VignetteModelParam1="-1.560696"
+         stCamera:VignetteModelParam2="2.965211"
+         stCamera:VignetteModelParam3="-1.661067">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002563, 1.000000</rdf:li>
+          <rdf:li>0.097715, 0.991157</rdf:li>
+          <rdf:li>0.151244, 0.969992</rdf:li>
+          <rdf:li>0.393882, 0.815113</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

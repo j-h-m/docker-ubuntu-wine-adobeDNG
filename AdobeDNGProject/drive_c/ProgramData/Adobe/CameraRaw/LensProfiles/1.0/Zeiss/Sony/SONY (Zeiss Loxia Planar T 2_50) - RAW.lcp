@@ -1,0 +1,285 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156380, 2014/05/21-23:38:37        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="E 50mm F2"
+       stCamera:LensInfo="500/10 500/10 20/10 20/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Zeiss Loxia Planar T* 2/50"
+       stCamera:ProfileName="Adobe (Zeiss Loxia Planar T* 2/50, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>E 50mm F0</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:ScaleFactor="1.002957"
+       stCamera:RadialDistortParam1="-0.043201"
+       stCamera:RadialDistortParam2="-0.146153"
+       stCamera:RadialDistortParam3="0.022136"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="E 50mm F2"
+       stCamera:LensInfo="500/10 500/10 20/10 20/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Zeiss Loxia Planar T* 2/50"
+       stCamera:ProfileName="Adobe (Zeiss Loxia Planar T* 2/50, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>E 50mm F0</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.002957"
+        stCamera:RadialDistortParam1="-0.043201"
+        stCamera:RadialDistortParam2="-0.146153"
+        stCamera:RadialDistortParam3="0.022136">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-1.389376"
+        stCamera:VignetteModelParam2="-10.576694"
+        stCamera:VignetteModelParam3="25.367649"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="E 50mm F2"
+       stCamera:LensInfo="500/10 500/10 20/10 20/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Zeiss Loxia Planar T* 2/50"
+       stCamera:ProfileName="Adobe (Zeiss Loxia Planar T* 2/50, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>E 50mm F0</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.002957"
+        stCamera:RadialDistortParam1="-0.043201"
+        stCamera:RadialDistortParam2="-0.146153"
+        stCamera:RadialDistortParam3="0.022136">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-0.663886"
+        stCamera:VignetteModelParam2="2.612549"
+        stCamera:VignetteModelParam3="-55.716826"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="E 50mm F2"
+       stCamera:LensInfo="500/10 500/10 20/10 20/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Zeiss Loxia Planar T* 2/50"
+       stCamera:ProfileName="Adobe (Zeiss Loxia Planar T* 2/50, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>E 50mm F0</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.002957"
+        stCamera:RadialDistortParam1="-0.043201"
+        stCamera:RadialDistortParam2="-0.146153"
+        stCamera:RadialDistortParam3="0.022136">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-1.430507"
+        stCamera:VignetteModelParam2="6.198025"
+        stCamera:VignetteModelParam3="-28.321583"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="E 50mm F2"
+       stCamera:LensInfo="500/10 500/10 20/10 20/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Zeiss Loxia Planar T* 2/50"
+       stCamera:ProfileName="Adobe (Zeiss Loxia Planar T* 2/50, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>E 50mm F0</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.002957"
+        stCamera:RadialDistortParam1="-0.043201"
+        stCamera:RadialDistortParam2="-0.146153"
+        stCamera:RadialDistortParam3="0.022136">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-1.26764"
+        stCamera:VignetteModelParam2="2.008497"
+        stCamera:VignetteModelParam3="-6.379988"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="E 50mm F2"
+       stCamera:LensInfo="500/10 500/10 20/10 20/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Zeiss Loxia Planar T* 2/50"
+       stCamera:ProfileName="Adobe (Zeiss Loxia Planar T* 2/50, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>E 50mm F0</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.002957"
+        stCamera:RadialDistortParam1="-0.043201"
+        stCamera:RadialDistortParam2="-0.146153"
+        stCamera:RadialDistortParam3="0.022136">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-1.243265"
+        stCamera:VignetteModelParam2="1.850116"
+        stCamera:VignetteModelParam3="-6.540031"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="E 50mm F2"
+       stCamera:LensInfo="500/10 500/10 20/10 20/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Zeiss Loxia Planar T* 2/50"
+       stCamera:ProfileName="Adobe (Zeiss Loxia Planar T* 2/50, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>E 50mm F0</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.002957"
+        stCamera:RadialDistortParam1="-0.043201"
+        stCamera:RadialDistortParam2="-0.146153"
+        stCamera:RadialDistortParam3="0.022136">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-1.305332"
+        stCamera:VignetteModelParam2="2.336686"
+        stCamera:VignetteModelParam3="-7.28546"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="E 50mm F2"
+       stCamera:LensInfo="500/10 500/10 20/10 20/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Zeiss Loxia Planar T* 2/50"
+       stCamera:ProfileName="Adobe (Zeiss Loxia Planar T* 2/50, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>E 50mm F0</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.002957"
+        stCamera:RadialDistortParam1="-0.043201"
+        stCamera:RadialDistortParam2="-0.146153"
+        stCamera:RadialDistortParam3="0.022136">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-1.138007"
+        stCamera:VignetteModelParam2="-1.784054"
+        stCamera:VignetteModelParam3="6.238047"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

@@ -1,0 +1,4332 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156380, 2014/05/21-23:38:37        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000054"
+        stCamera:ResidualStandardDeviation="0.000046"
+        stCamera:RadialDistortParam1="-0.052894"
+        stCamera:RadialDistortParam2="0.003375"
+        stCamera:RadialDistortParam3="0.021341">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.008862"
+         stCamera:VignetteModelParam1="-0.610288"
+         stCamera:VignetteModelParam2="-1.927768"
+         stCamera:VignetteModelParam3="1.959956">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.171664, 0.991200</rdf:li>
+          <rdf:li>0.240803, 0.970900</rdf:li>
+          <rdf:li>0.340129, 0.921200</rdf:li>
+          <rdf:li>0.419410, 0.845000</rdf:li>
+          <rdf:li>0.539225, 0.693500</rdf:li>
+          <rdf:li>0.760730, 0.393400</rdf:li>
+          <rdf:li>0.874695, 0.250000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000053"
+        stCamera:ResidualStandardDeviation="0.00004"
+        stCamera:RadialDistortParam1="-0.031585"
+        stCamera:RadialDistortParam2="0.013754"
+        stCamera:RadialDistortParam3="0.029024">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.005289"
+         stCamera:VignetteModelParam1="-1.669244"
+         stCamera:VignetteModelParam2="-0.183071"
+         stCamera:VignetteModelParam3="1.442208">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.105043, 0.992900</rdf:li>
+          <rdf:li>0.180962, 0.958100</rdf:li>
+          <rdf:li>0.267181, 0.884700</rdf:li>
+          <rdf:li>0.349922, 0.795800</rdf:li>
+          <rdf:li>0.661819, 0.360700</rdf:li>
+          <rdf:li>0.725736, 0.281200</rdf:li>
+          <rdf:li>0.766373, 0.236000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000048"
+        stCamera:ResidualStandardDeviation="0.000037"
+        stCamera:RadialDistortParam1="-0.039508"
+        stCamera:RadialDistortParam2="0.015691"
+        stCamera:RadialDistortParam3="0.024793">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.004568"
+         stCamera:VignetteModelParam1="-1.63951"
+         stCamera:VignetteModelParam2="-0.350516"
+         stCamera:VignetteModelParam3="1.601517">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.109172, 0.991900</rdf:li>
+          <rdf:li>0.185420, 0.955200</rdf:li>
+          <rdf:li>0.277487, 0.874400</rdf:li>
+          <rdf:li>0.366674, 0.776300</rdf:li>
+          <rdf:li>0.668325, 0.345600</rdf:li>
+          <rdf:li>0.762570, 0.231000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000043"
+        stCamera:ResidualStandardDeviation="0.000034"
+        stCamera:RadialDistortParam1="-0.047535"
+        stCamera:RadialDistortParam2="0.017655"
+        stCamera:RadialDistortParam3="0.020078">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.004114"
+         stCamera:VignetteModelParam1="-1.613576"
+         stCamera:VignetteModelParam2="-0.49541"
+         stCamera:VignetteModelParam3="1.72085">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.109156, 0.991900</rdf:li>
+          <rdf:li>0.190244, 0.951900</rdf:li>
+          <rdf:li>0.289049, 0.862600</rdf:li>
+          <rdf:li>0.384963, 0.755400</rdf:li>
+          <rdf:li>0.665806, 0.342200</rdf:li>
+          <rdf:li>0.721121, 0.269000</rdf:li>
+          <rdf:li>0.758648, 0.225000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.35"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000039"
+        stCamera:ResidualStandardDeviation="0.000031"
+        stCamera:RadialDistortParam1="-0.053989"
+        stCamera:RadialDistortParam2="0.019298"
+        stCamera:RadialDistortParam3="0.015823">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003786"
+         stCamera:VignetteModelParam1="-1.595925"
+         stCamera:VignetteModelParam2="-0.594189"
+         stCamera:VignetteModelParam3="1.786636">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.110648, 0.991500</rdf:li>
+          <rdf:li>0.195447, 0.948200</rdf:li>
+          <rdf:li>0.301340, 0.849600</rdf:li>
+          <rdf:li>0.396204, 0.740700</rdf:li>
+          <rdf:li>0.681623, 0.312800</rdf:li>
+          <rdf:li>0.755436, 0.219000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.00003"
+        stCamera:ResidualStandardDeviation="0.000025"
+        stCamera:RadialDistortParam1="-0.0687"
+        stCamera:RadialDistortParam2="0.02337"
+        stCamera:RadialDistortParam3="0.003623">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003314"
+         stCamera:VignetteModelParam1="-1.551175"
+         stCamera:VignetteModelParam2="-0.859048"
+         stCamera:VignetteModelParam3="1.95663">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.113438, 0.991700</rdf:li>
+          <rdf:li>0.200745, 0.944200</rdf:li>
+          <rdf:li>0.306660, 0.843500</rdf:li>
+          <rdf:li>0.424677, 0.705500</rdf:li>
+          <rdf:li>0.679354, 0.295300</rdf:li>
+          <rdf:li>0.747796, 0.201000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000068"
+        stCamera:ResidualStandardDeviation="0.000045"
+        stCamera:RadialDistortParam1="0.004625"
+        stCamera:RadialDistortParam2="0.011016"
+        stCamera:RadialDistortParam3="0.04738">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002481"
+        stCamera:VignetteModelParam1="-2.636216"
+        stCamera:VignetteModelParam2="3.146339"
+        stCamera:VignetteModelParam3="-1.639263"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000063"
+        stCamera:ResidualStandardDeviation="0.000042"
+        stCamera:RadialDistortParam1="-0.005616"
+        stCamera:RadialDistortParam2="0.014522"
+        stCamera:RadialDistortParam3="0.041618">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002"
+        stCamera:VignetteModelParam1="-2.567454"
+        stCamera:VignetteModelParam2="2.835239"
+        stCamera:VignetteModelParam3="-1.343633"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.00006"
+        stCamera:ResidualStandardDeviation="0.00004"
+        stCamera:RadialDistortParam1="-0.010884"
+        stCamera:RadialDistortParam2="0.016315"
+        stCamera:RadialDistortParam3="0.038499">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001806"
+        stCamera:VignetteModelParam1="-2.541278"
+        stCamera:VignetteModelParam2="2.719283"
+        stCamera:VignetteModelParam3="-1.249968"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000055"
+        stCamera:ResidualStandardDeviation="0.000037"
+        stCamera:RadialDistortParam1="-0.018949"
+        stCamera:RadialDistortParam2="0.019077"
+        stCamera:RadialDistortParam3="0.033448">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002184"
+        stCamera:VignetteModelParam1="-2.520724"
+        stCamera:VignetteModelParam2="2.627152"
+        stCamera:VignetteModelParam3="-1.198113"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000051"
+        stCamera:ResidualStandardDeviation="0.000035"
+        stCamera:RadialDistortParam1="-0.02715"
+        stCamera:RadialDistortParam2="0.021885"
+        stCamera:RadialDistortParam3="0.027905">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002714"
+        stCamera:VignetteModelParam1="-2.502497"
+        stCamera:VignetteModelParam2="2.561401"
+        stCamera:VignetteModelParam3="-1.207194"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000047"
+        stCamera:ResidualStandardDeviation="0.000041"
+        stCamera:RadialDistortParam1="-0.06216"
+        stCamera:RadialDistortParam2="0.00403"
+        stCamera:RadialDistortParam3="0.018229">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.007661"
+         stCamera:VignetteModelParam1="-0.563202"
+         stCamera:VignetteModelParam2="-2.192298"
+         stCamera:VignetteModelParam3="2.204989">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.224310, 0.977200</rdf:li>
+          <rdf:li>0.332435, 0.925400</rdf:li>
+          <rdf:li>0.416364, 0.851700</rdf:li>
+          <rdf:li>0.512996, 0.728600</rdf:li>
+          <rdf:li>0.787209, 0.344300</rdf:li>
+          <rdf:li>0.866820, 0.248000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.35"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000047"
+        stCamera:ResidualStandardDeviation="0.000032"
+        stCamera:RadialDistortParam1="-0.033755"
+        stCamera:RadialDistortParam2="0.024168"
+        stCamera:RadialDistortParam3="0.023026">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003095"
+        stCamera:VignetteModelParam1="-2.489819"
+        stCamera:VignetteModelParam2="2.522514"
+        stCamera:VignetteModelParam3="-1.240416"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000037"
+        stCamera:ResidualStandardDeviation="0.000027"
+        stCamera:RadialDistortParam1="-0.048894"
+        stCamera:RadialDistortParam2="0.029606"
+        stCamera:RadialDistortParam3="0.009603">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.00396"
+         stCamera:VignetteModelParam1="-2.46966"
+         stCamera:VignetteModelParam2="2.456492"
+         stCamera:VignetteModelParam3="-1.361426">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.081142, 0.993300</rdf:li>
+          <rdf:li>0.158604, 0.941300</rdf:li>
+          <rdf:li>0.288696, 0.804500</rdf:li>
+          <rdf:li>0.406052, 0.658900</rdf:li>
+          <rdf:li>0.638014, 0.307000</rdf:li>
+          <rdf:li>0.709338, 0.212000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000067"
+        stCamera:ResidualStandardDeviation="0.000037"
+        stCamera:RadialDistortParam1="0.036153"
+        stCamera:RadialDistortParam2="-0.020857"
+        stCamera:RadialDistortParam3="0.152929">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.023462"
+         stCamera:VignetteModelParam1="-5.652555"
+         stCamera:VignetteModelParam2="19.501669"
+         stCamera:VignetteModelParam3="-26.091772">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.161517, 0.820600</rdf:li>
+          <rdf:li>0.431199, 0.470400</rdf:li>
+          <rdf:li>0.534207, 0.346800</rdf:li>
+          <rdf:li>0.629738, 0.248000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000062"
+        stCamera:ResidualStandardDeviation="0.000035"
+        stCamera:RadialDistortParam1="0.024792"
+        stCamera:RadialDistortParam2="-0.013056"
+        stCamera:RadialDistortParam3="0.139316">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.019578"
+         stCamera:VignetteModelParam1="-5.332075"
+         stCamera:VignetteModelParam2="17.441496"
+         stCamera:VignetteModelParam3="-22.926378">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.101153, 0.903300</rdf:li>
+          <rdf:li>0.189471, 0.801300</rdf:li>
+          <rdf:li>0.503658, 0.384100</rdf:li>
+          <rdf:li>0.586438, 0.288700</rdf:li>
+          <rdf:li>0.627303, 0.247000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000059"
+        stCamera:ResidualStandardDeviation="0.000033"
+        stCamera:RadialDistortParam1="0.018926"
+        stCamera:RadialDistortParam2="-0.00909"
+        stCamera:RadialDistortParam3="0.132176">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.019451"
+         stCamera:VignetteModelParam1="-5.236512"
+         stCamera:VignetteModelParam2="16.871395"
+         stCamera:VignetteModelParam3="-22.119389">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.209406, 0.781200</rdf:li>
+          <rdf:li>0.457443, 0.443900</rdf:li>
+          <rdf:li>0.517430, 0.368300</rdf:li>
+          <rdf:li>0.568858, 0.307400</rdf:li>
+          <rdf:li>0.626036, 0.247000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000055"
+        stCamera:ResidualStandardDeviation="0.000032"
+        stCamera:RadialDistortParam1="0.009907"
+        stCamera:RadialDistortParam2="-0.002974"
+        stCamera:RadialDistortParam3="0.120791">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.019923"
+         stCamera:VignetteModelParam1="-5.150879"
+         stCamera:VignetteModelParam2="16.491896"
+         stCamera:VignetteModelParam3="-21.814388">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.113202, 0.890400</rdf:li>
+          <rdf:li>0.244838, 0.739400</rdf:li>
+          <rdf:li>0.466470, 0.434900</rdf:li>
+          <rdf:li>0.536434, 0.345400</rdf:li>
+          <rdf:li>0.624076, 0.246000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000051"
+        stCamera:ResidualStandardDeviation="0.00003"
+        stCamera:RadialDistortParam1="0.000684"
+        stCamera:RadialDistortParam2="0.003202"
+        stCamera:RadialDistortParam3="0.108824">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.020557"
+         stCamera:VignetteModelParam1="-5.108636"
+         stCamera:VignetteModelParam2="16.414501"
+         stCamera:VignetteModelParam3="-22.024252">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.137332, 0.864100</rdf:li>
+          <rdf:li>0.280597, 0.696000</rdf:li>
+          <rdf:li>0.543622, 0.336300</rdf:li>
+          <rdf:li>0.622054, 0.245000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.35"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000048"
+        stCamera:ResidualStandardDeviation="0.000028"
+        stCamera:RadialDistortParam1="-0.006788"
+        stCamera:RadialDistortParam2="0.008221"
+        stCamera:RadialDistortParam3="0.098583">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.020897"
+         stCamera:VignetteModelParam1="-5.101295"
+         stCamera:VignetteModelParam2="16.519136"
+         stCamera:VignetteModelParam3="-22.470715">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.160099, 0.838800</rdf:li>
+          <rdf:li>0.310239, 0.658300</rdf:li>
+          <rdf:li>0.531501, 0.351500</rdf:li>
+          <rdf:li>0.620398, 0.244000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000039"
+        stCamera:ResidualStandardDeviation="0.000024"
+        stCamera:RadialDistortParam1="-0.024112"
+        stCamera:RadialDistortParam2="0.020029"
+        stCamera:RadialDistortParam3="0.072049">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.021259"
+         stCamera:VignetteModelParam1="-5.109205"
+         stCamera:VignetteModelParam2="16.920256"
+         stCamera:VignetteModelParam3="-23.784811">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.200247, 0.793800</rdf:li>
+          <rdf:li>0.366053, 0.586900</rdf:li>
+          <rdf:li>0.544325, 0.332400</rdf:li>
+          <rdf:li>0.616481, 0.240000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000044"
+        stCamera:ResidualStandardDeviation="0.000038"
+        stCamera:RadialDistortParam1="-0.066905"
+        stCamera:RadialDistortParam2="0.00442"
+        stCamera:RadialDistortParam3="0.016423">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.007151"
+         stCamera:VignetteModelParam1="-0.541188"
+         stCamera:VignetteModelParam2="-2.318731"
+         stCamera:VignetteModelParam3="2.315361">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.171793, 0.991300</rdf:li>
+          <rdf:li>0.247756, 0.966900</rdf:li>
+          <rdf:li>0.343846, 0.917200</rdf:li>
+          <rdf:li>0.429803, 0.837200</rdf:li>
+          <rdf:li>0.529006, 0.706300</rdf:li>
+          <rdf:li>0.782744, 0.340400</rdf:li>
+          <rdf:li>0.862717, 0.242000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000039"
+        stCamera:ResidualStandardDeviation="0.000034"
+        stCamera:RadialDistortParam1="-0.074132"
+        stCamera:RadialDistortParam2="0.005102"
+        stCamera:RadialDistortParam3="0.013332">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.006311"
+         stCamera:VignetteModelParam1="-0.510787"
+         stCamera:VignetteModelParam2="-2.499922"
+         stCamera:VignetteModelParam3="2.470227">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.176997, 0.990500</rdf:li>
+          <rdf:li>0.277737, 0.954400</rdf:li>
+          <rdf:li>0.378116, 0.889800</rdf:li>
+          <rdf:li>0.438488, 0.827800</rdf:li>
+          <rdf:li>0.530555, 0.702400</rdf:li>
+          <rdf:li>0.779346, 0.330000</rdf:li>
+          <rdf:li>0.856355, 0.232000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000033"
+        stCamera:ResidualStandardDeviation="0.000031"
+        stCamera:RadialDistortParam1="-0.081438"
+        stCamera:RadialDistortParam2="0.00594"
+        stCamera:RadialDistortParam3="0.00965">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.005498"
+         stCamera:VignetteModelParam1="-0.470005"
+         stCamera:VignetteModelParam2="-2.731927"
+         stCamera:VignetteModelParam3="2.670808">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.178694, 0.990200</rdf:li>
+          <rdf:li>0.288344, 0.949600</rdf:li>
+          <rdf:li>0.387247, 0.882700</rdf:li>
+          <rdf:li>0.452718, 0.812200</rdf:li>
+          <rdf:li>0.541062, 0.685400</rdf:li>
+          <rdf:li>0.770604, 0.326000</rdf:li>
+          <rdf:li>0.849743, 0.219000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.35"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000029"
+        stCamera:ResidualStandardDeviation="0.000028"
+        stCamera:RadialDistortParam1="-0.087291"
+        stCamera:RadialDistortParam2="0.006768"
+        stCamera:RadialDistortParam3="0.006162">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.00493"
+         stCamera:VignetteModelParam1="-0.44145"
+         stCamera:VignetteModelParam2="-2.904953"
+         stCamera:VignetteModelParam3="2.814861">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.178651, 0.990200</rdf:li>
+          <rdf:li>0.282813, 0.952000</rdf:li>
+          <rdf:li>0.387951, 0.881600</rdf:li>
+          <rdf:li>0.461510, 0.802300</rdf:li>
+          <rdf:li>0.556074, 0.659700</rdf:li>
+          <rdf:li>0.775066, 0.304900</rdf:li>
+          <rdf:li>0.844278, 0.208000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000022"
+        stCamera:ResidualStandardDeviation="0.00002"
+        stCamera:RadialDistortParam1="-0.100602"
+        stCamera:RadialDistortParam2="0.0097"
+        stCamera:RadialDistortParam3="-0.004863">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003246"
+         stCamera:VignetteModelParam1="-0.355137"
+         stCamera:VignetteModelParam2="-3.431105"
+         stCamera:VignetteModelParam3="3.265557">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.180732, 0.989800</rdf:li>
+          <rdf:li>0.298983, 0.945300</rdf:li>
+          <rdf:li>0.417682, 0.854500</rdf:li>
+          <rdf:li>0.475337, 0.784700</rdf:li>
+          <rdf:li>0.565274, 0.636600</rdf:li>
+          <rdf:li>0.718683, 0.356900</rdf:li>
+          <rdf:li>0.773211, 0.264800</rdf:li>
+          <rdf:li>0.830978, 0.178000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000061"
+        stCamera:ResidualStandardDeviation="0.000046"
+        stCamera:RadialDistortParam1="-0.016308"
+        stCamera:RadialDistortParam2="0.010147"
+        stCamera:RadialDistortParam3="0.036184">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.006596"
+         stCamera:VignetteModelParam1="-1.728385"
+         stCamera:VignetteModelParam2="0.110416"
+         stCamera:VignetteModelParam3="1.186693">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.103185, 0.994100</rdf:li>
+          <rdf:li>0.158813, 0.970700</rdf:li>
+          <rdf:li>0.228937, 0.921500</rdf:li>
+          <rdf:li>0.311591, 0.838600</rdf:li>
+          <rdf:li>0.613144, 0.432100</rdf:li>
+          <rdf:li>0.676625, 0.352300</rdf:li>
+          <rdf:li>0.773578, 0.245000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000055"
+        stCamera:ResidualStandardDeviation="0.000042"
+        stCamera:RadialDistortParam1="-0.026402"
+        stCamera:RadialDistortParam2="0.012525"
+        stCamera:RadialDistortParam3="0.031571">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.005743"
+         stCamera:VignetteModelParam1="-1.68602"
+         stCamera:VignetteModelParam2="-0.095587"
+         stCamera:VignetteModelParam3="1.369943">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.108067, 0.993100</rdf:li>
+          <rdf:li>0.178738, 0.959400</rdf:li>
+          <rdf:li>0.338939, 0.808400</rdf:li>
+          <rdf:li>0.664479, 0.360500</rdf:li>
+          <rdf:li>0.727228, 0.284800</rdf:li>
+          <rdf:li>0.768835, 0.240000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000054"
+        stCamera:ResidualStandardDeviation="0.000046"
+        stCamera:RadialDistortParam1="-0.052894"
+        stCamera:RadialDistortParam2="0.003375"
+        stCamera:RadialDistortParam3="0.021341">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.007582"
+         stCamera:VignetteModelParam1="-0.165703"
+         stCamera:VignetteModelParam2="-0.546738"
+         stCamera:VignetteModelParam3="-0.291372">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.346382, 0.963700</rdf:li>
+          <rdf:li>0.553120, 0.903200</rdf:li>
+          <rdf:li>0.606368, 0.871200</rdf:li>
+          <rdf:li>0.691765, 0.759000</rdf:li>
+          <rdf:li>0.817308, 0.556100</rdf:li>
+          <rdf:li>0.874695, 0.443000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000053"
+        stCamera:ResidualStandardDeviation="0.00004"
+        stCamera:RadialDistortParam1="-0.031585"
+        stCamera:RadialDistortParam2="0.013754"
+        stCamera:RadialDistortParam3="0.029024">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.006791"
+         stCamera:VignetteModelParam1="-0.214404"
+         stCamera:VignetteModelParam2="-1.885104"
+         stCamera:VignetteModelParam3="0.918975">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.162881, 0.987700</rdf:li>
+          <rdf:li>0.330159, 0.947300</rdf:li>
+          <rdf:li>0.440359, 0.903000</rdf:li>
+          <rdf:li>0.506841, 0.849000</rdf:li>
+          <rdf:li>0.546919, 0.801300</rdf:li>
+          <rdf:li>0.595550, 0.725200</rdf:li>
+          <rdf:li>0.766373, 0.429000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000048"
+        stCamera:ResidualStandardDeviation="0.000037"
+        stCamera:RadialDistortParam1="-0.039508"
+        stCamera:RadialDistortParam2="0.015691"
+        stCamera:RadialDistortParam3="0.024793">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.00719"
+         stCamera:VignetteModelParam1="-0.208099"
+         stCamera:VignetteModelParam2="-1.926098"
+         stCamera:VignetteModelParam3="0.8729">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.181846, 0.983900</rdf:li>
+          <rdf:li>0.337686, 0.944800</rdf:li>
+          <rdf:li>0.444873, 0.900000</rdf:li>
+          <rdf:li>0.512275, 0.842400</rdf:li>
+          <rdf:li>0.593130, 0.723100</rdf:li>
+          <rdf:li>0.762570, 0.420000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000043"
+        stCamera:ResidualStandardDeviation="0.000034"
+        stCamera:RadialDistortParam1="-0.047535"
+        stCamera:RadialDistortParam2="0.017655"
+        stCamera:RadialDistortParam3="0.020078">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.007551"
+         stCamera:VignetteModelParam1="-0.199582"
+         stCamera:VignetteModelParam2="-1.980695"
+         stCamera:VignetteModelParam3="0.829086">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.181787, 0.983900</rdf:li>
+          <rdf:li>0.333666, 0.946000</rdf:li>
+          <rdf:li>0.441780, 0.901400</rdf:li>
+          <rdf:li>0.506799, 0.846800</rdf:li>
+          <rdf:li>0.543584, 0.800800</rdf:li>
+          <rdf:li>0.586312, 0.729300</rdf:li>
+          <rdf:li>0.758648, 0.409000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.35"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000039"
+        stCamera:ResidualStandardDeviation="0.000031"
+        stCamera:RadialDistortParam1="-0.053989"
+        stCamera:RadialDistortParam2="0.019298"
+        stCamera:RadialDistortParam3="0.015823">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.007823"
+         stCamera:VignetteModelParam1="-0.192329"
+         stCamera:VignetteModelParam2="-2.01862"
+         stCamera:VignetteModelParam3="0.76771">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.184745, 0.983400</rdf:li>
+          <rdf:li>0.338423, 0.944400</rdf:li>
+          <rdf:li>0.438658, 0.903500</rdf:li>
+          <rdf:li>0.511419, 0.840600</rdf:li>
+          <rdf:li>0.548160, 0.790700</rdf:li>
+          <rdf:li>0.595467, 0.707800</rdf:li>
+          <rdf:li>0.755436, 0.399000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.00003"
+        stCamera:ResidualStandardDeviation="0.000025"
+        stCamera:RadialDistortParam1="-0.0687"
+        stCamera:RadialDistortParam2="0.02337"
+        stCamera:RadialDistortParam3="0.003623">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.008899"
+         stCamera:VignetteModelParam1="-0.170634"
+         stCamera:VignetteModelParam2="-2.124321"
+         stCamera:VignetteModelParam3="0.578531">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.184629, 0.983400</rdf:li>
+          <rdf:li>0.340243, 0.943600</rdf:li>
+          <rdf:li>0.445232, 0.899200</rdf:li>
+          <rdf:li>0.512648, 0.837200</rdf:li>
+          <rdf:li>0.547080, 0.785400</rdf:li>
+          <rdf:li>0.597318, 0.687900</rdf:li>
+          <rdf:li>0.747796, 0.370000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000068"
+        stCamera:ResidualStandardDeviation="0.000045"
+        stCamera:RadialDistortParam1="0.004625"
+        stCamera:RadialDistortParam2="0.011016"
+        stCamera:RadialDistortParam3="0.04738">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00464"
+        stCamera:VignetteModelParam1="-0.261209"
+        stCamera:VignetteModelParam2="-2.797981"
+        stCamera:VignetteModelParam3="2.410542"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000063"
+        stCamera:ResidualStandardDeviation="0.000042"
+        stCamera:RadialDistortParam1="-0.005616"
+        stCamera:RadialDistortParam2="0.014522"
+        stCamera:RadialDistortParam3="0.041618">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.004626"
+        stCamera:VignetteModelParam1="-0.2548"
+        stCamera:VignetteModelParam2="-2.85949"
+        stCamera:VignetteModelParam3="2.41028"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.00006"
+        stCamera:ResidualStandardDeviation="0.00004"
+        stCamera:RadialDistortParam1="-0.010884"
+        stCamera:RadialDistortParam2="0.016315"
+        stCamera:RadialDistortParam3="0.038499">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.004839"
+         stCamera:VignetteModelParam1="-0.257171"
+         stCamera:VignetteModelParam2="-2.843513"
+         stCamera:VignetteModelParam3="2.327858">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.172005, 0.983500</rdf:li>
+          <rdf:li>0.313487, 0.944700</rdf:li>
+          <rdf:li>0.389233, 0.910800</rdf:li>
+          <rdf:li>0.454746, 0.852200</rdf:li>
+          <rdf:li>0.544533, 0.734200</rdf:li>
+          <rdf:li>0.723873, 0.430000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000055"
+        stCamera:ResidualStandardDeviation="0.000037"
+        stCamera:RadialDistortParam1="-0.018949"
+        stCamera:RadialDistortParam2="0.019077"
+        stCamera:RadialDistortParam3="0.033448">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.005021"
+         stCamera:VignetteModelParam1="-0.254338"
+         stCamera:VignetteModelParam2="-2.877224"
+         stCamera:VignetteModelParam3="2.289259">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.158053, 0.985400</rdf:li>
+          <rdf:li>0.333880, 0.937400</rdf:li>
+          <rdf:li>0.398742, 0.904600</rdf:li>
+          <rdf:li>0.469432, 0.834700</rdf:li>
+          <rdf:li>0.550147, 0.721600</rdf:li>
+          <rdf:li>0.720886, 0.423000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000051"
+        stCamera:ResidualStandardDeviation="0.000035"
+        stCamera:RadialDistortParam1="-0.02715"
+        stCamera:RadialDistortParam2="0.021885"
+        stCamera:RadialDistortParam3="0.027905">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.005343"
+         stCamera:VignetteModelParam1="-0.250094"
+         stCamera:VignetteModelParam2="-2.909801"
+         stCamera:VignetteModelParam3="2.2283">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.159595, 0.985200</rdf:li>
+          <rdf:li>0.339161, 0.935300</rdf:li>
+          <rdf:li>0.399113, 0.903900</rdf:li>
+          <rdf:li>0.475413, 0.827300</rdf:li>
+          <rdf:li>0.547080, 0.724200</rdf:li>
+          <rdf:li>0.717808, 0.416000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000047"
+        stCamera:ResidualStandardDeviation="0.000041"
+        stCamera:RadialDistortParam1="-0.06216"
+        stCamera:RadialDistortParam2="0.00403"
+        stCamera:RadialDistortParam3="0.018229">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.008671"
+         stCamera:VignetteModelParam1="-0.139079"
+         stCamera:VignetteModelParam2="-0.694027"
+         stCamera:VignetteModelParam3="-0.217946">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.352210, 0.962200</rdf:li>
+          <rdf:li>0.550004, 0.904000</rdf:li>
+          <rdf:li>0.596704, 0.875700</rdf:li>
+          <rdf:li>0.642646, 0.820500</rdf:li>
+          <rdf:li>0.708113, 0.717200</rdf:li>
+          <rdf:li>0.866820, 0.442000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.35"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000047"
+        stCamera:ResidualStandardDeviation="0.000032"
+        stCamera:RadialDistortParam1="-0.033755"
+        stCamera:RadialDistortParam2="0.024168"
+        stCamera:RadialDistortParam3="0.023026">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.005442"
+         stCamera:VignetteModelParam1="-0.245452"
+         stCamera:VignetteModelParam2="-2.931755"
+         stCamera:VignetteModelParam3="2.152642">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.177135, 0.982600</rdf:li>
+          <rdf:li>0.343606, 0.933500</rdf:li>
+          <rdf:li>0.403569, 0.900100</rdf:li>
+          <rdf:li>0.476980, 0.824700</rdf:li>
+          <rdf:li>0.548452, 0.718500</rdf:li>
+          <rdf:li>0.715292, 0.409000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000037"
+        stCamera:ResidualStandardDeviation="0.000027"
+        stCamera:RadialDistortParam1="-0.048894"
+        stCamera:RadialDistortParam2="0.029606"
+        stCamera:RadialDistortParam3="0.009603">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.006084"
+         stCamera:VignetteModelParam1="-0.234442"
+         stCamera:VignetteModelParam2="-2.965595"
+         stCamera:VignetteModelParam3="1.885162">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.205081, 0.976300</rdf:li>
+          <rdf:li>0.349926, 0.930700</rdf:li>
+          <rdf:li>0.412946, 0.891500</rdf:li>
+          <rdf:li>0.487045, 0.812200</rdf:li>
+          <rdf:li>0.562211, 0.685500</rdf:li>
+          <rdf:li>0.709338, 0.388000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000067"
+        stCamera:ResidualStandardDeviation="0.000037"
+        stCamera:RadialDistortParam1="0.036153"
+        stCamera:RadialDistortParam2="-0.020857"
+        stCamera:RadialDistortParam3="0.152929">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002457"
+        stCamera:VignetteModelParam1="-0.351194"
+        stCamera:VignetteModelParam2="-5.915575"
+        stCamera:VignetteModelParam3="8.535774"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000062"
+        stCamera:ResidualStandardDeviation="0.000035"
+        stCamera:RadialDistortParam1="0.024792"
+        stCamera:RadialDistortParam2="-0.013056"
+        stCamera:RadialDistortParam3="0.139316">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002286"
+        stCamera:VignetteModelParam1="-0.352004"
+        stCamera:VignetteModelParam2="-5.890023"
+        stCamera:VignetteModelParam3="8.355315"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000059"
+        stCamera:ResidualStandardDeviation="0.000033"
+        stCamera:RadialDistortParam1="0.018926"
+        stCamera:RadialDistortParam2="-0.00909"
+        stCamera:RadialDistortParam3="0.132176">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002251"
+        stCamera:VignetteModelParam1="-0.354711"
+        stCamera:VignetteModelParam2="-5.856854"
+        stCamera:VignetteModelParam3="8.220993"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000055"
+        stCamera:ResidualStandardDeviation="0.000032"
+        stCamera:RadialDistortParam1="0.009907"
+        stCamera:RadialDistortParam2="-0.002974"
+        stCamera:RadialDistortParam3="0.120791">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002206"
+        stCamera:VignetteModelParam1="-0.355047"
+        stCamera:VignetteModelParam2="-5.849138"
+        stCamera:VignetteModelParam3="8.097046"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000051"
+        stCamera:ResidualStandardDeviation="0.00003"
+        stCamera:RadialDistortParam1="0.000684"
+        stCamera:RadialDistortParam2="0.003202"
+        stCamera:RadialDistortParam3="0.108824">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002359"
+        stCamera:VignetteModelParam1="-0.370457"
+        stCamera:VignetteModelParam2="-5.717395"
+        stCamera:VignetteModelParam3="7.726043"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.35"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000048"
+        stCamera:ResidualStandardDeviation="0.000028"
+        stCamera:RadialDistortParam1="-0.006788"
+        stCamera:RadialDistortParam2="0.008221"
+        stCamera:RadialDistortParam3="0.098583">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002369"
+        stCamera:VignetteModelParam1="-0.37122"
+        stCamera:VignetteModelParam2="-5.678723"
+        stCamera:VignetteModelParam3="7.515889"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000039"
+        stCamera:ResidualStandardDeviation="0.000024"
+        stCamera:RadialDistortParam1="-0.024112"
+        stCamera:RadialDistortParam2="0.020029"
+        stCamera:RadialDistortParam3="0.072049">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002401"
+        stCamera:VignetteModelParam1="-0.372893"
+        stCamera:VignetteModelParam2="-5.567347"
+        stCamera:VignetteModelParam3="6.894161"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000044"
+        stCamera:ResidualStandardDeviation="0.000038"
+        stCamera:RadialDistortParam1="-0.066905"
+        stCamera:RadialDistortParam2="0.00442"
+        stCamera:RadialDistortParam3="0.016423">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.008887"
+         stCamera:VignetteModelParam1="-0.131261"
+         stCamera:VignetteModelParam2="-0.737155"
+         stCamera:VignetteModelParam3="-0.227293">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.346206, 0.963600</rdf:li>
+          <rdf:li>0.547503, 0.904400</rdf:li>
+          <rdf:li>0.594374, 0.874800</rdf:li>
+          <rdf:li>0.637777, 0.821800</rdf:li>
+          <rdf:li>0.697465, 0.726700</rdf:li>
+          <rdf:li>0.862717, 0.433000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000039"
+        stCamera:ResidualStandardDeviation="0.000034"
+        stCamera:RadialDistortParam1="-0.074132"
+        stCamera:RadialDistortParam2="0.005102"
+        stCamera:RadialDistortParam3="0.013332">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.009518"
+         stCamera:VignetteModelParam1="-0.122882"
+         stCamera:VignetteModelParam2="-0.788434"
+         stCamera:VignetteModelParam3="-0.266212">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.322536, 0.968000</rdf:li>
+          <rdf:li>0.546438, 0.903400</rdf:li>
+          <rdf:li>0.589656, 0.875600</rdf:li>
+          <rdf:li>0.638694, 0.812100</rdf:li>
+          <rdf:li>0.685419, 0.734200</rdf:li>
+          <rdf:li>0.856355, 0.416000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000033"
+        stCamera:ResidualStandardDeviation="0.000031"
+        stCamera:RadialDistortParam1="-0.081438"
+        stCamera:RadialDistortParam2="0.00594"
+        stCamera:RadialDistortParam3="0.00965">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.010069"
+         stCamera:VignetteModelParam1="-0.107473"
+         stCamera:VignetteModelParam2="-0.87154"
+         stCamera:VignetteModelParam3="-0.284511">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.331266, 0.966000</rdf:li>
+          <rdf:li>0.539629, 0.904900</rdf:li>
+          <rdf:li>0.588606, 0.872200</rdf:li>
+          <rdf:li>0.632534, 0.812200</rdf:li>
+          <rdf:li>0.686946, 0.715700</rdf:li>
+          <rdf:li>0.849743, 0.397000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.35"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000029"
+        stCamera:ResidualStandardDeviation="0.000028"
+        stCamera:RadialDistortParam1="-0.087291"
+        stCamera:RadialDistortParam2="0.006768"
+        stCamera:RadialDistortParam3="0.006162">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.010505"
+         stCamera:VignetteModelParam1="-0.091985"
+         stCamera:VignetteModelParam2="-0.948449"
+         stCamera:VignetteModelParam3="-0.308233">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.185420, 0.989300</rdf:li>
+          <rdf:li>0.382245, 0.954300</rdf:li>
+          <rdf:li>0.542086, 0.903500</rdf:li>
+          <rdf:li>0.584666, 0.872500</rdf:li>
+          <rdf:li>0.630228, 0.807000</rdf:li>
+          <rdf:li>0.678226, 0.718900</rdf:li>
+          <rdf:li>0.844278, 0.378000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000022"
+        stCamera:ResidualStandardDeviation="0.00002"
+        stCamera:RadialDistortParam1="-0.100602"
+        stCamera:RadialDistortParam2="0.0097"
+        stCamera:RadialDistortParam3="-0.004863">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.012006"
+         stCamera:VignetteModelParam1="-0.040681"
+         stCamera:VignetteModelParam2="-1.215827"
+         stCamera:VignetteModelParam3="-0.321136">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.204470, 0.987400</rdf:li>
+          <rdf:li>0.364633, 0.958900</rdf:li>
+          <rdf:li>0.526924, 0.909300</rdf:li>
+          <rdf:li>0.579897, 0.865700</rdf:li>
+          <rdf:li>0.623412, 0.794500</rdf:li>
+          <rdf:li>0.668902, 0.700500</rdf:li>
+          <rdf:li>0.830978, 0.328000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000061"
+        stCamera:ResidualStandardDeviation="0.000046"
+        stCamera:RadialDistortParam1="-0.016308"
+        stCamera:RadialDistortParam2="0.010147"
+        stCamera:RadialDistortParam3="0.036184">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.00636"
+         stCamera:VignetteModelParam1="-0.22424"
+         stCamera:VignetteModelParam2="-1.812371"
+         stCamera:VignetteModelParam3="0.983382">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.161076, 0.988000</rdf:li>
+          <rdf:li>0.324339, 0.949300</rdf:li>
+          <rdf:li>0.438265, 0.905600</rdf:li>
+          <rdf:li>0.505048, 0.852800</rdf:li>
+          <rdf:li>0.590470, 0.742300</rdf:li>
+          <rdf:li>0.773578, 0.444000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000055"
+        stCamera:ResidualStandardDeviation="0.000042"
+        stCamera:RadialDistortParam1="-0.026402"
+        stCamera:RadialDistortParam2="0.012525"
+        stCamera:RadialDistortParam3="0.031571">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.006657"
+         stCamera:VignetteModelParam1="-0.218123"
+         stCamera:VignetteModelParam2="-1.858711"
+         stCamera:VignetteModelParam3="0.944502">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.162908, 0.987700</rdf:li>
+          <rdf:li>0.328104, 0.948000</rdf:li>
+          <rdf:li>0.441912, 0.902400</rdf:li>
+          <rdf:li>0.508811, 0.847900</rdf:li>
+          <rdf:li>0.548508, 0.801300</rdf:li>
+          <rdf:li>0.599264, 0.722400</rdf:li>
+          <rdf:li>0.768835, 0.435000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000054"
+        stCamera:ResidualStandardDeviation="0.000046"
+        stCamera:RadialDistortParam1="-0.052894"
+        stCamera:RadialDistortParam2="0.003375"
+        stCamera:RadialDistortParam3="0.021341">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003884"
+         stCamera:VignetteModelParam1="-0.415084"
+         stCamera:VignetteModelParam2="0.616597"
+         stCamera:VignetteModelParam3="-0.901173">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.194022, 0.988300</rdf:li>
+          <rdf:li>0.392838, 0.950400</rdf:li>
+          <rdf:li>0.569299, 0.894600</rdf:li>
+          <rdf:li>0.731440, 0.822700</rdf:li>
+          <rdf:li>0.823984, 0.727800</rdf:li>
+          <rdf:li>0.846576, 0.685300</rdf:li>
+          <rdf:li>0.874695, 0.617000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000053"
+        stCamera:ResidualStandardDeviation="0.00004"
+        stCamera:RadialDistortParam1="-0.031585"
+        stCamera:RadialDistortParam2="0.013754"
+        stCamera:RadialDistortParam3="0.029024">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002409"
+        stCamera:VignetteModelParam1="-0.579617"
+        stCamera:VignetteModelParam2="0.73236"
+        stCamera:VignetteModelParam3="-1.371059"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000048"
+        stCamera:ResidualStandardDeviation="0.000037"
+        stCamera:RadialDistortParam1="-0.039508"
+        stCamera:RadialDistortParam2="0.015691"
+        stCamera:RadialDistortParam3="0.024793">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002741"
+        stCamera:VignetteModelParam1="-0.599687"
+        stCamera:VignetteModelParam2="0.878919"
+        stCamera:VignetteModelParam3="-1.638785"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000043"
+        stCamera:ResidualStandardDeviation="0.000034"
+        stCamera:RadialDistortParam1="-0.047535"
+        stCamera:RadialDistortParam2="0.017655"
+        stCamera:RadialDistortParam3="0.020078">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003249"
+        stCamera:VignetteModelParam1="-0.619522"
+        stCamera:VignetteModelParam2="1.036475"
+        stCamera:VignetteModelParam3="-1.948911"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.35"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000039"
+        stCamera:ResidualStandardDeviation="0.000031"
+        stCamera:RadialDistortParam1="-0.053989"
+        stCamera:RadialDistortParam2="0.019298"
+        stCamera:RadialDistortParam3="0.015823">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00361"
+        stCamera:VignetteModelParam1="-0.63554"
+        stCamera:VignetteModelParam2="1.178978"
+        stCamera:VignetteModelParam3="-2.243644"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.00003"
+        stCamera:ResidualStandardDeviation="0.000025"
+        stCamera:RadialDistortParam1="-0.0687"
+        stCamera:RadialDistortParam2="0.02337"
+        stCamera:RadialDistortParam3="0.003623">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.004699"
+         stCamera:VignetteModelParam1="-0.679263"
+         stCamera:VignetteModelParam2="1.618502"
+         stCamera:VignetteModelParam3="-3.210692">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.156666, 0.987600</rdf:li>
+          <rdf:li>0.312575, 0.951200</rdf:li>
+          <rdf:li>0.477670, 0.884200</rdf:li>
+          <rdf:li>0.628128, 0.799000</rdf:li>
+          <rdf:li>0.651058, 0.773900</rdf:li>
+          <rdf:li>0.675319, 0.730000</rdf:li>
+          <rdf:li>0.747796, 0.561000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000068"
+        stCamera:ResidualStandardDeviation="0.000045"
+        stCamera:RadialDistortParam1="0.004625"
+        stCamera:RadialDistortParam2="0.011016"
+        stCamera:RadialDistortParam3="0.04738">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001722"
+        stCamera:VignetteModelParam1="-0.638556"
+        stCamera:VignetteModelParam2="0.764143"
+        stCamera:VignetteModelParam3="-1.785862"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000063"
+        stCamera:ResidualStandardDeviation="0.000042"
+        stCamera:RadialDistortParam1="-0.005616"
+        stCamera:RadialDistortParam2="0.014522"
+        stCamera:RadialDistortParam3="0.041618">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001657"
+        stCamera:VignetteModelParam1="-0.639437"
+        stCamera:VignetteModelParam2="0.767004"
+        stCamera:VignetteModelParam3="-1.834927"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.00006"
+        stCamera:ResidualStandardDeviation="0.00004"
+        stCamera:RadialDistortParam1="-0.010884"
+        stCamera:RadialDistortParam2="0.016315"
+        stCamera:RadialDistortParam3="0.038499">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001607"
+        stCamera:VignetteModelParam1="-0.64032"
+        stCamera:VignetteModelParam2="0.781957"
+        stCamera:VignetteModelParam3="-1.891926"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000055"
+        stCamera:ResidualStandardDeviation="0.000037"
+        stCamera:RadialDistortParam1="-0.018949"
+        stCamera:RadialDistortParam2="0.019077"
+        stCamera:RadialDistortParam3="0.033448">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001677"
+        stCamera:VignetteModelParam1="-0.64825"
+        stCamera:VignetteModelParam2="0.832156"
+        stCamera:VignetteModelParam3="-2.006557"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000051"
+        stCamera:ResidualStandardDeviation="0.000035"
+        stCamera:RadialDistortParam1="-0.02715"
+        stCamera:RadialDistortParam2="0.021885"
+        stCamera:RadialDistortParam3="0.027905">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001557"
+        stCamera:VignetteModelParam1="-0.660265"
+        stCamera:VignetteModelParam2="0.92147"
+        stCamera:VignetteModelParam3="-2.201487"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000047"
+        stCamera:ResidualStandardDeviation="0.000041"
+        stCamera:RadialDistortParam1="-0.06216"
+        stCamera:RadialDistortParam2="0.00403"
+        stCamera:RadialDistortParam3="0.018229">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002953"
+        stCamera:VignetteModelParam1="-0.4018"
+        stCamera:VignetteModelParam2="0.578627"
+        stCamera:VignetteModelParam3="-0.935718"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.35"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000047"
+        stCamera:ResidualStandardDeviation="0.000032"
+        stCamera:RadialDistortParam1="-0.033755"
+        stCamera:RadialDistortParam2="0.024168"
+        stCamera:RadialDistortParam3="0.023026">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001572"
+        stCamera:VignetteModelParam1="-0.670757"
+        stCamera:VignetteModelParam2="1.018047"
+        stCamera:VignetteModelParam3="-2.416328"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000037"
+        stCamera:ResidualStandardDeviation="0.000027"
+        stCamera:RadialDistortParam1="-0.048894"
+        stCamera:RadialDistortParam2="0.029606"
+        stCamera:RadialDistortParam3="0.009603">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002349"
+        stCamera:VignetteModelParam1="-0.710511"
+        stCamera:VignetteModelParam2="1.400759"
+        stCamera:VignetteModelParam3="-3.252081"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000067"
+        stCamera:ResidualStandardDeviation="0.000037"
+        stCamera:RadialDistortParam1="0.036153"
+        stCamera:RadialDistortParam2="-0.020857"
+        stCamera:RadialDistortParam3="0.152929">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001922"
+        stCamera:VignetteModelParam1="-0.754001"
+        stCamera:VignetteModelParam2="0.854495"
+        stCamera:VignetteModelParam3="-3.600624"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000062"
+        stCamera:ResidualStandardDeviation="0.000035"
+        stCamera:RadialDistortParam1="0.024792"
+        stCamera:RadialDistortParam2="-0.013056"
+        stCamera:RadialDistortParam3="0.139316">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.001837"
+         stCamera:VignetteModelParam1="-0.753952"
+         stCamera:VignetteModelParam2="0.859249"
+         stCamera:VignetteModelParam3="-3.711017">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.112930, 0.991000</rdf:li>
+          <rdf:li>0.243090, 0.957600</rdf:li>
+          <rdf:li>0.461188, 0.848800</rdf:li>
+          <rdf:li>0.518778, 0.786900</rdf:li>
+          <rdf:li>0.627303, 0.623000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000059"
+        stCamera:ResidualStandardDeviation="0.000033"
+        stCamera:RadialDistortParam1="0.018926"
+        stCamera:RadialDistortParam2="-0.00909"
+        stCamera:RadialDistortParam3="0.132176">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001867"
+        stCamera:VignetteModelParam1="-0.759024"
+        stCamera:VignetteModelParam2="0.90482"
+        stCamera:VignetteModelParam3="-3.850082"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000055"
+        stCamera:ResidualStandardDeviation="0.000032"
+        stCamera:RadialDistortParam1="0.009907"
+        stCamera:RadialDistortParam2="-0.002974"
+        stCamera:RadialDistortParam3="0.120791">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001835"
+        stCamera:VignetteModelParam1="-0.757908"
+        stCamera:VignetteModelParam2="0.903163"
+        stCamera:VignetteModelParam3="-3.926764"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000051"
+        stCamera:ResidualStandardDeviation="0.00003"
+        stCamera:RadialDistortParam1="0.000684"
+        stCamera:RadialDistortParam2="0.003202"
+        stCamera:RadialDistortParam3="0.108824">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001796"
+        stCamera:VignetteModelParam1="-0.766883"
+        stCamera:VignetteModelParam2="0.957302"
+        stCamera:VignetteModelParam3="-4.084504"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.35"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000048"
+        stCamera:ResidualStandardDeviation="0.000028"
+        stCamera:RadialDistortParam1="-0.006788"
+        stCamera:RadialDistortParam2="0.008221"
+        stCamera:RadialDistortParam3="0.098583">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001772"
+        stCamera:VignetteModelParam1="-0.774944"
+        stCamera:VignetteModelParam2="1.021275"
+        stCamera:VignetteModelParam3="-4.265352"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000039"
+        stCamera:ResidualStandardDeviation="0.000024"
+        stCamera:RadialDistortParam1="-0.024112"
+        stCamera:RadialDistortParam2="0.020029"
+        stCamera:RadialDistortParam3="0.072049">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001685"
+        stCamera:VignetteModelParam1="-0.773511"
+        stCamera:VignetteModelParam2="1.045605"
+        stCamera:VignetteModelParam3="-4.478651"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000044"
+        stCamera:ResidualStandardDeviation="0.000038"
+        stCamera:RadialDistortParam1="-0.066905"
+        stCamera:RadialDistortParam2="0.00442"
+        stCamera:RadialDistortParam3="0.016423">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002953"
+        stCamera:VignetteModelParam1="-0.406745"
+        stCamera:VignetteModelParam2="0.628247"
+        stCamera:VignetteModelParam3="-1.048039"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000039"
+        stCamera:ResidualStandardDeviation="0.000034"
+        stCamera:RadialDistortParam1="-0.074132"
+        stCamera:RadialDistortParam2="0.005102"
+        stCamera:RadialDistortParam3="0.013332">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003374"
+        stCamera:VignetteModelParam1="-0.418835"
+        stCamera:VignetteModelParam2="0.731694"
+        stCamera:VignetteModelParam3="-1.265063"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000033"
+        stCamera:ResidualStandardDeviation="0.000031"
+        stCamera:RadialDistortParam1="-0.081438"
+        stCamera:RadialDistortParam2="0.00594"
+        stCamera:RadialDistortParam3="0.00965">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003775"
+         stCamera:VignetteModelParam1="-0.426225"
+         stCamera:VignetteModelParam2="0.832639"
+         stCamera:VignetteModelParam3="-1.518428">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.217962, 0.984800</rdf:li>
+          <rdf:li>0.358791, 0.958500</rdf:li>
+          <rdf:li>0.526716, 0.907600</rdf:li>
+          <rdf:li>0.683213, 0.840200</rdf:li>
+          <rdf:li>0.711021, 0.812700</rdf:li>
+          <rdf:li>0.744612, 0.761100</rdf:li>
+          <rdf:li>0.849743, 0.567000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.35"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000029"
+        stCamera:ResidualStandardDeviation="0.000028"
+        stCamera:RadialDistortParam1="-0.087291"
+        stCamera:RadialDistortParam2="0.006768"
+        stCamera:RadialDistortParam3="0.006162">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003979"
+         stCamera:VignetteModelParam1="-0.429256"
+         stCamera:VignetteModelParam2="0.907392"
+         stCamera:VignetteModelParam3="-1.736733">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.217890, 0.984800</rdf:li>
+          <rdf:li>0.358510, 0.958500</rdf:li>
+          <rdf:li>0.530078, 0.907000</rdf:li>
+          <rdf:li>0.674920, 0.841500</rdf:li>
+          <rdf:li>0.705693, 0.807800</rdf:li>
+          <rdf:li>0.749618, 0.732200</rdf:li>
+          <rdf:li>0.844278, 0.543000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000022"
+        stCamera:ResidualStandardDeviation="0.00002"
+        stCamera:RadialDistortParam1="-0.100602"
+        stCamera:RadialDistortParam2="0.0097"
+        stCamera:RadialDistortParam3="-0.004863">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.005317"
+         stCamera:VignetteModelParam1="-0.417157"
+         stCamera:VignetteModelParam2="1.019082"
+         stCamera:VignetteModelParam3="-2.303426">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.188797, 0.988900</rdf:li>
+          <rdf:li>0.382741, 0.953000</rdf:li>
+          <rdf:li>0.648194, 0.853000</rdf:li>
+          <rdf:li>0.681147, 0.808200</rdf:li>
+          <rdf:li>0.718315, 0.734700</rdf:li>
+          <rdf:li>0.830978, 0.469000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000061"
+        stCamera:ResidualStandardDeviation="0.000046"
+        stCamera:RadialDistortParam1="-0.016308"
+        stCamera:RadialDistortParam2="0.010147"
+        stCamera:RadialDistortParam3="0.036184">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001766"
+        stCamera:VignetteModelParam1="-0.564817"
+        stCamera:VignetteModelParam2="0.612962"
+        stCamera:VignetteModelParam3="-1.113562"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000055"
+        stCamera:ResidualStandardDeviation="0.000042"
+        stCamera:RadialDistortParam1="-0.026402"
+        stCamera:RadialDistortParam2="0.012525"
+        stCamera:RadialDistortParam3="0.031571">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002055"
+        stCamera:VignetteModelParam1="-0.575457"
+        stCamera:VignetteModelParam2="0.692704"
+        stCamera:VignetteModelParam3="-1.278244"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000054"
+        stCamera:ResidualStandardDeviation="0.000046"
+        stCamera:RadialDistortParam1="-0.052894"
+        stCamera:RadialDistortParam2="0.003375"
+        stCamera:RadialDistortParam3="0.021341">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.001441"
+         stCamera:VignetteModelParam1="-0.339329"
+         stCamera:VignetteModelParam2="0.098469"
+         stCamera:VignetteModelParam3="-0.168463">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.271066, 0.976700</rdf:li>
+          <rdf:li>0.553331, 0.899500</rdf:li>
+          <rdf:li>0.817725, 0.775000</rdf:li>
+          <rdf:li>0.842176, 0.752600</rdf:li>
+          <rdf:li>0.874695, 0.705000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000053"
+        stCamera:ResidualStandardDeviation="0.00004"
+        stCamera:RadialDistortParam1="-0.031585"
+        stCamera:RadialDistortParam2="0.013754"
+        stCamera:RadialDistortParam3="0.029024">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000179"
+        stCamera:VignetteModelParam1="-0.498703"
+        stCamera:VignetteModelParam2="-0.007062"
+        stCamera:VignetteModelParam3="0.021032"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000048"
+        stCamera:ResidualStandardDeviation="0.000037"
+        stCamera:RadialDistortParam1="-0.039508"
+        stCamera:RadialDistortParam2="0.015691"
+        stCamera:RadialDistortParam3="0.024793">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000234"
+        stCamera:VignetteModelParam1="-0.499219"
+        stCamera:VignetteModelParam2="-0.021511"
+        stCamera:VignetteModelParam3="0.033184"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000043"
+        stCamera:ResidualStandardDeviation="0.000034"
+        stCamera:RadialDistortParam1="-0.047535"
+        stCamera:RadialDistortParam2="0.017655"
+        stCamera:RadialDistortParam3="0.020078">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000324"
+        stCamera:VignetteModelParam1="-0.503929"
+        stCamera:VignetteModelParam2="-0.006167"
+        stCamera:VignetteModelParam3="0.000131"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.35"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000039"
+        stCamera:ResidualStandardDeviation="0.000031"
+        stCamera:RadialDistortParam1="-0.053989"
+        stCamera:RadialDistortParam2="0.019298"
+        stCamera:RadialDistortParam3="0.015823">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000362"
+        stCamera:VignetteModelParam1="-0.502266"
+        stCamera:VignetteModelParam2="-0.019359"
+        stCamera:VignetteModelParam3="0.00675"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.00003"
+        stCamera:ResidualStandardDeviation="0.000025"
+        stCamera:RadialDistortParam1="-0.0687"
+        stCamera:RadialDistortParam2="0.02337"
+        stCamera:RadialDistortParam3="0.003623">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000298"
+        stCamera:VignetteModelParam1="-0.502258"
+        stCamera:VignetteModelParam2="-0.018708"
+        stCamera:VignetteModelParam3="-0.033273"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000068"
+        stCamera:ResidualStandardDeviation="0.000045"
+        stCamera:RadialDistortParam1="0.004625"
+        stCamera:RadialDistortParam2="0.011016"
+        stCamera:RadialDistortParam3="0.04738">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000386"
+        stCamera:VignetteModelParam1="-0.592542"
+        stCamera:VignetteModelParam2="0.120718"
+        stCamera:VignetteModelParam3="-0.0965"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000063"
+        stCamera:ResidualStandardDeviation="0.000042"
+        stCamera:RadialDistortParam1="-0.005616"
+        stCamera:RadialDistortParam2="0.014522"
+        stCamera:RadialDistortParam3="0.041618">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000403"
+        stCamera:VignetteModelParam1="-0.589719"
+        stCamera:VignetteModelParam2="0.102547"
+        stCamera:VignetteModelParam3="-0.095562"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.00006"
+        stCamera:ResidualStandardDeviation="0.00004"
+        stCamera:RadialDistortParam1="-0.010884"
+        stCamera:RadialDistortParam2="0.016315"
+        stCamera:RadialDistortParam3="0.038499">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000468"
+        stCamera:VignetteModelParam1="-0.592567"
+        stCamera:VignetteModelParam2="0.110474"
+        stCamera:VignetteModelParam3="-0.111395"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000055"
+        stCamera:ResidualStandardDeviation="0.000037"
+        stCamera:RadialDistortParam1="-0.018949"
+        stCamera:RadialDistortParam2="0.019077"
+        stCamera:RadialDistortParam3="0.033448">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000479"
+        stCamera:VignetteModelParam1="-0.591933"
+        stCamera:VignetteModelParam2="0.098424"
+        stCamera:VignetteModelParam3="-0.107563"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000051"
+        stCamera:ResidualStandardDeviation="0.000035"
+        stCamera:RadialDistortParam1="-0.02715"
+        stCamera:RadialDistortParam2="0.021885"
+        stCamera:RadialDistortParam3="0.027905">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000501"
+        stCamera:VignetteModelParam1="-0.595309"
+        stCamera:VignetteModelParam2="0.102088"
+        stCamera:VignetteModelParam3="-0.122627"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000047"
+        stCamera:ResidualStandardDeviation="0.000041"
+        stCamera:RadialDistortParam1="-0.06216"
+        stCamera:RadialDistortParam2="0.00403"
+        stCamera:RadialDistortParam3="0.018229">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000681"
+        stCamera:VignetteModelParam1="-0.324721"
+        stCamera:VignetteModelParam2="0.011151"
+        stCamera:VignetteModelParam3="-0.075373"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.35"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000047"
+        stCamera:ResidualStandardDeviation="0.000032"
+        stCamera:RadialDistortParam1="-0.033755"
+        stCamera:RadialDistortParam2="0.024168"
+        stCamera:RadialDistortParam3="0.023026">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000483"
+        stCamera:VignetteModelParam1="-0.596018"
+        stCamera:VignetteModelParam2="0.097729"
+        stCamera:VignetteModelParam3="-0.126741"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000037"
+        stCamera:ResidualStandardDeviation="0.000027"
+        stCamera:RadialDistortParam1="-0.048894"
+        stCamera:RadialDistortParam2="0.029606"
+        stCamera:RadialDistortParam3="0.009603">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000414"
+        stCamera:VignetteModelParam1="-0.590477"
+        stCamera:VignetteModelParam2="0.056873"
+        stCamera:VignetteModelParam3="-0.09872"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000067"
+        stCamera:ResidualStandardDeviation="0.000037"
+        stCamera:RadialDistortParam1="0.036153"
+        stCamera:RadialDistortParam2="-0.020857"
+        stCamera:RadialDistortParam3="0.152929">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000732"
+        stCamera:VignetteModelParam1="-0.766235"
+        stCamera:VignetteModelParam2="0.423988"
+        stCamera:VignetteModelParam3="-0.672688"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000062"
+        stCamera:ResidualStandardDeviation="0.000035"
+        stCamera:RadialDistortParam1="0.024792"
+        stCamera:RadialDistortParam2="-0.013056"
+        stCamera:RadialDistortParam3="0.139316">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000631"
+        stCamera:VignetteModelParam1="-0.764238"
+        stCamera:VignetteModelParam2="0.400311"
+        stCamera:VignetteModelParam3="-0.666984"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000059"
+        stCamera:ResidualStandardDeviation="0.000033"
+        stCamera:RadialDistortParam1="0.018926"
+        stCamera:RadialDistortParam2="-0.00909"
+        stCamera:RadialDistortParam3="0.132176">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000631"
+        stCamera:VignetteModelParam1="-0.767744"
+        stCamera:VignetteModelParam2="0.411711"
+        stCamera:VignetteModelParam3="-0.692295"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000055"
+        stCamera:ResidualStandardDeviation="0.000032"
+        stCamera:RadialDistortParam1="0.009907"
+        stCamera:RadialDistortParam2="-0.002974"
+        stCamera:RadialDistortParam3="0.120791">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.0007"
+        stCamera:VignetteModelParam1="-0.766787"
+        stCamera:VignetteModelParam2="0.407425"
+        stCamera:VignetteModelParam3="-0.717442"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000051"
+        stCamera:ResidualStandardDeviation="0.00003"
+        stCamera:RadialDistortParam1="0.000684"
+        stCamera:RadialDistortParam2="0.003202"
+        stCamera:RadialDistortParam3="0.108824">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000576"
+        stCamera:VignetteModelParam1="-0.769215"
+        stCamera:VignetteModelParam2="0.419244"
+        stCamera:VignetteModelParam3="-0.783395"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.35"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000048"
+        stCamera:ResidualStandardDeviation="0.000028"
+        stCamera:RadialDistortParam1="-0.006788"
+        stCamera:RadialDistortParam2="0.008221"
+        stCamera:RadialDistortParam3="0.098583">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00065"
+        stCamera:VignetteModelParam1="-0.768601"
+        stCamera:VignetteModelParam2="0.387139"
+        stCamera:VignetteModelParam3="-0.725972"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000039"
+        stCamera:ResidualStandardDeviation="0.000024"
+        stCamera:RadialDistortParam1="-0.024112"
+        stCamera:RadialDistortParam2="0.020029"
+        stCamera:RadialDistortParam3="0.072049">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000566"
+        stCamera:VignetteModelParam1="-0.767566"
+        stCamera:VignetteModelParam2="0.366074"
+        stCamera:VignetteModelParam3="-0.729979"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000044"
+        stCamera:ResidualStandardDeviation="0.000038"
+        stCamera:RadialDistortParam1="-0.066905"
+        stCamera:RadialDistortParam2="0.00442"
+        stCamera:RadialDistortParam3="0.016423">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001024"
+        stCamera:VignetteModelParam1="-0.332792"
+        stCamera:VignetteModelParam2="0.053019"
+        stCamera:VignetteModelParam3="-0.134526"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000039"
+        stCamera:ResidualStandardDeviation="0.000034"
+        stCamera:RadialDistortParam1="-0.074132"
+        stCamera:RadialDistortParam2="0.005102"
+        stCamera:RadialDistortParam3="0.013332">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.001934"
+         stCamera:VignetteModelParam1="-0.356379"
+         stCamera:VignetteModelParam2="0.195015"
+         stCamera:VignetteModelParam3="-0.333216">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.344396, 0.961700</rdf:li>
+          <rdf:li>0.593730, 0.882300</rdf:li>
+          <rdf:li>0.802233, 0.772000</rdf:li>
+          <rdf:li>0.825443, 0.746000</rdf:li>
+          <rdf:li>0.856355, 0.691000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000033"
+        stCamera:ResidualStandardDeviation="0.000031"
+        stCamera:RadialDistortParam1="-0.081438"
+        stCamera:RadialDistortParam2="0.00594"
+        stCamera:RadialDistortParam3="0.00965">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003252"
+         stCamera:VignetteModelParam1="-0.394673"
+         stCamera:VignetteModelParam2="0.44068"
+         stCamera:VignetteModelParam3="-0.688295">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.347711, 0.961000</rdf:li>
+          <rdf:li>0.612342, 0.872600</rdf:li>
+          <rdf:li>0.779033, 0.781900</rdf:li>
+          <rdf:li>0.811985, 0.738500</rdf:li>
+          <rdf:li>0.849743, 0.662000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.35"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000029"
+        stCamera:ResidualStandardDeviation="0.000028"
+        stCamera:RadialDistortParam1="-0.087291"
+        stCamera:RadialDistortParam2="0.006768"
+        stCamera:RadialDistortParam3="0.006162">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.004759"
+         stCamera:VignetteModelParam1="-0.434178"
+         stCamera:VignetteModelParam2="0.710092"
+         stCamera:VignetteModelParam3="-1.092673">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.167724, 0.990500</rdf:li>
+          <rdf:li>0.373569, 0.955000</rdf:li>
+          <rdf:li>0.536800, 0.903500</rdf:li>
+          <rdf:li>0.665177, 0.846600</rdf:li>
+          <rdf:li>0.771688, 0.782000</rdf:li>
+          <rdf:li>0.800821, 0.730500</rdf:li>
+          <rdf:li>0.844278, 0.631000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.28"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000022"
+        stCamera:ResidualStandardDeviation="0.00002"
+        stCamera:RadialDistortParam1="-0.100602"
+        stCamera:RadialDistortParam2="0.0097"
+        stCamera:RadialDistortParam3="-0.004863">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.007641"
+         stCamera:VignetteModelParam1="-0.540248"
+         stCamera:VignetteModelParam2="1.530832"
+         stCamera:VignetteModelParam3="-2.456457">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.227917, 0.983500</rdf:li>
+          <rdf:li>0.391137, 0.950100</rdf:li>
+          <rdf:li>0.559717, 0.893700</rdf:li>
+          <rdf:li>0.714082, 0.819200</rdf:li>
+          <rdf:li>0.736049, 0.791100</rdf:li>
+          <rdf:li>0.761824, 0.733800</rdf:li>
+          <rdf:li>0.830978, 0.534000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000061"
+        stCamera:ResidualStandardDeviation="0.000046"
+        stCamera:RadialDistortParam1="-0.016308"
+        stCamera:RadialDistortParam2="0.010147"
+        stCamera:RadialDistortParam3="0.036184">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000179"
+        stCamera:VignetteModelParam1="-0.498625"
+        stCamera:VignetteModelParam2="0.007198"
+        stCamera:VignetteModelParam3="0.022133"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="123"
+       stCamera:Lens="24.0-35.0 mm f/2.0"
+       stCamera:LensInfo="240/10 350/10 20/10 20/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-35mm F2 DG HSM A015"
+       stCamera:ProfileName="Adobe (SIGMA 24-35mm F2 DG HSM A015, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000055"
+        stCamera:ResidualStandardDeviation="0.000042"
+        stCamera:RadialDistortParam1="-0.026402"
+        stCamera:RadialDistortParam2="0.012525"
+        stCamera:RadialDistortParam3="0.031571">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000215"
+        stCamera:VignetteModelParam1="-0.497336"
+        stCamera:VignetteModelParam2="-0.010777"
+        stCamera:VignetteModelParam3="0.031662"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

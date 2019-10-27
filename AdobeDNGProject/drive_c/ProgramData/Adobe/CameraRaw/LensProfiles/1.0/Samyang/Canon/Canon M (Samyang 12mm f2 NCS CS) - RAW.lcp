@@ -1,0 +1,74 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156380, 2014/05/21-23:38:37        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="12mm f/2"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Samyang 12mm f/2 NCS CS"
+       stCamera:ProfileName="Adobe (Samyang 12mm f/2 NCS CS, Canon EOS M)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4936"
+       stCamera:ImageLength="3296"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="1.422396">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.526213"
+       stCamera:FocalLengthY="0.526213"
+       stCamera:ImageXCenter="0.496876"
+       stCamera:ImageYCenter="0.501038"
+       stCamera:ResidualMeanError="0.00016"
+       stCamera:ResidualStandardDeviation="0.000134"
+       stCamera:RadialDistortParam1="-0.03706"
+       stCamera:RadialDistortParam2="0.004467"
+       stCamera:RadialDistortParam3="0.001437"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="12mm f/2"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Samyang 12mm f/2 NCS CS"
+       stCamera:ProfileName="Adobe (Samyang 12mm f/2 NCS CS, Canon EOS M)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4936"
+       stCamera:ImageLength="3296"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.526213"
+        stCamera:FocalLengthY="0.526213"
+        stCamera:ImageXCenter="0.496876"
+        stCamera:ImageYCenter="0.501038"
+        stCamera:RadialDistortParam1="-0.03706"
+        stCamera:RadialDistortParam2="0.004467"
+        stCamera:RadialDistortParam3="0.001437">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.526213"
+        stCamera:FocalLengthY="0.526213"
+        stCamera:VignetteModelParam1="-0.925742"
+        stCamera:VignetteModelParam2="0.658347"
+        stCamera:VignetteModelParam3="-0.212011"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

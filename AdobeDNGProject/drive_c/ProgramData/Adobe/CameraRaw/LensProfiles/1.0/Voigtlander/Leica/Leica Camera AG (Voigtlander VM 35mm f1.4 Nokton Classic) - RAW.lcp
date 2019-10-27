@@ -1,0 +1,74 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156380, 2014/05/21-23:38:37        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="35mm f/1.4"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Voigtlander VM 35mm f/1.4 Nokton Classic"
+       stCamera:ProfileName="Adobe (Voigtlander VM 35mm f/1.4 Nokton Classic)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6048"
+       stCamera:ImageLength="4024"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="2.453131">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="1.015817"
+       stCamera:FocalLengthY="1.015817"
+       stCamera:ImageXCenter="0.498879"
+       stCamera:ImageYCenter="0.497935"
+       stCamera:ResidualMeanError="0.000511"
+       stCamera:ResidualStandardDeviation="0.000876"
+       stCamera:RadialDistortParam1="-0.057398"
+       stCamera:RadialDistortParam2="-0.200822"
+       stCamera:RadialDistortParam3="0.382402"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="35mm f/1.4"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Voigtlander VM 35mm f/1.4 Nokton Classic"
+       stCamera:ProfileName="Adobe (Voigtlander VM 35mm f/1.4 Nokton Classic)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6048"
+       stCamera:ImageLength="4024"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.015896"
+        stCamera:FocalLengthY="1.015896"
+        stCamera:ImageXCenter="0.49891"
+        stCamera:ImageYCenter="0.49794"
+        stCamera:RadialDistortParam1="-0.057393"
+        stCamera:RadialDistortParam2="-0.200941"
+        stCamera:RadialDistortParam3="0.381574">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.015896"
+        stCamera:FocalLengthY="1.015896"
+        stCamera:VignetteModelParam1="-2.139279"
+        stCamera:VignetteModelParam2="2.951621"
+        stCamera:VignetteModelParam3="-3.155246"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

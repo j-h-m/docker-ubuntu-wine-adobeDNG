@@ -1,0 +1,1257 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.1-c055 1.136881, 2010/06/10-18:11:35        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SONY</stCamera:Make>
+      <stCamera:Model>NEX-5</stCamera:Model>
+      <stCamera:UniqueCameraModel>Sony NEX-5</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>E 16mm F2.8</stCamera:Lens>
+      <stCamera:LensInfo>16/1 16/1 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NEX-5</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Sony E 16mm F2.8</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Sony E 16mm F2.8)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4608</stCamera:ImageWidth>
+      <stCamera:ImageLength>3072</stCamera:ImageLength>
+      <stCamera:FocalLength>16</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.234392</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.672529</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.672529</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.504806</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.496826</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.000101</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000074</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.080308</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.09723</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.005067</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.672568</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.672568</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.504794</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.496826</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000073</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000063</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000893</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.000808</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.000122</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.000325</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.672568</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.672568</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.504794</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.496826</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000068</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000064</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.080468</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.097069</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.004953</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.672568</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.672568</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.504794</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.496826</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000075</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000069</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999135</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.001621</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.000551</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.000157</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SONY</stCamera:Make>
+      <stCamera:Model>NEX-5</stCamera:Model>
+      <stCamera:UniqueCameraModel>Sony NEX-5</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>E 16mm F2.8</stCamera:Lens>
+      <stCamera:LensInfo>16/1 16/1 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NEX-5</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Sony E 16mm F2.8</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Sony E 16mm F2.8)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4608</stCamera:ImageWidth>
+      <stCamera:ImageLength>3072</stCamera:ImageLength>
+      <stCamera:FocalLength>16</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.508393</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.671816</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.671816</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.505454</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.496782</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.000084</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000058</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.073699</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.091716</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.002469</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.671851</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.671851</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.505448</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.496782</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000049</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000043</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000867</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.000885</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.000357</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.000547</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.671851</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.671851</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.505448</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.496782</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000045</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000042</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.073877</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.09167</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.00245</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.671851</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.671851</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.505448</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.496782</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000058</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000047</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999173</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.001748</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.000038</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.000572</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SONY</stCamera:Make>
+      <stCamera:Model>NEX-5</stCamera:Model>
+      <stCamera:UniqueCameraModel>Sony NEX-5</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>E 16mm F2.8</stCamera:Lens>
+      <stCamera:LensInfo>16/1 16/1 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NEX-5</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Sony E 16mm F2.8</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Sony E 16mm F2.8)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4608</stCamera:ImageWidth>
+      <stCamera:ImageLength>3072</stCamera:ImageLength>
+      <stCamera:FocalLength>16</stCamera:FocalLength>
+      <stCamera:FocusDistance>3.274567</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.65722</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.65722</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.504884</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.497945</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.0009</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.001623</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.117202</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.173107</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.058448</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.657265</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.657265</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.50486</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.49795</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000897</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.001628</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000809</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.001052</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.000833</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.000728</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.657265</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.657265</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.50486</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.49795</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000896</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.00163</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.117446</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.173307</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.058656</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.657265</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.657265</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.50486</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.49795</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000899</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.001633</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999242</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.00182</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.00077</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.001026</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SONY</stCamera:Make>
+      <stCamera:Model>NEX-5</stCamera:Model>
+      <stCamera:UniqueCameraModel>Sony NEX-5</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>E 16mm F2.8</stCamera:Lens>
+      <stCamera:LensInfo>16/1 16/1 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NEX-5</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Sony E 16mm F2.8</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Sony E 16mm F2.8)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4608</stCamera:ImageWidth>
+      <stCamera:ImageLength>3072</stCamera:ImageLength>
+      <stCamera:FocalLength>16</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.25</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.672485</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.672485</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.50487</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.496821</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.07826</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.095319</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.002427</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.672485</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.672485</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.896973</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2.34017</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2.434967</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SONY</stCamera:Make>
+      <stCamera:Model>NEX-5</stCamera:Model>
+      <stCamera:UniqueCameraModel>Sony NEX-5</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>E 16mm F2.8</stCamera:Lens>
+      <stCamera:LensInfo>16/1 16/1 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NEX-5</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Sony E 16mm F2.8</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Sony E 16mm F2.8)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4608</stCamera:ImageWidth>
+      <stCamera:ImageLength>3072</stCamera:ImageLength>
+      <stCamera:FocalLength>16</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.25</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.672485</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.672485</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.50487</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.496821</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.07826</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.095319</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.002427</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.672485</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.672485</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.686795</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2.351273</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2.53171</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SONY</stCamera:Make>
+      <stCamera:Model>NEX-5</stCamera:Model>
+      <stCamera:UniqueCameraModel>Sony NEX-5</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>E 16mm F2.8</stCamera:Lens>
+      <stCamera:LensInfo>16/1 16/1 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NEX-5</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Sony E 16mm F2.8</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Sony E 16mm F2.8)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4608</stCamera:ImageWidth>
+      <stCamera:ImageLength>3072</stCamera:ImageLength>
+      <stCamera:FocalLength>16</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.25</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.672485</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.672485</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.50487</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.496821</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.07826</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.095319</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.002427</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.672485</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.672485</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.785969</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2.282801</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2.325845</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SONY</stCamera:Make>
+      <stCamera:Model>NEX-5</stCamera:Model>
+      <stCamera:UniqueCameraModel>Sony NEX-5</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>E 16mm F2.8</stCamera:Lens>
+      <stCamera:LensInfo>16/1 16/1 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NEX-5</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Sony E 16mm F2.8</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Sony E 16mm F2.8)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4608</stCamera:ImageWidth>
+      <stCamera:ImageLength>3072</stCamera:ImageLength>
+      <stCamera:FocalLength>16</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.25</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.672485</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.672485</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.50487</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.496821</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.07826</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.095319</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.002427</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.672485</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.672485</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.825806</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2.405546</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2.419234</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SONY</stCamera:Make>
+      <stCamera:Model>NEX-5</stCamera:Model>
+      <stCamera:UniqueCameraModel>Sony NEX-5</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>E 16mm F2.8</stCamera:Lens>
+      <stCamera:LensInfo>16/1 16/1 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NEX-5</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Sony E 16mm F2.8</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Sony E 16mm F2.8)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4608</stCamera:ImageWidth>
+      <stCamera:ImageLength>3072</stCamera:ImageLength>
+      <stCamera:FocalLength>16</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.25</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.672485</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.672485</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.50487</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.496821</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.07826</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.095319</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.002427</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.672485</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.672485</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.858679</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2.472162</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2.459281</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SONY</stCamera:Make>
+      <stCamera:Model>NEX-5</stCamera:Model>
+      <stCamera:UniqueCameraModel>Sony NEX-5</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>E 16mm F2.8</stCamera:Lens>
+      <stCamera:LensInfo>16/1 16/1 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NEX-5</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Sony E 16mm F2.8</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Sony E 16mm F2.8)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4608</stCamera:ImageWidth>
+      <stCamera:ImageLength>3072</stCamera:ImageLength>
+      <stCamera:FocalLength>16</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.25</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.672485</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.672485</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.50487</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.496821</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.07826</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.095319</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.002427</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.672485</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.672485</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.867984</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2.497007</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2.476075</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SONY</stCamera:Make>
+      <stCamera:Model>NEX-5</stCamera:Model>
+      <stCamera:UniqueCameraModel>Sony NEX-5</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>E 16mm F2.8</stCamera:Lens>
+      <stCamera:LensInfo>16/1 16/1 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NEX-5</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Sony E 16mm F2.8</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Sony E 16mm F2.8)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4608</stCamera:ImageWidth>
+      <stCamera:ImageLength>3072</stCamera:ImageLength>
+      <stCamera:FocalLength>16</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.5</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.671861</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.671861</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.505439</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.496783</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.073926</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.091712</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.002397</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.671861</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.671861</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.986986</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2.094552</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-1.987392</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SONY</stCamera:Make>
+      <stCamera:Model>NEX-5</stCamera:Model>
+      <stCamera:UniqueCameraModel>Sony NEX-5</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>E 16mm F2.8</stCamera:Lens>
+      <stCamera:LensInfo>16/1 16/1 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NEX-5</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Sony E 16mm F2.8</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Sony E 16mm F2.8)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4608</stCamera:ImageWidth>
+      <stCamera:ImageLength>3072</stCamera:ImageLength>
+      <stCamera:FocalLength>16</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.5</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.671861</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.671861</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.505439</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.496783</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.073926</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.091712</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.002397</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.671861</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.671861</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.693267</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2.392253</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2.579484</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SONY</stCamera:Make>
+      <stCamera:Model>NEX-5</stCamera:Model>
+      <stCamera:UniqueCameraModel>Sony NEX-5</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>E 16mm F2.8</stCamera:Lens>
+      <stCamera:LensInfo>16/1 16/1 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NEX-5</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Sony E 16mm F2.8</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Sony E 16mm F2.8)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4608</stCamera:ImageWidth>
+      <stCamera:ImageLength>3072</stCamera:ImageLength>
+      <stCamera:FocalLength>16</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.5</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.671861</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.671861</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.505439</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.496783</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.073926</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.091712</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.002397</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.671861</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.671861</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.789324</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2.324155</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2.359329</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SONY</stCamera:Make>
+      <stCamera:Model>NEX-5</stCamera:Model>
+      <stCamera:UniqueCameraModel>Sony NEX-5</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>E 16mm F2.8</stCamera:Lens>
+      <stCamera:LensInfo>16/1 16/1 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NEX-5</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Sony E 16mm F2.8</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Sony E 16mm F2.8)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4608</stCamera:ImageWidth>
+      <stCamera:ImageLength>3072</stCamera:ImageLength>
+      <stCamera:FocalLength>16</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.5</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.671861</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.671861</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.505439</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.496783</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.073926</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.091712</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.002397</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.671861</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.671861</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.836207</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2.436307</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2.439924</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SONY</stCamera:Make>
+      <stCamera:Model>NEX-5</stCamera:Model>
+      <stCamera:UniqueCameraModel>Sony NEX-5</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>E 16mm F2.8</stCamera:Lens>
+      <stCamera:LensInfo>16/1 16/1 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NEX-5</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Sony E 16mm F2.8</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Sony E 16mm F2.8)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4608</stCamera:ImageWidth>
+      <stCamera:ImageLength>3072</stCamera:ImageLength>
+      <stCamera:FocalLength>16</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.5</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.671861</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.671861</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.505439</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.496783</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.073926</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.091712</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.002397</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.671861</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.671861</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.836815</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2.418804</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2.408534</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SONY</stCamera:Make>
+      <stCamera:Model>NEX-5</stCamera:Model>
+      <stCamera:UniqueCameraModel>Sony NEX-5</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>E 16mm F2.8</stCamera:Lens>
+      <stCamera:LensInfo>16/1 16/1 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NEX-5</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Sony E 16mm F2.8</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Sony E 16mm F2.8)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4608</stCamera:ImageWidth>
+      <stCamera:ImageLength>3072</stCamera:ImageLength>
+      <stCamera:FocalLength>16</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.5</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.671861</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.671861</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.505439</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.496783</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.073926</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.091712</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.002397</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.671861</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.671861</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.847466</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2.424901</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2.398462</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SONY</stCamera:Make>
+      <stCamera:Model>NEX-5</stCamera:Model>
+      <stCamera:UniqueCameraModel>Sony NEX-5</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>E 16mm F2.8</stCamera:Lens>
+      <stCamera:LensInfo>16/1 16/1 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NEX-5</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Sony E 16mm F2.8</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Sony E 16mm F2.8)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4608</stCamera:ImageWidth>
+      <stCamera:ImageLength>3072</stCamera:ImageLength>
+      <stCamera:FocalLength>16</stCamera:FocalLength>
+      <stCamera:FocusDistance>1</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.663363</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.663363</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.505106</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.497462</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.108177</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.157519</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.046532</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.663363</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.663363</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.943279</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>1.909635</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-1.765426</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SONY</stCamera:Make>
+      <stCamera:Model>NEX-5</stCamera:Model>
+      <stCamera:UniqueCameraModel>Sony NEX-5</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>E 16mm F2.8</stCamera:Lens>
+      <stCamera:LensInfo>16/1 16/1 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NEX-5</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Sony E 16mm F2.8</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Sony E 16mm F2.8)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4608</stCamera:ImageWidth>
+      <stCamera:ImageLength>3072</stCamera:ImageLength>
+      <stCamera:FocalLength>16</stCamera:FocalLength>
+      <stCamera:FocusDistance>1</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.663363</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.663363</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.505106</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.497462</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.108177</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.157519</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.046532</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.663363</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.663363</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.677581</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2.313871</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2.441453</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SONY</stCamera:Make>
+      <stCamera:Model>NEX-5</stCamera:Model>
+      <stCamera:UniqueCameraModel>Sony NEX-5</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>E 16mm F2.8</stCamera:Lens>
+      <stCamera:LensInfo>16/1 16/1 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NEX-5</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Sony E 16mm F2.8</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Sony E 16mm F2.8)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4608</stCamera:ImageWidth>
+      <stCamera:ImageLength>3072</stCamera:ImageLength>
+      <stCamera:FocalLength>16</stCamera:FocalLength>
+      <stCamera:FocusDistance>1</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.663363</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.663363</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.505106</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.497462</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.108177</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.157519</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.046532</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.663363</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.663363</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.822454</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2.323754</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2.254657</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SONY</stCamera:Make>
+      <stCamera:Model>NEX-5</stCamera:Model>
+      <stCamera:UniqueCameraModel>Sony NEX-5</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>E 16mm F2.8</stCamera:Lens>
+      <stCamera:LensInfo>16/1 16/1 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NEX-5</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Sony E 16mm F2.8</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Sony E 16mm F2.8)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4608</stCamera:ImageWidth>
+      <stCamera:ImageLength>3072</stCamera:ImageLength>
+      <stCamera:FocalLength>16</stCamera:FocalLength>
+      <stCamera:FocusDistance>1</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.663363</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.663363</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.505106</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.497462</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.108177</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.157519</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.046532</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.663363</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.663363</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.81626</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2.320226</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2.259907</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SONY</stCamera:Make>
+      <stCamera:Model>NEX-5</stCamera:Model>
+      <stCamera:UniqueCameraModel>Sony NEX-5</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>E 16mm F2.8</stCamera:Lens>
+      <stCamera:LensInfo>16/1 16/1 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NEX-5</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Sony E 16mm F2.8</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Sony E 16mm F2.8)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4608</stCamera:ImageWidth>
+      <stCamera:ImageLength>3072</stCamera:ImageLength>
+      <stCamera:FocalLength>16</stCamera:FocalLength>
+      <stCamera:FocusDistance>1</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.663363</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.663363</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.505106</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.497462</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.108177</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.157519</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.046532</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.663363</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.663363</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.827955</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2.328663</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2.251091</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SONY</stCamera:Make>
+      <stCamera:Model>NEX-5</stCamera:Model>
+      <stCamera:UniqueCameraModel>Sony NEX-5</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>E 16mm F2.8</stCamera:Lens>
+      <stCamera:LensInfo>16/1 16/1 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NEX-5</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Sony E 16mm F2.8</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Sony E 16mm F2.8)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4608</stCamera:ImageWidth>
+      <stCamera:ImageLength>3072</stCamera:ImageLength>
+      <stCamera:FocalLength>16</stCamera:FocalLength>
+      <stCamera:FocusDistance>1</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.663363</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.663363</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.505106</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.497462</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.108177</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.157519</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.046532</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.663363</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.663363</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.824882</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2.281724</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2.19661</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SONY</stCamera:Make>
+      <stCamera:Model>NEX-5</stCamera:Model>
+      <stCamera:UniqueCameraModel>Sony NEX-5</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>E 16mm F2.8</stCamera:Lens>
+      <stCamera:LensInfo>16/1 16/1 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NEX-5</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Sony E 16mm F2.8</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Sony E 16mm F2.8)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4608</stCamera:ImageWidth>
+      <stCamera:ImageLength>3072</stCamera:ImageLength>
+      <stCamera:FocalLength>16</stCamera:FocalLength>
+      <stCamera:FocusDistance>2</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.658973</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.658973</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.504929</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.497813</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.115163</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.169555</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.055772</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.658973</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.658973</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.917095</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>1.86248</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-1.724319</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SONY</stCamera:Make>
+      <stCamera:Model>NEX-5</stCamera:Model>
+      <stCamera:UniqueCameraModel>Sony NEX-5</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>E 16mm F2.8</stCamera:Lens>
+      <stCamera:LensInfo>16/1 16/1 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NEX-5</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Sony E 16mm F2.8</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Sony E 16mm F2.8)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4608</stCamera:ImageWidth>
+      <stCamera:ImageLength>3072</stCamera:ImageLength>
+      <stCamera:FocalLength>16</stCamera:FocalLength>
+      <stCamera:FocusDistance>2</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.658973</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.658973</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.504929</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.497813</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.115163</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.169555</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.055772</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.658973</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.658973</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.737499</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2.415711</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2.476573</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SONY</stCamera:Make>
+      <stCamera:Model>NEX-5</stCamera:Model>
+      <stCamera:UniqueCameraModel>Sony NEX-5</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>E 16mm F2.8</stCamera:Lens>
+      <stCamera:LensInfo>16/1 16/1 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NEX-5</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Sony E 16mm F2.8</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Sony E 16mm F2.8)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4608</stCamera:ImageWidth>
+      <stCamera:ImageLength>3072</stCamera:ImageLength>
+      <stCamera:FocalLength>16</stCamera:FocalLength>
+      <stCamera:FocusDistance>2</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.658973</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.658973</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.504929</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.497813</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.115163</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.169555</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.055772</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.658973</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.658973</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.819256</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2.272552</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2.163005</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SONY</stCamera:Make>
+      <stCamera:Model>NEX-5</stCamera:Model>
+      <stCamera:UniqueCameraModel>Sony NEX-5</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>E 16mm F2.8</stCamera:Lens>
+      <stCamera:LensInfo>16/1 16/1 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NEX-5</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Sony E 16mm F2.8</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Sony E 16mm F2.8)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4608</stCamera:ImageWidth>
+      <stCamera:ImageLength>3072</stCamera:ImageLength>
+      <stCamera:FocalLength>16</stCamera:FocalLength>
+      <stCamera:FocusDistance>2</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.658973</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.658973</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.504929</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.497813</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.115163</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.169555</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.055772</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.658973</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.658973</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.804446</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2.237843</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2.138755</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SONY</stCamera:Make>
+      <stCamera:Model>NEX-5</stCamera:Model>
+      <stCamera:UniqueCameraModel>Sony NEX-5</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>E 16mm F2.8</stCamera:Lens>
+      <stCamera:LensInfo>16/1 16/1 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NEX-5</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Sony E 16mm F2.8</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Sony E 16mm F2.8)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4608</stCamera:ImageWidth>
+      <stCamera:ImageLength>3072</stCamera:ImageLength>
+      <stCamera:FocalLength>16</stCamera:FocalLength>
+      <stCamera:FocusDistance>2</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.658973</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.658973</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.504929</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.497813</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.115163</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.169555</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.055772</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.658973</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.658973</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.823569</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2.26711</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2.155589</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SONY</stCamera:Make>
+      <stCamera:Model>NEX-5</stCamera:Model>
+      <stCamera:UniqueCameraModel>Sony NEX-5</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>E 16mm F2.8</stCamera:Lens>
+      <stCamera:LensInfo>16/1 16/1 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NEX-5</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Sony E 16mm F2.8</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Sony E 16mm F2.8)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4608</stCamera:ImageWidth>
+      <stCamera:ImageLength>3072</stCamera:ImageLength>
+      <stCamera:FocalLength>16</stCamera:FocalLength>
+      <stCamera:FocusDistance>2</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.658973</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.658973</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.504929</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.497813</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.115163</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.169555</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.055772</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.658973</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.658973</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.80579</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2.206572</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2.103207</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SONY</stCamera:Make>
+      <stCamera:Model>NEX-5</stCamera:Model>
+      <stCamera:UniqueCameraModel>Sony NEX-5</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>E 16mm F2.8</stCamera:Lens>
+      <stCamera:LensInfo>16/1 16/1 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NEX-5</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Sony E 16mm F2.8</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Sony E 16mm F2.8)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4608</stCamera:ImageWidth>
+      <stCamera:ImageLength>3072</stCamera:ImageLength>
+      <stCamera:FocalLength>16</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.657265</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.657265</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.50486</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.49795</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.117446</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.173307</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.058656</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.657265</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.657265</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.953079</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>1.933766</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-1.756084</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SONY</stCamera:Make>
+      <stCamera:Model>NEX-5</stCamera:Model>
+      <stCamera:UniqueCameraModel>Sony NEX-5</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>E 16mm F2.8</stCamera:Lens>
+      <stCamera:LensInfo>16/1 16/1 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NEX-5</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Sony E 16mm F2.8</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Sony E 16mm F2.8)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4608</stCamera:ImageWidth>
+      <stCamera:ImageLength>3072</stCamera:ImageLength>
+      <stCamera:FocalLength>16</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.657265</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.657265</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.50486</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.49795</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.117446</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.173307</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.058656</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.657265</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.657265</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.699022</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2.316415</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2.384005</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SONY</stCamera:Make>
+      <stCamera:Model>NEX-5</stCamera:Model>
+      <stCamera:UniqueCameraModel>Sony NEX-5</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>E 16mm F2.8</stCamera:Lens>
+      <stCamera:LensInfo>16/1 16/1 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NEX-5</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Sony E 16mm F2.8</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Sony E 16mm F2.8)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4608</stCamera:ImageWidth>
+      <stCamera:ImageLength>3072</stCamera:ImageLength>
+      <stCamera:FocalLength>16</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.657265</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.657265</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.50486</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.49795</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.117446</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.173307</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.058656</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.657265</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.657265</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.770003</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2.156439</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2.070779</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SONY</stCamera:Make>
+      <stCamera:Model>NEX-5</stCamera:Model>
+      <stCamera:UniqueCameraModel>Sony NEX-5</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>E 16mm F2.8</stCamera:Lens>
+      <stCamera:LensInfo>16/1 16/1 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NEX-5</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Sony E 16mm F2.8</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Sony E 16mm F2.8)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4608</stCamera:ImageWidth>
+      <stCamera:ImageLength>3072</stCamera:ImageLength>
+      <stCamera:FocalLength>16</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.657265</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.657265</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.50486</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.49795</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.117446</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.173307</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.058656</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.657265</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.657265</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.822861</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2.273261</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2.152883</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SONY</stCamera:Make>
+      <stCamera:Model>NEX-5</stCamera:Model>
+      <stCamera:UniqueCameraModel>Sony NEX-5</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>E 16mm F2.8</stCamera:Lens>
+      <stCamera:LensInfo>16/1 16/1 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NEX-5</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Sony E 16mm F2.8</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Sony E 16mm F2.8)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4608</stCamera:ImageWidth>
+      <stCamera:ImageLength>3072</stCamera:ImageLength>
+      <stCamera:FocalLength>16</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.657265</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.657265</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.50486</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.49795</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.117446</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.173307</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.058656</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.657265</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.657265</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.810246</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2.233059</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2.122405</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SONY</stCamera:Make>
+      <stCamera:Model>NEX-5</stCamera:Model>
+      <stCamera:UniqueCameraModel>Sony NEX-5</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>E 16mm F2.8</stCamera:Lens>
+      <stCamera:LensInfo>16/1 16/1 28/10 28/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>NEX-5</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Sony E 16mm F2.8</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Sony E 16mm F2.8)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.5</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4608</stCamera:ImageWidth>
+      <stCamera:ImageLength>3072</stCamera:ImageLength>
+      <stCamera:FocalLength>16</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.657265</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.657265</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.50486</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.49795</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.117446</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.173307</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.058656</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.657265</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.657265</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.820706</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2.235434</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2.112877</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

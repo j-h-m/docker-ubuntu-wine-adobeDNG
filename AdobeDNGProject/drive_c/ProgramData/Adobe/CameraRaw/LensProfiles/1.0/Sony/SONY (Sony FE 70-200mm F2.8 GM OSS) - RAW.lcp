@@ -1,0 +1,944 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156380, 2014/05/21-23:38:37        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="FE 70-200mm F2.8 GM OSS"
+       stCamera:LensInfo="700/10 2000/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony FE 70-200mm F2.8 GM OSS"
+       stCamera:ProfileName="Adobe (Sony FE 70-200mm F2.8 GM OSS)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:ScaleFactor="1.006675"
+       stCamera:RadialDistortParam1="-0.226261"
+       stCamera:RadialDistortParam2="-0.014913"
+       stCamera:RadialDistortParam3="0.406419"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="FE 70-200mm F2.8 GM OSS"
+       stCamera:LensInfo="700/10 2000/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony FE 70-200mm F2.8 GM OSS"
+       stCamera:ProfileName="Adobe (Sony FE 70-200mm F2.8 GM OSS)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="97"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:ScaleFactor="1.001072"
+       stCamera:RadialDistortParam1="-0.068082"
+       stCamera:RadialDistortParam2="-0.393649"
+       stCamera:RadialDistortParam3="7.145348"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="FE 70-200mm F2.8 GM OSS"
+       stCamera:LensInfo="700/10 2000/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony FE 70-200mm F2.8 GM OSS"
+       stCamera:ProfileName="Adobe (Sony FE 70-200mm F2.8 GM OSS)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:ScaleFactor="0.989059"
+       stCamera:RadialDistortParam1="0.415405"
+       stCamera:RadialDistortParam2="-0.123921"
+       stCamera:RadialDistortParam3="23.532463"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="FE 70-200mm F2.8 GM OSS"
+       stCamera:LensInfo="700/10 2000/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony FE 70-200mm F2.8 GM OSS"
+       stCamera:ProfileName="Adobe (Sony FE 70-200mm F2.8 GM OSS)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:ScaleFactor="0.973401"
+       stCamera:RadialDistortParam1="2.193537"
+       stCamera:RadialDistortParam2="11.034791"
+       stCamera:RadialDistortParam3="3.335466"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="FE 70-200mm F2.8 GM OSS"
+       stCamera:LensInfo="700/10 2000/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony FE 70-200mm F2.8 GM OSS"
+       stCamera:ProfileName="Adobe (Sony FE 70-200mm F2.8 GM OSS)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.006675"
+        stCamera:RadialDistortParam1="-0.226261"
+        stCamera:RadialDistortParam2="-0.014913"
+        stCamera:RadialDistortParam3="0.406419">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-8.308536"
+        stCamera:VignetteModelParam2="72.368206"
+        stCamera:VignetteModelParam3="-327.234533"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="FE 70-200mm F2.8 GM OSS"
+       stCamera:LensInfo="700/10 2000/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony FE 70-200mm F2.8 GM OSS"
+       stCamera:ProfileName="Adobe (Sony FE 70-200mm F2.8 GM OSS)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.006675"
+        stCamera:RadialDistortParam1="-0.226261"
+        stCamera:RadialDistortParam2="-0.014913"
+        stCamera:RadialDistortParam3="0.406419">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-1.949774"
+        stCamera:VignetteModelParam2="37.522697"
+        stCamera:VignetteModelParam3="-512.167922"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="FE 70-200mm F2.8 GM OSS"
+       stCamera:LensInfo="700/10 2000/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony FE 70-200mm F2.8 GM OSS"
+       stCamera:ProfileName="Adobe (Sony FE 70-200mm F2.8 GM OSS)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.006675"
+        stCamera:RadialDistortParam1="-0.226261"
+        stCamera:RadialDistortParam2="-0.014913"
+        stCamera:RadialDistortParam3="0.406419">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-1.997475"
+        stCamera:VignetteModelParam2="9.331411"
+        stCamera:VignetteModelParam3="-55.145355"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="FE 70-200mm F2.8 GM OSS"
+       stCamera:LensInfo="700/10 2000/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony FE 70-200mm F2.8 GM OSS"
+       stCamera:ProfileName="Adobe (Sony FE 70-200mm F2.8 GM OSS)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.006675"
+        stCamera:RadialDistortParam1="-0.226261"
+        stCamera:RadialDistortParam2="-0.014913"
+        stCamera:RadialDistortParam3="0.406419">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-2.036036"
+        stCamera:VignetteModelParam2="9.141377"
+        stCamera:VignetteModelParam3="-44.176269"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="FE 70-200mm F2.8 GM OSS"
+       stCamera:LensInfo="700/10 2000/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony FE 70-200mm F2.8 GM OSS"
+       stCamera:ProfileName="Adobe (Sony FE 70-200mm F2.8 GM OSS)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.006675"
+        stCamera:RadialDistortParam1="-0.226261"
+        stCamera:RadialDistortParam2="-0.014913"
+        stCamera:RadialDistortParam3="0.406419">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-1.931014"
+        stCamera:VignetteModelParam2="6.925291"
+        stCamera:VignetteModelParam3="-29.485224"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="FE 70-200mm F2.8 GM OSS"
+       stCamera:LensInfo="700/10 2000/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony FE 70-200mm F2.8 GM OSS"
+       stCamera:ProfileName="Adobe (Sony FE 70-200mm F2.8 GM OSS)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.006675"
+        stCamera:RadialDistortParam1="-0.226261"
+        stCamera:RadialDistortParam2="-0.014913"
+        stCamera:RadialDistortParam3="0.406419">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-1.776984"
+        stCamera:VignetteModelParam2="3.784821"
+        stCamera:VignetteModelParam3="-11.369399"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="FE 70-200mm F2.8 GM OSS"
+       stCamera:LensInfo="700/10 2000/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony FE 70-200mm F2.8 GM OSS"
+       stCamera:ProfileName="Adobe (Sony FE 70-200mm F2.8 GM OSS)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.006675"
+        stCamera:RadialDistortParam1="-0.226261"
+        stCamera:RadialDistortParam2="-0.014913"
+        stCamera:RadialDistortParam3="0.406419">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-1.800023"
+        stCamera:VignetteModelParam2="3.765193"
+        stCamera:VignetteModelParam3="-7.523872"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="FE 70-200mm F2.8 GM OSS"
+       stCamera:LensInfo="700/10 2000/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony FE 70-200mm F2.8 GM OSS"
+       stCamera:ProfileName="Adobe (Sony FE 70-200mm F2.8 GM OSS)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="97"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.001072"
+        stCamera:RadialDistortParam1="-0.068082"
+        stCamera:RadialDistortParam2="-0.393649"
+        stCamera:RadialDistortParam3="7.145348">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-17.578928"
+        stCamera:VignetteModelParam2="385.579011"
+        stCamera:VignetteModelParam3="-3875.345616"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="FE 70-200mm F2.8 GM OSS"
+       stCamera:LensInfo="700/10 2000/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony FE 70-200mm F2.8 GM OSS"
+       stCamera:ProfileName="Adobe (Sony FE 70-200mm F2.8 GM OSS)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="97"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.001072"
+        stCamera:RadialDistortParam1="-0.068082"
+        stCamera:RadialDistortParam2="-0.393649"
+        stCamera:RadialDistortParam3="7.145348">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-2.757092"
+        stCamera:VignetteModelParam2="4.832398"
+        stCamera:VignetteModelParam3="-2239.18141"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="FE 70-200mm F2.8 GM OSS"
+       stCamera:LensInfo="700/10 2000/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony FE 70-200mm F2.8 GM OSS"
+       stCamera:ProfileName="Adobe (Sony FE 70-200mm F2.8 GM OSS)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="97"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.001072"
+        stCamera:RadialDistortParam1="-0.068082"
+        stCamera:RadialDistortParam2="-0.393649"
+        stCamera:RadialDistortParam3="7.145348">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-3.703996"
+        stCamera:VignetteModelParam2="231.592082"
+        stCamera:VignetteModelParam3="-5269.691811"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="FE 70-200mm F2.8 GM OSS"
+       stCamera:LensInfo="700/10 2000/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony FE 70-200mm F2.8 GM OSS"
+       stCamera:ProfileName="Adobe (Sony FE 70-200mm F2.8 GM OSS)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="97"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.001072"
+        stCamera:RadialDistortParam1="-0.068082"
+        stCamera:RadialDistortParam2="-0.393649"
+        stCamera:RadialDistortParam3="7.145348">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-6.077416"
+        stCamera:VignetteModelParam2="255.707573"
+        stCamera:VignetteModelParam3="-4892.441744"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="FE 70-200mm F2.8 GM OSS"
+       stCamera:LensInfo="700/10 2000/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony FE 70-200mm F2.8 GM OSS"
+       stCamera:ProfileName="Adobe (Sony FE 70-200mm F2.8 GM OSS)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="97"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.001072"
+        stCamera:RadialDistortParam1="-0.068082"
+        stCamera:RadialDistortParam2="-0.393649"
+        stCamera:RadialDistortParam3="7.145348">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-4.428677"
+        stCamera:VignetteModelParam2="91.547216"
+        stCamera:VignetteModelParam3="-1482.936747"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="FE 70-200mm F2.8 GM OSS"
+       stCamera:LensInfo="700/10 2000/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony FE 70-200mm F2.8 GM OSS"
+       stCamera:ProfileName="Adobe (Sony FE 70-200mm F2.8 GM OSS)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="97"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.001072"
+        stCamera:RadialDistortParam1="-0.068082"
+        stCamera:RadialDistortParam2="-0.393649"
+        stCamera:RadialDistortParam3="7.145348">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-3.841147"
+        stCamera:VignetteModelParam2="38.239696"
+        stCamera:VignetteModelParam3="-433.824003"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="FE 70-200mm F2.8 GM OSS"
+       stCamera:LensInfo="700/10 2000/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony FE 70-200mm F2.8 GM OSS"
+       stCamera:ProfileName="Adobe (Sony FE 70-200mm F2.8 GM OSS)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="97"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.001072"
+        stCamera:RadialDistortParam1="-0.068082"
+        stCamera:RadialDistortParam2="-0.393649"
+        stCamera:RadialDistortParam3="7.145348">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-3.344877"
+        stCamera:VignetteModelParam2="16.606549"
+        stCamera:VignetteModelParam3="-174.081933"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="FE 70-200mm F2.8 GM OSS"
+       stCamera:LensInfo="700/10 2000/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony FE 70-200mm F2.8 GM OSS"
+       stCamera:ProfileName="Adobe (Sony FE 70-200mm F2.8 GM OSS)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="133"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.989691"
+        stCamera:RadialDistortParam1="0.392893"
+        stCamera:RadialDistortParam2="-0.141441"
+        stCamera:RadialDistortParam3="22.019815">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-26.804727"
+        stCamera:VignetteModelParam2="653.558246"
+        stCamera:VignetteModelParam3="-9616.638281"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="FE 70-200mm F2.8 GM OSS"
+       stCamera:LensInfo="700/10 2000/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony FE 70-200mm F2.8 GM OSS"
+       stCamera:ProfileName="Adobe (Sony FE 70-200mm F2.8 GM OSS)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="133"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.989691"
+        stCamera:RadialDistortParam1="0.392893"
+        stCamera:RadialDistortParam2="-0.141441"
+        stCamera:RadialDistortParam3="22.019815">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="0.492046"
+        stCamera:VignetteModelParam2="-1177.734332"
+        stCamera:VignetteModelParam3="26591.136591"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="FE 70-200mm F2.8 GM OSS"
+       stCamera:LensInfo="700/10 2000/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony FE 70-200mm F2.8 GM OSS"
+       stCamera:ProfileName="Adobe (Sony FE 70-200mm F2.8 GM OSS)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="133"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.989691"
+        stCamera:RadialDistortParam1="0.392893"
+        stCamera:RadialDistortParam2="-0.141441"
+        stCamera:RadialDistortParam3="22.019815">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-6.509317"
+        stCamera:VignetteModelParam2="333.1266"
+        stCamera:VignetteModelParam3="-24620.950925"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="FE 70-200mm F2.8 GM OSS"
+       stCamera:LensInfo="700/10 2000/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony FE 70-200mm F2.8 GM OSS"
+       stCamera:ProfileName="Adobe (Sony FE 70-200mm F2.8 GM OSS)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="133"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.989691"
+        stCamera:RadialDistortParam1="0.392893"
+        stCamera:RadialDistortParam2="-0.141441"
+        stCamera:RadialDistortParam3="22.019815">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-3.800236"
+        stCamera:VignetteModelParam2="452.331742"
+        stCamera:VignetteModelParam3="-24861.251149"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="FE 70-200mm F2.8 GM OSS"
+       stCamera:LensInfo="700/10 2000/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony FE 70-200mm F2.8 GM OSS"
+       stCamera:ProfileName="Adobe (Sony FE 70-200mm F2.8 GM OSS)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="133"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.989691"
+        stCamera:RadialDistortParam1="0.392893"
+        stCamera:RadialDistortParam2="-0.141441"
+        stCamera:RadialDistortParam3="22.019815">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-10.610969"
+        stCamera:VignetteModelParam2="819.019761"
+        stCamera:VignetteModelParam3="-29326.828743"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="FE 70-200mm F2.8 GM OSS"
+       stCamera:LensInfo="700/10 2000/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony FE 70-200mm F2.8 GM OSS"
+       stCamera:ProfileName="Adobe (Sony FE 70-200mm F2.8 GM OSS)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="133"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.989691"
+        stCamera:RadialDistortParam1="0.392893"
+        stCamera:RadialDistortParam2="-0.141441"
+        stCamera:RadialDistortParam3="22.019815">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-8.538494"
+        stCamera:VignetteModelParam2="405.859425"
+        stCamera:VignetteModelParam3="-13003.335648"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="FE 70-200mm F2.8 GM OSS"
+       stCamera:LensInfo="700/10 2000/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony FE 70-200mm F2.8 GM OSS"
+       stCamera:ProfileName="Adobe (Sony FE 70-200mm F2.8 GM OSS)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="133"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.989691"
+        stCamera:RadialDistortParam1="0.392893"
+        stCamera:RadialDistortParam2="-0.141441"
+        stCamera:RadialDistortParam3="22.019815">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-6.984265"
+        stCamera:VignetteModelParam2="164.235924"
+        stCamera:VignetteModelParam3="-4313.716795"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="FE 70-200mm F2.8 GM OSS"
+       stCamera:LensInfo="700/10 2000/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony FE 70-200mm F2.8 GM OSS"
+       stCamera:ProfileName="Adobe (Sony FE 70-200mm F2.8 GM OSS)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.973401"
+        stCamera:RadialDistortParam1="2.193537"
+        stCamera:RadialDistortParam2="11.034791"
+        stCamera:RadialDistortParam3="3.335466">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-57.310693"
+        stCamera:VignetteModelParam2="2696.100155"
+        stCamera:VignetteModelParam3="-75545.558259"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="FE 70-200mm F2.8 GM OSS"
+       stCamera:LensInfo="700/10 2000/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony FE 70-200mm F2.8 GM OSS"
+       stCamera:ProfileName="Adobe (Sony FE 70-200mm F2.8 GM OSS)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.973401"
+        stCamera:RadialDistortParam1="2.193537"
+        stCamera:RadialDistortParam2="11.034791"
+        stCamera:RadialDistortParam3="3.335466">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-23.735786"
+        stCamera:VignetteModelParam2="-2227.383902"
+        stCamera:VignetteModelParam3="141518.964002"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="FE 70-200mm F2.8 GM OSS"
+       stCamera:LensInfo="700/10 2000/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony FE 70-200mm F2.8 GM OSS"
+       stCamera:ProfileName="Adobe (Sony FE 70-200mm F2.8 GM OSS)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.973401"
+        stCamera:RadialDistortParam1="2.193537"
+        stCamera:RadialDistortParam2="11.034791"
+        stCamera:RadialDistortParam3="3.335466">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-10.508056"
+        stCamera:VignetteModelParam2="201.878092"
+        stCamera:VignetteModelParam3="-118835.67215"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="FE 70-200mm F2.8 GM OSS"
+       stCamera:LensInfo="700/10 2000/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony FE 70-200mm F2.8 GM OSS"
+       stCamera:ProfileName="Adobe (Sony FE 70-200mm F2.8 GM OSS)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.973401"
+        stCamera:RadialDistortParam1="2.193537"
+        stCamera:RadialDistortParam2="11.034791"
+        stCamera:RadialDistortParam3="3.335466">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-9.349088"
+        stCamera:VignetteModelParam2="1745.359258"
+        stCamera:VignetteModelParam3="-251914.998364"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="FE 70-200mm F2.8 GM OSS"
+       stCamera:LensInfo="700/10 2000/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony FE 70-200mm F2.8 GM OSS"
+       stCamera:ProfileName="Adobe (Sony FE 70-200mm F2.8 GM OSS)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.973401"
+        stCamera:RadialDistortParam1="2.193537"
+        stCamera:RadialDistortParam2="11.034791"
+        stCamera:RadialDistortParam3="3.335466">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-18.332766"
+        stCamera:VignetteModelParam2="1968.065289"
+        stCamera:VignetteModelParam3="-149696.295677"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="FE 70-200mm F2.8 GM OSS"
+       stCamera:LensInfo="700/10 2000/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony FE 70-200mm F2.8 GM OSS"
+       stCamera:ProfileName="Adobe (Sony FE 70-200mm F2.8 GM OSS)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.973401"
+        stCamera:RadialDistortParam1="2.193537"
+        stCamera:RadialDistortParam2="11.034791"
+        stCamera:RadialDistortParam3="3.335466">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-15.141313"
+        stCamera:VignetteModelParam2="545.471673"
+        stCamera:VignetteModelParam3="-22443.450583"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:Lens="FE 70-200mm F2.8 GM OSS"
+       stCamera:LensInfo="700/10 2000/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony FE 70-200mm F2.8 GM OSS"
+       stCamera:ProfileName="Adobe (Sony FE 70-200mm F2.8 GM OSS)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.973401"
+        stCamera:RadialDistortParam1="2.193537"
+        stCamera:RadialDistortParam2="11.034791"
+        stCamera:RadialDistortParam3="3.335466">
+       <stCamera:VignetteModel
+        stCamera:VignetteModelParam1="-13.893652"
+        stCamera:VignetteModelParam2="358.706665"
+        stCamera:VignetteModelParam3="-12523.775934"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

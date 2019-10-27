@@ -1,0 +1,672 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.1-c055 1.136881, 2010/06/10-18:11:35        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot G12</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot G12</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65535</stCamera:LensID>
+      <stCamera:Lens>6.1-30.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6100/1000 30500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot G12</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot G12</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot G12)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>6.1</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.25</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.826798</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.826798</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.502381</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.484862</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.00022</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000401</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.161836</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.130546</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.043101</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.826739</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.826739</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.50238</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.484879</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000206</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000404</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000841</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.000989</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.00036</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.000286</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.826739</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.826739</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.50238</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.484879</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000206</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000404</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.161866</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.130581</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.043109</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.826739</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.826739</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.50238</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.484879</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000208</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000404</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999867</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.000628</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.00323</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.004041</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot G12</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot G12</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65535</stCamera:LensID>
+      <stCamera:Lens>6.1-30.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6100/1000 30500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot G12</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot G12</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot G12)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>6.1</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.65</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.823635</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.823635</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.503878</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.48759</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.000367</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000658</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.167169</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.169307</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.067506</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.823656</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.823656</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.503893</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.487564</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.00035</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000662</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.001032</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.001191</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.000541</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.000911</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.823656</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.823656</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.503893</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.487564</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.00035</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000663</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.167218</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.169619</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.067713</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.823656</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.823656</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.503893</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.487564</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000351</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000663</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999605</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.001283</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.000281</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.000786</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot G12</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot G12</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65535</stCamera:LensID>
+      <stCamera:Lens>6.1-30.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6100/1000 30500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot G12</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot G12</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot G12)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>8.108</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.065246</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.065246</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.502337</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.481821</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.000115</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000115</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.12994</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.119244</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.060373</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.06519</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.06519</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.502341</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.481814</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000091</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000115</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000824</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.000955</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.000174</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.00144</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.06519</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.06519</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.502341</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.481814</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.00009</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000115</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.130012</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.11938</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.060411</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.06519</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.06519</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.502341</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.481814</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000092</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000115</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999749</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.00058</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.005393</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.010021</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot G12</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot G12</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65535</stCamera:LensID>
+      <stCamera:Lens>6.1-30.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6100/1000 30500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot G12</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot G12</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot G12)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>8.108</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.2</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.062223</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.062223</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.501595</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.484963</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.000251</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000375</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.140876</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.217824</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.189147</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.062274</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.062274</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.501629</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.484925</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000229</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000381</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000962</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.001405</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.001807</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.004717</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.062274</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.062274</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.501629</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.484925</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000229</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000381</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.140936</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.218603</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.190501</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.062274</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.062274</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.501629</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.484925</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.00023</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000381</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999563</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.001583</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.001063</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.001791</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot G12</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot G12</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65535</stCamera:LensID>
+      <stCamera:Lens>6.1-30.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6100/1000 30500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot G12</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot G12</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot G12)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>12.074</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.38</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.58452</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.58452</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.502249</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.490035</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.000088</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000067</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.084809</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-0.079779</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.394645</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.584438</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.584438</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.50223</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.490047</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000069</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000056</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000699</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.001451</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.004597</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.029782</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.584438</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.584438</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.50223</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.490047</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000067</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000057</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.084944</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.079231</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.397075</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.584438</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.584438</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.50223</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.490047</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.00007</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000058</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.99967</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.001998</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.003674</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.003954</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot G12</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot G12</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65535</stCamera:LensID>
+      <stCamera:Lens>6.1-30.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6100/1000 30500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot G12</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot G12</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot G12)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>12.074</stCamera:FocalLength>
+      <stCamera:FocusDistance>3.94</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.586975</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.586975</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.503098</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.501607</stCamera:ImageYCenter>
+       <stCamera:ResidualMeanError>0.000103</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000056</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.088584</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.113719</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.014823</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.586886</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.586886</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.503084</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.50151</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000062</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000037</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000785</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.001269</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.002543</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.01002</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.586886</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.586886</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.503084</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.50151</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.00006</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000038</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.088745</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.116168</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.026387</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.586886</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.586886</stCamera:FocalLengthY>
+        <stCamera:ImageXCenter>0.503084</stCamera:ImageXCenter>
+        <stCamera:ImageYCenter>0.50151</stCamera:ImageYCenter>
+        <stCamera:ResidualMeanError>0.000065</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000041</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999553</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.001245</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.005683</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.023921</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot G12</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot G12</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65535</stCamera:LensID>
+      <stCamera:Lens>6.1-30.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6100/1000 30500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot G12</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot G12</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot G12)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>18.098</stCamera:FocalLength>
+      <stCamera:FocusDistance>6.77</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.442104</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.442104</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000093</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000054</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.087764</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.020212</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.169871</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.441921</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.441921</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000069</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000039</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000552</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.002577</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.032033</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.288771</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.441921</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.441921</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000065</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.00004</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.087886</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.025797</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.109963</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.441921</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.441921</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000071</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000048</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999564</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.004057</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.078747</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.722088</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot G12</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot G12</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65535</stCamera:LensID>
+      <stCamera:Lens>6.1-30.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6100/1000 30500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot G12</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot G12</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot G12)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>18.098</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.67</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.810382</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.810382</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000082</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000068</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.101241</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-1.591773</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>13.336952</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.810486</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.810486</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000069</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.00006</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.00036</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.002145</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.091192</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>1.077547</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.810486</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.810486</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000066</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000061</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.101251</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-1.589438</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>13.335609</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.810486</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.810486</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000074</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000064</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999735</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.004139</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.169424</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-2.143071</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot G12</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot G12</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65535</stCamera:LensID>
+      <stCamera:Lens>6.1-30.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6100/1000 30500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot G12</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot G12</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot G12)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>30.5</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.88</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.846769</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.846769</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000061</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000043</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.034128</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-3.867287</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>49.560237</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.846889</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.846889</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000059</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000043</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999871</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.00422</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.047875</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-2.843322</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.846889</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.846889</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000058</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000043</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.032708</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-3.935408</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>51.04987</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.846889</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.846889</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000065</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000044</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000136</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.009675</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.228741</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-3.300678</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot G12</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot G12</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65535</stCamera:LensID>
+      <stCamera:Lens>6.1-30.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6100/1000 30500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot G12</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot G12</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot G12)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>30.5</stCamera:FocalLength>
+      <stCamera:FocusDistance>4.76</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>4.027735</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>4.027735</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000105</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.00007</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>0.044304</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.296992</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-67.610118</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>4.027787</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>4.027787</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000101</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000067</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999749</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.002291</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.049736</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>3.815267</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>4.027787</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>4.027787</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.0001</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000068</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>0.046166</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>2.175773</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-64.190948</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>4.027787</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>4.027787</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.0001</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000072</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000258</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.0075</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.222785</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-5.810898</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon PowerShot G12</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon PowerShot G12</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>65535</stCamera:LensID>
+      <stCamera:Lens>6.1-30.5 mm</stCamera:Lens>
+      <stCamera:LensInfo>6100/1000 30500/1000 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon PowerShot G12</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon PowerShot G12</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon PowerShot G12)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>4.623079</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>3684</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>6.1</stCamera:FocalLength>
+      <stCamera:FocusDistance>0.25</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.826798</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.826798</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.161836</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.130546</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.043101</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.826798</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.826798</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.1</stCamera:VignetteModelParam1>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

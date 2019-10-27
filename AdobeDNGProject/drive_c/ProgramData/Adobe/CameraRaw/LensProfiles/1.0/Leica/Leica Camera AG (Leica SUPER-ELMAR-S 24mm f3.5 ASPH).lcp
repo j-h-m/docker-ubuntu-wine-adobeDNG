@@ -1,0 +1,4332 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000153"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.09671"
+        stCamera:RadialDistortParam2="0.068766"
+        stCamera:RadialDistortParam3="-0.017891">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999894"
+        stCamera:RadialDistortParam1="0.000601"
+        stCamera:RadialDistortParam2="-0.000628"
+        stCamera:RadialDistortParam3="0.000048"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000153"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.09671"
+        stCamera:RadialDistortParam2="0.068766"
+        stCamera:RadialDistortParam3="-0.017891"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000225"
+        stCamera:RadialDistortParam1="-0.000745"
+        stCamera:RadialDistortParam2="0.000709"
+        stCamera:RadialDistortParam3="-0.00005"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000153"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.096708"
+        stCamera:RadialDistortParam2="0.068766"
+        stCamera:RadialDistortParam3="-0.017892">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999894"
+        stCamera:RadialDistortParam1="0.0006"
+        stCamera:RadialDistortParam2="-0.000627"
+        stCamera:RadialDistortParam3="0.000048"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000153"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.096708"
+        stCamera:RadialDistortParam2="0.068766"
+        stCamera:RadialDistortParam3="-0.017892"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000225"
+        stCamera:RadialDistortParam1="-0.000745"
+        stCamera:RadialDistortParam2="0.000709"
+        stCamera:RadialDistortParam3="-0.00005"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000153"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.096707"
+        stCamera:RadialDistortParam2="0.068766"
+        stCamera:RadialDistortParam3="-0.017893">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999894"
+        stCamera:RadialDistortParam1="0.0006"
+        stCamera:RadialDistortParam2="-0.000626"
+        stCamera:RadialDistortParam3="0.000048"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000153"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.096707"
+        stCamera:RadialDistortParam2="0.068766"
+        stCamera:RadialDistortParam3="-0.017893"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000225"
+        stCamera:RadialDistortParam1="-0.000745"
+        stCamera:RadialDistortParam2="0.000708"
+        stCamera:RadialDistortParam3="-0.00005"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="8.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000153"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.096706"
+        stCamera:RadialDistortParam2="0.068766"
+        stCamera:RadialDistortParam3="-0.017893">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999895"
+        stCamera:RadialDistortParam1="0.0006"
+        stCamera:RadialDistortParam2="-0.000626"
+        stCamera:RadialDistortParam3="0.000048"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000153"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.096706"
+        stCamera:RadialDistortParam2="0.068766"
+        stCamera:RadialDistortParam3="-0.017893"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000225"
+        stCamera:RadialDistortParam1="-0.000745"
+        stCamera:RadialDistortParam2="0.000708"
+        stCamera:RadialDistortParam3="-0.00005"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000153"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.096706"
+        stCamera:RadialDistortParam2="0.068766"
+        stCamera:RadialDistortParam3="-0.017893">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999895"
+        stCamera:RadialDistortParam1="0.0006"
+        stCamera:RadialDistortParam2="-0.000625"
+        stCamera:RadialDistortParam3="0.000048"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000153"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.096706"
+        stCamera:RadialDistortParam2="0.068766"
+        stCamera:RadialDistortParam3="-0.017893"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000225"
+        stCamera:RadialDistortParam1="-0.000745"
+        stCamera:RadialDistortParam2="0.000708"
+        stCamera:RadialDistortParam3="-0.00005"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.00016"
+        stCamera:ResidualStandardDeviation="0.000103"
+        stCamera:RadialDistortParam1="-0.097075"
+        stCamera:RadialDistortParam2="0.069357"
+        stCamera:RadialDistortParam3="-0.018126">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="0.999873"
+        stCamera:RadialDistortParam1="0.000612"
+        stCamera:RadialDistortParam2="-0.000673"
+        stCamera:RadialDistortParam3="0.000078"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.00016"
+        stCamera:ResidualStandardDeviation="0.000103"
+        stCamera:RadialDistortParam1="-0.097075"
+        stCamera:RadialDistortParam2="0.069357"
+        stCamera:RadialDistortParam3="-0.018126"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000227"
+        stCamera:RadialDistortParam1="-0.000731"
+        stCamera:RadialDistortParam2="0.000746"
+        stCamera:RadialDistortParam3="-0.000081"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.00015"
+        stCamera:ResidualStandardDeviation="0.000098"
+        stCamera:RadialDistortParam1="-0.096856"
+        stCamera:RadialDistortParam2="0.06888"
+        stCamera:RadialDistortParam3="-0.017878">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999897"
+        stCamera:RadialDistortParam1="0.000565"
+        stCamera:RadialDistortParam2="-0.000666"
+        stCamera:RadialDistortParam3="0.000093"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.00015"
+        stCamera:ResidualStandardDeviation="0.000098"
+        stCamera:RadialDistortParam1="-0.096856"
+        stCamera:RadialDistortParam2="0.06888"
+        stCamera:RadialDistortParam3="-0.017878"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000225"
+        stCamera:RadialDistortParam1="-0.000755"
+        stCamera:RadialDistortParam2="0.00081"
+        stCamera:RadialDistortParam3="-0.000118"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="4.526069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000154"
+        stCamera:ResidualStandardDeviation="0.000101"
+        stCamera:RadialDistortParam1="-0.096701"
+        stCamera:RadialDistortParam2="0.068669"
+        stCamera:RadialDistortParam3="-0.017812">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="0.999882"
+        stCamera:RadialDistortParam1="0.000711"
+        stCamera:RadialDistortParam2="-0.000867"
+        stCamera:RadialDistortParam3="0.000165"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000154"
+        stCamera:ResidualStandardDeviation="0.000101"
+        stCamera:RadialDistortParam1="-0.096701"
+        stCamera:RadialDistortParam2="0.068669"
+        stCamera:RadialDistortParam3="-0.017812"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000235"
+        stCamera:RadialDistortParam1="-0.000839"
+        stCamera:RadialDistortParam2="0.00091"
+        stCamera:RadialDistortParam3="-0.000146"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000154"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.096723"
+        stCamera:RadialDistortParam2="0.068767"
+        stCamera:RadialDistortParam3="-0.017881">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999894"
+        stCamera:RadialDistortParam1="0.000593"
+        stCamera:RadialDistortParam2="-0.000611"
+        stCamera:RadialDistortParam3="0.000033"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000154"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.096723"
+        stCamera:RadialDistortParam2="0.068767"
+        stCamera:RadialDistortParam3="-0.017881"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000224"
+        stCamera:RadialDistortParam1="-0.000737"
+        stCamera:RadialDistortParam2="0.000694"
+        stCamera:RadialDistortParam3="-0.000035"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="5.531069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000153"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.096717"
+        stCamera:RadialDistortParam2="0.068767"
+        stCamera:RadialDistortParam3="-0.017886">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999894"
+        stCamera:RadialDistortParam1="0.000602"
+        stCamera:RadialDistortParam2="-0.000633"
+        stCamera:RadialDistortParam3="0.000049"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000153"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.096717"
+        stCamera:RadialDistortParam2="0.068767"
+        stCamera:RadialDistortParam3="-0.017886"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000225"
+        stCamera:RadialDistortParam1="-0.000747"
+        stCamera:RadialDistortParam2="0.000714"
+        stCamera:RadialDistortParam3="-0.000051"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000153"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.096714"
+        stCamera:RadialDistortParam2="0.068767"
+        stCamera:RadialDistortParam3="-0.017888">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999894"
+        stCamera:RadialDistortParam1="0.000602"
+        stCamera:RadialDistortParam2="-0.000631"
+        stCamera:RadialDistortParam3="0.000048"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000153"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.096714"
+        stCamera:RadialDistortParam2="0.068767"
+        stCamera:RadialDistortParam3="-0.017888"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000225"
+        stCamera:RadialDistortParam1="-0.000746"
+        stCamera:RadialDistortParam2="0.000712"
+        stCamera:RadialDistortParam3="-0.00005"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="6.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000153"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.096711"
+        stCamera:RadialDistortParam2="0.068767"
+        stCamera:RadialDistortParam3="-0.01789">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999894"
+        stCamera:RadialDistortParam1="0.000601"
+        stCamera:RadialDistortParam2="-0.000629"
+        stCamera:RadialDistortParam3="0.000048"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000153"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.096711"
+        stCamera:RadialDistortParam2="0.068767"
+        stCamera:RadialDistortParam3="-0.01789"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000225"
+        stCamera:RadialDistortParam1="-0.000745"
+        stCamera:RadialDistortParam2="0.00071"
+        stCamera:RadialDistortParam3="-0.00005"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.088961"
+        stCamera:RadialDistortParam2="0.066457"
+        stCamera:RadialDistortParam3="-0.016887">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999898"
+        stCamera:RadialDistortParam1="0.000591"
+        stCamera:RadialDistortParam2="-0.000604"
+        stCamera:RadialDistortParam3="0.000046"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.088961"
+        stCamera:RadialDistortParam2="0.066457"
+        stCamera:RadialDistortParam3="-0.016887"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000221"
+        stCamera:RadialDistortParam1="-0.000734"
+        stCamera:RadialDistortParam2="0.000682"
+        stCamera:RadialDistortParam3="-0.000049"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.08896"
+        stCamera:RadialDistortParam2="0.066458"
+        stCamera:RadialDistortParam3="-0.016888">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999899"
+        stCamera:RadialDistortParam1="0.00059"
+        stCamera:RadialDistortParam2="-0.000603"
+        stCamera:RadialDistortParam3="0.000046"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.08896"
+        stCamera:RadialDistortParam2="0.066458"
+        stCamera:RadialDistortParam3="-0.016888"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000221"
+        stCamera:RadialDistortParam1="-0.000734"
+        stCamera:RadialDistortParam2="0.000681"
+        stCamera:RadialDistortParam3="-0.000049"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.088959"
+        stCamera:RadialDistortParam2="0.066458"
+        stCamera:RadialDistortParam3="-0.016889">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999899"
+        stCamera:RadialDistortParam1="0.00059"
+        stCamera:RadialDistortParam2="-0.000602"
+        stCamera:RadialDistortParam3="0.000046"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.088959"
+        stCamera:RadialDistortParam2="0.066458"
+        stCamera:RadialDistortParam3="-0.016889"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000221"
+        stCamera:RadialDistortParam1="-0.000733"
+        stCamera:RadialDistortParam2="0.000681"
+        stCamera:RadialDistortParam3="-0.000049"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="8.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.088958"
+        stCamera:RadialDistortParam2="0.066458"
+        stCamera:RadialDistortParam3="-0.01689">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999899"
+        stCamera:RadialDistortParam1="0.00059"
+        stCamera:RadialDistortParam2="-0.000602"
+        stCamera:RadialDistortParam3="0.000046"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.088958"
+        stCamera:RadialDistortParam2="0.066458"
+        stCamera:RadialDistortParam3="-0.01689"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000221"
+        stCamera:RadialDistortParam1="-0.000733"
+        stCamera:RadialDistortParam2="0.00068"
+        stCamera:RadialDistortParam3="-0.000049"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.088958"
+        stCamera:RadialDistortParam2="0.066458"
+        stCamera:RadialDistortParam3="-0.01689">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999899"
+        stCamera:RadialDistortParam1="0.00059"
+        stCamera:RadialDistortParam2="-0.000601"
+        stCamera:RadialDistortParam3="0.000046"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.088958"
+        stCamera:RadialDistortParam2="0.066458"
+        stCamera:RadialDistortParam3="-0.01689"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000221"
+        stCamera:RadialDistortParam1="-0.000733"
+        stCamera:RadialDistortParam2="0.00068"
+        stCamera:RadialDistortParam3="-0.000049"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000159"
+        stCamera:ResidualStandardDeviation="0.000103"
+        stCamera:RadialDistortParam1="-0.089254"
+        stCamera:RadialDistortParam2="0.066958"
+        stCamera:RadialDistortParam3="-0.017098">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999878"
+        stCamera:RadialDistortParam1="0.000605"
+        stCamera:RadialDistortParam2="-0.00063"
+        stCamera:RadialDistortParam3="0.000063"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000159"
+        stCamera:ResidualStandardDeviation="0.000103"
+        stCamera:RadialDistortParam1="-0.089254"
+        stCamera:RadialDistortParam2="0.066958"
+        stCamera:RadialDistortParam3="-0.017098"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.00022"
+        stCamera:RadialDistortParam1="-0.00071"
+        stCamera:RadialDistortParam2="0.000684"
+        stCamera:RadialDistortParam3="-0.00006"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.00015"
+        stCamera:ResidualStandardDeviation="0.000098"
+        stCamera:RadialDistortParam1="-0.089087"
+        stCamera:RadialDistortParam2="0.066592"
+        stCamera:RadialDistortParam3="-0.016906">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999903"
+        stCamera:RadialDistortParam1="0.000534"
+        stCamera:RadialDistortParam2="-0.000568"
+        stCamera:RadialDistortParam3="0.000046"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.00015"
+        stCamera:ResidualStandardDeviation="0.000098"
+        stCamera:RadialDistortParam1="-0.089087"
+        stCamera:RadialDistortParam2="0.066592"
+        stCamera:RadialDistortParam3="-0.016906"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000219"
+        stCamera:RadialDistortParam1="-0.000722"
+        stCamera:RadialDistortParam2="0.000717"
+        stCamera:RadialDistortParam3="-0.00008"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="4.526069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000153"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.088959"
+        stCamera:RadialDistortParam2="0.066384"
+        stCamera:RadialDistortParam3="-0.016823">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999889"
+        stCamera:RadialDistortParam1="0.000675"
+        stCamera:RadialDistortParam2="-0.000798"
+        stCamera:RadialDistortParam3="0.000149"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000153"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.088959"
+        stCamera:RadialDistortParam2="0.066384"
+        stCamera:RadialDistortParam3="-0.016823"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000228"
+        stCamera:RadialDistortParam1="-0.000805"
+        stCamera:RadialDistortParam2="0.000847"
+        stCamera:RadialDistortParam3="-0.000135"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000153"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.088971"
+        stCamera:RadialDistortParam2="0.066449"
+        stCamera:RadialDistortParam3="-0.016872">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999898"
+        stCamera:RadialDistortParam1="0.000588"
+        stCamera:RadialDistortParam2="-0.000598"
+        stCamera:RadialDistortParam3="0.000038"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000153"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.088971"
+        stCamera:RadialDistortParam2="0.066449"
+        stCamera:RadialDistortParam3="-0.016872"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.00022"
+        stCamera:RadialDistortParam1="-0.000731"
+        stCamera:RadialDistortParam2="0.000677"
+        stCamera:RadialDistortParam3="-0.000041"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="5.531069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000153"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.088967"
+        stCamera:RadialDistortParam2="0.066455"
+        stCamera:RadialDistortParam3="-0.01688">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999898"
+        stCamera:RadialDistortParam1="0.000593"
+        stCamera:RadialDistortParam2="-0.000609"
+        stCamera:RadialDistortParam3="0.000047"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000153"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.088967"
+        stCamera:RadialDistortParam2="0.066455"
+        stCamera:RadialDistortParam3="-0.01688"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000221"
+        stCamera:RadialDistortParam1="-0.000735"
+        stCamera:RadialDistortParam2="0.000687"
+        stCamera:RadialDistortParam3="-0.00005"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.088964"
+        stCamera:RadialDistortParam2="0.066456"
+        stCamera:RadialDistortParam3="-0.016883">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999898"
+        stCamera:RadialDistortParam1="0.000592"
+        stCamera:RadialDistortParam2="-0.000606"
+        stCamera:RadialDistortParam3="0.000047"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.088964"
+        stCamera:RadialDistortParam2="0.066456"
+        stCamera:RadialDistortParam3="-0.016883"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000221"
+        stCamera:RadialDistortParam1="-0.000735"
+        stCamera:RadialDistortParam2="0.000684"
+        stCamera:RadialDistortParam3="-0.000049"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.5"
+       stCamera:ApertureValue="6.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.088962"
+        stCamera:RadialDistortParam2="0.066457"
+        stCamera:RadialDistortParam3="-0.016885">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999898"
+        stCamera:RadialDistortParam1="0.000591"
+        stCamera:RadialDistortParam2="-0.000605"
+        stCamera:RadialDistortParam3="0.000046"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.088962"
+        stCamera:RadialDistortParam2="0.066457"
+        stCamera:RadialDistortParam3="-0.016885"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000221"
+        stCamera:RadialDistortParam1="-0.000734"
+        stCamera:RadialDistortParam2="0.000683"
+        stCamera:RadialDistortParam3="-0.000049"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.081719"
+        stCamera:RadialDistortParam2="0.064394"
+        stCamera:RadialDistortParam3="-0.015913">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999897"
+        stCamera:RadialDistortParam1="0.000583"
+        stCamera:RadialDistortParam2="-0.000582"
+        stCamera:RadialDistortParam3="0.000045"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.081719"
+        stCamera:RadialDistortParam2="0.064394"
+        stCamera:RadialDistortParam3="-0.015913"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000222"
+        stCamera:RadialDistortParam1="-0.000725"
+        stCamera:RadialDistortParam2="0.000657"
+        stCamera:RadialDistortParam3="-0.000049"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.081718"
+        stCamera:RadialDistortParam2="0.064395"
+        stCamera:RadialDistortParam3="-0.015915">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999897"
+        stCamera:RadialDistortParam1="0.000583"
+        stCamera:RadialDistortParam2="-0.000581"
+        stCamera:RadialDistortParam3="0.000045"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.081718"
+        stCamera:RadialDistortParam2="0.064395"
+        stCamera:RadialDistortParam3="-0.015915"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000222"
+        stCamera:RadialDistortParam1="-0.000725"
+        stCamera:RadialDistortParam2="0.000656"
+        stCamera:RadialDistortParam3="-0.000049"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.081718"
+        stCamera:RadialDistortParam2="0.064396"
+        stCamera:RadialDistortParam3="-0.015916">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999897"
+        stCamera:RadialDistortParam1="0.000583"
+        stCamera:RadialDistortParam2="-0.00058"
+        stCamera:RadialDistortParam3="0.000045"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.081718"
+        stCamera:RadialDistortParam2="0.064396"
+        stCamera:RadialDistortParam3="-0.015916"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000222"
+        stCamera:RadialDistortParam1="-0.000725"
+        stCamera:RadialDistortParam2="0.000656"
+        stCamera:RadialDistortParam3="-0.000049"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="8.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.081717"
+        stCamera:RadialDistortParam2="0.064397"
+        stCamera:RadialDistortParam3="-0.015917">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999897"
+        stCamera:RadialDistortParam1="0.000582"
+        stCamera:RadialDistortParam2="-0.00058"
+        stCamera:RadialDistortParam3="0.000045"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.081717"
+        stCamera:RadialDistortParam2="0.064397"
+        stCamera:RadialDistortParam3="-0.015917"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000222"
+        stCamera:RadialDistortParam1="-0.000725"
+        stCamera:RadialDistortParam2="0.000655"
+        stCamera:RadialDistortParam3="-0.000049"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.081717"
+        stCamera:RadialDistortParam2="0.064397"
+        stCamera:RadialDistortParam3="-0.015918">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999897"
+        stCamera:RadialDistortParam1="0.000582"
+        stCamera:RadialDistortParam2="-0.00058"
+        stCamera:RadialDistortParam3="0.000045"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.081717"
+        stCamera:RadialDistortParam2="0.064397"
+        stCamera:RadialDistortParam3="-0.015918"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000222"
+        stCamera:RadialDistortParam1="-0.000725"
+        stCamera:RadialDistortParam2="0.000655"
+        stCamera:RadialDistortParam3="-0.000049"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000158"
+        stCamera:ResidualStandardDeviation="0.000102"
+        stCamera:RadialDistortParam1="-0.081943"
+        stCamera:RadialDistortParam2="0.064811"
+        stCamera:RadialDistortParam3="-0.016104">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999879"
+        stCamera:RadialDistortParam1="0.000603"
+        stCamera:RadialDistortParam2="-0.000604"
+        stCamera:RadialDistortParam3="0.000058"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000158"
+        stCamera:ResidualStandardDeviation="0.000102"
+        stCamera:RadialDistortParam1="-0.081943"
+        stCamera:RadialDistortParam2="0.064811"
+        stCamera:RadialDistortParam3="-0.016104"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.00022"
+        stCamera:RadialDistortParam1="-0.000696"
+        stCamera:RadialDistortParam2="0.000636"
+        stCamera:RadialDistortParam3="-0.000049"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.00015"
+        stCamera:ResidualStandardDeviation="0.000098"
+        stCamera:RadialDistortParam1="-0.081818"
+        stCamera:RadialDistortParam2="0.064535"
+        stCamera:RadialDistortParam3="-0.015958">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999901"
+        stCamera:RadialDistortParam1="0.000526"
+        stCamera:RadialDistortParam2="-0.000518"
+        stCamera:RadialDistortParam3="0.000028"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.00015"
+        stCamera:ResidualStandardDeviation="0.000098"
+        stCamera:RadialDistortParam1="-0.081818"
+        stCamera:RadialDistortParam2="0.064535"
+        stCamera:RadialDistortParam3="-0.015958"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.00022"
+        stCamera:RadialDistortParam1="-0.000708"
+        stCamera:RadialDistortParam2="0.000662"
+        stCamera:RadialDistortParam3="-0.000063"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="4.526069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.081732"
+        stCamera:RadialDistortParam2="0.064378"
+        stCamera:RadialDistortParam3="-0.015888">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999892"
+        stCamera:RadialDistortParam1="0.000624"
+        stCamera:RadialDistortParam2="-0.000691"
+        stCamera:RadialDistortParam3="0.00011"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.081732"
+        stCamera:RadialDistortParam2="0.064378"
+        stCamera:RadialDistortParam3="-0.015888"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000226"
+        stCamera:RadialDistortParam1="-0.000762"
+        stCamera:RadialDistortParam2="0.000754"
+        stCamera:RadialDistortParam3="-0.000105"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.081732"
+        stCamera:RadialDistortParam2="0.0644"
+        stCamera:RadialDistortParam3="-0.015907">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999894"
+        stCamera:RadialDistortParam1="0.000603"
+        stCamera:RadialDistortParam2="-0.000628"
+        stCamera:RadialDistortParam3="0.00007"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.081732"
+        stCamera:RadialDistortParam2="0.0644"
+        stCamera:RadialDistortParam3="-0.015907"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000224"
+        stCamera:RadialDistortParam1="-0.000743"
+        stCamera:RadialDistortParam2="0.0007"
+        stCamera:RadialDistortParam3="-0.000071"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="5.531069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.081724"
+        stCamera:RadialDistortParam2="0.064389"
+        stCamera:RadialDistortParam3="-0.015904">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999896"
+        stCamera:RadialDistortParam1="0.000585"
+        stCamera:RadialDistortParam2="-0.000587"
+        stCamera:RadialDistortParam3="0.000046"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.081724"
+        stCamera:RadialDistortParam2="0.064389"
+        stCamera:RadialDistortParam3="-0.015904"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000222"
+        stCamera:RadialDistortParam1="-0.000727"
+        stCamera:RadialDistortParam2="0.000662"
+        stCamera:RadialDistortParam3="-0.000049"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.081722"
+        stCamera:RadialDistortParam2="0.064391"
+        stCamera:RadialDistortParam3="-0.015908">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999897"
+        stCamera:RadialDistortParam1="0.000584"
+        stCamera:RadialDistortParam2="-0.000585"
+        stCamera:RadialDistortParam3="0.000045"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.081722"
+        stCamera:RadialDistortParam2="0.064391"
+        stCamera:RadialDistortParam3="-0.015908"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000222"
+        stCamera:RadialDistortParam1="-0.000726"
+        stCamera:RadialDistortParam2="0.000659"
+        stCamera:RadialDistortParam3="-0.000049"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="6.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.08172"
+        stCamera:RadialDistortParam2="0.064393"
+        stCamera:RadialDistortParam3="-0.015911">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999897"
+        stCamera:RadialDistortParam1="0.000583"
+        stCamera:RadialDistortParam2="-0.000583"
+        stCamera:RadialDistortParam3="0.000045"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.08172"
+        stCamera:RadialDistortParam2="0.064393"
+        stCamera:RadialDistortParam3="-0.015911"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000222"
+        stCamera:RadialDistortParam1="-0.000726"
+        stCamera:RadialDistortParam2="0.000658"
+        stCamera:RadialDistortParam3="-0.000049"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.077218"
+        stCamera:RadialDistortParam2="0.063165"
+        stCamera:RadialDistortParam3="-0.015291">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999896"
+        stCamera:RadialDistortParam1="0.000581"
+        stCamera:RadialDistortParam2="-0.000568"
+        stCamera:RadialDistortParam3="0.000044"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.077218"
+        stCamera:RadialDistortParam2="0.063165"
+        stCamera:RadialDistortParam3="-0.015291"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000223"
+        stCamera:RadialDistortParam1="-0.000723"
+        stCamera:RadialDistortParam2="0.000642"
+        stCamera:RadialDistortParam3="-0.000048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.077218"
+        stCamera:RadialDistortParam2="0.063166"
+        stCamera:RadialDistortParam3="-0.015293">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999896"
+        stCamera:RadialDistortParam1="0.00058"
+        stCamera:RadialDistortParam2="-0.000568"
+        stCamera:RadialDistortParam3="0.000044"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.077218"
+        stCamera:RadialDistortParam2="0.063166"
+        stCamera:RadialDistortParam3="-0.015293"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000223"
+        stCamera:RadialDistortParam1="-0.000723"
+        stCamera:RadialDistortParam2="0.000641"
+        stCamera:RadialDistortParam3="-0.000048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.077217"
+        stCamera:RadialDistortParam2="0.063168"
+        stCamera:RadialDistortParam3="-0.015295">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999896"
+        stCamera:RadialDistortParam1="0.00058"
+        stCamera:RadialDistortParam2="-0.000567"
+        stCamera:RadialDistortParam3="0.000044"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.077217"
+        stCamera:RadialDistortParam2="0.063168"
+        stCamera:RadialDistortParam3="-0.015295"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000223"
+        stCamera:RadialDistortParam1="-0.000723"
+        stCamera:RadialDistortParam2="0.000641"
+        stCamera:RadialDistortParam3="-0.000048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="8.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.077217"
+        stCamera:RadialDistortParam2="0.063169"
+        stCamera:RadialDistortParam3="-0.015296">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999896"
+        stCamera:RadialDistortParam1="0.00058"
+        stCamera:RadialDistortParam2="-0.000567"
+        stCamera:RadialDistortParam3="0.000044"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.077217"
+        stCamera:RadialDistortParam2="0.063169"
+        stCamera:RadialDistortParam3="-0.015296"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000223"
+        stCamera:RadialDistortParam1="-0.000723"
+        stCamera:RadialDistortParam2="0.00064"
+        stCamera:RadialDistortParam3="-0.000048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.077217"
+        stCamera:RadialDistortParam2="0.063169"
+        stCamera:RadialDistortParam3="-0.015296">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999896"
+        stCamera:RadialDistortParam1="0.00058"
+        stCamera:RadialDistortParam2="-0.000566"
+        stCamera:RadialDistortParam3="0.000044"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.077217"
+        stCamera:RadialDistortParam2="0.063169"
+        stCamera:RadialDistortParam3="-0.015296"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000223"
+        stCamera:RadialDistortParam1="-0.000722"
+        stCamera:RadialDistortParam2="0.00064"
+        stCamera:RadialDistortParam3="-0.000048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000157"
+        stCamera:ResidualStandardDeviation="0.000102"
+        stCamera:RadialDistortParam1="-0.0774"
+        stCamera:RadialDistortParam2="0.06353"
+        stCamera:RadialDistortParam3="-0.015471">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999879"
+        stCamera:RadialDistortParam1="0.000605"
+        stCamera:RadialDistortParam2="-0.000594"
+        stCamera:RadialDistortParam3="0.000061"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000157"
+        stCamera:ResidualStandardDeviation="0.000102"
+        stCamera:RadialDistortParam1="-0.0774"
+        stCamera:RadialDistortParam2="0.06353"
+        stCamera:RadialDistortParam3="-0.015471"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000219"
+        stCamera:RadialDistortParam1="-0.00069"
+        stCamera:RadialDistortParam2="0.000613"
+        stCamera:RadialDistortParam3="-0.000047"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000098"
+        stCamera:RadialDistortParam1="-0.0773"
+        stCamera:RadialDistortParam2="0.063306"
+        stCamera:RadialDistortParam3="-0.015352">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999899"
+        stCamera:RadialDistortParam1="0.000532"
+        stCamera:RadialDistortParam2="-0.000508"
+        stCamera:RadialDistortParam3="0.000028"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000098"
+        stCamera:RadialDistortParam1="-0.0773"
+        stCamera:RadialDistortParam2="0.063306"
+        stCamera:RadialDistortParam3="-0.015352"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000222"
+        stCamera:RadialDistortParam1="-0.000709"
+        stCamera:RadialDistortParam2="0.000645"
+        stCamera:RadialDistortParam3="-0.000062"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4.526069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.077243"
+        stCamera:RadialDistortParam2="0.063198"
+        stCamera:RadialDistortParam3="-0.015301">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999894"
+        stCamera:RadialDistortParam1="0.0006"
+        stCamera:RadialDistortParam2="-0.000631"
+        stCamera:RadialDistortParam3="0.000088"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.077243"
+        stCamera:RadialDistortParam2="0.063198"
+        stCamera:RadialDistortParam3="-0.015301"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000225"
+        stCamera:RadialDistortParam1="-0.000743"
+        stCamera:RadialDistortParam2="0.000703"
+        stCamera:RadialDistortParam3="-0.000089"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.077239"
+        stCamera:RadialDistortParam2="0.0632"
+        stCamera:RadialDistortParam3="-0.015307">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999892"
+        stCamera:RadialDistortParam1="0.000613"
+        stCamera:RadialDistortParam2="-0.00065"
+        stCamera:RadialDistortParam3="0.000095"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.077239"
+        stCamera:RadialDistortParam2="0.0632"
+        stCamera:RadialDistortParam3="-0.015307"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000226"
+        stCamera:RadialDistortParam1="-0.000753"
+        stCamera:RadialDistortParam2="0.000717"
+        stCamera:RadialDistortParam3="-0.000094"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="5.531069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.077222"
+        stCamera:RadialDistortParam2="0.063158"
+        stCamera:RadialDistortParam3="-0.01528">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999895"
+        stCamera:RadialDistortParam1="0.000583"
+        stCamera:RadialDistortParam2="-0.000574"
+        stCamera:RadialDistortParam3="0.000045"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.077222"
+        stCamera:RadialDistortParam2="0.063158"
+        stCamera:RadialDistortParam3="-0.01528"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000224"
+        stCamera:RadialDistortParam1="-0.000725"
+        stCamera:RadialDistortParam2="0.000646"
+        stCamera:RadialDistortParam3="-0.000049"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.07722"
+        stCamera:RadialDistortParam2="0.063161"
+        stCamera:RadialDistortParam3="-0.015284">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999896"
+        stCamera:RadialDistortParam1="0.000582"
+        stCamera:RadialDistortParam2="-0.000571"
+        stCamera:RadialDistortParam3="0.000044"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.07722"
+        stCamera:RadialDistortParam2="0.063161"
+        stCamera:RadialDistortParam3="-0.015284"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000224"
+        stCamera:RadialDistortParam1="-0.000724"
+        stCamera:RadialDistortParam2="0.000644"
+        stCamera:RadialDistortParam3="-0.000048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.077219"
+        stCamera:RadialDistortParam2="0.063163"
+        stCamera:RadialDistortParam3="-0.015288">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999896"
+        stCamera:RadialDistortParam1="0.000581"
+        stCamera:RadialDistortParam2="-0.000569"
+        stCamera:RadialDistortParam3="0.000044"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.077219"
+        stCamera:RadialDistortParam2="0.063163"
+        stCamera:RadialDistortParam3="-0.015288"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000223"
+        stCamera:RadialDistortParam1="-0.000723"
+        stCamera:RadialDistortParam2="0.000643"
+        stCamera:RadialDistortParam3="-0.000048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069896"
+        stCamera:RadialDistortParam2="0.061361"
+        stCamera:RadialDistortParam3="-0.014266">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999902"
+        stCamera:RadialDistortParam1="0.000576"
+        stCamera:RadialDistortParam2="-0.000547"
+        stCamera:RadialDistortParam3="0.000043"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069896"
+        stCamera:RadialDistortParam2="0.061361"
+        stCamera:RadialDistortParam3="-0.014266"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000215"
+        stCamera:RadialDistortParam1="-0.000719"
+        stCamera:RadialDistortParam2="0.000617"
+        stCamera:RadialDistortParam3="-0.000048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069896"
+        stCamera:RadialDistortParam2="0.061362"
+        stCamera:RadialDistortParam3="-0.014269">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999902"
+        stCamera:RadialDistortParam1="0.000576"
+        stCamera:RadialDistortParam2="-0.000546"
+        stCamera:RadialDistortParam3="0.000043"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069896"
+        stCamera:RadialDistortParam2="0.061362"
+        stCamera:RadialDistortParam3="-0.014269"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000215"
+        stCamera:RadialDistortParam1="-0.000719"
+        stCamera:RadialDistortParam2="0.000617"
+        stCamera:RadialDistortParam3="-0.000048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069896"
+        stCamera:RadialDistortParam2="0.061364"
+        stCamera:RadialDistortParam3="-0.014272">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999902"
+        stCamera:RadialDistortParam1="0.000576"
+        stCamera:RadialDistortParam2="-0.000546"
+        stCamera:RadialDistortParam3="0.000043"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069896"
+        stCamera:RadialDistortParam2="0.061364"
+        stCamera:RadialDistortParam3="-0.014272"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000215"
+        stCamera:RadialDistortParam1="-0.000719"
+        stCamera:RadialDistortParam2="0.000616"
+        stCamera:RadialDistortParam3="-0.000048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10"
+       stCamera:ApertureValue="8.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069896"
+        stCamera:RadialDistortParam2="0.061365"
+        stCamera:RadialDistortParam3="-0.014273">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999902"
+        stCamera:RadialDistortParam1="0.000576"
+        stCamera:RadialDistortParam2="-0.000545"
+        stCamera:RadialDistortParam3="0.000043"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069896"
+        stCamera:RadialDistortParam2="0.061365"
+        stCamera:RadialDistortParam3="-0.014273"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000215"
+        stCamera:RadialDistortParam1="-0.000719"
+        stCamera:RadialDistortParam2="0.000616"
+        stCamera:RadialDistortParam3="-0.000048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069896"
+        stCamera:RadialDistortParam2="0.061366"
+        stCamera:RadialDistortParam3="-0.014274">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999902"
+        stCamera:RadialDistortParam1="0.000576"
+        stCamera:RadialDistortParam2="-0.000545"
+        stCamera:RadialDistortParam3="0.000043"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069896"
+        stCamera:RadialDistortParam2="0.061366"
+        stCamera:RadialDistortParam3="-0.014274"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000215"
+        stCamera:RadialDistortParam1="-0.000719"
+        stCamera:RadialDistortParam2="0.000616"
+        stCamera:RadialDistortParam3="-0.000048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000156"
+        stCamera:ResidualStandardDeviation="0.000101"
+        stCamera:RadialDistortParam1="-0.069999"
+        stCamera:RadialDistortParam2="0.061624"
+        stCamera:RadialDistortParam3="-0.014432">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999889"
+        stCamera:RadialDistortParam1="0.000605"
+        stCamera:RadialDistortParam2="-0.000582"
+        stCamera:RadialDistortParam3="0.000069"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000156"
+        stCamera:ResidualStandardDeviation="0.000101"
+        stCamera:RadialDistortParam1="-0.069999"
+        stCamera:RadialDistortParam2="0.061624"
+        stCamera:RadialDistortParam3="-0.014432"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000206"
+        stCamera:RadialDistortParam1="-0.00068"
+        stCamera:RadialDistortParam2="0.000582"
+        stCamera:RadialDistortParam3="-0.000049"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069941"
+        stCamera:RadialDistortParam2="0.061493"
+        stCamera:RadialDistortParam3="-0.014363">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999903"
+        stCamera:RadialDistortParam1="0.00055"
+        stCamera:RadialDistortParam2="-0.000513"
+        stCamera:RadialDistortParam3="0.000041"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069941"
+        stCamera:RadialDistortParam2="0.061493"
+        stCamera:RadialDistortParam3="-0.014363"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000214"
+        stCamera:RadialDistortParam1="-0.000717"
+        stCamera:RadialDistortParam2="0.000634"
+        stCamera:RadialDistortParam3="-0.000071"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10"
+       stCamera:ApertureValue="4.526069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069934"
+        stCamera:RadialDistortParam2="0.061477"
+        stCamera:RadialDistortParam3="-0.014354">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999902"
+        stCamera:RadialDistortParam1="0.000575"
+        stCamera:RadialDistortParam2="-0.000562"
+        stCamera:RadialDistortParam3="0.000066"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069934"
+        stCamera:RadialDistortParam2="0.061477"
+        stCamera:RadialDistortParam3="-0.014354"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000215"
+        stCamera:RadialDistortParam1="-0.000725"
+        stCamera:RadialDistortParam2="0.000648"
+        stCamera:RadialDistortParam3="-0.000077"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069939"
+        stCamera:RadialDistortParam2="0.061494"
+        stCamera:RadialDistortParam3="-0.014364">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999899"
+        stCamera:RadialDistortParam1="0.000606"
+        stCamera:RadialDistortParam2="-0.000634"
+        stCamera:RadialDistortParam3="0.000107"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069939"
+        stCamera:RadialDistortParam2="0.061494"
+        stCamera:RadialDistortParam3="-0.014364"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000218"
+        stCamera:RadialDistortParam1="-0.000749"
+        stCamera:RadialDistortParam2="0.000702"
+        stCamera:RadialDistortParam3="-0.000108"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10"
+       stCamera:ApertureValue="5.531069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069898"
+        stCamera:RadialDistortParam2="0.061352"
+        stCamera:RadialDistortParam3="-0.014253">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999901"
+        stCamera:RadialDistortParam1="0.000579"
+        stCamera:RadialDistortParam2="-0.000552"
+        stCamera:RadialDistortParam3="0.000043"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069898"
+        stCamera:RadialDistortParam2="0.061352"
+        stCamera:RadialDistortParam3="-0.014253"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000215"
+        stCamera:RadialDistortParam1="-0.000721"
+        stCamera:RadialDistortParam2="0.000622"
+        stCamera:RadialDistortParam3="-0.000048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069897"
+        stCamera:RadialDistortParam2="0.061355"
+        stCamera:RadialDistortParam3="-0.014259">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999902"
+        stCamera:RadialDistortParam1="0.000577"
+        stCamera:RadialDistortParam2="-0.000549"
+        stCamera:RadialDistortParam3="0.000043"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069897"
+        stCamera:RadialDistortParam2="0.061355"
+        stCamera:RadialDistortParam3="-0.014259"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000215"
+        stCamera:RadialDistortParam1="-0.00072"
+        stCamera:RadialDistortParam2="0.000619"
+        stCamera:RadialDistortParam3="-0.000047"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10"
+       stCamera:ApertureValue="6.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069896"
+        stCamera:RadialDistortParam2="0.061358"
+        stCamera:RadialDistortParam3="-0.014263">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999902"
+        stCamera:RadialDistortParam1="0.000577"
+        stCamera:RadialDistortParam2="-0.000548"
+        stCamera:RadialDistortParam3="0.000043"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069896"
+        stCamera:RadialDistortParam2="0.061358"
+        stCamera:RadialDistortParam3="-0.014263"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000215"
+        stCamera:RadialDistortParam1="-0.000719"
+        stCamera:RadialDistortParam2="0.000618"
+        stCamera:RadialDistortParam3="-0.000047"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.072831"
+        stCamera:RadialDistortParam2="0.062043"
+        stCamera:RadialDistortParam3="-0.014677">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999897"
+        stCamera:RadialDistortParam1="0.000578"
+        stCamera:RadialDistortParam2="-0.000555"
+        stCamera:RadialDistortParam3="0.000043"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.072831"
+        stCamera:RadialDistortParam2="0.062043"
+        stCamera:RadialDistortParam3="-0.014677"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000221"
+        stCamera:RadialDistortParam1="-0.000721"
+        stCamera:RadialDistortParam2="0.000627"
+        stCamera:RadialDistortParam3="-0.000048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.072831"
+        stCamera:RadialDistortParam2="0.062045"
+        stCamera:RadialDistortParam3="-0.01468">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999898"
+        stCamera:RadialDistortParam1="0.000578"
+        stCamera:RadialDistortParam2="-0.000555"
+        stCamera:RadialDistortParam3="0.000043"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.072831"
+        stCamera:RadialDistortParam2="0.062045"
+        stCamera:RadialDistortParam3="-0.01468"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000221"
+        stCamera:RadialDistortParam1="-0.000721"
+        stCamera:RadialDistortParam2="0.000626"
+        stCamera:RadialDistortParam3="-0.000048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.072831"
+        stCamera:RadialDistortParam2="0.062047"
+        stCamera:RadialDistortParam3="-0.014682">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999898"
+        stCamera:RadialDistortParam1="0.000578"
+        stCamera:RadialDistortParam2="-0.000554"
+        stCamera:RadialDistortParam3="0.000043"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.072831"
+        stCamera:RadialDistortParam2="0.062047"
+        stCamera:RadialDistortParam3="-0.014682"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000221"
+        stCamera:RadialDistortParam1="-0.000721"
+        stCamera:RadialDistortParam2="0.000626"
+        stCamera:RadialDistortParam3="-0.000048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="8.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.072831"
+        stCamera:RadialDistortParam2="0.062048"
+        stCamera:RadialDistortParam3="-0.014683">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999898"
+        stCamera:RadialDistortParam1="0.000578"
+        stCamera:RadialDistortParam2="-0.000554"
+        stCamera:RadialDistortParam3="0.000043"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.072831"
+        stCamera:RadialDistortParam2="0.062048"
+        stCamera:RadialDistortParam3="-0.014683"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000221"
+        stCamera:RadialDistortParam1="-0.000721"
+        stCamera:RadialDistortParam2="0.000626"
+        stCamera:RadialDistortParam3="-0.000048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.072831"
+        stCamera:RadialDistortParam2="0.062048"
+        stCamera:RadialDistortParam3="-0.014684">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999898"
+        stCamera:RadialDistortParam1="0.000578"
+        stCamera:RadialDistortParam2="-0.000554"
+        stCamera:RadialDistortParam3="0.000043"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.072831"
+        stCamera:RadialDistortParam2="0.062048"
+        stCamera:RadialDistortParam3="-0.014684"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000221"
+        stCamera:RadialDistortParam1="-0.000721"
+        stCamera:RadialDistortParam2="0.000626"
+        stCamera:RadialDistortParam3="-0.000048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000156"
+        stCamera:ResidualStandardDeviation="0.000101"
+        stCamera:RadialDistortParam1="-0.072968"
+        stCamera:RadialDistortParam2="0.062351"
+        stCamera:RadialDistortParam3="-0.014848">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999883"
+        stCamera:RadialDistortParam1="0.000606"
+        stCamera:RadialDistortParam2="-0.000587"
+        stCamera:RadialDistortParam3="0.000066"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000156"
+        stCamera:ResidualStandardDeviation="0.000101"
+        stCamera:RadialDistortParam1="-0.072968"
+        stCamera:RadialDistortParam2="0.062351"
+        stCamera:RadialDistortParam3="-0.014848"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000214"
+        stCamera:RadialDistortParam1="-0.000685"
+        stCamera:RadialDistortParam2="0.000595"
+        stCamera:RadialDistortParam3="-0.000048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.072892"
+        stCamera:RadialDistortParam2="0.062182"
+        stCamera:RadialDistortParam3="-0.014759">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999899"
+        stCamera:RadialDistortParam1="0.000543"
+        stCamera:RadialDistortParam2="-0.000509"
+        stCamera:RadialDistortParam3="0.000035"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.072892"
+        stCamera:RadialDistortParam2="0.062182"
+        stCamera:RadialDistortParam3="-0.014759"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.00022"
+        stCamera:RadialDistortParam1="-0.000714"
+        stCamera:RadialDistortParam2="0.000637"
+        stCamera:RadialDistortParam3="-0.000067"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="4.526069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.072866"
+        stCamera:RadialDistortParam2="0.062129"
+        stCamera:RadialDistortParam3="-0.014733">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999897"
+        stCamera:RadialDistortParam1="0.000583"
+        stCamera:RadialDistortParam2="-0.000585"
+        stCamera:RadialDistortParam3="0.000073"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.072866"
+        stCamera:RadialDistortParam2="0.062129"
+        stCamera:RadialDistortParam3="-0.014733"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000221"
+        stCamera:RadialDistortParam1="-0.00073"
+        stCamera:RadialDistortParam2="0.000666"
+        stCamera:RadialDistortParam3="-0.00008"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.072863"
+        stCamera:RadialDistortParam2="0.062127"
+        stCamera:RadialDistortParam3="-0.014733">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999894"
+        stCamera:RadialDistortParam1="0.000613"
+        stCamera:RadialDistortParam2="-0.000648"
+        stCamera:RadialDistortParam3="0.000106"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.072863"
+        stCamera:RadialDistortParam2="0.062127"
+        stCamera:RadialDistortParam3="-0.014733"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000224"
+        stCamera:RadialDistortParam1="-0.000754"
+        stCamera:RadialDistortParam2="0.000713"
+        stCamera:RadialDistortParam3="-0.000106"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="5.531069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.072834"
+        stCamera:RadialDistortParam2="0.062035"
+        stCamera:RadialDistortParam3="-0.014665">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999897"
+        stCamera:RadialDistortParam1="0.00058"
+        stCamera:RadialDistortParam2="-0.000561"
+        stCamera:RadialDistortParam3="0.000044"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.072834"
+        stCamera:RadialDistortParam2="0.062035"
+        stCamera:RadialDistortParam3="-0.014665"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000221"
+        stCamera:RadialDistortParam1="-0.000723"
+        stCamera:RadialDistortParam2="0.000631"
+        stCamera:RadialDistortParam3="-0.000048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.072832"
+        stCamera:RadialDistortParam2="0.062038"
+        stCamera:RadialDistortParam3="-0.01467">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999897"
+        stCamera:RadialDistortParam1="0.000579"
+        stCamera:RadialDistortParam2="-0.000558"
+        stCamera:RadialDistortParam3="0.000043"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.072832"
+        stCamera:RadialDistortParam2="0.062038"
+        stCamera:RadialDistortParam3="-0.01467"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000221"
+        stCamera:RadialDistortParam1="-0.000722"
+        stCamera:RadialDistortParam2="0.000629"
+        stCamera:RadialDistortParam3="-0.000048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="6.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.072832"
+        stCamera:RadialDistortParam2="0.062041"
+        stCamera:RadialDistortParam3="-0.014674">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999897"
+        stCamera:RadialDistortParam1="0.000579"
+        stCamera:RadialDistortParam2="-0.000556"
+        stCamera:RadialDistortParam3="0.000043"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.072832"
+        stCamera:RadialDistortParam2="0.062041"
+        stCamera:RadialDistortParam3="-0.014674"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000221"
+        stCamera:RadialDistortParam1="-0.000721"
+        stCamera:RadialDistortParam2="0.000628"
+        stCamera:RadialDistortParam3="-0.000048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="5"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.070585"
+        stCamera:RadialDistortParam2="0.061513"
+        stCamera:RadialDistortParam3="-0.014363">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.9999"
+        stCamera:RadialDistortParam1="0.000577"
+        stCamera:RadialDistortParam2="-0.000549"
+        stCamera:RadialDistortParam3="0.000043"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.070585"
+        stCamera:RadialDistortParam2="0.061513"
+        stCamera:RadialDistortParam3="-0.014363"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000217"
+        stCamera:RadialDistortParam1="-0.00072"
+        stCamera:RadialDistortParam2="0.00062"
+        stCamera:RadialDistortParam3="-0.000048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="5"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.070585"
+        stCamera:RadialDistortParam2="0.061515"
+        stCamera:RadialDistortParam3="-0.014365">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999901"
+        stCamera:RadialDistortParam1="0.000577"
+        stCamera:RadialDistortParam2="-0.000548"
+        stCamera:RadialDistortParam3="0.000043"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.070585"
+        stCamera:RadialDistortParam2="0.061515"
+        stCamera:RadialDistortParam3="-0.014365"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000217"
+        stCamera:RadialDistortParam1="-0.00072"
+        stCamera:RadialDistortParam2="0.000619"
+        stCamera:RadialDistortParam3="-0.000048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="5"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.070585"
+        stCamera:RadialDistortParam2="0.061517"
+        stCamera:RadialDistortParam3="-0.014368">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999901"
+        stCamera:RadialDistortParam1="0.000577"
+        stCamera:RadialDistortParam2="-0.000548"
+        stCamera:RadialDistortParam3="0.000043"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.070585"
+        stCamera:RadialDistortParam2="0.061517"
+        stCamera:RadialDistortParam3="-0.014368"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000217"
+        stCamera:RadialDistortParam1="-0.000719"
+        stCamera:RadialDistortParam2="0.000619"
+        stCamera:RadialDistortParam3="-0.000048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="5"
+       stCamera:ApertureValue="8.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.070585"
+        stCamera:RadialDistortParam2="0.061518"
+        stCamera:RadialDistortParam3="-0.014369">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999901"
+        stCamera:RadialDistortParam1="0.000576"
+        stCamera:RadialDistortParam2="-0.000547"
+        stCamera:RadialDistortParam3="0.000043"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.070585"
+        stCamera:RadialDistortParam2="0.061518"
+        stCamera:RadialDistortParam3="-0.014369"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000217"
+        stCamera:RadialDistortParam1="-0.000719"
+        stCamera:RadialDistortParam2="0.000618"
+        stCamera:RadialDistortParam3="-0.000048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="5"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.070585"
+        stCamera:RadialDistortParam2="0.061518"
+        stCamera:RadialDistortParam3="-0.01437">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999901"
+        stCamera:RadialDistortParam1="0.000576"
+        stCamera:RadialDistortParam2="-0.000547"
+        stCamera:RadialDistortParam3="0.000043"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.070585"
+        stCamera:RadialDistortParam2="0.061518"
+        stCamera:RadialDistortParam3="-0.01437"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000217"
+        stCamera:RadialDistortParam1="-0.000719"
+        stCamera:RadialDistortParam2="0.000618"
+        stCamera:RadialDistortParam3="-0.000048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="5"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000156"
+        stCamera:ResidualStandardDeviation="0.000101"
+        stCamera:RadialDistortParam1="-0.070697"
+        stCamera:RadialDistortParam2="0.061788"
+        stCamera:RadialDistortParam3="-0.014529">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999887"
+        stCamera:RadialDistortParam1="0.000605"
+        stCamera:RadialDistortParam2="-0.000583"
+        stCamera:RadialDistortParam3="0.000068"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000156"
+        stCamera:ResidualStandardDeviation="0.000101"
+        stCamera:RadialDistortParam1="-0.070697"
+        stCamera:RadialDistortParam2="0.061788"
+        stCamera:RadialDistortParam3="-0.014529"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000208"
+        stCamera:RadialDistortParam1="-0.000681"
+        stCamera:RadialDistortParam2="0.000585"
+        stCamera:RadialDistortParam3="-0.000049"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="5"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.070634"
+        stCamera:RadialDistortParam2="0.061648"
+        stCamera:RadialDistortParam3="-0.014455">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999901"
+        stCamera:RadialDistortParam1="0.000549"
+        stCamera:RadialDistortParam2="-0.000512"
+        stCamera:RadialDistortParam3="0.00004"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.070634"
+        stCamera:RadialDistortParam2="0.061648"
+        stCamera:RadialDistortParam3="-0.014455"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000216"
+        stCamera:RadialDistortParam1="-0.000717"
+        stCamera:RadialDistortParam2="0.000635"
+        stCamera:RadialDistortParam3="-0.00007"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="5"
+       stCamera:ApertureValue="4.526069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.070622"
+        stCamera:RadialDistortParam2="0.061623"
+        stCamera:RadialDistortParam3="-0.014443">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.9999"
+        stCamera:RadialDistortParam1="0.000577"
+        stCamera:RadialDistortParam2="-0.000567"
+        stCamera:RadialDistortParam3="0.000068"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.070622"
+        stCamera:RadialDistortParam2="0.061623"
+        stCamera:RadialDistortParam3="-0.014443"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000217"
+        stCamera:RadialDistortParam1="-0.000726"
+        stCamera:RadialDistortParam2="0.000651"
+        stCamera:RadialDistortParam3="-0.000078"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="5"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.070625"
+        stCamera:RadialDistortParam2="0.061634"
+        stCamera:RadialDistortParam3="-0.014449">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999897"
+        stCamera:RadialDistortParam1="0.000608"
+        stCamera:RadialDistortParam2="-0.000638"
+        stCamera:RadialDistortParam3="0.000107"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.070625"
+        stCamera:RadialDistortParam2="0.061634"
+        stCamera:RadialDistortParam3="-0.014449"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000219"
+        stCamera:RadialDistortParam1="-0.00075"
+        stCamera:RadialDistortParam2="0.000705"
+        stCamera:RadialDistortParam3="-0.000108"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="5"
+       stCamera:ApertureValue="5.531069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.070587"
+        stCamera:RadialDistortParam2="0.061505"
+        stCamera:RadialDistortParam3="-0.014349">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.9999"
+        stCamera:RadialDistortParam1="0.000579"
+        stCamera:RadialDistortParam2="-0.000554"
+        stCamera:RadialDistortParam3="0.000044"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.070587"
+        stCamera:RadialDistortParam2="0.061505"
+        stCamera:RadialDistortParam3="-0.014349"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000217"
+        stCamera:RadialDistortParam1="-0.000721"
+        stCamera:RadialDistortParam2="0.000624"
+        stCamera:RadialDistortParam3="-0.000048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="5"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.070586"
+        stCamera:RadialDistortParam2="0.061508"
+        stCamera:RadialDistortParam3="-0.014355">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.9999"
+        stCamera:RadialDistortParam1="0.000578"
+        stCamera:RadialDistortParam2="-0.000551"
+        stCamera:RadialDistortParam3="0.000043"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.070586"
+        stCamera:RadialDistortParam2="0.061508"
+        stCamera:RadialDistortParam3="-0.014355"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000217"
+        stCamera:RadialDistortParam1="-0.000721"
+        stCamera:RadialDistortParam2="0.000622"
+        stCamera:RadialDistortParam3="-0.000047"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="5"
+       stCamera:ApertureValue="6.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.070585"
+        stCamera:RadialDistortParam2="0.061511"
+        stCamera:RadialDistortParam3="-0.01436">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.9999"
+        stCamera:RadialDistortParam1="0.000577"
+        stCamera:RadialDistortParam2="-0.00055"
+        stCamera:RadialDistortParam3="0.000043"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.070585"
+        stCamera:RadialDistortParam2="0.061511"
+        stCamera:RadialDistortParam3="-0.01436"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000217"
+        stCamera:RadialDistortParam1="-0.00072"
+        stCamera:RadialDistortParam2="0.00062"
+        stCamera:RadialDistortParam3="-0.000047"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069251"
+        stCamera:RadialDistortParam2="0.061233"
+        stCamera:RadialDistortParam3="-0.014178">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999904"
+        stCamera:RadialDistortParam1="0.000576"
+        stCamera:RadialDistortParam2="-0.000545"
+        stCamera:RadialDistortParam3="0.000043"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069251"
+        stCamera:RadialDistortParam2="0.061233"
+        stCamera:RadialDistortParam3="-0.014178"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000213"
+        stCamera:RadialDistortParam1="-0.000718"
+        stCamera:RadialDistortParam2="0.000615"
+        stCamera:RadialDistortParam3="-0.000047"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069251"
+        stCamera:RadialDistortParam2="0.061235"
+        stCamera:RadialDistortParam3="-0.014181">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999904"
+        stCamera:RadialDistortParam1="0.000575"
+        stCamera:RadialDistortParam2="-0.000545"
+        stCamera:RadialDistortParam3="0.000043"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069251"
+        stCamera:RadialDistortParam2="0.061235"
+        stCamera:RadialDistortParam3="-0.014181"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000213"
+        stCamera:RadialDistortParam1="-0.000718"
+        stCamera:RadialDistortParam2="0.000615"
+        stCamera:RadialDistortParam3="-0.000048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069251"
+        stCamera:RadialDistortParam2="0.061236"
+        stCamera:RadialDistortParam3="-0.014183">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999904"
+        stCamera:RadialDistortParam1="0.000575"
+        stCamera:RadialDistortParam2="-0.000544"
+        stCamera:RadialDistortParam3="0.000043"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069251"
+        stCamera:RadialDistortParam2="0.061236"
+        stCamera:RadialDistortParam3="-0.014183"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000213"
+        stCamera:RadialDistortParam1="-0.000718"
+        stCamera:RadialDistortParam2="0.000614"
+        stCamera:RadialDistortParam3="-0.000048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="8.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069251"
+        stCamera:RadialDistortParam2="0.061237"
+        stCamera:RadialDistortParam3="-0.014185">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999904"
+        stCamera:RadialDistortParam1="0.000575"
+        stCamera:RadialDistortParam2="-0.000544"
+        stCamera:RadialDistortParam3="0.000043"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069251"
+        stCamera:RadialDistortParam2="0.061237"
+        stCamera:RadialDistortParam3="-0.014185"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000213"
+        stCamera:RadialDistortParam1="-0.000718"
+        stCamera:RadialDistortParam2="0.000614"
+        stCamera:RadialDistortParam3="-0.000048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069251"
+        stCamera:RadialDistortParam2="0.061238"
+        stCamera:RadialDistortParam3="-0.014186">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999904"
+        stCamera:RadialDistortParam1="0.000575"
+        stCamera:RadialDistortParam2="-0.000544"
+        stCamera:RadialDistortParam3="0.000043"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069251"
+        stCamera:RadialDistortParam2="0.061238"
+        stCamera:RadialDistortParam3="-0.014186"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000213"
+        stCamera:RadialDistortParam1="-0.000718"
+        stCamera:RadialDistortParam2="0.000614"
+        stCamera:RadialDistortParam3="-0.000048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000156"
+        stCamera:ResidualStandardDeviation="0.000101"
+        stCamera:RadialDistortParam1="-0.069346"
+        stCamera:RadialDistortParam2="0.061484"
+        stCamera:RadialDistortParam3="-0.014343">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999892"
+        stCamera:RadialDistortParam1="0.000604"
+        stCamera:RadialDistortParam2="-0.000581"
+        stCamera:RadialDistortParam3="0.000069"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000156"
+        stCamera:ResidualStandardDeviation="0.000101"
+        stCamera:RadialDistortParam1="-0.069346"
+        stCamera:RadialDistortParam2="0.061484"
+        stCamera:RadialDistortParam3="-0.014343"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000204"
+        stCamera:RadialDistortParam1="-0.000679"
+        stCamera:RadialDistortParam2="0.00058"
+        stCamera:RadialDistortParam3="-0.000049"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069291"
+        stCamera:RadialDistortParam2="0.061363"
+        stCamera:RadialDistortParam3="-0.014278">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999904"
+        stCamera:RadialDistortParam1="0.000552"
+        stCamera:RadialDistortParam2="-0.000514"
+        stCamera:RadialDistortParam3="0.000043"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069291"
+        stCamera:RadialDistortParam2="0.061363"
+        stCamera:RadialDistortParam3="-0.014278"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000212"
+        stCamera:RadialDistortParam1="-0.000717"
+        stCamera:RadialDistortParam2="0.000634"
+        stCamera:RadialDistortParam3="-0.000072"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="4.526069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069288"
+        stCamera:RadialDistortParam2="0.061355"
+        stCamera:RadialDistortParam3="-0.014274">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999904"
+        stCamera:RadialDistortParam1="0.000573"
+        stCamera:RadialDistortParam2="-0.000558"
+        stCamera:RadialDistortParam3="0.000065"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069288"
+        stCamera:RadialDistortParam2="0.061355"
+        stCamera:RadialDistortParam3="-0.014274"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000213"
+        stCamera:RadialDistortParam1="-0.000724"
+        stCamera:RadialDistortParam2="0.000644"
+        stCamera:RadialDistortParam3="-0.000077"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069297"
+        stCamera:RadialDistortParam2="0.061381"
+        stCamera:RadialDistortParam3="-0.014289">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999901"
+        stCamera:RadialDistortParam1="0.000604"
+        stCamera:RadialDistortParam2="-0.000631"
+        stCamera:RadialDistortParam3="0.000107"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000151"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069297"
+        stCamera:RadialDistortParam2="0.061381"
+        stCamera:RadialDistortParam3="-0.014289"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000215"
+        stCamera:RadialDistortParam1="-0.000747"
+        stCamera:RadialDistortParam2="0.000698"
+        stCamera:RadialDistortParam3="-0.000108"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="5.531069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069253"
+        stCamera:RadialDistortParam2="0.061226"
+        stCamera:RadialDistortParam3="-0.014165">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999903"
+        stCamera:RadialDistortParam1="0.000578"
+        stCamera:RadialDistortParam2="-0.000551"
+        stCamera:RadialDistortParam3="0.000044"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069253"
+        stCamera:RadialDistortParam2="0.061226"
+        stCamera:RadialDistortParam3="-0.014165"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000213"
+        stCamera:RadialDistortParam1="-0.00072"
+        stCamera:RadialDistortParam2="0.00062"
+        stCamera:RadialDistortParam3="-0.000048"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069252"
+        stCamera:RadialDistortParam2="0.061228"
+        stCamera:RadialDistortParam3="-0.01417">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999904"
+        stCamera:RadialDistortParam1="0.000577"
+        stCamera:RadialDistortParam2="-0.000548"
+        stCamera:RadialDistortParam3="0.000043"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069252"
+        stCamera:RadialDistortParam2="0.061228"
+        stCamera:RadialDistortParam3="-0.01417"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000213"
+        stCamera:RadialDistortParam1="-0.000719"
+        stCamera:RadialDistortParam2="0.000617"
+        stCamera:RadialDistortParam3="-0.000047"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="Super-Elmar-S 24"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica SUPER-ELMAR-S 1:3.5/24mm ASPH."
+       stCamera:ProfileName="Adobe (Leica SUPER-ELMAR-S 1:3.5/24mm ASPH.)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="6.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069251"
+        stCamera:RadialDistortParam2="0.061231"
+        stCamera:RadialDistortParam3="-0.014175">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999904"
+        stCamera:RadialDistortParam1="0.000576"
+        stCamera:RadialDistortParam2="-0.000546"
+        stCamera:RadialDistortParam3="0.000043"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:ResidualStandardDeviation="0.000099"
+        stCamera:RadialDistortParam1="-0.069251"
+        stCamera:RadialDistortParam2="0.061231"
+        stCamera:RadialDistortParam3="-0.014175"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000213"
+        stCamera:RadialDistortParam1="-0.000719"
+        stCamera:RadialDistortParam2="0.000616"
+        stCamera:RadialDistortParam3="-0.000047"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

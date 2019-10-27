@@ -1,0 +1,2282 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.27"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.087713"
+        stCamera:FocalLengthY="1.087713"
+        stCamera:ImageXCenter="0.496566"
+        stCamera:ImageYCenter="0.497702"
+        stCamera:ResidualMeanError="0.000156"
+        stCamera:ResidualStandardDeviation="0.000106"
+        stCamera:RadialDistortParam1="-0.127627"
+        stCamera:RadialDistortParam2="0.16418"
+        stCamera:RadialDistortParam3="-0.101038">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.087903"
+        stCamera:FocalLengthY="1.087903"
+        stCamera:ImageXCenter="0.496505"
+        stCamera:ImageYCenter="0.497689"
+        stCamera:ResidualMeanError="0.000124"
+        stCamera:ResidualStandardDeviation="0.000089"
+        stCamera:ScaleFactor="1.000532"
+        stCamera:RadialDistortParam1="0.000406"
+        stCamera:RadialDistortParam2="-0.007288"
+        stCamera:RadialDistortParam3="0.019548"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.087903"
+        stCamera:FocalLengthY="1.087903"
+        stCamera:ImageXCenter="0.496505"
+        stCamera:ImageYCenter="0.497689"
+        stCamera:ResidualMeanError="0.000123"
+        stCamera:ResidualStandardDeviation="0.000089"
+        stCamera:RadialDistortParam1="-0.127814"
+        stCamera:RadialDistortParam2="0.164712"
+        stCamera:RadialDistortParam3="-0.102969"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.087903"
+        stCamera:FocalLengthY="1.087903"
+        stCamera:ImageXCenter="0.496505"
+        stCamera:ImageYCenter="0.497689"
+        stCamera:ResidualMeanError="0.000124"
+        stCamera:ResidualStandardDeviation="0.000089"
+        stCamera:ScaleFactor="0.999265"
+        stCamera:RadialDistortParam1="-0.000044"
+        stCamera:RadialDistortParam2="0.007242"
+        stCamera:RadialDistortParam3="-0.017343"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.53"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.972455"
+        stCamera:FocalLengthY="0.972455"
+        stCamera:ImageXCenter="0.503209"
+        stCamera:ImageYCenter="0.494609"
+        stCamera:ResidualMeanError="0.000251"
+        stCamera:ResidualStandardDeviation="0.000274"
+        stCamera:RadialDistortParam1="-0.104106"
+        stCamera:RadialDistortParam2="0.026074"
+        stCamera:RadialDistortParam3="0.111195">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.972414"
+        stCamera:FocalLengthY="0.972414"
+        stCamera:ImageXCenter="0.503204"
+        stCamera:ImageYCenter="0.494624"
+        stCamera:ResidualMeanError="0.000241"
+        stCamera:ResidualStandardDeviation="0.000274"
+        stCamera:ScaleFactor="1.000437"
+        stCamera:RadialDistortParam1="-0.000551"
+        stCamera:RadialDistortParam2="-0.000422"
+        stCamera:RadialDistortParam3="0.000425"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.972414"
+        stCamera:FocalLengthY="0.972414"
+        stCamera:ImageXCenter="0.503204"
+        stCamera:ImageYCenter="0.494624"
+        stCamera:ResidualMeanError="0.00024"
+        stCamera:ResidualStandardDeviation="0.000275"
+        stCamera:RadialDistortParam1="-0.104292"
+        stCamera:RadialDistortParam2="0.025887"
+        stCamera:RadialDistortParam3="0.111265"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.972414"
+        stCamera:FocalLengthY="0.972414"
+        stCamera:ImageXCenter="0.503204"
+        stCamera:ImageYCenter="0.494624"
+        stCamera:ResidualMeanError="0.00024"
+        stCamera:ResidualStandardDeviation="0.000276"
+        stCamera:ScaleFactor="0.999497"
+        stCamera:RadialDistortParam1="0.001045"
+        stCamera:RadialDistortParam2="0.001443"
+        stCamera:RadialDistortParam3="-0.001252"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="4294967296"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.945761"
+        stCamera:FocalLengthY="0.945761"
+        stCamera:ImageXCenter="0.502403"
+        stCamera:ImageYCenter="0.497097"
+        stCamera:ResidualMeanError="0.000096"
+        stCamera:ResidualStandardDeviation="0.000085"
+        stCamera:RadialDistortParam1="-0.108451"
+        stCamera:RadialDistortParam2="0.11375"
+        stCamera:RadialDistortParam3="-0.021995">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="0.946133"
+        stCamera:FocalLengthY="0.946133"
+        stCamera:ImageXCenter="0.502391"
+        stCamera:ImageYCenter="0.497079"
+        stCamera:ResidualMeanError="0.000089"
+        stCamera:ResidualStandardDeviation="0.000091"
+        stCamera:ScaleFactor="1.000306"
+        stCamera:RadialDistortParam1="0.000206"
+        stCamera:RadialDistortParam2="-0.00418"
+        stCamera:RadialDistortParam3="0.004917"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="0.946133"
+        stCamera:FocalLengthY="0.946133"
+        stCamera:ImageXCenter="0.502391"
+        stCamera:ImageYCenter="0.497079"
+        stCamera:ResidualMeanError="0.000088"
+        stCamera:ResidualStandardDeviation="0.000091"
+        stCamera:RadialDistortParam1="-0.108872"
+        stCamera:RadialDistortParam2="0.114953"
+        stCamera:RadialDistortParam3="-0.023435"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="0.946133"
+        stCamera:FocalLengthY="0.946133"
+        stCamera:ImageXCenter="0.502391"
+        stCamera:ImageYCenter="0.497079"
+        stCamera:ResidualMeanError="0.000089"
+        stCamera:ResidualStandardDeviation="0.000091"
+        stCamera:ScaleFactor="0.999669"
+        stCamera:RadialDistortParam1="0.00102"
+        stCamera:RadialDistortParam2="0.002183"
+        stCamera:RadialDistortParam3="-0.001632"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.27"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.087903"
+        stCamera:FocalLengthY="1.087903"
+        stCamera:ImageXCenter="0.496505"
+        stCamera:ImageYCenter="0.497689"
+        stCamera:RadialDistortParam1="-0.127814"
+        stCamera:RadialDistortParam2="0.164712"
+        stCamera:RadialDistortParam3="-0.102969">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.087903"
+         stCamera:FocalLengthY="1.087903"
+         stCamera:VignetteModelParam1="-3.894563"
+         stCamera:VignetteModelParam2="10.671753"
+         stCamera:VignetteModelParam3="-13.765916">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003589, 1.000000</rdf:li>
+          <rdf:li>0.061439, 0.993495</rdf:li>
+          <rdf:li>0.119961, 0.946863</rdf:li>
+          <rdf:li>0.240913, 0.809096</rdf:li>
+          <rdf:li>0.551508, 0.399403</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.27"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.087903"
+        stCamera:FocalLengthY="1.087903"
+        stCamera:ImageXCenter="0.496505"
+        stCamera:ImageYCenter="0.497689"
+        stCamera:RadialDistortParam1="-0.127814"
+        stCamera:RadialDistortParam2="0.164712"
+        stCamera:RadialDistortParam3="-0.102969">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.087903"
+         stCamera:FocalLengthY="1.087903"
+         stCamera:VignetteModelParam1="-1.994606"
+         stCamera:VignetteModelParam2="-1.129809"
+         stCamera:VignetteModelParam3="6.658503">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.008026, 1.000000</rdf:li>
+          <rdf:li>0.111501, 0.988740</rdf:li>
+          <rdf:li>0.208830, 0.921340</rdf:li>
+          <rdf:li>0.310119, 0.806044</rdf:li>
+          <rdf:li>0.551508, 0.461649</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.27"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.087903"
+        stCamera:FocalLengthY="1.087903"
+        stCamera:ImageXCenter="0.496505"
+        stCamera:ImageYCenter="0.497689"
+        stCamera:RadialDistortParam1="-0.127814"
+        stCamera:RadialDistortParam2="0.164712"
+        stCamera:RadialDistortParam3="-0.102969">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.087903"
+         stCamera:FocalLengthY="1.087903"
+         stCamera:VignetteModelParam1="-1.04237"
+         stCamera:VignetteModelParam2="0.999762"
+         stCamera:VignetteModelParam3="-1.903873">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003589, 1.000000</rdf:li>
+          <rdf:li>0.170068, 0.978356</rdf:li>
+          <rdf:li>0.343546, 0.898581</rdf:li>
+          <rdf:li>0.408695, 0.860132</rdf:li>
+          <rdf:li>0.460009, 0.816844</rdf:li>
+          <rdf:li>0.551508, 0.712058</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.27"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.087903"
+        stCamera:FocalLengthY="1.087903"
+        stCamera:ImageXCenter="0.496505"
+        stCamera:ImageYCenter="0.497689"
+        stCamera:RadialDistortParam1="-0.127814"
+        stCamera:RadialDistortParam2="0.164712"
+        stCamera:RadialDistortParam3="-0.102969">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.087903"
+         stCamera:FocalLengthY="1.087903"
+         stCamera:VignetteModelParam1="-0.992436"
+         stCamera:VignetteModelParam2="-0.305305"
+         stCamera:VignetteModelParam3="3.579603">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003589, 1.000000</rdf:li>
+          <rdf:li>0.118882, 0.991365</rdf:li>
+          <rdf:li>0.231421, 0.954321</rdf:li>
+          <rdf:li>0.361098, 0.886396</rdf:li>
+          <rdf:li>0.551508, 0.756586</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.27"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.087903"
+        stCamera:FocalLengthY="1.087903"
+        stCamera:ImageXCenter="0.496505"
+        stCamera:ImageYCenter="0.497689"
+        stCamera:RadialDistortParam1="-0.127814"
+        stCamera:RadialDistortParam2="0.164712"
+        stCamera:RadialDistortParam3="-0.102969">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.087903"
+         stCamera:FocalLengthY="1.087903"
+         stCamera:VignetteModelParam1="-1.0666"
+         stCamera:VignetteModelParam2="0.29941"
+         stCamera:VignetteModelParam3="2.216459">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003589, 1.000000</rdf:li>
+          <rdf:li>0.130061, 0.989253</rdf:li>
+          <rdf:li>0.232754, 0.950456</rdf:li>
+          <rdf:li>0.386932, 0.867557</rdf:li>
+          <rdf:li>0.551508, 0.751977</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.27"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.087903"
+        stCamera:FocalLengthY="1.087903"
+        stCamera:ImageXCenter="0.496505"
+        stCamera:ImageYCenter="0.497689"
+        stCamera:RadialDistortParam1="-0.127814"
+        stCamera:RadialDistortParam2="0.164712"
+        stCamera:RadialDistortParam3="-0.102969">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.087903"
+         stCamera:FocalLengthY="1.087903"
+         stCamera:VignetteModelParam1="-1.047316"
+         stCamera:VignetteModelParam2="0.155421"
+         stCamera:VignetteModelParam3="2.544743">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003589, 1.000000</rdf:li>
+          <rdf:li>0.135684, 0.988581</rdf:li>
+          <rdf:li>0.232754, 0.951828</rdf:li>
+          <rdf:li>0.362593, 0.883048</rdf:li>
+          <rdf:li>0.551508, 0.754877</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.27"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.087903"
+        stCamera:FocalLengthY="1.087903"
+        stCamera:ImageXCenter="0.496505"
+        stCamera:ImageYCenter="0.497689"
+        stCamera:RadialDistortParam1="-0.127814"
+        stCamera:RadialDistortParam2="0.164712"
+        stCamera:RadialDistortParam3="-0.102969">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.087903"
+         stCamera:FocalLengthY="1.087903"
+         stCamera:VignetteModelParam1="-1.050332"
+         stCamera:VignetteModelParam2="0.168854"
+         stCamera:VignetteModelParam3="2.5496">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003589, 1.000000</rdf:li>
+          <rdf:li>0.135684, 0.989117</rdf:li>
+          <rdf:li>0.230417, 0.953078</rdf:li>
+          <rdf:li>0.355416, 0.887852</rdf:li>
+          <rdf:li>0.551508, 0.756236</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.27"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.087903"
+        stCamera:FocalLengthY="1.087903"
+        stCamera:ImageXCenter="0.496505"
+        stCamera:ImageYCenter="0.497689"
+        stCamera:RadialDistortParam1="-0.127814"
+        stCamera:RadialDistortParam2="0.164712"
+        stCamera:RadialDistortParam3="-0.102969">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.087903"
+         stCamera:FocalLengthY="1.087903"
+         stCamera:VignetteModelParam1="-1.0407"
+         stCamera:VignetteModelParam2="0.115605"
+         stCamera:VignetteModelParam3="2.646877">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003589, 1.000000</rdf:li>
+          <rdf:li>0.129664, 0.991948</rdf:li>
+          <rdf:li>0.222220, 0.959225</rdf:li>
+          <rdf:li>0.369073, 0.881866</rdf:li>
+          <rdf:li>0.551508, 0.756784</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.47"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.987724"
+        stCamera:FocalLengthY="0.987724"
+        stCamera:ImageXCenter="0.502316"
+        stCamera:ImageYCenter="0.49503"
+        stCamera:RadialDistortParam1="-0.107432"
+        stCamera:RadialDistortParam2="0.033958"
+        stCamera:RadialDistortParam3="0.108549">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.987724"
+         stCamera:FocalLengthY="0.987724"
+         stCamera:VignetteModelParam1="-4.222286"
+         stCamera:VignetteModelParam2="11.667583"
+         stCamera:VignetteModelParam3="-14.324903">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003953, 1.000000</rdf:li>
+          <rdf:li>0.067207, 0.970599</rdf:li>
+          <rdf:li>0.210867, 0.822474</rdf:li>
+          <rdf:li>0.368004, 0.624393</rdf:li>
+          <rdf:li>0.607445, 0.293696</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.47"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.987724"
+        stCamera:FocalLengthY="0.987724"
+        stCamera:ImageXCenter="0.502316"
+        stCamera:ImageYCenter="0.49503"
+        stCamera:RadialDistortParam1="-0.107432"
+        stCamera:RadialDistortParam2="0.033958"
+        stCamera:RadialDistortParam3="0.108549">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.987724"
+         stCamera:FocalLengthY="0.987724"
+         stCamera:VignetteModelParam1="-2.185014"
+         stCamera:VignetteModelParam2="0.179111"
+         stCamera:VignetteModelParam3="2.85224">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003953, 1.000000</rdf:li>
+          <rdf:li>0.131654, 0.980653</rdf:li>
+          <rdf:li>0.236576, 0.895060</rdf:li>
+          <rdf:li>0.351673, 0.751571</rdf:li>
+          <rdf:li>0.607445, 0.345630</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.47"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.987724"
+        stCamera:FocalLengthY="0.987724"
+        stCamera:ImageXCenter="0.502316"
+        stCamera:ImageYCenter="0.49503"
+        stCamera:RadialDistortParam1="-0.107432"
+        stCamera:RadialDistortParam2="0.033958"
+        stCamera:RadialDistortParam3="0.108549">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.987724"
+         stCamera:FocalLengthY="0.987724"
+         stCamera:VignetteModelParam1="-1.172459"
+         stCamera:VignetteModelParam2="2.573841"
+         stCamera:VignetteModelParam3="-6.908676">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.019767, 1.000000</rdf:li>
+          <rdf:li>0.138368, 0.987997</rdf:li>
+          <rdf:li>0.227138, 0.956437</rdf:li>
+          <rdf:li>0.405813, 0.859972</rdf:li>
+          <rdf:li>0.444487, 0.828758</rdf:li>
+          <rdf:li>0.511148, 0.754419</rdf:li>
+          <rdf:li>0.607445, 0.565814</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.47"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.987724"
+        stCamera:FocalLengthY="0.987724"
+        stCamera:ImageXCenter="0.502316"
+        stCamera:ImageYCenter="0.49503"
+        stCamera:RadialDistortParam1="-0.107432"
+        stCamera:RadialDistortParam2="0.033958"
+        stCamera:RadialDistortParam3="0.108549">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.987724"
+         stCamera:FocalLengthY="0.987724"
+         stCamera:VignetteModelParam1="-1.043714"
+         stCamera:VignetteModelParam2="0.51071"
+         stCamera:VignetteModelParam3="1.026903">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003953, 1.000000</rdf:li>
+          <rdf:li>0.143905, 0.987540</rdf:li>
+          <rdf:li>0.273926, 0.939975</rdf:li>
+          <rdf:li>0.398115, 0.866671</rdf:li>
+          <rdf:li>0.607445, 0.718002</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.47"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.987724"
+        stCamera:FocalLengthY="0.987724"
+        stCamera:ImageXCenter="0.502316"
+        stCamera:ImageYCenter="0.49503"
+        stCamera:RadialDistortParam1="-0.107432"
+        stCamera:RadialDistortParam2="0.033958"
+        stCamera:RadialDistortParam3="0.108549">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.987724"
+         stCamera:FocalLengthY="0.987724"
+         stCamera:VignetteModelParam1="-1.03889"
+         stCamera:VignetteModelParam2="0.592465"
+         stCamera:VignetteModelParam3="0.71209">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003953, 1.000000</rdf:li>
+          <rdf:li>0.143905, 0.989689</rdf:li>
+          <rdf:li>0.253787, 0.945853</rdf:li>
+          <rdf:li>0.391464, 0.872825</rdf:li>
+          <rdf:li>0.607445, 0.717607</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.47"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.987724"
+        stCamera:FocalLengthY="0.987724"
+        stCamera:ImageXCenter="0.502316"
+        stCamera:ImageYCenter="0.49503"
+        stCamera:RadialDistortParam1="-0.107432"
+        stCamera:RadialDistortParam2="0.033958"
+        stCamera:RadialDistortParam3="0.108549">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.987724"
+         stCamera:FocalLengthY="0.987724"
+         stCamera:VignetteModelParam1="-1.069449"
+         stCamera:VignetteModelParam2="0.79477"
+         stCamera:VignetteModelParam3="0.318517">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003953, 1.000000</rdf:li>
+          <rdf:li>0.143905, 0.989942</rdf:li>
+          <rdf:li>0.254648, 0.943334</rdf:li>
+          <rdf:li>0.405813, 0.859946</rdf:li>
+          <rdf:li>0.607445, 0.714304</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.47"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.987724"
+        stCamera:FocalLengthY="0.987724"
+        stCamera:ImageXCenter="0.502316"
+        stCamera:ImageYCenter="0.49503"
+        stCamera:RadialDistortParam1="-0.107432"
+        stCamera:RadialDistortParam2="0.033958"
+        stCamera:RadialDistortParam3="0.108549">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.987724"
+         stCamera:FocalLengthY="0.987724"
+         stCamera:VignetteModelParam1="-1.030305"
+         stCamera:VignetteModelParam2="0.570961"
+         stCamera:VignetteModelParam3="0.697516">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003953, 1.000000</rdf:li>
+          <rdf:li>0.143905, 0.991246</rdf:li>
+          <rdf:li>0.253787, 0.946513</rdf:li>
+          <rdf:li>0.395357, 0.873088</rdf:li>
+          <rdf:li>0.607445, 0.717593</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.47"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.987724"
+        stCamera:FocalLengthY="0.987724"
+        stCamera:ImageXCenter="0.502316"
+        stCamera:ImageYCenter="0.49503"
+        stCamera:RadialDistortParam1="-0.107432"
+        stCamera:RadialDistortParam2="0.033958"
+        stCamera:RadialDistortParam3="0.108549">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.987724"
+         stCamera:FocalLengthY="0.987724"
+         stCamera:VignetteModelParam1="-1.070282"
+         stCamera:VignetteModelParam2="0.746726"
+         stCamera:VignetteModelParam3="0.524822">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.025314, 1.000000</rdf:li>
+          <rdf:li>0.143905, 0.989766</rdf:li>
+          <rdf:li>0.259150, 0.942350</rdf:li>
+          <rdf:li>0.469853, 0.817195</rdf:li>
+          <rdf:li>0.607445, 0.717850</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.79"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.963765"
+        stCamera:FocalLengthY="0.963765"
+        stCamera:ImageXCenter="0.502936"
+        stCamera:ImageYCenter="0.495432"
+        stCamera:RadialDistortParam1="-0.108426"
+        stCamera:RadialDistortParam2="0.081129"
+        stCamera:RadialDistortParam3="0.030633">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.963765"
+         stCamera:FocalLengthY="0.963765"
+         stCamera:VignetteModelParam1="-4.192388"
+         stCamera:VignetteModelParam2="10.728158"
+         stCamera:VignetteModelParam3="-12.187124">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.004052, 1.000000</rdf:li>
+          <rdf:li>0.085085, 0.944557</rdf:li>
+          <rdf:li>0.224748, 0.800590</rdf:li>
+          <rdf:li>0.263358, 0.755677</rdf:li>
+          <rdf:li>0.339591, 0.657003</rdf:li>
+          <rdf:li>0.450244, 0.498192</rdf:li>
+          <rdf:li>0.564112, 0.338302</rdf:li>
+          <rdf:li>0.622546, 0.260879</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.79"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.963765"
+        stCamera:FocalLengthY="0.963765"
+        stCamera:ImageXCenter="0.502936"
+        stCamera:ImageYCenter="0.495432"
+        stCamera:RadialDistortParam1="-0.108426"
+        stCamera:RadialDistortParam2="0.081129"
+        stCamera:RadialDistortParam3="0.030633">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.963765"
+         stCamera:FocalLengthY="0.963765"
+         stCamera:VignetteModelParam1="-2.291508"
+         stCamera:VignetteModelParam2="0.375504"
+         stCamera:VignetteModelParam3="2.446637">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.004052, 1.000000</rdf:li>
+          <rdf:li>0.125862, 0.983438</rdf:li>
+          <rdf:li>0.212277, 0.912492</rdf:li>
+          <rdf:li>0.293430, 0.814589</rdf:li>
+          <rdf:li>0.360688, 0.712868</rdf:li>
+          <rdf:li>0.492255, 0.503142</rdf:li>
+          <rdf:li>0.569672, 0.378839</rdf:li>
+          <rdf:li>0.618100, 0.305926</rdf:li>
+          <rdf:li>0.622546, 0.299143</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.79"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.963765"
+        stCamera:FocalLengthY="0.963765"
+        stCamera:ImageXCenter="0.502936"
+        stCamera:ImageYCenter="0.495432"
+        stCamera:RadialDistortParam1="-0.108426"
+        stCamera:RadialDistortParam2="0.081129"
+        stCamera:RadialDistortParam3="0.030633">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.963765"
+         stCamera:FocalLengthY="0.963765"
+         stCamera:VignetteModelParam1="-1.058723"
+         stCamera:VignetteModelParam2="1.362683"
+         stCamera:VignetteModelParam3="-4.813228">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.004052, 1.000000</rdf:li>
+          <rdf:li>0.100314, 0.993606</rdf:li>
+          <rdf:li>0.197868, 0.966697</rdf:li>
+          <rdf:li>0.372069, 0.877045</rdf:li>
+          <rdf:li>0.438796, 0.830693</rdf:li>
+          <rdf:li>0.506586, 0.742891</rdf:li>
+          <rdf:li>0.622546, 0.509608</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.79"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.963765"
+        stCamera:FocalLengthY="0.963765"
+        stCamera:ImageXCenter="0.502936"
+        stCamera:ImageYCenter="0.495432"
+        stCamera:RadialDistortParam1="-0.108426"
+        stCamera:RadialDistortParam2="0.081129"
+        stCamera:RadialDistortParam3="0.030633">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.963765"
+         stCamera:FocalLengthY="0.963765"
+         stCamera:VignetteModelParam1="-1.164359"
+         stCamera:VignetteModelParam2="1.635327"
+         stCamera:VignetteModelParam3="-1.71647">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.004052, 1.000000</rdf:li>
+          <rdf:li>0.158222, 0.981387</rdf:li>
+          <rdf:li>0.350907, 0.886606</rdf:li>
+          <rdf:li>0.574950, 0.734395</rdf:li>
+          <rdf:li>0.622546, 0.674004</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.79"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.963765"
+        stCamera:FocalLengthY="0.963765"
+        stCamera:ImageXCenter="0.502936"
+        stCamera:ImageYCenter="0.495432"
+        stCamera:RadialDistortParam1="-0.108426"
+        stCamera:RadialDistortParam2="0.081129"
+        stCamera:RadialDistortParam3="0.030633">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.963765"
+         stCamera:FocalLengthY="0.963765"
+         stCamera:VignetteModelParam1="-1.042157"
+         stCamera:VignetteModelParam2="0.701992"
+         stCamera:VignetteModelParam3="0.321757">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.020258, 1.000000</rdf:li>
+          <rdf:li>0.147482, 0.989375</rdf:li>
+          <rdf:li>0.244748, 0.949693</rdf:li>
+          <rdf:li>0.401196, 0.863662</rdf:li>
+          <rdf:li>0.622546, 0.708357</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.79"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.963765"
+        stCamera:FocalLengthY="0.963765"
+        stCamera:ImageXCenter="0.502936"
+        stCamera:ImageYCenter="0.495432"
+        stCamera:RadialDistortParam1="-0.108426"
+        stCamera:RadialDistortParam2="0.081129"
+        stCamera:RadialDistortParam3="0.030633">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.963765"
+         stCamera:FocalLengthY="0.963765"
+         stCamera:VignetteModelParam1="-1.080076"
+         stCamera:VignetteModelParam2="0.910086"
+         stCamera:VignetteModelParam3="0.001744">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.004052, 1.000000</rdf:li>
+          <rdf:li>0.147482, 0.990312</rdf:li>
+          <rdf:li>0.228371, 0.954868</rdf:li>
+          <rdf:li>0.396255, 0.865423</rdf:li>
+          <rdf:li>0.622546, 0.706659</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.79"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.963765"
+        stCamera:FocalLengthY="0.963765"
+        stCamera:ImageXCenter="0.502936"
+        stCamera:ImageYCenter="0.495432"
+        stCamera:RadialDistortParam1="-0.108426"
+        stCamera:RadialDistortParam2="0.081129"
+        stCamera:RadialDistortParam3="0.030633">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.963765"
+         stCamera:FocalLengthY="0.963765"
+         stCamera:VignetteModelParam1="-1.044491"
+         stCamera:VignetteModelParam2="0.681729"
+         stCamera:VignetteModelParam3="0.443281">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.004052, 1.000000</rdf:li>
+          <rdf:li>0.147482, 0.990139</rdf:li>
+          <rdf:li>0.234471, 0.953104</rdf:li>
+          <rdf:li>0.399062, 0.865705</rdf:li>
+          <rdf:li>0.622546, 0.711140</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.79"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.963765"
+        stCamera:FocalLengthY="0.963765"
+        stCamera:ImageXCenter="0.502936"
+        stCamera:ImageYCenter="0.495432"
+        stCamera:RadialDistortParam1="-0.108426"
+        stCamera:RadialDistortParam2="0.081129"
+        stCamera:RadialDistortParam3="0.030633">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.963765"
+         stCamera:FocalLengthY="0.963765"
+         stCamera:VignetteModelParam1="-1.03872"
+         stCamera:VignetteModelParam2="0.63736"
+         stCamera:VignetteModelParam3="0.509615">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.004052, 1.000000</rdf:li>
+          <rdf:li>0.147482, 0.990738</rdf:li>
+          <rdf:li>0.228371, 0.956487</rdf:li>
+          <rdf:li>0.377152, 0.878650</rdf:li>
+          <rdf:li>0.622546, 0.712989</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1.33"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.956606"
+        stCamera:FocalLengthY="0.956606"
+        stCamera:ImageXCenter="0.502715"
+        stCamera:ImageYCenter="0.496101"
+        stCamera:RadialDistortParam1="-0.108925"
+        stCamera:RadialDistortParam2="0.0982"
+        stCamera:RadialDistortParam3="0.003752">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.956606"
+         stCamera:FocalLengthY="0.956606"
+         stCamera:VignetteModelParam1="-4.231527"
+         stCamera:VignetteModelParam2="10.572572"
+         stCamera:VignetteModelParam3="-11.6915">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.004082, 1.000000</rdf:li>
+          <rdf:li>0.077558, 0.949090</rdf:li>
+          <rdf:li>0.226430, 0.797045</rdf:li>
+          <rdf:li>0.234953, 0.786770</rdf:li>
+          <rdf:li>0.308642, 0.695474</rdf:li>
+          <rdf:li>0.442758, 0.499565</rdf:li>
+          <rdf:li>0.559469, 0.333675</rdf:li>
+          <rdf:li>0.627205, 0.244273</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1.33"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.956606"
+        stCamera:FocalLengthY="0.956606"
+        stCamera:ImageXCenter="0.502715"
+        stCamera:ImageYCenter="0.496101"
+        stCamera:RadialDistortParam1="-0.108925"
+        stCamera:RadialDistortParam2="0.0982"
+        stCamera:RadialDistortParam3="0.003752">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.956606"
+         stCamera:FocalLengthY="0.956606"
+         stCamera:VignetteModelParam1="-2.416811"
+         stCamera:VignetteModelParam2="0.743424"
+         stCamera:VignetteModelParam3="2.063942">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.004082, 1.000000</rdf:li>
+          <rdf:li>0.122527, 0.983791</rdf:li>
+          <rdf:li>0.202665, 0.917687</rdf:li>
+          <rdf:li>0.257035, 0.855359</rdf:li>
+          <rdf:li>0.337325, 0.739359</rdf:li>
+          <rdf:li>0.448516, 0.557145</rdf:li>
+          <rdf:li>0.573935, 0.357509</rdf:li>
+          <rdf:li>0.627205, 0.278642</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1.33"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.956606"
+        stCamera:FocalLengthY="0.956606"
+        stCamera:ImageXCenter="0.502715"
+        stCamera:ImageYCenter="0.496101"
+        stCamera:RadialDistortParam1="-0.108925"
+        stCamera:RadialDistortParam2="0.0982"
+        stCamera:RadialDistortParam3="0.003752">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.956606"
+         stCamera:FocalLengthY="0.956606"
+         stCamera:VignetteModelParam1="-0.980811"
+         stCamera:VignetteModelParam2="0.087404"
+         stCamera:VignetteModelParam3="-2.452993">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.004082, 1.000000</rdf:li>
+          <rdf:li>0.191679, 0.967804</rdf:li>
+          <rdf:li>0.424545, 0.834119</rdf:li>
+          <rdf:li>0.503343, 0.721309</rdf:li>
+          <rdf:li>0.627205, 0.468610</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1.33"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.956606"
+        stCamera:FocalLengthY="0.956606"
+        stCamera:ImageXCenter="0.502715"
+        stCamera:ImageYCenter="0.496101"
+        stCamera:RadialDistortParam1="-0.108925"
+        stCamera:RadialDistortParam2="0.0982"
+        stCamera:RadialDistortParam3="0.003752">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.956606"
+         stCamera:FocalLengthY="0.956606"
+         stCamera:VignetteModelParam1="-1.135819"
+         stCamera:VignetteModelParam2="1.740264"
+         stCamera:VignetteModelParam3="-2.404228">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.004082, 1.000000</rdf:li>
+          <rdf:li>0.187815, 0.972397</rdf:li>
+          <rdf:li>0.419730, 0.848668</rdf:li>
+          <rdf:li>0.568158, 0.740565</rdf:li>
+          <rdf:li>0.627205, 0.656073</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1.33"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.956606"
+        stCamera:FocalLengthY="0.956606"
+        stCamera:ImageXCenter="0.502715"
+        stCamera:ImageYCenter="0.496101"
+        stCamera:RadialDistortParam1="-0.108925"
+        stCamera:RadialDistortParam2="0.0982"
+        stCamera:RadialDistortParam3="0.003752">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.956606"
+         stCamera:FocalLengthY="0.956606"
+         stCamera:VignetteModelParam1="-1.062602"
+         stCamera:VignetteModelParam2="0.791507"
+         stCamera:VignetteModelParam3="0.163315">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.004082, 1.000000</rdf:li>
+          <rdf:li>0.136426, 0.988033</rdf:li>
+          <rdf:li>0.252456, 0.944016</rdf:li>
+          <rdf:li>0.385201, 0.872315</rdf:li>
+          <rdf:li>0.627205, 0.702250</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1.33"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.956606"
+        stCamera:FocalLengthY="0.956606"
+        stCamera:ImageXCenter="0.502715"
+        stCamera:ImageYCenter="0.496101"
+        stCamera:RadialDistortParam1="-0.108925"
+        stCamera:RadialDistortParam2="0.0982"
+        stCamera:RadialDistortParam3="0.003752">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.956606"
+         stCamera:FocalLengthY="0.956606"
+         stCamera:VignetteModelParam1="-1.084648"
+         stCamera:VignetteModelParam2="0.932462"
+         stCamera:VignetteModelParam3="-0.084711">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.020410, 1.000000</rdf:li>
+          <rdf:li>0.148586, 0.988374</rdf:li>
+          <rdf:li>0.244953, 0.946526</rdf:li>
+          <rdf:li>0.376362, 0.876251</rdf:li>
+          <rdf:li>0.627205, 0.701166</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1.33"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.956606"
+        stCamera:FocalLengthY="0.956606"
+        stCamera:ImageXCenter="0.502715"
+        stCamera:ImageYCenter="0.496101"
+        stCamera:RadialDistortParam1="-0.108925"
+        stCamera:RadialDistortParam2="0.0982"
+        stCamera:RadialDistortParam3="0.003752">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.956606"
+         stCamera:FocalLengthY="0.956606"
+         stCamera:VignetteModelParam1="-1.070937"
+         stCamera:VignetteModelParam2="0.823126"
+         stCamera:VignetteModelParam3="0.155965">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.004082, 1.000000</rdf:li>
+          <rdf:li>0.148586, 0.988981</rdf:li>
+          <rdf:li>0.236226, 0.951435</rdf:li>
+          <rdf:li>0.374853, 0.879701</rdf:li>
+          <rdf:li>0.627205, 0.703805</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1.33"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.956606"
+        stCamera:FocalLengthY="0.956606"
+        stCamera:ImageXCenter="0.502715"
+        stCamera:ImageYCenter="0.496101"
+        stCamera:RadialDistortParam1="-0.108925"
+        stCamera:RadialDistortParam2="0.0982"
+        stCamera:RadialDistortParam3="0.003752">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.956606"
+         stCamera:FocalLengthY="0.956606"
+         stCamera:VignetteModelParam1="-1.059545"
+         stCamera:VignetteModelParam2="0.734506"
+         stCamera:VignetteModelParam3="0.330499">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.004082, 1.000000</rdf:li>
+          <rdf:li>0.148586, 0.989862</rdf:li>
+          <rdf:li>0.244953, 0.949449</rdf:li>
+          <rdf:li>0.379975, 0.875779</rdf:li>
+          <rdf:li>0.627205, 0.704569</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.946134"
+        stCamera:FocalLengthY="0.946134"
+        stCamera:ImageXCenter="0.502391"
+        stCamera:ImageYCenter="0.497079"
+        stCamera:RadialDistortParam1="-0.108872"
+        stCamera:RadialDistortParam2="0.114951"
+        stCamera:RadialDistortParam3="-0.023432">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.946134"
+         stCamera:FocalLengthY="0.946134"
+         stCamera:VignetteModelParam1="-4.360076"
+         stCamera:VignetteModelParam2="10.775966"
+         stCamera:VignetteModelParam3="-11.676902">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.004127, 1.000000</rdf:li>
+          <rdf:li>0.053653, 0.970367</rdf:li>
+          <rdf:li>0.175149, 0.851995</rdf:li>
+          <rdf:li>0.281283, 0.720334</rdf:li>
+          <rdf:li>0.431855, 0.496783</rdf:li>
+          <rdf:li>0.584033, 0.281811</rdf:li>
+          <rdf:li>0.634147, 0.217215</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.946134"
+        stCamera:FocalLengthY="0.946134"
+        stCamera:ImageXCenter="0.502391"
+        stCamera:ImageYCenter="0.497079"
+        stCamera:RadialDistortParam1="-0.108872"
+        stCamera:RadialDistortParam2="0.114951"
+        stCamera:RadialDistortParam3="-0.023432">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.946134"
+         stCamera:FocalLengthY="0.946134"
+         stCamera:VignetteModelParam1="-2.528403"
+         stCamera:VignetteModelParam2="0.913916"
+         stCamera:VignetteModelParam3="2.077339">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.004127, 1.000000</rdf:li>
+          <rdf:li>0.113853, 0.989586</rdf:li>
+          <rdf:li>0.196766, 0.922839</rdf:li>
+          <rdf:li>0.232334, 0.883343</rdf:li>
+          <rdf:li>0.307328, 0.778902</rdf:li>
+          <rdf:li>0.465125, 0.519028</rdf:li>
+          <rdf:li>0.533617, 0.404832</rdf:li>
+          <rdf:li>0.634147, 0.254712</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.946134"
+        stCamera:FocalLengthY="0.946134"
+        stCamera:ImageXCenter="0.502391"
+        stCamera:ImageYCenter="0.497079"
+        stCamera:RadialDistortParam1="-0.108872"
+        stCamera:RadialDistortParam2="0.114951"
+        stCamera:RadialDistortParam3="-0.023432">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.946134"
+         stCamera:FocalLengthY="0.946134"
+         stCamera:VignetteModelParam1="-0.691255"
+         stCamera:VignetteModelParam2="-2.206495"
+         stCamera:VignetteModelParam3="1.375044">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.004127, 1.000000</rdf:li>
+          <rdf:li>0.113853, 0.992150</rdf:li>
+          <rdf:li>0.218428, 0.962334</rdf:li>
+          <rdf:li>0.364524, 0.893639</rdf:li>
+          <rdf:li>0.411248, 0.857220</rdf:li>
+          <rdf:li>0.499181, 0.719123</rdf:li>
+          <rdf:li>0.634147, 0.439391</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.946134"
+        stCamera:FocalLengthY="0.946134"
+        stCamera:ImageXCenter="0.502391"
+        stCamera:ImageYCenter="0.497079"
+        stCamera:RadialDistortParam1="-0.108872"
+        stCamera:RadialDistortParam2="0.114951"
+        stCamera:RadialDistortParam3="-0.023432">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.946134"
+         stCamera:FocalLengthY="0.946134"
+         stCamera:VignetteModelParam1="-1.1856"
+         stCamera:VignetteModelParam2="2.407633"
+         stCamera:VignetteModelParam3="-4.376698">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.004127, 1.000000</rdf:li>
+          <rdf:li>0.119688, 0.990543</rdf:li>
+          <rdf:li>0.221679, 0.957931</rdf:li>
+          <rdf:li>0.383204, 0.872945</rdf:li>
+          <rdf:li>0.467026, 0.812321</rdf:li>
+          <rdf:li>0.554285, 0.744358</rdf:li>
+          <rdf:li>0.634147, 0.616162</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.946134"
+        stCamera:FocalLengthY="0.946134"
+        stCamera:ImageXCenter="0.502391"
+        stCamera:ImageYCenter="0.497079"
+        stCamera:RadialDistortParam1="-0.108872"
+        stCamera:RadialDistortParam2="0.114951"
+        stCamera:RadialDistortParam3="-0.023432">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.946134"
+         stCamera:FocalLengthY="0.946134"
+         stCamera:VignetteModelParam1="-1.066642"
+         stCamera:VignetteModelParam2="0.818207"
+         stCamera:VignetteModelParam3="0.041691">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.004127, 1.000000</rdf:li>
+          <rdf:li>0.137936, 0.986365</rdf:li>
+          <rdf:li>0.249309, 0.945603</rdf:li>
+          <rdf:li>0.401099, 0.861626</rdf:li>
+          <rdf:li>0.634147, 0.692915</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.946134"
+        stCamera:FocalLengthY="0.946134"
+        stCamera:ImageXCenter="0.502391"
+        stCamera:ImageYCenter="0.497079"
+        stCamera:RadialDistortParam1="-0.108872"
+        stCamera:RadialDistortParam2="0.114951"
+        stCamera:RadialDistortParam3="-0.023432">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.946134"
+         stCamera:FocalLengthY="0.946134"
+         stCamera:VignetteModelParam1="-1.075245"
+         stCamera:VignetteModelParam2="0.877004"
+         stCamera:VignetteModelParam3="-0.065476">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.004127, 1.000000</rdf:li>
+          <rdf:li>0.137936, 0.987782</rdf:li>
+          <rdf:li>0.252162, 0.944005</rdf:li>
+          <rdf:li>0.401099, 0.861646</rdf:li>
+          <rdf:li>0.634147, 0.692318</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.946134"
+        stCamera:FocalLengthY="0.946134"
+        stCamera:ImageXCenter="0.502391"
+        stCamera:ImageYCenter="0.497079"
+        stCamera:RadialDistortParam1="-0.108872"
+        stCamera:RadialDistortParam2="0.114951"
+        stCamera:RadialDistortParam3="-0.023432">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.946134"
+         stCamera:FocalLengthY="0.946134"
+         stCamera:VignetteModelParam1="-1.072711"
+         stCamera:VignetteModelParam2="0.83006"
+         stCamera:VignetteModelParam3="0.08416">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.004127, 1.000000</rdf:li>
+          <rdf:li>0.150231, 0.984920</rdf:li>
+          <rdf:li>0.252162, 0.944121</rdf:li>
+          <rdf:li>0.401099, 0.862758</rdf:li>
+          <rdf:li>0.634147, 0.693528</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="165"
+       stCamera:Lens="35.0 mm f/1.8"
+       stCamera:LensInfo="350/10 350/10 18/10 18/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF-S NIKKOR 35mm f/1.8G ED"
+       stCamera:ProfileName="Adobe (Nikon AF-S NIKKOR 35mm f/1.8G ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.946134"
+        stCamera:FocalLengthY="0.946134"
+        stCamera:ImageXCenter="0.502391"
+        stCamera:ImageYCenter="0.497079"
+        stCamera:RadialDistortParam1="-0.108872"
+        stCamera:RadialDistortParam2="0.114951"
+        stCamera:RadialDistortParam3="-0.023432">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="0.946134"
+         stCamera:FocalLengthY="0.946134"
+         stCamera:VignetteModelParam1="-1.055451"
+         stCamera:VignetteModelParam2="0.725458"
+         stCamera:VignetteModelParam3="0.245734">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.020636, 1.000000</rdf:li>
+          <rdf:li>0.150231, 0.987067</rdf:li>
+          <rdf:li>0.252162, 0.945770</rdf:li>
+          <rdf:li>0.372566, 0.877898</rdf:li>
+          <rdf:li>0.504746, 0.791278</rdf:li>
+          <rdf:li>0.622708, 0.708013</rdf:li>
+          <rdf:li>0.634147, 0.694074</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

@@ -1,0 +1,417 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="Zeiss Otus 1.4/55 ZE"
+       stCamera:LensInfo="55/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Zeiss Otus 1.4/55 ZE"
+       stCamera:ProfileName="Adobe (Zeiss Otus 1.4/55 ZE)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="4"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="1.526098"
+       stCamera:FocalLengthY="1.526098"
+       stCamera:ResidualMeanError="0.000085"
+       stCamera:ResidualStandardDeviation="0.000051"
+       stCamera:RadialDistortParam1="-0.040503"
+       stCamera:RadialDistortParam2="-0.197868"
+       stCamera:RadialDistortParam3="0.133435"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="Zeiss Otus 1.4/55 ZE"
+       stCamera:LensInfo="55/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Zeiss Otus 1.4/55 ZE"
+       stCamera:ProfileName="Adobe (Zeiss Otus 1.4/55 ZE)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.526098"
+        stCamera:FocalLengthY="1.526098"
+        stCamera:RadialDistortParam1="-0.040503"
+        stCamera:RadialDistortParam2="-0.197868"
+        stCamera:RadialDistortParam3="0.133435">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.526098"
+         stCamera:FocalLengthY="1.526098"
+         stCamera:VignetteModelParam1="-11.095296"
+         stCamera:VignetteModelParam2="75.252318"
+         stCamera:VignetteModelParam3="-218.373581">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002563, 1.000000</rdf:li>
+          <rdf:li>0.038792, 0.967640</rdf:li>
+          <rdf:li>0.111297, 0.851430</rdf:li>
+          <rdf:li>0.122216, 0.829773</rdf:li>
+          <rdf:li>0.232824, 0.606539</rdf:li>
+          <rdf:li>0.267842, 0.523701</rdf:li>
+          <rdf:li>0.300931, 0.447289</rdf:li>
+          <rdf:li>0.380301, 0.287279</rdf:li>
+          <rdf:li>0.381233, 0.285299</rdf:li>
+          <rdf:li>0.393882, 0.258690</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="Zeiss Otus 1.4/55 ZE"
+       stCamera:LensInfo="55/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Zeiss Otus 1.4/55 ZE"
+       stCamera:ProfileName="Adobe (Zeiss Otus 1.4/55 ZE)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.526098"
+        stCamera:FocalLengthY="1.526098"
+        stCamera:RadialDistortParam1="-0.040503"
+        stCamera:RadialDistortParam2="-0.197868"
+        stCamera:RadialDistortParam3="0.133435">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.526098"
+         stCamera:FocalLengthY="1.526098"
+         stCamera:VignetteModelParam1="0.26714"
+         stCamera:VignetteModelParam2="-55.43076"
+         stCamera:VignetteModelParam3="197.330091">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002563, 1.000000</rdf:li>
+          <rdf:li>0.110348, 0.997342</rdf:li>
+          <rdf:li>0.166151, 0.980206</rdf:li>
+          <rdf:li>0.213815, 0.926266</rdf:li>
+          <rdf:li>0.253109, 0.836650</rdf:li>
+          <rdf:li>0.318086, 0.659183</rdf:li>
+          <rdf:li>0.373290, 0.491963</rdf:li>
+          <rdf:li>0.393882, 0.421270</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="Zeiss Otus 1.4/55 ZE"
+       stCamera:LensInfo="55/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Zeiss Otus 1.4/55 ZE"
+       stCamera:ProfileName="Adobe (Zeiss Otus 1.4/55 ZE)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.526098"
+        stCamera:FocalLengthY="1.526098"
+        stCamera:RadialDistortParam1="-0.040503"
+        stCamera:RadialDistortParam2="-0.197868"
+        stCamera:RadialDistortParam3="0.133435">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.526098"
+         stCamera:FocalLengthY="1.526098"
+         stCamera:VignetteModelParam1="-1.598024"
+         stCamera:VignetteModelParam2="17.709147"
+         stCamera:VignetteModelParam3="-135.273341">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002563, 1.000000</rdf:li>
+          <rdf:li>0.226239, 0.974591</rdf:li>
+          <rdf:li>0.306385, 0.914019</rdf:li>
+          <rdf:li>0.345117, 0.838047</rdf:li>
+          <rdf:li>0.375396, 0.740309</rdf:li>
+          <rdf:li>0.393882, 0.669577</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="Zeiss Otus 1.4/55 ZE"
+       stCamera:LensInfo="55/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Zeiss Otus 1.4/55 ZE"
+       stCamera:ProfileName="Adobe (Zeiss Otus 1.4/55 ZE)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.526098"
+        stCamera:FocalLengthY="1.526098"
+        stCamera:RadialDistortParam1="-0.040503"
+        stCamera:RadialDistortParam2="-0.197868"
+        stCamera:RadialDistortParam3="0.133435">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.526098"
+         stCamera:FocalLengthY="1.526098"
+         stCamera:VignetteModelParam1="-1.331662"
+         stCamera:VignetteModelParam2="2.234172"
+         stCamera:VignetteModelParam3="2.041555">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002563, 1.000000</rdf:li>
+          <rdf:li>0.232824, 0.965746</rdf:li>
+          <rdf:li>0.260932, 0.944797</rdf:li>
+          <rdf:li>0.381164, 0.855297</rdf:li>
+          <rdf:li>0.393882, 0.830495</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="Zeiss Otus 1.4/55 ZE"
+       stCamera:LensInfo="55/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Zeiss Otus 1.4/55 ZE"
+       stCamera:ProfileName="Adobe (Zeiss Otus 1.4/55 ZE)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.526098"
+        stCamera:FocalLengthY="1.526098"
+        stCamera:RadialDistortParam1="-0.040503"
+        stCamera:RadialDistortParam2="-0.197868"
+        stCamera:RadialDistortParam3="0.133435">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.526098"
+         stCamera:FocalLengthY="1.526098"
+         stCamera:VignetteModelParam1="-1.476529"
+         stCamera:VignetteModelParam2="3.272584"
+         stCamera:VignetteModelParam3="1.583205">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002563, 1.000000</rdf:li>
+          <rdf:li>0.227860, 0.959245</rdf:li>
+          <rdf:li>0.393882, 0.844439</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="Zeiss Otus 1.4/55 ZE"
+       stCamera:LensInfo="55/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Zeiss Otus 1.4/55 ZE"
+       stCamera:ProfileName="Adobe (Zeiss Otus 1.4/55 ZE)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.526098"
+        stCamera:FocalLengthY="1.526098"
+        stCamera:RadialDistortParam1="-0.040503"
+        stCamera:RadialDistortParam2="-0.197868"
+        stCamera:RadialDistortParam3="0.133435">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.526098"
+         stCamera:FocalLengthY="1.526098"
+         stCamera:VignetteModelParam1="-1.525275"
+         stCamera:VignetteModelParam2="3.932302"
+         stCamera:VignetteModelParam3="-1.728338">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002563, 1.000000</rdf:li>
+          <rdf:li>0.221484, 0.959642</rdf:li>
+          <rdf:li>0.393882, 0.841194</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="Zeiss Otus 1.4/55 ZE"
+       stCamera:LensInfo="55/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Zeiss Otus 1.4/55 ZE"
+       stCamera:ProfileName="Adobe (Zeiss Otus 1.4/55 ZE)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.526098"
+        stCamera:FocalLengthY="1.526098"
+        stCamera:RadialDistortParam1="-0.040503"
+        stCamera:RadialDistortParam2="-0.197868"
+        stCamera:RadialDistortParam3="0.133435">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.526098"
+         stCamera:FocalLengthY="1.526098"
+         stCamera:VignetteModelParam1="-1.479768"
+         stCamera:VignetteModelParam2="3.124313"
+         stCamera:VignetteModelParam3="1.071876">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002563, 1.000000</rdf:li>
+          <rdf:li>0.213014, 0.962832</rdf:li>
+          <rdf:li>0.393882, 0.840046</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="Zeiss Otus 1.4/55 ZE"
+       stCamera:LensInfo="55/1 55/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Zeiss Otus 1.4/55 ZE"
+       stCamera:ProfileName="Adobe (Zeiss Otus 1.4/55 ZE)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="5496"
+       stCamera:ImageLength="3670"
+       stCamera:FocalLength="55"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.526098"
+        stCamera:FocalLengthY="1.526098"
+        stCamera:RadialDistortParam1="-0.040503"
+        stCamera:RadialDistortParam2="-0.197868"
+        stCamera:RadialDistortParam3="0.133435">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="1.526098"
+         stCamera:FocalLengthY="1.526098"
+         stCamera:VignetteModelParam1="-1.529692"
+         stCamera:VignetteModelParam2="3.461631"
+         stCamera:VignetteModelParam3="0.579837">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002563, 1.000000</rdf:li>
+          <rdf:li>0.213014, 0.962050</rdf:li>
+          <rdf:li>0.393882, 0.837766</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

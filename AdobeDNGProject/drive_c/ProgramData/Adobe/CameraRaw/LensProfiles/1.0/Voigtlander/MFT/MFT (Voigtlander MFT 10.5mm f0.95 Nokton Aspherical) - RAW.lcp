@@ -1,0 +1,76 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156380, 2014/05/21-23:38:37        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="OLYMPUS IMAGING CORP."
+       stCamera:Model="E-M1"
+       stCamera:UniqueCameraModel="Olympus E-M1"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="10.5mm F0.95"
+       stCamera:CameraPrettyName="E-M1"
+       stCamera:LensPrettyName="Voigtlander MFT 10.5mm f/0.95 Nokton Aspherical"
+       stCamera:ProfileName="Adobe (Voigtlander MFT 10.5mm f/0.95 Nokton Aspherical)"
+       stCamera:SensorFormatFactor="2"
+       stCamera:ImageWidth="4640"
+       stCamera:ImageLength="3472"
+       stCamera:FocusDistance="1.666352">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.602613"
+       stCamera:FocalLengthY="0.602613"
+       stCamera:ImageXCenter="0.498264"
+       stCamera:ImageYCenter="0.500582"
+       stCamera:ResidualMeanError="0.000546"
+       stCamera:ResidualStandardDeviation="0.001025"
+       stCamera:RadialDistortParam1="-0.047143"
+       stCamera:RadialDistortParam2="0.049797"
+       stCamera:RadialDistortParam3="-0.023648"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="OLYMPUS IMAGING CORP."
+       stCamera:Model="E-M1"
+       stCamera:UniqueCameraModel="Olympus E-M1"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="10.5mm F0.95"
+       stCamera:CameraPrettyName="E-M1"
+       stCamera:LensPrettyName="Voigtlander MFT 10.5mm f/0.95 Nokton Aspherical"
+       stCamera:ProfileName="Adobe (Voigtlander MFT 10.5mm f/0.95 Nokton Aspherical)"
+       stCamera:SensorFormatFactor="2"
+       stCamera:ImageWidth="4640"
+       stCamera:ImageLength="3472"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.602613"
+        stCamera:FocalLengthY="0.602613"
+        stCamera:ImageXCenter="0.498264"
+        stCamera:ImageYCenter="0.500582"
+        stCamera:RadialDistortParam1="-0.047143"
+        stCamera:RadialDistortParam2="0.049797"
+        stCamera:RadialDistortParam3="-0.023648">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.602613"
+        stCamera:FocalLengthY="0.602613"
+        stCamera:VignetteModelParam1="-0.526589"
+        stCamera:VignetteModelParam2="0.223331"
+        stCamera:VignetteModelParam3="-0.069262"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

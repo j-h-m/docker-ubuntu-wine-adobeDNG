@@ -1,0 +1,416 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="47"
+       stCamera:Lens="135mm F1.8 ZA"
+       stCamera:LensInfo="135/1 135/1 18/10 18/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 135mm F1.8 ZA"
+       stCamera:ProfileName="Adobe (Sony 135mm F1.8 ZA)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:ScaleFactor="0.995628"
+       stCamera:RadialDistortParam1="0.20776"
+       stCamera:RadialDistortParam2="-1.160169"
+       stCamera:RadialDistortParam3="-11.833812"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="47"
+       stCamera:Lens="135mm F1.8 ZA"
+       stCamera:LensInfo="135/1 135/1 18/10 18/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 135mm F1.8 ZA"
+       stCamera:ProfileName="Adobe (Sony 135mm F1.8 ZA)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="1.695994">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.995628"
+        stCamera:RadialDistortParam1="0.20776"
+        stCamera:RadialDistortParam2="-1.160169"
+        stCamera:RadialDistortParam3="-11.833812">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-28.090082"
+         stCamera:VignetteModelParam2="740.629695"
+         stCamera:VignetteModelParam3="-11860.600354">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001042, 1.000000</rdf:li>
+          <rdf:li>0.024056, 0.987330</rdf:li>
+          <rdf:li>0.056392, 0.921059</rdf:li>
+          <rdf:li>0.126130, 0.690864</rdf:li>
+          <rdf:li>0.160101, 0.557866</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="47"
+       stCamera:Lens="135mm F1.8 ZA"
+       stCamera:LensInfo="135/1 135/1 18/10 18/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 135mm F1.8 ZA"
+       stCamera:ProfileName="Adobe (Sony 135mm F1.8 ZA)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.995628"
+        stCamera:RadialDistortParam1="0.20776"
+        stCamera:RadialDistortParam2="-1.160169"
+        stCamera:RadialDistortParam3="-11.833812">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-2.813193"
+         stCamera:VignetteModelParam2="-964.239541"
+         stCamera:VignetteModelParam3="20601.245984">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001042, 1.000000</rdf:li>
+          <rdf:li>0.059099, 0.997911</rdf:li>
+          <rdf:li>0.076633, 0.957104</rdf:li>
+          <rdf:li>0.120550, 0.814866</rdf:li>
+          <rdf:li>0.145999, 0.707439</rdf:li>
+          <rdf:li>0.160101, 0.636962</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="47"
+       stCamera:Lens="135mm F1.8 ZA"
+       stCamera:LensInfo="135/1 135/1 18/10 18/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 135mm F1.8 ZA"
+       stCamera:ProfileName="Adobe (Sony 135mm F1.8 ZA)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.995628"
+        stCamera:RadialDistortParam1="0.20776"
+        stCamera:RadialDistortParam2="-1.160169"
+        stCamera:RadialDistortParam3="-11.833812">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="0.339468"
+         stCamera:VignetteModelParam2="-812.893036"
+         stCamera:VignetteModelParam3="16365.077572">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001042, 1.000000</rdf:li>
+          <rdf:li>0.052607, 0.989353</rdf:li>
+          <rdf:li>0.097150, 0.954493</rdf:li>
+          <rdf:li>0.115865, 0.899895</rdf:li>
+          <rdf:li>0.160101, 0.728682</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="47"
+       stCamera:Lens="135mm F1.8 ZA"
+       stCamera:LensInfo="135/1 135/1 18/10 18/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 135mm F1.8 ZA"
+       stCamera:ProfileName="Adobe (Sony 135mm F1.8 ZA)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.995628"
+        stCamera:RadialDistortParam1="0.20776"
+        stCamera:RadialDistortParam2="-1.160169"
+        stCamera:RadialDistortParam3="-11.833812">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-6.413281"
+         stCamera:VignetteModelParam2="391.676537"
+         stCamera:VignetteModelParam3="-17261.096828">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001042, 1.000000</rdf:li>
+          <rdf:li>0.062735, 0.983844</rdf:li>
+          <rdf:li>0.128990, 0.921907</rdf:li>
+          <rdf:li>0.140280, 0.897660</rdf:li>
+          <rdf:li>0.160101, 0.801760</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="47"
+       stCamera:Lens="135mm F1.8 ZA"
+       stCamera:LensInfo="135/1 135/1 18/10 18/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 135mm F1.8 ZA"
+       stCamera:ProfileName="Adobe (Sony 135mm F1.8 ZA)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.995628"
+        stCamera:RadialDistortParam1="0.20776"
+        stCamera:RadialDistortParam2="-1.160169"
+        stCamera:RadialDistortParam3="-11.833812">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-4.780117"
+         stCamera:VignetteModelParam2="-11.945846"
+         stCamera:VignetteModelParam3="690.00205">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001042, 1.000000</rdf:li>
+          <rdf:li>0.079252, 0.970609</rdf:li>
+          <rdf:li>0.160101, 0.875968</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="47"
+       stCamera:Lens="135mm F1.8 ZA"
+       stCamera:LensInfo="135/1 135/1 18/10 18/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 135mm F1.8 ZA"
+       stCamera:ProfileName="Adobe (Sony 135mm F1.8 ZA)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.995628"
+        stCamera:RadialDistortParam1="0.20776"
+        stCamera:RadialDistortParam2="-1.160169"
+        stCamera:RadialDistortParam3="-11.833812">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-5.617576"
+         stCamera:VignetteModelParam2="52.284044"
+         stCamera:VignetteModelParam3="-661.470781">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001042, 1.000000</rdf:li>
+          <rdf:li>0.080718, 0.966568</rdf:li>
+          <rdf:li>0.160101, 0.873227</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="47"
+       stCamera:Lens="135mm F1.8 ZA"
+       stCamera:LensInfo="135/1 135/1 18/10 18/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 135mm F1.8 ZA"
+       stCamera:ProfileName="Adobe (Sony 135mm F1.8 ZA)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.995628"
+        stCamera:RadialDistortParam1="0.20776"
+        stCamera:RadialDistortParam2="-1.160169"
+        stCamera:RadialDistortParam3="-11.833812">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-6.483026"
+         stCamera:VignetteModelParam2="127.652624"
+         stCamera:VignetteModelParam3="-2454.963153">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001042, 1.000000</rdf:li>
+          <rdf:li>0.083416, 0.962232</rdf:li>
+          <rdf:li>0.160101, 0.870705</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="47"
+       stCamera:Lens="135mm F1.8 ZA"
+       stCamera:LensInfo="135/1 135/1 18/10 18/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 135mm F1.8 ZA"
+       stCamera:ProfileName="Adobe (Sony 135mm F1.8 ZA)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.995628"
+        stCamera:RadialDistortParam1="0.20776"
+        stCamera:RadialDistortParam2="-1.160169"
+        stCamera:RadialDistortParam3="-11.833812">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-7.495989"
+         stCamera:VignetteModelParam2="213.625067"
+         stCamera:VignetteModelParam3="-4454.206902">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001042, 1.000000</rdf:li>
+          <rdf:li>0.086709, 0.956718</rdf:li>
+          <rdf:li>0.160101, 0.867050</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="47"
+       stCamera:Lens="135mm F1.8 ZA"
+       stCamera:LensInfo="135/1 135/1 18/10 18/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony 135mm F1.8 ZA"
+       stCamera:ProfileName="Adobe (Sony 135mm F1.8 ZA)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.995628"
+        stCamera:RadialDistortParam1="0.20776"
+        stCamera:RadialDistortParam2="-1.160169"
+        stCamera:RadialDistortParam3="-11.833812">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-7.566564"
+         stCamera:VignetteModelParam2="224.748458"
+         stCamera:VignetteModelParam3="-4816.688938">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003126, 1.000000</rdf:li>
+          <rdf:li>0.058434, 0.982285</rdf:li>
+          <rdf:li>0.086207, 0.957577</rdf:li>
+          <rdf:li>0.132396, 0.909843</rdf:li>
+          <rdf:li>0.160101, 0.866243</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

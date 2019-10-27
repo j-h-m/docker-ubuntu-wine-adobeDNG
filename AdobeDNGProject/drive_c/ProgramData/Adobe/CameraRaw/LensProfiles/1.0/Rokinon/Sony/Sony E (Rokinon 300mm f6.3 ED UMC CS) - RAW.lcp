@@ -1,0 +1,70 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156380, 2014/05/21-23:38:37        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="300mm f/6.3"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="Rokinon 300mm f/6.3 ED UMC CS"
+       stCamera:ProfileName="Adobe (Rokinon 300mm f/6.3 ED UMC CS, Sony E)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:ImageWidth="6048"
+       stCamera:ImageLength="4038"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="4.120701">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="12.599747"
+       stCamera:FocalLengthY="12.599747"
+       stCamera:ResidualMeanError="0.000141"
+       stCamera:ResidualStandardDeviation="0.000073"
+       stCamera:RadialDistortParam1="14.908363"
+       stCamera:RadialDistortParam2="-477.80866"
+       stCamera:RadialDistortParam3="3651.990392"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="300mm f/6.3"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="Rokinon 300mm f/6.3 ED UMC CS"
+       stCamera:ProfileName="Adobe (Rokinon 300mm f/6.3 ED UMC CS, Sony E)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:ImageWidth="6048"
+       stCamera:ImageLength="4038"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="12.599747"
+        stCamera:FocalLengthY="12.599747"
+        stCamera:RadialDistortParam1="14.908363"
+        stCamera:RadialDistortParam2="-477.80866"
+        stCamera:RadialDistortParam3="3651.990392">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="12.599747"
+        stCamera:FocalLengthY="12.599747"
+        stCamera:VignetteModelParam1="-801.621033"
+        stCamera:VignetteModelParam2="439924.40421"
+        stCamera:VignetteModelParam3="-88480223.67482"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

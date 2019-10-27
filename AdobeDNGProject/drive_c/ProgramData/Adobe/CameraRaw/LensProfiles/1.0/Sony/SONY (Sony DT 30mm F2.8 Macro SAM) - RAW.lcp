@@ -1,0 +1,294 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="58"
+       stCamera:Lens="DT 30mm F2.8 Macro SAM"
+       stCamera:LensInfo="300/10 300/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 30mm F2.8 Macro SAM"
+       stCamera:ProfileName="Adobe (Sony DT 30mm F2.8 Macro SAM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel
+       stCamera:Version="2"
+       stCamera:ScaleFactor="1.006202"
+       stCamera:RadialDistortParam1="-0.097787"
+       stCamera:RadialDistortParam2="0.122912"
+       stCamera:RadialDistortParam3="-0.029144"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="58"
+       stCamera:Lens="DT 30mm F2.8 Macro SAM"
+       stCamera:LensInfo="300/10 300/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 30mm F2.8 Macro SAM"
+       stCamera:ProfileName="Adobe (Sony DT 30mm F2.8 Macro SAM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.006202"
+        stCamera:RadialDistortParam1="-0.097787"
+        stCamera:RadialDistortParam2="0.122912"
+        stCamera:RadialDistortParam3="-0.029144">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.756508"
+         stCamera:VignetteModelParam2="-2.090637"
+         stCamera:VignetteModelParam3="10.310049">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003085, 1.000000</rdf:li>
+          <rdf:li>0.107083, 0.999193</rdf:li>
+          <rdf:li>0.163959, 0.962315</rdf:li>
+          <rdf:li>0.278059, 0.853774</rdf:li>
+          <rdf:li>0.473985, 0.613737</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="58"
+       stCamera:Lens="DT 30mm F2.8 Macro SAM"
+       stCamera:LensInfo="300/10 300/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 30mm F2.8 Macro SAM"
+       stCamera:ProfileName="Adobe (Sony DT 30mm F2.8 Macro SAM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.006202"
+        stCamera:RadialDistortParam1="-0.097787"
+        stCamera:RadialDistortParam2="0.122912"
+        stCamera:RadialDistortParam3="-0.029144">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.272056"
+         stCamera:VignetteModelParam2="-7.278867"
+         stCamera:VignetteModelParam3="11.338881">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003085, 1.000000</rdf:li>
+          <rdf:li>0.234221, 0.976981</rdf:li>
+          <rdf:li>0.301884, 0.926264</rdf:li>
+          <rdf:li>0.394286, 0.823711</rdf:li>
+          <rdf:li>0.473985, 0.681216</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="58"
+       stCamera:Lens="DT 30mm F2.8 Macro SAM"
+       stCamera:LensInfo="300/10 300/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 30mm F2.8 Macro SAM"
+       stCamera:ProfileName="Adobe (Sony DT 30mm F2.8 Macro SAM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.006202"
+        stCamera:RadialDistortParam1="-0.097787"
+        stCamera:RadialDistortParam2="0.122912"
+        stCamera:RadialDistortParam3="-0.029144">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.000795"
+         stCamera:VignetteModelParam2="5.372934"
+         stCamera:VignetteModelParam3="-25.261056">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003085, 1.000000</rdf:li>
+          <rdf:li>0.186445, 0.975077</rdf:li>
+          <rdf:li>0.362866, 0.902873</rdf:li>
+          <rdf:li>0.412728, 0.858941</rdf:li>
+          <rdf:li>0.473985, 0.759200</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="58"
+       stCamera:Lens="DT 30mm F2.8 Macro SAM"
+       stCamera:LensInfo="300/10 300/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 30mm F2.8 Macro SAM"
+       stCamera:ProfileName="Adobe (Sony DT 30mm F2.8 Macro SAM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.006202"
+        stCamera:RadialDistortParam1="-0.097787"
+        stCamera:RadialDistortParam2="0.122912"
+        stCamera:RadialDistortParam3="-0.029144">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.812285"
+         stCamera:VignetteModelParam2="1.150571"
+         stCamera:VignetteModelParam3="-3.917118">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003085, 1.000000</rdf:li>
+          <rdf:li>0.125267, 0.990959</rdf:li>
+          <rdf:li>0.259581, 0.953293</rdf:li>
+          <rdf:li>0.382327, 0.892222</rdf:li>
+          <rdf:li>0.473985, 0.826695</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="58"
+       stCamera:Lens="DT 30mm F2.8 Macro SAM"
+       stCamera:LensInfo="300/10 300/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 30mm F2.8 Macro SAM"
+       stCamera:ProfileName="Adobe (Sony DT 30mm F2.8 Macro SAM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.006202"
+        stCamera:RadialDistortParam1="-0.097787"
+        stCamera:RadialDistortParam2="0.122912"
+        stCamera:RadialDistortParam3="-0.029144">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.796927"
+         stCamera:VignetteModelParam2="1.11026"
+         stCamera:VignetteModelParam3="-3.973286">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003085, 1.000000</rdf:li>
+          <rdf:li>0.131348, 0.990732</rdf:li>
+          <rdf:li>0.255219, 0.954980</rdf:li>
+          <rdf:li>0.385352, 0.892083</rdf:li>
+          <rdf:li>0.473985, 0.827798</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:PreferMetadataDistort="True"
+       stCamera:LensID="58"
+       stCamera:Lens="DT 30mm F2.8 Macro SAM"
+       stCamera:LensInfo="300/10 300/10 28/10 28/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony DT 30mm F2.8 Macro SAM"
+       stCamera:ProfileName="Adobe (Sony DT 30mm F2.8 Macro SAM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.006202"
+        stCamera:RadialDistortParam1="-0.097787"
+        stCamera:RadialDistortParam2="0.122912"
+        stCamera:RadialDistortParam3="-0.029144">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.768881"
+         stCamera:VignetteModelParam2="0.974777"
+         stCamera:VignetteModelParam3="-3.897365">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003085, 1.000000</rdf:li>
+          <rdf:li>0.129891, 0.992800</rdf:li>
+          <rdf:li>0.253873, 0.956860</rdf:li>
+          <rdf:li>0.387813, 0.892161</rdf:li>
+          <rdf:li>0.473985, 0.829778</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

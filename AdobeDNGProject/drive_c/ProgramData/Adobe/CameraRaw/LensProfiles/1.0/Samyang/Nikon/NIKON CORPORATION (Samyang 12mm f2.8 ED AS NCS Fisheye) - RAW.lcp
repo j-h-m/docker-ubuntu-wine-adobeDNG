@@ -1,0 +1,52 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156380, 2014/05/21-23:38:37        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D4"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="12mm f/2.8"
+       stCamera:LensID="74"
+       stCamera:LensInfo="120/10 120/10 28/10 14/10"
+       stCamera:CameraPrettyName="NIKON D4"
+       stCamera:LensPrettyName="Samyang 12mm f/2.8 ED AS NCS Fisheye"
+       stCamera:ProfileName="Adobe (Samyang 12mm f/2.8 ED AS NCS Fisheye, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6048"
+       stCamera:ImageLength="4024"
+       stCamera:FocusDistance="0.853516">
+      <stCamera:FisheyeModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.339199"
+        stCamera:FocalLengthY="0.339199"
+        stCamera:ImageXCenter="0.498803"
+        stCamera:ImageYCenter="0.500825"
+        stCamera:ResidualMeanError="0.000129"
+        stCamera:ResidualStandardDeviation="0.000083"
+        stCamera:RadialDistortParam1="0.046259"
+        stCamera:RadialDistortParam2="0.004977">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.339199"
+        stCamera:FocalLengthY="0.339199"
+        stCamera:ImageXCenter="0.498803"
+        stCamera:ImageYCenter="0.500825"
+        stCamera:ResidualMeanError="0.011063"
+        stCamera:VignetteModelParam1="-0.002161"
+        stCamera:VignetteModelParam2="0.185839"
+        stCamera:VignetteModelParam3="-0.146679"/>
+       </rdf:Description>
+      </stCamera:FisheyeModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

@@ -1,0 +1,552 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="ELMARIT-S 45 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica ELMARIT-S 1:2.8/45mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica ELMARIT-S 1:2.8/45mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="45"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.051121"
+        stCamera:RadialDistortParam2="0.072116"
+        stCamera:RadialDistortParam3="0.020766">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000096"
+        stCamera:RadialDistortParam1="-0.000666"
+        stCamera:RadialDistortParam2="0.000372"
+        stCamera:RadialDistortParam3="0.000318"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.051121"
+        stCamera:RadialDistortParam2="0.072116"
+        stCamera:RadialDistortParam3="0.020766"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999997"
+        stCamera:RadialDistortParam1="0.000636"
+        stCamera:RadialDistortParam2="-0.000371"
+        stCamera:RadialDistortParam3="-0.000505"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="ELMARIT-S 45 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica ELMARIT-S 1:2.8/45mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica ELMARIT-S 1:2.8/45mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="45"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.050973"
+        stCamera:RadialDistortParam2="0.075677"
+        stCamera:RadialDistortParam3="0.023212">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000115"
+        stCamera:RadialDistortParam1="-0.000724"
+        stCamera:RadialDistortParam2="0.0005"
+        stCamera:RadialDistortParam3="0.000128"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.050973"
+        stCamera:RadialDistortParam2="0.075677"
+        stCamera:RadialDistortParam3="0.023212"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99998"
+        stCamera:RadialDistortParam1="0.000697"
+        stCamera:RadialDistortParam2="-0.000514"
+        stCamera:RadialDistortParam3="-0.000301"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="ELMARIT-S 45 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica ELMARIT-S 1:2.8/45mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica ELMARIT-S 1:2.8/45mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="45"
+       stCamera:FocusDistance="0.8"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.050844"
+        stCamera:RadialDistortParam2="0.078329"
+        stCamera:RadialDistortParam3="0.024819">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000129"
+        stCamera:RadialDistortParam1="-0.000768"
+        stCamera:RadialDistortParam2="0.0006"
+        stCamera:RadialDistortParam3="-0.000027"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.050844"
+        stCamera:RadialDistortParam2="0.078329"
+        stCamera:RadialDistortParam3="0.024819"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999967"
+        stCamera:RadialDistortParam1="0.000744"
+        stCamera:RadialDistortParam2="-0.000626"
+        stCamera:RadialDistortParam3="-0.000132"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="ELMARIT-S 45 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica ELMARIT-S 1:2.8/45mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica ELMARIT-S 1:2.8/45mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="45"
+       stCamera:FocusDistance="0.9"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.050738"
+        stCamera:RadialDistortParam2="0.080379"
+        stCamera:RadialDistortParam3="0.025936">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000141"
+        stCamera:RadialDistortParam1="-0.000802"
+        stCamera:RadialDistortParam2="0.000679"
+        stCamera:RadialDistortParam3="-0.000153"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.050738"
+        stCamera:RadialDistortParam2="0.080379"
+        stCamera:RadialDistortParam3="0.025936"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999957"
+        stCamera:RadialDistortParam1="0.000782"
+        stCamera:RadialDistortParam2="-0.000715"
+        stCamera:RadialDistortParam3="0.000007"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="ELMARIT-S 45 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica ELMARIT-S 1:2.8/45mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica ELMARIT-S 1:2.8/45mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="45"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.050651"
+        stCamera:RadialDistortParam2="0.082011"
+        stCamera:RadialDistortParam3="0.026749">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000149"
+        stCamera:RadialDistortParam1="-0.00083"
+        stCamera:RadialDistortParam2="0.000742"
+        stCamera:RadialDistortParam3="-0.000255"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.050651"
+        stCamera:RadialDistortParam2="0.082011"
+        stCamera:RadialDistortParam3="0.026749"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999949"
+        stCamera:RadialDistortParam1="0.000811"
+        stCamera:RadialDistortParam2="-0.000787"
+        stCamera:RadialDistortParam3="0.000121"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="ELMARIT-S 45 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica ELMARIT-S 1:2.8/45mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica ELMARIT-S 1:2.8/45mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="45"
+       stCamera:FocusDistance="1.2"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.050518"
+        stCamera:RadialDistortParam2="0.084442"
+        stCamera:RadialDistortParam3="0.027837">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000162"
+        stCamera:RadialDistortParam1="-0.000871"
+        stCamera:RadialDistortParam2="0.000837"
+        stCamera:RadialDistortParam3="-0.000412"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.050518"
+        stCamera:RadialDistortParam2="0.084442"
+        stCamera:RadialDistortParam3="0.027837"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999937"
+        stCamera:RadialDistortParam1="0.000856"
+        stCamera:RadialDistortParam2="-0.000894"
+        stCamera:RadialDistortParam3="0.000297"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="ELMARIT-S 45 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica ELMARIT-S 1:2.8/45mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica ELMARIT-S 1:2.8/45mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="45"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.05038"
+        stCamera:RadialDistortParam2="0.086846"
+        stCamera:RadialDistortParam3="0.028791">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000175"
+        stCamera:RadialDistortParam1="-0.000912"
+        stCamera:RadialDistortParam2="0.00093"
+        stCamera:RadialDistortParam3="-0.00057"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.05038"
+        stCamera:RadialDistortParam2="0.086846"
+        stCamera:RadialDistortParam3="0.028791"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999924"
+        stCamera:RadialDistortParam1="0.000901"
+        stCamera:RadialDistortParam2="-0.001001"
+        stCamera:RadialDistortParam3="0.000475"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="ELMARIT-S 45 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica ELMARIT-S 1:2.8/45mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica ELMARIT-S 1:2.8/45mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="45"
+       stCamera:FocusDistance="15"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.04993"
+        stCamera:RadialDistortParam2="0.095308"
+        stCamera:RadialDistortParam3="0.031064">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000219"
+        stCamera:RadialDistortParam1="-0.001055"
+        stCamera:RadialDistortParam2="0.001247"
+        stCamera:RadialDistortParam3="-0.001126"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.04993"
+        stCamera:RadialDistortParam2="0.095308"
+        stCamera:RadialDistortParam3="0.031064"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999881"
+        stCamera:RadialDistortParam1="0.001058"
+        stCamera:RadialDistortParam2="-0.00137"
+        stCamera:RadialDistortParam3="0.001114"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="ELMARIT-S 45 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica ELMARIT-S 1:2.8/45mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica ELMARIT-S 1:2.8/45mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="45"
+       stCamera:FocusDistance="2"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.05025"
+        stCamera:RadialDistortParam2="0.089232"
+        stCamera:RadialDistortParam3="0.029588">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000187"
+        stCamera:RadialDistortParam1="-0.000952"
+        stCamera:RadialDistortParam2="0.001022"
+        stCamera:RadialDistortParam3="-0.000727"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.05025"
+        stCamera:RadialDistortParam2="0.089232"
+        stCamera:RadialDistortParam3="0.029588"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999912"
+        stCamera:RadialDistortParam1="0.000945"
+        stCamera:RadialDistortParam2="-0.001107"
+        stCamera:RadialDistortParam3="0.000654"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="ELMARIT-S 45 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica ELMARIT-S 1:2.8/45mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica ELMARIT-S 1:2.8/45mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="45"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.050123"
+        stCamera:RadialDistortParam2="0.091592"
+        stCamera:RadialDistortParam3="0.030252">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.0002"
+        stCamera:RadialDistortParam1="-0.000992"
+        stCamera:RadialDistortParam2="0.001111"
+        stCamera:RadialDistortParam3="-0.000883"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.050123"
+        stCamera:RadialDistortParam2="0.091592"
+        stCamera:RadialDistortParam3="0.030252"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.9999"
+        stCamera:RadialDistortParam1="0.000989"
+        stCamera:RadialDistortParam2="-0.00121"
+        stCamera:RadialDistortParam3="0.000833"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="ELMARIT-S 45 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica ELMARIT-S 1:2.8/45mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica ELMARIT-S 1:2.8/45mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="45"
+       stCamera:FocusDistance="5"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.050025"
+        stCamera:RadialDistortParam2="0.093459"
+        stCamera:RadialDistortParam3="0.030695">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000209"
+        stCamera:RadialDistortParam1="-0.001024"
+        stCamera:RadialDistortParam2="0.00118"
+        stCamera:RadialDistortParam3="-0.001005"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.050025"
+        stCamera:RadialDistortParam2="0.093459"
+        stCamera:RadialDistortParam3="0.030695"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999891"
+        stCamera:RadialDistortParam1="0.001024"
+        stCamera:RadialDistortParam2="-0.001291"
+        stCamera:RadialDistortParam3="0.000974"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Leica Camera AG"
+       stCamera:Make="Leica Camera AG"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="ELMARIT-S 45 CS"
+       stCamera:CameraPrettyName="Leica Camera AG"
+       stCamera:LensPrettyName="Leica ELMARIT-S 1:2.8/45mm ASPH. CS"
+       stCamera:ProfileName="Adobe (Leica ELMARIT-S 1:2.8/45mm ASPH. CS)"
+       stCamera:SensorFormatFactor="0.8"
+       stCamera:FocalLength="45"
+       stCamera:FocusDistance="100000003318135351409612647563264"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.049883"
+        stCamera:RadialDistortParam2="0.096224"
+        stCamera:RadialDistortParam3="0.031223">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000223"
+        stCamera:RadialDistortParam1="-0.00107"
+        stCamera:RadialDistortParam2="0.00128"
+        stCamera:RadialDistortParam3="-0.001185"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.049883"
+        stCamera:RadialDistortParam2="0.096224"
+        stCamera:RadialDistortParam3="0.031223"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999877"
+        stCamera:RadialDistortParam1="0.001075"
+        stCamera:RadialDistortParam2="-0.001408"
+        stCamera:RadialDistortParam3="0.001183"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

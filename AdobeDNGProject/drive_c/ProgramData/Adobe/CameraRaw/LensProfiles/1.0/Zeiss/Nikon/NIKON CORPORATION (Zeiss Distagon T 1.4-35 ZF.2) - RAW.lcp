@@ -1,0 +1,2128 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c007 1.136881, 2010/06/10-18:11:35 (debug)">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.084991"
+        stCamera:RadialDistortParam2="0.101951"
+        stCamera:RadialDistortParam3="-0.02401">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999999"
+        stCamera:RadialDistortParam1="-0.001197"
+        stCamera:RadialDistortParam2="-0.000627"
+        stCamera:RadialDistortParam3="0.000393"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.084991"
+        stCamera:RadialDistortParam2="0.101951"
+        stCamera:RadialDistortParam3="-0.02401"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000003"
+        stCamera:RadialDistortParam1="0.001416"
+        stCamera:RadialDistortParam2="0.000855"
+        stCamera:RadialDistortParam3="-0.001257"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.019006"
+         stCamera:VignetteModelParam1="-5.414485"
+         stCamera:VignetteModelParam2="17.12682"
+         stCamera:VignetteModelParam3="-22.191973">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.137014, 0.857255</rdf:li>
+          <rdf:li>0.274044, 0.681435</rdf:li>
+          <rdf:li>0.548268, 0.294608</rdf:li>
+          <rdf:li>0.616911, 0.205848</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.085036"
+        stCamera:RadialDistortParam2="0.102224"
+        stCamera:RadialDistortParam3="-0.026918">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999999"
+        stCamera:RadialDistortParam1="-0.00118"
+        stCamera:RadialDistortParam2="-0.000729"
+        stCamera:RadialDistortParam3="0.000674"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.085036"
+        stCamera:RadialDistortParam2="0.102224"
+        stCamera:RadialDistortParam3="-0.026918"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000002"
+        stCamera:RadialDistortParam1="0.00141"
+        stCamera:RadialDistortParam2="0.000942"
+        stCamera:RadialDistortParam3="-0.00122"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00002"
+        stCamera:VignetteModelParam1="-0.61997"
+        stCamera:VignetteModelParam2="0.143651"
+        stCamera:VignetteModelParam3="0.042871"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.085036"
+        stCamera:RadialDistortParam2="0.102223"
+        stCamera:RadialDistortParam3="-0.026916">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999999"
+        stCamera:RadialDistortParam1="-0.00118"
+        stCamera:RadialDistortParam2="-0.00073"
+        stCamera:RadialDistortParam3="0.000675"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.085036"
+        stCamera:RadialDistortParam2="0.102223"
+        stCamera:RadialDistortParam3="-0.026916"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000002"
+        stCamera:RadialDistortParam1="0.00141"
+        stCamera:RadialDistortParam2="0.000941"
+        stCamera:RadialDistortParam3="-0.001218"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00002"
+        stCamera:VignetteModelParam1="-0.620252"
+        stCamera:VignetteModelParam2="0.14428"
+        stCamera:VignetteModelParam3="0.042223"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.084993"
+        stCamera:RadialDistortParam2="0.101966"
+        stCamera:RadialDistortParam3="-0.024033">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.001209"
+        stCamera:RadialDistortParam2="-0.00059"
+        stCamera:RadialDistortParam3="0.000354"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.084993"
+        stCamera:RadialDistortParam2="0.101966"
+        stCamera:RadialDistortParam3="-0.024033"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.00142"
+        stCamera:RadialDistortParam2="0.000873"
+        stCamera:RadialDistortParam3="-0.001309"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.006982"
+        stCamera:VignetteModelParam1="0.044512"
+        stCamera:VignetteModelParam2="-7.93177"
+        stCamera:VignetteModelParam3="9.633481"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.085129"
+        stCamera:RadialDistortParam2="0.102103"
+        stCamera:RadialDistortParam3="-0.023468">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999998"
+        stCamera:RadialDistortParam1="-0.001159"
+        stCamera:RadialDistortParam2="-0.0008"
+        stCamera:RadialDistortParam3="0.000597"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.085129"
+        stCamera:RadialDistortParam2="0.102103"
+        stCamera:RadialDistortParam3="-0.023468"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.001449"
+        stCamera:RadialDistortParam2="0.000781"
+        stCamera:RadialDistortParam3="-0.001247"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00274"
+        stCamera:VignetteModelParam1="-0.846124"
+        stCamera:VignetteModelParam2="3.460957"
+        stCamera:VignetteModelParam3="-10.137865"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.084811"
+        stCamera:RadialDistortParam2="0.099954"
+        stCamera:RadialDistortParam3="-0.021762">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999999"
+        stCamera:RadialDistortParam1="-0.001182"
+        stCamera:RadialDistortParam2="-0.000718"
+        stCamera:RadialDistortParam3="0.000651"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.084811"
+        stCamera:RadialDistortParam2="0.099954"
+        stCamera:RadialDistortParam3="-0.021762"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000003"
+        stCamera:RadialDistortParam1="0.001358"
+        stCamera:RadialDistortParam2="0.001325"
+        stCamera:RadialDistortParam3="-0.001998"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000626"
+        stCamera:VignetteModelParam1="-0.650212"
+        stCamera:VignetteModelParam2="0.548101"
+        stCamera:VignetteModelParam3="-1.015085"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.085036"
+        stCamera:RadialDistortParam2="0.102231"
+        stCamera:RadialDistortParam3="-0.026929">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999999"
+        stCamera:RadialDistortParam1="-0.00118"
+        stCamera:RadialDistortParam2="-0.00073"
+        stCamera:RadialDistortParam3="0.000675"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.085036"
+        stCamera:RadialDistortParam2="0.102231"
+        stCamera:RadialDistortParam3="-0.026929"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000002"
+        stCamera:RadialDistortParam1="0.00141"
+        stCamera:RadialDistortParam2="0.000941"
+        stCamera:RadialDistortParam3="-0.001218"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000021"
+        stCamera:VignetteModelParam1="-0.618485"
+        stCamera:VignetteModelParam2="0.14037"
+        stCamera:VignetteModelParam3="0.046119"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.085036"
+        stCamera:RadialDistortParam2="0.102227"
+        stCamera:RadialDistortParam3="-0.026922">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999999"
+        stCamera:RadialDistortParam1="-0.001181"
+        stCamera:RadialDistortParam2="-0.000729"
+        stCamera:RadialDistortParam3="0.000673"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.085036"
+        stCamera:RadialDistortParam2="0.102227"
+        stCamera:RadialDistortParam3="-0.026922"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000002"
+        stCamera:RadialDistortParam1="0.00141"
+        stCamera:RadialDistortParam2="0.000942"
+        stCamera:RadialDistortParam3="-0.00122"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000021"
+        stCamera:VignetteModelParam1="-0.619507"
+        stCamera:VignetteModelParam2="0.142692"
+        stCamera:VignetteModelParam3="0.043745"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1.999797"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.085803"
+        stCamera:RadialDistortParam2="0.097365"
+        stCamera:RadialDistortParam3="-0.022709">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999999"
+        stCamera:RadialDistortParam1="-0.001108"
+        stCamera:RadialDistortParam2="-0.000554"
+        stCamera:RadialDistortParam3="0.000345"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.085803"
+        stCamera:RadialDistortParam2="0.097365"
+        stCamera:RadialDistortParam3="-0.022709"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000002"
+        stCamera:RadialDistortParam1="0.001293"
+        stCamera:RadialDistortParam2="0.000661"
+        stCamera:RadialDistortParam3="-0.00095"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.016288"
+         stCamera:VignetteModelParam1="-5.143361"
+         stCamera:VignetteModelParam2="15.745598"
+         stCamera:VignetteModelParam3="-20.18499">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>-0.000000, 1.000000</rdf:li>
+          <rdf:li>0.068505, 0.943924</rdf:li>
+          <rdf:li>0.137012, 0.868293</rdf:li>
+          <rdf:li>0.274041, 0.694161</rdf:li>
+          <rdf:li>0.548251, 0.308288</rdf:li>
+          <rdf:li>0.616882, 0.218647</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1.999797"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.085978"
+        stCamera:RadialDistortParam2="0.098091"
+        stCamera:RadialDistortParam3="-0.02591">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999999"
+        stCamera:RadialDistortParam1="-0.001093"
+        stCamera:RadialDistortParam2="-0.000657"
+        stCamera:RadialDistortParam3="0.000612"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.085978"
+        stCamera:RadialDistortParam2="0.098091"
+        stCamera:RadialDistortParam3="-0.02591"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000002"
+        stCamera:RadialDistortParam1="0.00129"
+        stCamera:RadialDistortParam2="0.000841"
+        stCamera:RadialDistortParam3="-0.001123"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000019"
+        stCamera:VignetteModelParam1="-0.602726"
+        stCamera:VignetteModelParam2="0.136405"
+        stCamera:VignetteModelParam3="0.042275"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1.999797"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.085978"
+        stCamera:RadialDistortParam2="0.098092"
+        stCamera:RadialDistortParam3="-0.025912">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999999"
+        stCamera:RadialDistortParam1="-0.001092"
+        stCamera:RadialDistortParam2="-0.00066"
+        stCamera:RadialDistortParam3="0.000617"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.085978"
+        stCamera:RadialDistortParam2="0.098092"
+        stCamera:RadialDistortParam3="-0.025912"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000002"
+        stCamera:RadialDistortParam1="0.00129"
+        stCamera:RadialDistortParam2="0.00084"
+        stCamera:RadialDistortParam3="-0.00112"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000019"
+        stCamera:VignetteModelParam1="-0.602988"
+        stCamera:VignetteModelParam2="0.136814"
+        stCamera:VignetteModelParam3="0.041929"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1.999797"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.085923"
+        stCamera:RadialDistortParam2="0.098139"
+        stCamera:RadialDistortParam3="-0.023907">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.001106"
+        stCamera:RadialDistortParam2="-0.0006"
+        stCamera:RadialDistortParam3="0.000432"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.085923"
+        stCamera:RadialDistortParam2="0.098139"
+        stCamera:RadialDistortParam3="-0.023907"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000002"
+        stCamera:RadialDistortParam1="0.001298"
+        stCamera:RadialDistortParam2="0.000629"
+        stCamera:RadialDistortParam3="-0.000897"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.006908"
+        stCamera:VignetteModelParam1="0.023228"
+        stCamera:VignetteModelParam2="-7.312803"
+        stCamera:VignetteModelParam3="8.505115"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1.999797"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.086129"
+        stCamera:RadialDistortParam2="0.098509"
+        stCamera:RadialDistortParam3="-0.023477">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999998"
+        stCamera:RadialDistortParam1="-0.001079"
+        stCamera:RadialDistortParam2="-0.000694"
+        stCamera:RadialDistortParam3="0.000516"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.086129"
+        stCamera:RadialDistortParam2="0.098509"
+        stCamera:RadialDistortParam3="-0.023477"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999997"
+        stCamera:RadialDistortParam1="0.001405"
+        stCamera:RadialDistortParam2="0.000217"
+        stCamera:RadialDistortParam3="-0.000485"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00279"
+        stCamera:VignetteModelParam1="-0.826133"
+        stCamera:VignetteModelParam2="3.336372"
+        stCamera:VignetteModelParam3="-9.54476"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1.999797"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.085821"
+        stCamera:RadialDistortParam2="0.096513"
+        stCamera:RadialDistortParam3="-0.022319">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999999"
+        stCamera:RadialDistortParam1="-0.001088"
+        stCamera:RadialDistortParam2="-0.000689"
+        stCamera:RadialDistortParam3="0.000675"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.085821"
+        stCamera:RadialDistortParam2="0.096513"
+        stCamera:RadialDistortParam3="-0.022319"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000003"
+        stCamera:RadialDistortParam1="0.001242"
+        stCamera:RadialDistortParam2="0.001194"
+        stCamera:RadialDistortParam3="-0.001841"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000466"
+        stCamera:VignetteModelParam1="-0.624581"
+        stCamera:VignetteModelParam2="0.439334"
+        stCamera:VignetteModelParam3="-0.752065"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1.999797"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.085978"
+        stCamera:RadialDistortParam2="0.098094"
+        stCamera:RadialDistortParam3="-0.025908">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999999"
+        stCamera:RadialDistortParam1="-0.001092"
+        stCamera:RadialDistortParam2="-0.00066"
+        stCamera:RadialDistortParam3="0.000617"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.085978"
+        stCamera:RadialDistortParam2="0.098094"
+        stCamera:RadialDistortParam3="-0.025908"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000002"
+        stCamera:RadialDistortParam1="0.00129"
+        stCamera:RadialDistortParam2="0.000839"
+        stCamera:RadialDistortParam3="-0.001119"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00002"
+        stCamera:VignetteModelParam1="-0.601211"
+        stCamera:VignetteModelParam2="0.133354"
+        stCamera:VignetteModelParam3="0.045427"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1.999797"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.085978"
+        stCamera:RadialDistortParam2="0.098092"
+        stCamera:RadialDistortParam3="-0.02591">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999999"
+        stCamera:RadialDistortParam1="-0.001093"
+        stCamera:RadialDistortParam2="-0.000658"
+        stCamera:RadialDistortParam3="0.000613"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.085978"
+        stCamera:RadialDistortParam2="0.098092"
+        stCamera:RadialDistortParam3="-0.02591"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000002"
+        stCamera:RadialDistortParam1="0.00129"
+        stCamera:RadialDistortParam2="0.000842"
+        stCamera:RadialDistortParam3="-0.001124"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00002"
+        stCamera:VignetteModelParam1="-0.60226"
+        stCamera:VignetteModelParam2="0.135523"
+        stCamera:VignetteModelParam3="0.04315"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.300026"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.08709"
+        stCamera:RadialDistortParam2="0.055301"
+        stCamera:RadialDistortParam3="-0.001509">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.000485"
+        stCamera:RadialDistortParam2="-0.000041"
+        stCamera:RadialDistortParam3="0.000013"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.08709"
+        stCamera:RadialDistortParam2="0.055301"
+        stCamera:RadialDistortParam3="-0.001509"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999998"
+        stCamera:RadialDistortParam1="0.000329"
+        stCamera:RadialDistortParam2="0.000113"
+        stCamera:RadialDistortParam3="-0.000457"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001948"
+        stCamera:VignetteModelParam1="-2.677191"
+        stCamera:VignetteModelParam2="3.705846"
+        stCamera:VignetteModelParam3="-2.92843"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.300026"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.090056"
+        stCamera:RadialDistortParam2="0.066752"
+        stCamera:RadialDistortParam3="-0.017477">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.000545"
+        stCamera:RadialDistortParam2="-0.000174"
+        stCamera:RadialDistortParam3="0.000266"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.090056"
+        stCamera:RadialDistortParam2="0.066752"
+        stCamera:RadialDistortParam3="-0.017477"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.00055"
+        stCamera:RadialDistortParam2="0.000161"
+        stCamera:RadialDistortParam3="-0.000532"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000012"
+        stCamera:VignetteModelParam1="-0.468841"
+        stCamera:VignetteModelParam2="0.08879"
+        stCamera:VignetteModelParam3="0.035553"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.300026"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.090058"
+        stCamera:RadialDistortParam2="0.066759"
+        stCamera:RadialDistortParam3="-0.017491">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.000545"
+        stCamera:RadialDistortParam2="-0.000174"
+        stCamera:RadialDistortParam3="0.000266"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.090058"
+        stCamera:RadialDistortParam2="0.066759"
+        stCamera:RadialDistortParam3="-0.017491"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.00055"
+        stCamera:RadialDistortParam2="0.000162"
+        stCamera:RadialDistortParam3="-0.000533"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000012"
+        stCamera:VignetteModelParam1="-0.469121"
+        stCamera:VignetteModelParam2="0.088918"
+        stCamera:VignetteModelParam3="0.035198"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.300026"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:RadialDistortParam1="-0.090465"
+        stCamera:RadialDistortParam2="0.075575"
+        stCamera:RadialDistortParam3="-0.031152">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.000611"
+        stCamera:RadialDistortParam2="0.000752"
+        stCamera:RadialDistortParam3="-0.001211"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:RadialDistortParam1="-0.090465"
+        stCamera:RadialDistortParam2="0.075575"
+        stCamera:RadialDistortParam3="-0.031152"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999997"
+        stCamera:RadialDistortParam1="0.000773"
+        stCamera:RadialDistortParam2="-0.002629"
+        stCamera:RadialDistortParam3="0.0037"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001908"
+        stCamera:VignetteModelParam1="-0.213832"
+        stCamera:VignetteModelParam2="-3.226358"
+        stCamera:VignetteModelParam3="2.524336"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.300026"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.089744"
+        stCamera:RadialDistortParam2="0.06317"
+        stCamera:RadialDistortParam3="-0.006745">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999999"
+        stCamera:RadialDistortParam1="-0.000523"
+        stCamera:RadialDistortParam2="-0.000427"
+        stCamera:RadialDistortParam3="0.001081"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.089744"
+        stCamera:RadialDistortParam2="0.06317"
+        stCamera:RadialDistortParam3="-0.006745"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000002"
+        stCamera:RadialDistortParam1="0.000455"
+        stCamera:RadialDistortParam2="0.001133"
+        stCamera:RadialDistortParam3="-0.003405"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001395"
+        stCamera:VignetteModelParam1="-0.580098"
+        stCamera:VignetteModelParam2="1.778134"
+        stCamera:VignetteModelParam3="-5.12669"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.300026"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.090027"
+        stCamera:RadialDistortParam2="0.066676"
+        stCamera:RadialDistortParam3="-0.017309">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.000544"
+        stCamera:RadialDistortParam2="-0.000169"
+        stCamera:RadialDistortParam3="0.000254"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.090027"
+        stCamera:RadialDistortParam2="0.066676"
+        stCamera:RadialDistortParam3="-0.017309"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.000547"
+        stCamera:RadialDistortParam2="0.000154"
+        stCamera:RadialDistortParam3="-0.000523"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000014"
+        stCamera:VignetteModelParam1="-0.46526"
+        stCamera:VignetteModelParam2="0.085804"
+        stCamera:VignetteModelParam3="0.04233"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.300026"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.090043"
+        stCamera:RadialDistortParam2="0.06672"
+        stCamera:RadialDistortParam3="-0.017404">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.000544"
+        stCamera:RadialDistortParam2="-0.000172"
+        stCamera:RadialDistortParam3="0.000261"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.090043"
+        stCamera:RadialDistortParam2="0.06672"
+        stCamera:RadialDistortParam3="-0.017404"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.000548"
+        stCamera:RadialDistortParam2="0.000158"
+        stCamera:RadialDistortParam3="-0.000528"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000013"
+        stCamera:VignetteModelParam1="-0.467299"
+        stCamera:VignetteModelParam2="0.087821"
+        stCamera:VignetteModelParam3="0.037887"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.300026"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.090052"
+        stCamera:RadialDistortParam2="0.066742"
+        stCamera:RadialDistortParam3="-0.017454">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.000545"
+        stCamera:RadialDistortParam2="-0.000173"
+        stCamera:RadialDistortParam3="0.000263"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.090052"
+        stCamera:RadialDistortParam2="0.066742"
+        stCamera:RadialDistortParam3="-0.017454"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.00055"
+        stCamera:RadialDistortParam2="0.00016"
+        stCamera:RadialDistortParam3="-0.000531"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000012"
+        stCamera:VignetteModelParam1="-0.468366"
+        stCamera:VignetteModelParam2="0.088548"
+        stCamera:VignetteModelParam3="0.03618"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.499897"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.088134"
+        stCamera:RadialDistortParam2="0.080066"
+        stCamera:RadialDistortParam3="-0.014748">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999999"
+        stCamera:RadialDistortParam1="-0.000806"
+        stCamera:RadialDistortParam2="-0.000297"
+        stCamera:RadialDistortParam3="0.000181"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.088134"
+        stCamera:RadialDistortParam2="0.080066"
+        stCamera:RadialDistortParam3="-0.014748"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.000817"
+        stCamera:RadialDistortParam2="0.000379"
+        stCamera:RadialDistortParam3="-0.000701"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.005965"
+         stCamera:VignetteModelParam1="-3.963117"
+         stCamera:VignetteModelParam2="9.728553"
+         stCamera:VignetteModelParam3="-11.402687">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>-0.000000, 1.000000</rdf:li>
+          <rdf:li>0.068501, 0.979388</rdf:li>
+          <rdf:li>0.137005, 0.915290</rdf:li>
+          <rdf:li>0.274030, 0.750145</rdf:li>
+          <rdf:li>0.616846, 0.276051</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.499897"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.089194"
+        stCamera:RadialDistortParam2="0.08387"
+        stCamera:RadialDistortParam3="-0.022052">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999999"
+        stCamera:RadialDistortParam1="-0.000814"
+        stCamera:RadialDistortParam2="-0.000412"
+        stCamera:RadialDistortParam3="0.000424"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.089194"
+        stCamera:RadialDistortParam2="0.08387"
+        stCamera:RadialDistortParam3="-0.022052"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.000909"
+        stCamera:RadialDistortParam2="0.000492"
+        stCamera:RadialDistortParam3="-0.000809"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000016"
+        stCamera:VignetteModelParam1="-0.541159"
+        stCamera:VignetteModelParam2="0.112555"
+        stCamera:VignetteModelParam3="0.039774"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.499897"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.089195"
+        stCamera:RadialDistortParam2="0.083874"
+        stCamera:RadialDistortParam3="-0.022063">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999999"
+        stCamera:RadialDistortParam1="-0.000814"
+        stCamera:RadialDistortParam2="-0.000412"
+        stCamera:RadialDistortParam3="0.000425"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.089195"
+        stCamera:RadialDistortParam2="0.083874"
+        stCamera:RadialDistortParam3="-0.022063"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.000909"
+        stCamera:RadialDistortParam2="0.00049"
+        stCamera:RadialDistortParam3="-0.000806"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000016"
+        stCamera:VignetteModelParam1="-0.541441"
+        stCamera:VignetteModelParam2="0.112865"
+        stCamera:VignetteModelParam3="0.039376"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.499897"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.089103"
+        stCamera:RadialDistortParam2="0.086247"
+        stCamera:RadialDistortParam3="-0.024202">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999998"
+        stCamera:RadialDistortParam1="-0.000789"
+        stCamera:RadialDistortParam2="-0.00037"
+        stCamera:RadialDistortParam3="0.00027"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.089103"
+        stCamera:RadialDistortParam2="0.086247"
+        stCamera:RadialDistortParam3="-0.024202"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000006"
+        stCamera:RadialDistortParam1="0.000853"
+        stCamera:RadialDistortParam2="-0.000049"
+        stCamera:RadialDistortParam3="0.000085"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.005119"
+        stCamera:VignetteModelParam1="-0.099459"
+        stCamera:VignetteModelParam2="-4.89071"
+        stCamera:VignetteModelParam3="4.400808"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.499897"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.088899"
+        stCamera:RadialDistortParam2="0.079913"
+        stCamera:RadialDistortParam3="-0.009551">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.000842"
+        stCamera:RadialDistortParam2="-0.00027"
+        stCamera:RadialDistortParam3="0.000331"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.088899"
+        stCamera:RadialDistortParam2="0.079913"
+        stCamera:RadialDistortParam3="-0.009551"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.000884"
+        stCamera:RadialDistortParam2="0.001004"
+        stCamera:RadialDistortParam3="-0.002813"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001442"
+        stCamera:VignetteModelParam1="-0.65891"
+        stCamera:VignetteModelParam2="1.951357"
+        stCamera:VignetteModelParam3="-5.771019"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.499897"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.089157"
+        stCamera:RadialDistortParam2="0.083594"
+        stCamera:RadialDistortParam3="-0.021389">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999999"
+        stCamera:RadialDistortParam1="-0.000796"
+        stCamera:RadialDistortParam2="-0.000538"
+        stCamera:RadialDistortParam3="0.000676"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.089157"
+        stCamera:RadialDistortParam2="0.083594"
+        stCamera:RadialDistortParam3="-0.021389"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000002"
+        stCamera:RadialDistortParam1="0.000884"
+        stCamera:RadialDistortParam2="0.000657"
+        stCamera:RadialDistortParam3="-0.001148"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00005"
+        stCamera:VignetteModelParam1="-0.54103"
+        stCamera:VignetteModelParam2="0.149607"
+        stCamera:VignetteModelParam3="-0.062518"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.499897"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.089189"
+        stCamera:RadialDistortParam2="0.083858"
+        stCamera:RadialDistortParam3="-0.022006">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999999"
+        stCamera:RadialDistortParam1="-0.000814"
+        stCamera:RadialDistortParam2="-0.000411"
+        stCamera:RadialDistortParam3="0.00042"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.089189"
+        stCamera:RadialDistortParam2="0.083858"
+        stCamera:RadialDistortParam3="-0.022006"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.000908"
+        stCamera:RadialDistortParam2="0.000487"
+        stCamera:RadialDistortParam3="-0.0008"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000017"
+        stCamera:VignetteModelParam1="-0.53961"
+        stCamera:VignetteModelParam2="0.110544"
+        stCamera:VignetteModelParam3="0.042408"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.499897"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.089192"
+        stCamera:RadialDistortParam2="0.083866"
+        stCamera:RadialDistortParam3="-0.022037">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999999"
+        stCamera:RadialDistortParam1="-0.000814"
+        stCamera:RadialDistortParam2="-0.000411"
+        stCamera:RadialDistortParam3="0.000421"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.089192"
+        stCamera:RadialDistortParam2="0.083866"
+        stCamera:RadialDistortParam3="-0.022037"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.000908"
+        stCamera:RadialDistortParam2="0.00049"
+        stCamera:RadialDistortParam3="-0.000806"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000016"
+        stCamera:VignetteModelParam1="-0.540679"
+        stCamera:VignetteModelParam2="0.111981"
+        stCamera:VignetteModelParam3="0.040503"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.999949"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.086721"
+        stCamera:RadialDistortParam2="0.092417"
+        stCamera:RadialDistortParam3="-0.020781">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999999"
+        stCamera:RadialDistortParam1="-0.001014"
+        stCamera:RadialDistortParam2="-0.000474"
+        stCamera:RadialDistortParam3="0.000294"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.086721"
+        stCamera:RadialDistortParam2="0.092417"
+        stCamera:RadialDistortParam3="-0.020781"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.001144"
+        stCamera:RadialDistortParam2="0.000574"
+        stCamera:RadialDistortParam3="-0.000874"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.012821"
+         stCamera:VignetteModelParam1="-4.789592"
+         stCamera:VignetteModelParam2="13.907789"
+         stCamera:VignetteModelParam3="-17.482489">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>-0.000000, 1.000000</rdf:li>
+          <rdf:li>0.068504, 0.956703</rdf:li>
+          <rdf:li>0.137010, 0.882908</rdf:li>
+          <rdf:li>0.274037, 0.710639</rdf:li>
+          <rdf:li>0.548235, 0.325343</rdf:li>
+          <rdf:li>0.616862, 0.234706</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.999949"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.087066"
+        stCamera:RadialDistortParam2="0.093738"
+        stCamera:RadialDistortParam3="-0.024745">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999999"
+        stCamera:RadialDistortParam1="-0.001002"
+        stCamera:RadialDistortParam2="-0.000581"
+        stCamera:RadialDistortParam3="0.00055"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.087066"
+        stCamera:RadialDistortParam2="0.093738"
+        stCamera:RadialDistortParam3="-0.024745"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.001165"
+        stCamera:RadialDistortParam2="0.00073"
+        stCamera:RadialDistortParam3="-0.00102"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000018"
+        stCamera:VignetteModelParam1="-0.583962"
+        stCamera:VignetteModelParam2="0.128712"
+        stCamera:VignetteModelParam3="0.041736"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.999949"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.087066"
+        stCamera:RadialDistortParam2="0.09374"
+        stCamera:RadialDistortParam3="-0.02475">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999999"
+        stCamera:RadialDistortParam1="-0.001001"
+        stCamera:RadialDistortParam2="-0.000584"
+        stCamera:RadialDistortParam3="0.000556"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.087066"
+        stCamera:RadialDistortParam2="0.09374"
+        stCamera:RadialDistortParam3="-0.02475"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.001166"
+        stCamera:RadialDistortParam2="0.00073"
+        stCamera:RadialDistortParam3="-0.001019"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000018"
+        stCamera:VignetteModelParam1="-0.584249"
+        stCamera:VignetteModelParam2="0.129229"
+        stCamera:VignetteModelParam3="0.041139"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.999949"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.086996"
+        stCamera:RadialDistortParam2="0.094188"
+        stCamera:RadialDistortParam3="-0.023516">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.001014"
+        stCamera:RadialDistortParam2="-0.0005"
+        stCamera:RadialDistortParam3="0.000351"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.086996"
+        stCamera:RadialDistortParam2="0.094188"
+        stCamera:RadialDistortParam3="-0.023516"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000003"
+        stCamera:RadialDistortParam1="0.001159"
+        stCamera:RadialDistortParam2="0.000427"
+        stCamera:RadialDistortParam3="-0.000614"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.006677"
+        stCamera:VignetteModelParam1="-0.007432"
+        stCamera:VignetteModelParam2="-6.576058"
+        stCamera:VignetteModelParam3="7.188479"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.999949"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.087118"
+        stCamera:RadialDistortParam2="0.093215"
+        stCamera:RadialDistortParam3="-0.020243">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.001043"
+        stCamera:RadialDistortParam2="-0.000279"
+        stCamera:RadialDistortParam3="-0.000041"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.087118"
+        stCamera:RadialDistortParam2="0.093215"
+        stCamera:RadialDistortParam3="-0.020243"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999996"
+        stCamera:RadialDistortParam1="0.001305"
+        stCamera:RadialDistortParam2="0.000012"
+        stCamera:RadialDistortParam3="-0.00042"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002311"
+        stCamera:VignetteModelParam1="-0.772056"
+        stCamera:VignetteModelParam2="2.867847"
+        stCamera:VignetteModelParam3="-8.248429"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.999949"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.08695"
+        stCamera:RadialDistortParam2="0.092599"
+        stCamera:RadialDistortParam3="-0.022145">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999999"
+        stCamera:RadialDistortParam1="-0.000991"
+        stCamera:RadialDistortParam2="-0.000656"
+        stCamera:RadialDistortParam3="0.000701"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.08695"
+        stCamera:RadialDistortParam2="0.092599"
+        stCamera:RadialDistortParam3="-0.022145"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000003"
+        stCamera:RadialDistortParam1="0.001121"
+        stCamera:RadialDistortParam2="0.001048"
+        stCamera:RadialDistortParam3="-0.001666"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000319"
+        stCamera:VignetteModelParam1="-0.59807"
+        stCamera:VignetteModelParam2="0.337908"
+        stCamera:VignetteModelParam3="-0.508846"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.999949"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.087064"
+        stCamera:RadialDistortParam2="0.093736"
+        stCamera:RadialDistortParam3="-0.02473">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999999"
+        stCamera:RadialDistortParam1="-0.001001"
+        stCamera:RadialDistortParam2="-0.000582"
+        stCamera:RadialDistortParam3="0.000552"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.087064"
+        stCamera:RadialDistortParam2="0.093736"
+        stCamera:RadialDistortParam3="-0.02473"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.001165"
+        stCamera:RadialDistortParam2="0.000728"
+        stCamera:RadialDistortParam3="-0.001015"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000019"
+        stCamera:VignetteModelParam1="-0.582439"
+        stCamera:VignetteModelParam2="0.126026"
+        stCamera:VignetteModelParam3="0.044654"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="31"
+       stCamera:Lens="Zeiss Distagon T* 1.4/35 ZF.2"
+       stCamera:LensInfo="350/10 350/10 14/10 14/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="Zeiss Distagon T* 1,4/35 ZF.2"
+       stCamera:ProfileName="Adobe (Zeiss Distagon T* 1,4/35 ZF.2)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.999949"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.087065"
+        stCamera:RadialDistortParam2="0.093738"
+        stCamera:RadialDistortParam3="-0.024741">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999999"
+        stCamera:RadialDistortParam1="-0.001001"
+        stCamera:RadialDistortParam2="-0.000583"
+        stCamera:RadialDistortParam3="0.000554"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.087065"
+        stCamera:RadialDistortParam2="0.093738"
+        stCamera:RadialDistortParam3="-0.024741"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.001165"
+        stCamera:RadialDistortParam2="0.00073"
+        stCamera:RadialDistortParam3="-0.001019"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000018"
+        stCamera:VignetteModelParam1="-0.583492"
+        stCamera:VignetteModelParam2="0.127938"
+        stCamera:VignetteModelParam3="0.042557"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

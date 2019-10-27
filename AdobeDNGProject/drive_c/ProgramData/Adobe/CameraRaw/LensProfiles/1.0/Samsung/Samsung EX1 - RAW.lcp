@@ -1,0 +1,1708 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 4.2-c020 1.124078, Tue Sep 11 2007 23:21:40        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>5.2</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.500584</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.711213</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.711213</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000402</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.00055</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.170267</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.078435</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.024123</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.711146</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.711146</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000401</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000553</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.00059</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.000042</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.000135</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.001466</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.711146</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.711146</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000401</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000554</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.170282</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.078594</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.024333</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.711146</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.711146</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000401</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000556</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000103</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.000079</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.000763</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.002729</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>6.5</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.853798</stCamera:FocusDistance>
+      <stCamera:ApertureValue>5.072106</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.862112</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.862112</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000223</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000167</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.1309</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.07485</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.013886</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.862081</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.862081</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000217</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000167</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000638</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.000594</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.000734</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.003399</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.862081</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.862081</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000217</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000166</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.130892</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.074927</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.013723</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.862081</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.862081</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.00022</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000166</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999899</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.000723</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.001175</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.00448</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>7.8</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.267468</stCamera:FocusDistance>
+      <stCamera:ApertureValue>5.12143</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.030376</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.030376</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000246</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000265</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.084493</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.065304</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.118028</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.030369</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.030369</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000238</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000266</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000642</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.001156</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.000558</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.003961</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.030369</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.030369</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.00024</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000265</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.084497</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.065431</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.117587</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.030369</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.030369</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000244</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000264</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999774</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.001119</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.000039</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.004355</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>9.1</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.565475</stCamera:FocusDistance>
+      <stCamera:ApertureValue>5.264536</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.214433</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.214433</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000221</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000206</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>-0.034384</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.086959</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.248229</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.21425</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.21425</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000214</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000209</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000595</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.001657</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.00064</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.001491</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.21425</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.21425</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000215</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000207</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>-0.034465</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.086506</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.24915</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.21425</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.21425</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.00022</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000205</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999693</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.001807</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.001599</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.000425</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>10.6</stCamera:FocalLength>
+      <stCamera:FocusDistance>3.03841</stCamera:FocusDistance>
+      <stCamera:ApertureValue>5.356144</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.430257</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.430257</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000181</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000123</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>0.020788</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.276563</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.192743</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.43036</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.43036</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000175</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000125</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000513</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.002506</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.000413</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.003575</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.43036</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.43036</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000175</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000123</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>0.020652</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.277603</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.194131</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.43036</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.43036</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000181</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000122</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999653</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.003075</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.000139</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.002362</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>12.3</stCamera:FocalLength>
+      <stCamera:FocusDistance>3.380852</stCamera:FocusDistance>
+      <stCamera:ApertureValue>5.444932</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.645347</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.645347</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.00017</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000115</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>0.085123</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.401136</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.504422</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.645385</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.645385</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000165</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000117</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000402</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.002965</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.005827</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.03061</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.645385</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.645385</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000166</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000115</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>0.085055</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.400731</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.502213</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.645385</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.645385</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000171</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000114</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999687</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.003517</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.004658</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.029173</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>14.3</stCamera:FocalLength>
+      <stCamera:FocusDistance>3.827182</stCamera:FocusDistance>
+      <stCamera:ApertureValue>5.488322</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.910451</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.910451</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.000214</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000223</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>0.159339</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.097397</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-5.295068</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.910627</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.910627</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000209</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000224</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000277</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.004222</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.00033</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.03499</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.910627</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.910627</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.00021</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000222</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>0.159588</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>1.090246</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-5.247222</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.910627</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.910627</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000217</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000219</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999732</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.003941</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.020973</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.181428</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>15.6</stCamera:FocalLength>
+      <stCamera:FocusDistance>4.609957</stCamera:FocusDistance>
+      <stCamera:ApertureValue>5.573193</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.154858</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.154858</stCamera:FocalLengthY>
+       <stCamera:ResidualMeanError>0.00024</stCamera:ResidualMeanError>
+       <stCamera:ResidualStandardDeviation>0.000284</stCamera:ResidualStandardDeviation>
+       <stCamera:RadialDistortParam1>0.241289</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.912311</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-13.379344</stCamera:RadialDistortParam3>
+       <stCamera:ChromaticRedGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.155609</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.155609</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000238</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000286</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>1.000183</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>-0.00499</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>-0.002957</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>0.089435</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticRedGreenModel>
+       <stCamera:ChromaticGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.155609</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.155609</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000239</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000285</stCamera:ResidualStandardDeviation>
+        <stCamera:RadialDistortParam1>0.241402</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>1.920004</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-13.442208</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticGreenModel>
+       <stCamera:ChromaticBlueGreenModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.155609</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.155609</stCamera:FocalLengthY>
+        <stCamera:ResidualMeanError>0.000243</stCamera:ResidualMeanError>
+        <stCamera:ResidualStandardDeviation>0.000284</stCamera:ResidualStandardDeviation>
+        <stCamera:ScaleFactor>0.999775</stCamera:ScaleFactor>
+        <stCamera:RadialDistortParam1>0.005533</stCamera:RadialDistortParam1>
+        <stCamera:RadialDistortParam2>0.00002</stCamera:RadialDistortParam2>
+        <stCamera:RadialDistortParam3>-0.074769</stCamera:RadialDistortParam3>
+       </stCamera:ChromaticBlueGreenModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>5.2</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>1.695994</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.711146</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.711146</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.170282</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.078594</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.024333</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.711146</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.711146</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.486191</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.60543</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.880975</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>5.2</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.643856</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.711146</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.711146</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.170282</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.078594</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.024333</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.711146</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.711146</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.342676</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.248838</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.64063</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>5.2</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>3.531069</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.711146</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.711146</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.170282</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.078594</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.024333</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.711146</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.711146</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.437752</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.448479</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.644507</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>5.2</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>5.488322</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.711146</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.711146</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.170282</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.078594</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.024333</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.711146</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.711146</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.463252</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.448659</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.576936</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>6.5</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.862081</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.862081</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.130892</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.074927</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.013723</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.862081</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.862081</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.714574</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.333502</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.211071</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>6.5</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.865919</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.862081</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.862081</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.130892</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.074927</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.013723</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.862081</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.862081</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.363205</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-0.455428</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>0.149751</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>6.5</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>3.695994</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.862081</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.862081</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.130892</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.074927</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.013723</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.862081</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.862081</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.535924</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.336799</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.317814</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>6.5</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.757023</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.862081</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.862081</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.130892</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.074927</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.013723</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.862081</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.862081</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.517405</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.170829</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.019153</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>6.5</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>5.61471</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>0.862081</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>0.862081</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.130892</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.074927</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.013723</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>0.862081</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>0.862081</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.579079</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.397375</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.242078</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>7.8</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.030369</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.030369</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.084497</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.065431</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.117587</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.030369</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.030369</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.977916</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.780457</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.541942</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>7.8</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.865919</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.030369</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.030369</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.084497</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.065431</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.117587</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.030369</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.030369</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.397955</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-1.162016</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>1.021417</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>7.8</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>3.775051</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.030369</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.030369</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.084497</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.065431</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.117587</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.030369</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.030369</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.586968</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.120331</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>0.215534</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>7.8</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.811985</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.030369</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.030369</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.084497</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.065431</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.117587</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.030369</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.030369</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.645157</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.275536</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>0.313238</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>7.8</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>5.695994</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.030369</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.030369</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.084497</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.065431</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.117587</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.030369</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.030369</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.729694</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.663746</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.173981</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>9.1</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.140779</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.21425</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.21425</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.034465</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.086506</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.24915</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.21425</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.21425</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.358434</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2.199052</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2.705242</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>9.1</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.21425</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.21425</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.034465</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.086506</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.24915</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.21425</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.21425</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.45442</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-2.049917</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>2.251685</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>9.1</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>3.851999</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.21425</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.21425</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.034465</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.086506</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.24915</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.21425</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.21425</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.687301</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.157577</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>0.683614</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>9.1</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.21425</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.21425</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.034465</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.086506</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.24915</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.21425</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.21425</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.73331</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.307862</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>0.817543</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>9.1</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>5.488322</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.21425</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.21425</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>-0.034465</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.086506</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>0.24915</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.21425</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.21425</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.756307</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.411234</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>0.686373</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>10.6</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.275007</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.43036</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.43036</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.020652</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.277603</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.194131</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.43036</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.43036</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.793345</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>5.328848</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-12.338967</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>10.6</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>3.169925</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.43036</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.43036</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.020652</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.277603</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.194131</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.43036</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.43036</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.582319</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-2.257273</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>0.783223</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>10.6</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.43036</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.43036</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.020652</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.277603</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.194131</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.43036</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.43036</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.844901</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.230036</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>2.814693</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>10.6</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>5.072106</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.43036</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.43036</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.020652</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.277603</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.194131</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.43036</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.43036</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.839336</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.055884</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>3.694009</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>10.6</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>5.61471</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.43036</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.43036</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.020652</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.277603</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.194131</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.43036</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.43036</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.861514</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>0.269528</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>2.98001</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>12.3</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.403268</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.645385</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.645385</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.085055</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.400731</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.502213</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.645385</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.645385</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.47992</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>13.822043</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-52.025498</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>12.3</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>3.169925</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.645385</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.645385</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.085055</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.400731</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.502213</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.645385</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.645385</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.619786</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-5.24529</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>9.55202</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>12.3</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.071248</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.645385</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.645385</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.085055</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.400731</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.502213</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.645385</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.645385</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.131313</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>1.971152</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>0.981581</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>12.3</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>5.12143</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.645385</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.645385</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.085055</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.400731</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.502213</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.645385</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.645385</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.109524</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>1.760412</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>1.208704</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>12.3</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>5.695994</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.645385</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.645385</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.085055</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>0.400731</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-0.502213</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.645385</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.645385</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.155477</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2.203839</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.217996</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>14.3</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.403268</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.910627</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.910627</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.159588</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.090246</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-5.247222</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.910627</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.910627</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-3.208435</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>33.507981</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-224.24916</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>14.3</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>3.264536</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.910627</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.910627</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.159588</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.090246</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-5.247222</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.910627</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.910627</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.58506</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-11.912024</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>39.387018</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>14.3</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.140779</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.910627</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.910627</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.159588</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.090246</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-5.247222</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.910627</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.910627</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.427166</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>4.263296</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-0.740353</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>14.3</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>5.169925</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.910627</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.910627</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.159588</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.090246</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-5.247222</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.910627</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.910627</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.590604</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>6.854899</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-12.05901</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>14.3</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>5.488322</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>1.910627</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>1.910627</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.159588</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.090246</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-5.247222</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>1.910627</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>1.910627</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.655005</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>7.678832</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-15.499729</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>15.6</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>2.526069</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.155609</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.155609</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.241402</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.920004</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-13.442208</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.155609</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.155609</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-4.278042</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>70.190394</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-646.567318</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>15.6</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>3.356144</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.155609</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.155609</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.241402</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.920004</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-13.442208</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.155609</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.155609</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-0.905884</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>-13.095938</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>41.111744</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>15.6</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.208673</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.155609</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.155609</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.241402</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.920004</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-13.442208</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.155609</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.155609</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-1.633256</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>5.617267</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>0.362936</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>15.6</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>5.264536</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.155609</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.155609</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.241402</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.920004</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-13.442208</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.155609</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.155609</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.007526</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>12.41739</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-32.543317</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>SAMSUNG</stCamera:Make>
+      <stCamera:Model>EX1</stCamera:Model>
+      <stCamera:UniqueCameraModel>Samsung EX1</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:Lens>Schneider KREUZNACH 3x ZOOM 5.2-15.6mm 1:1.8-2.4 DUAL IS</stCamera:Lens>
+      <stCamera:LensInfo>52/10 156/10 18/10 24/10</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Samsung EX1</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Samsung EX1</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Samsung EX1)</stCamera:ProfileName>
+      <stCamera:ImageWidth>3682</stCamera:ImageWidth>
+      <stCamera:ImageLength>2760</stCamera:ImageLength>
+      <stCamera:FocalLength>15.6</stCamera:FocalLength>
+      <stCamera:FocusDistance>3</stCamera:FocusDistance>
+      <stCamera:ApertureValue>5.573193</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.155609</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.155609</stCamera:FocalLengthY>
+       <stCamera:RadialDistortParam1>0.241402</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>1.920004</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-13.442208</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.155609</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.155609</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.010937</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>12.431884</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-33.194457</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

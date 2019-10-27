@@ -1,0 +1,101 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156380, 2014/05/21-23:38:37        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:Model="ILCE-7"
+       stCamera:UniqueCameraModel="Sony ILCE-7"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="50mm f/0.95"
+       stCamera:CameraPrettyName="ILCE-7"
+       stCamera:LensPrettyName="ZY Optics Mitakon Speedmaster 50mm f/0.95 Pro"
+       stCamera:ProfileName="Adobe (ZY Optics Mitakon Speedmaster 50mm f/0.95 Pro, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6048"
+       stCamera:ImageLength="4024"
+       stCamera:FocusDistance="3.328291">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.489547"
+        stCamera:FocalLengthY="1.489547"
+        stCamera:ResidualMeanError="0.000222"
+        stCamera:ResidualStandardDeviation="0.000307"
+        stCamera:RadialDistortParam1="-0.216718"
+        stCamera:RadialDistortParam2="0.393185"
+        stCamera:RadialDistortParam3="1.301674">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="1.48959"
+        stCamera:FocalLengthY="1.48959"
+        stCamera:ResidualMeanError="0.000221"
+        stCamera:ResidualStandardDeviation="0.000307"
+        stCamera:ScaleFactor="1.000149"
+        stCamera:RadialDistortParam1="0.000077"
+        stCamera:RadialDistortParam2="-0.005882"
+        stCamera:RadialDistortParam3="0.031799"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="1.48959"
+        stCamera:FocalLengthY="1.48959"
+        stCamera:ResidualMeanError="0.00022"
+        stCamera:ResidualStandardDeviation="0.000307"
+        stCamera:RadialDistortParam1="-0.217032"
+        stCamera:RadialDistortParam2="0.39439"
+        stCamera:RadialDistortParam3="1.299998"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="1.48959"
+        stCamera:FocalLengthY="1.48959"
+        stCamera:ResidualMeanError="0.00022"
+        stCamera:ResidualStandardDeviation="0.000307"
+        stCamera:ScaleFactor="0.999894"
+        stCamera:RadialDistortParam1="0.000925"
+        stCamera:RadialDistortParam2="0.002627"
+        stCamera:RadialDistortParam3="-0.02664"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:Model="ILCE-7"
+       stCamera:UniqueCameraModel="Sony ILCE-7"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="50mm f/0.95"
+       stCamera:CameraPrettyName="ILCE-7"
+       stCamera:LensPrettyName="ZY Optics Mitakon Speedmaster 50mm f/0.95 Pro"
+       stCamera:ProfileName="Adobe (ZY Optics Mitakon Speedmaster 50mm f/0.95 Pro, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6048"
+       stCamera:ImageLength="4024"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.48959"
+        stCamera:FocalLengthY="1.48959"
+        stCamera:RadialDistortParam1="-0.217032"
+        stCamera:RadialDistortParam2="0.39439"
+        stCamera:RadialDistortParam3="1.299998">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.48959"
+        stCamera:FocalLengthY="1.48959"
+        stCamera:VignetteModelParam1="-0.989111"
+        stCamera:VignetteModelParam2="0.595522"
+        stCamera:VignetteModelParam3="-16.013344"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

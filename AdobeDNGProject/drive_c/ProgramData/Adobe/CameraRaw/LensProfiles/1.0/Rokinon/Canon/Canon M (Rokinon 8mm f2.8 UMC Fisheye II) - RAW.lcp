@@ -1,0 +1,74 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156380, 2014/05/21-23:38:37        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="8mm f/2.8"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Rokinon 8mm f/2.8 UMC Fisheye II"
+       stCamera:ProfileName="Adobe (Rokinon 8mm f/2.8 UMC Fisheye II, Canon EOS M)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4936"
+       stCamera:ImageLength="3296"
+       stCamera:FocalLength="8"
+       stCamera:FocusDistance="0.790026">
+      <stCamera:FisheyeModel
+       stCamera:Version="2"
+       stCamera:FocalLengthX="0.350709"
+       stCamera:FocalLengthY="0.350709"
+       stCamera:ImageXCenter="0.49789"
+       stCamera:ImageYCenter="0.500365"
+       stCamera:ResidualMeanError="0.000161"
+       stCamera:ResidualStandardDeviation="0.000102"
+       stCamera:RadialDistortParam1="0.035711"
+       stCamera:RadialDistortParam2="0.004703"/>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="8mm f/2.8"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Rokinon 8mm f/2.8 UMC Fisheye II"
+       stCamera:ProfileName="Adobe (Rokinon 8mm f/2.8 UMC Fisheye II, Canon EOS M)"
+       stCamera:SensorFormatFactor="1.6"
+       stCamera:ImageWidth="4936"
+       stCamera:ImageLength="3296"
+       stCamera:FocalLength="8"
+       stCamera:FocusDistance="0.790026"
+       stCamera:ApertureValue="6">
+      <stCamera:FisheyeModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="0.350709"
+        stCamera:FocalLengthY="0.350709"
+        stCamera:ImageXCenter="0.49789"
+        stCamera:ImageYCenter="0.500365"
+        stCamera:ResidualMeanError="0.000161"
+        stCamera:ResidualStandardDeviation="0.000102"
+        stCamera:RadialDistortParam1="0.035711"
+        stCamera:RadialDistortParam2="0.004703">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="0.352495"
+        stCamera:FocalLengthY="0.352495"
+        stCamera:VignetteModelParam1="0.001148"
+        stCamera:VignetteModelParam2="-0.057019"
+        stCamera:VignetteModelParam3="-0.001498"/>
+       </rdf:Description>
+      </stCamera:FisheyeModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

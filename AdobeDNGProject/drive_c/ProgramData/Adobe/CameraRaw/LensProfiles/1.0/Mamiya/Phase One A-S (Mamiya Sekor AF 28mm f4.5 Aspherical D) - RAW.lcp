@@ -1,0 +1,641 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c007 1.136881, 2010/06/10-18:11:35        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Phase One A/S"
+       stCamera:Make="Phase One A/S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Phase One A/S"
+       stCamera:LensPrettyName="Mamiya Sekor AF 28mm f/4.5 Aspherical D"
+       stCamera:ProfileName="Adobe (Mamiya Sekor AF 28mm f/4.5 Aspherical D)"
+       stCamera:SensorFormatFactor="0.65"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="4.526069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000173"
+        stCamera:ResidualStandardDeviation="0.000134"
+        stCamera:RadialDistortParam1="-0.05358"
+        stCamera:RadialDistortParam2="0.053933"
+        stCamera:RadialDistortParam3="-0.020025">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.000693"
+        stCamera:RadialDistortParam2="-0.000591"
+        stCamera:RadialDistortParam3="0.000172"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000173"
+        stCamera:ResidualStandardDeviation="0.000134"
+        stCamera:RadialDistortParam1="-0.05358"
+        stCamera:RadialDistortParam2="0.053933"
+        stCamera:RadialDistortParam3="-0.020025"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000502"
+        stCamera:RadialDistortParam1="-0.001015"
+        stCamera:RadialDistortParam2="0.000822"
+        stCamera:RadialDistortParam3="-0.000239"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002674"
+        stCamera:VignetteModelParam1="-1.322433"
+        stCamera:VignetteModelParam2="0.790474"
+        stCamera:VignetteModelParam3="-0.200882"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Phase One A/S"
+       stCamera:Make="Phase One A/S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Phase One A/S"
+       stCamera:LensPrettyName="Mamiya Sekor AF 28mm f/4.5 Aspherical D"
+       stCamera:ProfileName="Adobe (Mamiya Sekor AF 28mm f/4.5 Aspherical D)"
+       stCamera:SensorFormatFactor="0.65"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000173"
+        stCamera:ResidualStandardDeviation="0.000134"
+        stCamera:RadialDistortParam1="-0.05358"
+        stCamera:RadialDistortParam2="0.053933"
+        stCamera:RadialDistortParam3="-0.020025">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.000693"
+        stCamera:RadialDistortParam2="-0.000591"
+        stCamera:RadialDistortParam3="0.000172"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000173"
+        stCamera:ResidualStandardDeviation="0.000134"
+        stCamera:RadialDistortParam1="-0.05358"
+        stCamera:RadialDistortParam2="0.053933"
+        stCamera:RadialDistortParam3="-0.020025"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000502"
+        stCamera:RadialDistortParam1="-0.001015"
+        stCamera:RadialDistortParam2="0.000822"
+        stCamera:RadialDistortParam3="-0.000239"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.009244"
+         stCamera:VignetteModelParam1="-0.566313"
+         stCamera:VignetteModelParam2="-0.321967"
+         stCamera:VignetteModelParam3="0.246619">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.107078, 0.967000</rdf:li>
+          <rdf:li>0.389856, 0.915500</rdf:li>
+          <rdf:li>0.459682, 0.880600</rdf:li>
+          <rdf:li>0.564074, 0.802000</rdf:li>
+          <rdf:li>0.945610, 0.416800</rdf:li>
+          <rdf:li>1.117521, 0.262000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Phase One A/S"
+       stCamera:Make="Phase One A/S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Phase One A/S"
+       stCamera:LensPrettyName="Mamiya Sekor AF 28mm f/4.5 Aspherical D"
+       stCamera:ProfileName="Adobe (Mamiya Sekor AF 28mm f/4.5 Aspherical D)"
+       stCamera:SensorFormatFactor="0.65"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="5.531069">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000173"
+        stCamera:ResidualStandardDeviation="0.000134"
+        stCamera:RadialDistortParam1="-0.05358"
+        stCamera:RadialDistortParam2="0.053933"
+        stCamera:RadialDistortParam3="-0.020025">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.000693"
+        stCamera:RadialDistortParam2="-0.000591"
+        stCamera:RadialDistortParam3="0.000172"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000173"
+        stCamera:ResidualStandardDeviation="0.000134"
+        stCamera:RadialDistortParam1="-0.05358"
+        stCamera:RadialDistortParam2="0.053933"
+        stCamera:RadialDistortParam3="-0.020025"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000502"
+        stCamera:RadialDistortParam1="-0.001015"
+        stCamera:RadialDistortParam2="0.000822"
+        stCamera:RadialDistortParam3="-0.000239"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.006955"
+         stCamera:VignetteModelParam1="-0.253405"
+         stCamera:VignetteModelParam2="-0.470809"
+         stCamera:VignetteModelParam3="0.21044">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.178266, 0.985100</rdf:li>
+          <rdf:li>0.459682, 0.919200</rdf:li>
+          <rdf:li>0.564074, 0.883800</rdf:li>
+          <rdf:li>0.668300, 0.823700</rdf:li>
+          <rdf:li>0.772477, 0.732500</rdf:li>
+          <rdf:li>1.014496, 0.463700</rdf:li>
+          <rdf:li>1.117521, 0.368100</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Phase One A/S"
+       stCamera:Make="Phase One A/S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Phase One A/S"
+       stCamera:LensPrettyName="Mamiya Sekor AF 28mm f/4.5 Aspherical D"
+       stCamera:ProfileName="Adobe (Mamiya Sekor AF 28mm f/4.5 Aspherical D)"
+       stCamera:SensorFormatFactor="0.65"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000173"
+        stCamera:ResidualStandardDeviation="0.000134"
+        stCamera:RadialDistortParam1="-0.05358"
+        stCamera:RadialDistortParam2="0.053933"
+        stCamera:RadialDistortParam3="-0.020025">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.000693"
+        stCamera:RadialDistortParam2="-0.000591"
+        stCamera:RadialDistortParam3="0.000172"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000173"
+        stCamera:ResidualStandardDeviation="0.000134"
+        stCamera:RadialDistortParam1="-0.05358"
+        stCamera:RadialDistortParam2="0.053933"
+        stCamera:RadialDistortParam3="-0.020025"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000502"
+        stCamera:RadialDistortParam1="-0.001015"
+        stCamera:RadialDistortParam2="0.000822"
+        stCamera:RadialDistortParam3="-0.000239"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.006337"
+         stCamera:VignetteModelParam1="-0.453008"
+         stCamera:VignetteModelParam2="0.183164"
+         stCamera:VignetteModelParam3="-0.139741">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.424802, 0.920200</rdf:li>
+          <rdf:li>0.772477, 0.774500</rdf:li>
+          <rdf:li>0.911073, 0.667500</rdf:li>
+          <rdf:li>1.117521, 0.461900</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Phase One A/S"
+       stCamera:Make="Phase One A/S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Phase One A/S"
+       stCamera:LensPrettyName="Mamiya Sekor AF 28mm f/4.5 Aspherical D"
+       stCamera:ProfileName="Adobe (Mamiya Sekor AF 28mm f/4.5 Aspherical D)"
+       stCamera:SensorFormatFactor="0.65"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="6.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000173"
+        stCamera:ResidualStandardDeviation="0.000134"
+        stCamera:RadialDistortParam1="-0.05358"
+        stCamera:RadialDistortParam2="0.053933"
+        stCamera:RadialDistortParam3="-0.020025">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.000693"
+        stCamera:RadialDistortParam2="-0.000591"
+        stCamera:RadialDistortParam3="0.000172"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000173"
+        stCamera:ResidualStandardDeviation="0.000134"
+        stCamera:RadialDistortParam1="-0.05358"
+        stCamera:RadialDistortParam2="0.053933"
+        stCamera:RadialDistortParam3="-0.020025"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000502"
+        stCamera:RadialDistortParam1="-0.001015"
+        stCamera:RadialDistortParam2="0.000822"
+        stCamera:RadialDistortParam3="-0.000239"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002258"
+        stCamera:VignetteModelParam1="-0.48481"
+        stCamera:VignetteModelParam2="0.282998"
+        stCamera:VignetteModelParam3="-0.164316"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Phase One A/S"
+       stCamera:Make="Phase One A/S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Phase One A/S"
+       stCamera:LensPrettyName="Mamiya Sekor AF 28mm f/4.5 Aspherical D"
+       stCamera:ProfileName="Adobe (Mamiya Sekor AF 28mm f/4.5 Aspherical D)"
+       stCamera:SensorFormatFactor="0.65"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000173"
+        stCamera:ResidualStandardDeviation="0.000134"
+        stCamera:RadialDistortParam1="-0.05358"
+        stCamera:RadialDistortParam2="0.053933"
+        stCamera:RadialDistortParam3="-0.020025">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.000693"
+        stCamera:RadialDistortParam2="-0.000591"
+        stCamera:RadialDistortParam3="0.000172"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000173"
+        stCamera:ResidualStandardDeviation="0.000134"
+        stCamera:RadialDistortParam1="-0.05358"
+        stCamera:RadialDistortParam2="0.053933"
+        stCamera:RadialDistortParam3="-0.020025"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000502"
+        stCamera:RadialDistortParam1="-0.001015"
+        stCamera:RadialDistortParam2="0.000822"
+        stCamera:RadialDistortParam3="-0.000239"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.0018"
+        stCamera:VignetteModelParam1="-0.4581"
+        stCamera:VignetteModelParam2="0.218854"
+        stCamera:VignetteModelParam3="-0.105569"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Phase One A/S"
+       stCamera:Make="Phase One A/S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Phase One A/S"
+       stCamera:LensPrettyName="Mamiya Sekor AF 28mm f/4.5 Aspherical D"
+       stCamera:ProfileName="Adobe (Mamiya Sekor AF 28mm f/4.5 Aspherical D)"
+       stCamera:SensorFormatFactor="0.65"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000173"
+        stCamera:ResidualStandardDeviation="0.000134"
+        stCamera:RadialDistortParam1="-0.05358"
+        stCamera:RadialDistortParam2="0.053933"
+        stCamera:RadialDistortParam3="-0.020025">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.000693"
+        stCamera:RadialDistortParam2="-0.000591"
+        stCamera:RadialDistortParam3="0.000172"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000173"
+        stCamera:ResidualStandardDeviation="0.000134"
+        stCamera:RadialDistortParam1="-0.05358"
+        stCamera:RadialDistortParam2="0.053933"
+        stCamera:RadialDistortParam3="-0.020025"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000502"
+        stCamera:RadialDistortParam1="-0.001015"
+        stCamera:RadialDistortParam2="0.000822"
+        stCamera:RadialDistortParam3="-0.000239"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002039"
+        stCamera:VignetteModelParam1="-0.460611"
+        stCamera:VignetteModelParam2="0.179493"
+        stCamera:VignetteModelParam3="-0.062583"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Phase One A/S"
+       stCamera:Make="Phase One A/S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Phase One A/S"
+       stCamera:LensPrettyName="Mamiya Sekor AF 28mm f/4.5 Aspherical D"
+       stCamera:ProfileName="Adobe (Mamiya Sekor AF 28mm f/4.5 Aspherical D)"
+       stCamera:SensorFormatFactor="0.65"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000173"
+        stCamera:ResidualStandardDeviation="0.000134"
+        stCamera:RadialDistortParam1="-0.05358"
+        stCamera:RadialDistortParam2="0.053933"
+        stCamera:RadialDistortParam3="-0.020025">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.000693"
+        stCamera:RadialDistortParam2="-0.000591"
+        stCamera:RadialDistortParam3="0.000172"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000173"
+        stCamera:ResidualStandardDeviation="0.000134"
+        stCamera:RadialDistortParam1="-0.05358"
+        stCamera:RadialDistortParam2="0.053933"
+        stCamera:RadialDistortParam3="-0.020025"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000502"
+        stCamera:RadialDistortParam1="-0.001015"
+        stCamera:RadialDistortParam2="0.000822"
+        stCamera:RadialDistortParam3="-0.000239"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000109"
+        stCamera:VignetteModelParam1="-0.377323"
+        stCamera:VignetteModelParam2="0.04919"
+        stCamera:VignetteModelParam3="0.000212"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Phase One A/S"
+       stCamera:Make="Phase One A/S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Phase One A/S"
+       stCamera:LensPrettyName="Mamiya Sekor AF 28mm f/4.5 Aspherical D"
+       stCamera:ProfileName="Adobe (Mamiya Sekor AF 28mm f/4.5 Aspherical D)"
+       stCamera:SensorFormatFactor="0.65"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="8.495855">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000173"
+        stCamera:ResidualStandardDeviation="0.000134"
+        stCamera:RadialDistortParam1="-0.05358"
+        stCamera:RadialDistortParam2="0.053933"
+        stCamera:RadialDistortParam3="-0.020025">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.000693"
+        stCamera:RadialDistortParam2="-0.000591"
+        stCamera:RadialDistortParam3="0.000172"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000173"
+        stCamera:ResidualStandardDeviation="0.000134"
+        stCamera:RadialDistortParam1="-0.05358"
+        stCamera:RadialDistortParam2="0.053933"
+        stCamera:RadialDistortParam3="-0.020025"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000502"
+        stCamera:RadialDistortParam1="-0.001015"
+        stCamera:RadialDistortParam2="0.000822"
+        stCamera:RadialDistortParam3="-0.000239"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000109"
+        stCamera:VignetteModelParam1="-0.377323"
+        stCamera:VignetteModelParam2="0.04919"
+        stCamera:VignetteModelParam3="0.000212"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Phase One A/S"
+       stCamera:Make="Phase One A/S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Phase One A/S"
+       stCamera:LensPrettyName="Mamiya Sekor AF 28mm f/4.5 Aspherical D"
+       stCamera:ProfileName="Adobe (Mamiya Sekor AF 28mm f/4.5 Aspherical D)"
+       stCamera:SensorFormatFactor="0.65"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000173"
+        stCamera:ResidualStandardDeviation="0.000134"
+        stCamera:RadialDistortParam1="-0.05358"
+        stCamera:RadialDistortParam2="0.053933"
+        stCamera:RadialDistortParam3="-0.020025">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.000693"
+        stCamera:RadialDistortParam2="-0.000591"
+        stCamera:RadialDistortParam3="0.000172"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000173"
+        stCamera:ResidualStandardDeviation="0.000134"
+        stCamera:RadialDistortParam1="-0.05358"
+        stCamera:RadialDistortParam2="0.053933"
+        stCamera:RadialDistortParam3="-0.020025"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000502"
+        stCamera:RadialDistortParam1="-0.001015"
+        stCamera:RadialDistortParam2="0.000822"
+        stCamera:RadialDistortParam3="-0.000239"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000824"
+        stCamera:VignetteModelParam1="-0.455601"
+        stCamera:VignetteModelParam2="0.156023"
+        stCamera:VignetteModelParam3="-0.040323"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Phase One A/S"
+       stCamera:Make="Phase One A/S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Phase One A/S"
+       stCamera:LensPrettyName="Mamiya Sekor AF 28mm f/4.5 Aspherical D"
+       stCamera:ProfileName="Adobe (Mamiya Sekor AF 28mm f/4.5 Aspherical D)"
+       stCamera:SensorFormatFactor="0.65"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="9.455841">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000173"
+        stCamera:ResidualStandardDeviation="0.000134"
+        stCamera:RadialDistortParam1="-0.05358"
+        stCamera:RadialDistortParam2="0.053933"
+        stCamera:RadialDistortParam3="-0.020025">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.000693"
+        stCamera:RadialDistortParam2="-0.000591"
+        stCamera:RadialDistortParam3="0.000172"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000173"
+        stCamera:ResidualStandardDeviation="0.000134"
+        stCamera:RadialDistortParam1="-0.05358"
+        stCamera:RadialDistortParam2="0.053933"
+        stCamera:RadialDistortParam3="-0.020025"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000502"
+        stCamera:RadialDistortParam1="-0.001015"
+        stCamera:RadialDistortParam2="0.000822"
+        stCamera:RadialDistortParam3="-0.000239"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000097"
+        stCamera:VignetteModelParam1="-0.404481"
+        stCamera:VignetteModelParam2="0.062321"
+        stCamera:VignetteModelParam3="-0.002301"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Phase One A/S"
+       stCamera:Make="Phase One A/S"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="Phase One A/S"
+       stCamera:LensPrettyName="Mamiya Sekor AF 28mm f/4.5 Aspherical D"
+       stCamera:ProfileName="Adobe (Mamiya Sekor AF 28mm f/4.5 Aspherical D)"
+       stCamera:SensorFormatFactor="0.65"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="10">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000173"
+        stCamera:ResidualStandardDeviation="0.000134"
+        stCamera:RadialDistortParam1="-0.05358"
+        stCamera:RadialDistortParam2="0.053933"
+        stCamera:RadialDistortParam3="-0.020025">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000001"
+        stCamera:RadialDistortParam1="0.000693"
+        stCamera:RadialDistortParam2="-0.000591"
+        stCamera:RadialDistortParam3="0.000172"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000173"
+        stCamera:ResidualStandardDeviation="0.000134"
+        stCamera:RadialDistortParam1="-0.05358"
+        stCamera:RadialDistortParam2="0.053933"
+        stCamera:RadialDistortParam3="-0.020025"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000502"
+        stCamera:RadialDistortParam1="-0.001015"
+        stCamera:RadialDistortParam2="0.000822"
+        stCamera:RadialDistortParam3="-0.000239"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000097"
+        stCamera:VignetteModelParam1="-0.404481"
+        stCamera:VignetteModelParam2="0.062321"
+        stCamera:VignetteModelParam3="-0.002301"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

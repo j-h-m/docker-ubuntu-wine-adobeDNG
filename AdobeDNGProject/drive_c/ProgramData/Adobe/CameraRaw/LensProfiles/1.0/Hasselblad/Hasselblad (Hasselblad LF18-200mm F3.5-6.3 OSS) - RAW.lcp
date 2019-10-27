@@ -1,0 +1,1990 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="1.480836"
+        stCamera:RadialDistortParam2="-3.499843"
+        stCamera:RadialDistortParam3="45.246616">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="1.480836"
+        stCamera:RadialDistortParam2="-3.499843"
+        stCamera:RadialDistortParam3="45.246616"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000084"
+        stCamera:VignetteModelParam1="-2.358737"
+        stCamera:VignetteModelParam2="267.28775"
+        stCamera:VignetteModelParam3="-9399.042969"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="1.480836"
+        stCamera:RadialDistortParam2="-3.499843"
+        stCamera:RadialDistortParam3="45.246616">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="1.480836"
+        stCamera:RadialDistortParam2="-3.499843"
+        stCamera:RadialDistortParam3="45.246616"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000019"
+        stCamera:VignetteModelParam1="-0.314519"
+        stCamera:VignetteModelParam2="41.661083"
+        stCamera:VignetteModelParam3="-2132.19165"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="1.480836"
+        stCamera:RadialDistortParam2="-3.499843"
+        stCamera:RadialDistortParam3="45.246616">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="1.480836"
+        stCamera:RadialDistortParam2="-3.499843"
+        stCamera:RadialDistortParam3="45.246616"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000015"
+        stCamera:VignetteModelParam1="-4.225168"
+        stCamera:VignetteModelParam2="-69.89138"
+        stCamera:VignetteModelParam3="1704.448853"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="1.480836"
+        stCamera:RadialDistortParam2="-3.499843"
+        stCamera:RadialDistortParam3="45.246616">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="1.480836"
+        stCamera:RadialDistortParam2="-3.499843"
+        stCamera:RadialDistortParam3="45.246616"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000065"
+        stCamera:VignetteModelParam1="-9.765476"
+        stCamera:VignetteModelParam2="-258.151672"
+        stCamera:VignetteModelParam3="7423.392578"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="1.480836"
+        stCamera:RadialDistortParam2="-3.499843"
+        stCamera:RadialDistortParam3="45.246616">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="1.480836"
+        stCamera:RadialDistortParam2="-3.499843"
+        stCamera:RadialDistortParam3="45.246616"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000078"
+        stCamera:VignetteModelParam1="-7.296328"
+        stCamera:VignetteModelParam2="43.814838"
+        stCamera:VignetteModelParam3="8585.563477"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="149"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="2.524795"
+        stCamera:RadialDistortParam2="-14.556762"
+        stCamera:RadialDistortParam3="-60.681461">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="2.524795"
+        stCamera:RadialDistortParam2="-14.556762"
+        stCamera:RadialDistortParam3="-60.681461"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000095"
+        stCamera:VignetteModelParam1="-4.251966"
+        stCamera:VignetteModelParam2="685.986084"
+        stCamera:VignetteModelParam3="-111172.226563"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="149"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="2.524795"
+        stCamera:RadialDistortParam2="-14.556762"
+        stCamera:RadialDistortParam3="-60.681461">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="2.524795"
+        stCamera:RadialDistortParam2="-14.556762"
+        stCamera:RadialDistortParam3="-60.681461"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000033"
+        stCamera:VignetteModelParam1="-1.010226"
+        stCamera:VignetteModelParam2="396.164581"
+        stCamera:VignetteModelParam3="-38153.722656"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="149"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="2.524795"
+        stCamera:RadialDistortParam2="-14.556762"
+        stCamera:RadialDistortParam3="-60.681461">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="2.524795"
+        stCamera:RadialDistortParam2="-14.556762"
+        stCamera:RadialDistortParam3="-60.681461"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000016"
+        stCamera:VignetteModelParam1="-6.440055"
+        stCamera:VignetteModelParam2="20.480839"
+        stCamera:VignetteModelParam3="-19168.609375"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="149"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="5.310704">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="2.524795"
+        stCamera:RadialDistortParam2="-14.556762"
+        stCamera:RadialDistortParam3="-60.681461">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="2.524795"
+        stCamera:RadialDistortParam2="-14.556762"
+        stCamera:RadialDistortParam3="-60.681461"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00047"
+        stCamera:VignetteModelParam1="-0.86133"
+        stCamera:VignetteModelParam2="-9111.87793"
+        stCamera:VignetteModelParam3="538699.25"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="149"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="2.524795"
+        stCamera:RadialDistortParam2="-14.556762"
+        stCamera:RadialDistortParam3="-60.681461">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="2.524795"
+        stCamera:RadialDistortParam2="-14.556762"
+        stCamera:RadialDistortParam3="-60.681461"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000163"
+        stCamera:VignetteModelParam1="0.419913"
+        stCamera:VignetteModelParam2="-290.216187"
+        stCamera:VignetteModelParam3="-195165.5625"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.162383"
+        stCamera:RadialDistortParam2="0.04821"
+        stCamera:RadialDistortParam3="0.125449">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.162383"
+        stCamera:RadialDistortParam2="0.04821"
+        stCamera:RadialDistortParam3="0.125449"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000494"
+        stCamera:VignetteModelParam1="-0.250524"
+        stCamera:VignetteModelParam2="-0.329829"
+        stCamera:VignetteModelParam3="-0.083614"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.162383"
+        stCamera:RadialDistortParam2="0.04821"
+        stCamera:RadialDistortParam3="0.125449">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.162383"
+        stCamera:RadialDistortParam2="0.04821"
+        stCamera:RadialDistortParam3="0.125449"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000459"
+        stCamera:VignetteModelParam1="-0.321184"
+        stCamera:VignetteModelParam2="-0.062361"
+        stCamera:VignetteModelParam3="-0.36153"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="3.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.162383"
+        stCamera:RadialDistortParam2="0.04821"
+        stCamera:RadialDistortParam3="0.125449">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.162383"
+        stCamera:RadialDistortParam2="0.04821"
+        stCamera:RadialDistortParam3="0.125449"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000152"
+        stCamera:VignetteModelParam1="-0.897648"
+        stCamera:VignetteModelParam2="0.430243"
+        stCamera:VignetteModelParam3="-0.430861"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.162383"
+        stCamera:RadialDistortParam2="0.04821"
+        stCamera:RadialDistortParam3="0.125449">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.162383"
+        stCamera:RadialDistortParam2="0.04821"
+        stCamera:RadialDistortParam3="0.125449"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000705"
+        stCamera:VignetteModelParam1="-0.377231"
+        stCamera:VignetteModelParam2="-1.038874"
+        stCamera:VignetteModelParam3="0.627002"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.162383"
+        stCamera:RadialDistortParam2="0.04821"
+        stCamera:RadialDistortParam3="0.125449">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.162383"
+        stCamera:RadialDistortParam2="0.04821"
+        stCamera:RadialDistortParam3="0.125449"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000135"
+        stCamera:VignetteModelParam1="-0.42002"
+        stCamera:VignetteModelParam2="-0.129955"
+        stCamera:VignetteModelParam3="0.148296"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="18"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.162383"
+        stCamera:RadialDistortParam2="0.04821"
+        stCamera:RadialDistortParam3="0.125449">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.162383"
+        stCamera:RadialDistortParam2="0.04821"
+        stCamera:RadialDistortParam3="0.125449"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00026"
+        stCamera:VignetteModelParam1="-0.428271"
+        stCamera:VignetteModelParam2="0.292256"
+        stCamera:VignetteModelParam3="-0.532932"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="3.662765"
+        stCamera:RadialDistortParam2="-86.289284"
+        stCamera:RadialDistortParam3="4221.262207">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="3.662765"
+        stCamera:RadialDistortParam2="-86.289284"
+        stCamera:RadialDistortParam3="4221.262207"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000207"
+        stCamera:VignetteModelParam1="-7.708762"
+        stCamera:VignetteModelParam2="6787.318359"
+        stCamera:VignetteModelParam3="-1894536.5"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="3.662765"
+        stCamera:RadialDistortParam2="-86.289284"
+        stCamera:RadialDistortParam3="4221.262207">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="3.662765"
+        stCamera:RadialDistortParam2="-86.289284"
+        stCamera:RadialDistortParam3="4221.262207"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000006"
+        stCamera:VignetteModelParam1="-0.827529"
+        stCamera:VignetteModelParam2="378.217255"
+        stCamera:VignetteModelParam3="-58419.414063"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="3.662765"
+        stCamera:RadialDistortParam2="-86.289284"
+        stCamera:RadialDistortParam3="4221.262207">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="3.662765"
+        stCamera:RadialDistortParam2="-86.289284"
+        stCamera:RadialDistortParam3="4221.262207"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000007"
+        stCamera:VignetteModelParam1="-8.388597"
+        stCamera:VignetteModelParam2="-254.155579"
+        stCamera:VignetteModelParam3="-61005.640625"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="5.310704">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="3.662765"
+        stCamera:RadialDistortParam2="-86.289284"
+        stCamera:RadialDistortParam3="4221.262207">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="3.662765"
+        stCamera:RadialDistortParam2="-86.289284"
+        stCamera:RadialDistortParam3="4221.262207"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000182"
+        stCamera:VignetteModelParam1="-30.453346"
+        stCamera:VignetteModelParam2="-17218.078125"
+        stCamera:VignetteModelParam3="1649361.625"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="3.662765"
+        stCamera:RadialDistortParam2="-86.289284"
+        stCamera:RadialDistortParam3="4221.262207">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="3.662765"
+        stCamera:RadialDistortParam2="-86.289284"
+        stCamera:RadialDistortParam3="4221.262207"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000109"
+        stCamera:VignetteModelParam1="6.816303"
+        stCamera:VignetteModelParam2="-16821.464844"
+        stCamera:VignetteModelParam3="957111.1875"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.117251"
+        stCamera:RadialDistortParam2="0.094808"
+        stCamera:RadialDistortParam3="0.178039">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.117251"
+        stCamera:RadialDistortParam2="0.094808"
+        stCamera:RadialDistortParam3="0.178039"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000099"
+        stCamera:VignetteModelParam1="-0.395821"
+        stCamera:VignetteModelParam2="-0.101808"
+        stCamera:VignetteModelParam3="-0.21109"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.117251"
+        stCamera:RadialDistortParam2="0.094808"
+        stCamera:RadialDistortParam3="0.178039">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.117251"
+        stCamera:RadialDistortParam2="0.094808"
+        stCamera:RadialDistortParam3="0.178039"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000119"
+        stCamera:VignetteModelParam1="-0.373754"
+        stCamera:VignetteModelParam2="-0.176744"
+        stCamera:VignetteModelParam3="-0.217641"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="4.33985">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.117251"
+        stCamera:RadialDistortParam2="0.094808"
+        stCamera:RadialDistortParam3="0.178039">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.117251"
+        stCamera:RadialDistortParam2="0.094808"
+        stCamera:RadialDistortParam3="0.178039"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000373"
+        stCamera:VignetteModelParam1="-0.491525"
+        stCamera:VignetteModelParam2="-2.163392"
+        stCamera:VignetteModelParam3="5.434196"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.117251"
+        stCamera:RadialDistortParam2="0.094808"
+        stCamera:RadialDistortParam3="0.178039">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.117251"
+        stCamera:RadialDistortParam2="0.094808"
+        stCamera:RadialDistortParam3="0.178039"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00052"
+        stCamera:VignetteModelParam1="-0.646771"
+        stCamera:VignetteModelParam2="-1.155849"
+        stCamera:VignetteModelParam3="4.830931"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="22"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.117251"
+        stCamera:RadialDistortParam2="0.094808"
+        stCamera:RadialDistortParam3="0.178039">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.117251"
+        stCamera:RadialDistortParam2="0.094808"
+        stCamera:RadialDistortParam3="0.178039"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00004"
+        stCamera:VignetteModelParam1="-0.488403"
+        stCamera:VignetteModelParam2="0.103448"
+        stCamera:VignetteModelParam3="0.284999"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="27"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.048448"
+        stCamera:RadialDistortParam2="0.190452"
+        stCamera:RadialDistortParam3="0.094003">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.048448"
+        stCamera:RadialDistortParam2="0.190452"
+        stCamera:RadialDistortParam3="0.094003"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000048"
+        stCamera:VignetteModelParam1="-0.586204"
+        stCamera:VignetteModelParam2="0.364917"
+        stCamera:VignetteModelParam3="-1.637282"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="27"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.048448"
+        stCamera:RadialDistortParam2="0.190452"
+        stCamera:RadialDistortParam3="0.094003">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.048448"
+        stCamera:RadialDistortParam2="0.190452"
+        stCamera:RadialDistortParam3="0.094003"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000013"
+        stCamera:VignetteModelParam1="-0.472514"
+        stCamera:VignetteModelParam2="-0.631549"
+        stCamera:VignetteModelParam3="0.651994"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="27"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.048448"
+        stCamera:RadialDistortParam2="0.190452"
+        stCamera:RadialDistortParam3="0.094003">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.048448"
+        stCamera:RadialDistortParam2="0.190452"
+        stCamera:RadialDistortParam3="0.094003"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000256"
+        stCamera:VignetteModelParam1="-1.341994"
+        stCamera:VignetteModelParam2="-1.869954"
+        stCamera:VignetteModelParam3="9.730542"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="27"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.048448"
+        stCamera:RadialDistortParam2="0.190452"
+        stCamera:RadialDistortParam3="0.094003">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.048448"
+        stCamera:RadialDistortParam2="0.190452"
+        stCamera:RadialDistortParam3="0.094003"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000106"
+        stCamera:VignetteModelParam1="-1.051011"
+        stCamera:VignetteModelParam2="2.30513"
+        stCamera:VignetteModelParam3="-5.687798"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="27"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.048448"
+        stCamera:RadialDistortParam2="0.190452"
+        stCamera:RadialDistortParam3="0.094003">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.048448"
+        stCamera:RadialDistortParam2="0.190452"
+        stCamera:RadialDistortParam3="0.094003"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000035"
+        stCamera:VignetteModelParam1="-0.704082"
+        stCamera:VignetteModelParam2="0.934869"
+        stCamera:VignetteModelParam3="-2.013487"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="34"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.050437"
+        stCamera:RadialDistortParam2="0.252074"
+        stCamera:RadialDistortParam3="0.05705">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.050437"
+        stCamera:RadialDistortParam2="0.252074"
+        stCamera:RadialDistortParam3="0.05705"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000006"
+        stCamera:VignetteModelParam1="-0.775877"
+        stCamera:VignetteModelParam2="-0.318956"
+        stCamera:VignetteModelParam3="-0.157578"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="34"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.050437"
+        stCamera:RadialDistortParam2="0.252074"
+        stCamera:RadialDistortParam3="0.05705">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.050437"
+        stCamera:RadialDistortParam2="0.252074"
+        stCamera:RadialDistortParam3="0.05705"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000006"
+        stCamera:VignetteModelParam1="-0.746836"
+        stCamera:VignetteModelParam2="-0.540056"
+        stCamera:VignetteModelParam3="-0.012723"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="34"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="4.33985">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.050437"
+        stCamera:RadialDistortParam2="0.252074"
+        stCamera:RadialDistortParam3="0.05705">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.050437"
+        stCamera:RadialDistortParam2="0.252074"
+        stCamera:RadialDistortParam3="0.05705"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000238"
+        stCamera:VignetteModelParam1="-1.603759"
+        stCamera:VignetteModelParam2="-7.595569"
+        stCamera:VignetteModelParam3="35.047913"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="34"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.050437"
+        stCamera:RadialDistortParam2="0.252074"
+        stCamera:RadialDistortParam3="0.05705">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.050437"
+        stCamera:RadialDistortParam2="0.252074"
+        stCamera:RadialDistortParam3="0.05705"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000121"
+        stCamera:VignetteModelParam1="-0.860786"
+        stCamera:VignetteModelParam2="-0.057663"
+        stCamera:VignetteModelParam3="-13.254158"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="34"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.050437"
+        stCamera:RadialDistortParam2="0.252074"
+        stCamera:RadialDistortParam3="0.05705">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.050437"
+        stCamera:RadialDistortParam2="0.252074"
+        stCamera:RadialDistortParam3="0.05705"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000022"
+        stCamera:VignetteModelParam1="-1.053291"
+        stCamera:VignetteModelParam2="1.224793"
+        stCamera:VignetteModelParam3="1.284511"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.281452"
+        stCamera:RadialDistortParam2="0.53771"
+        stCamera:RadialDistortParam3="-1.449364">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.281452"
+        stCamera:RadialDistortParam2="0.53771"
+        stCamera:RadialDistortParam3="-1.449364"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000017"
+        stCamera:VignetteModelParam1="-0.05377"
+        stCamera:VignetteModelParam2="-1.070358"
+        stCamera:VignetteModelParam3="-18.851463"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.281452"
+        stCamera:RadialDistortParam2="0.53771"
+        stCamera:RadialDistortParam3="-1.449364">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.281452"
+        stCamera:RadialDistortParam2="0.53771"
+        stCamera:RadialDistortParam3="-1.449364"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000008"
+        stCamera:VignetteModelParam1="0.087796"
+        stCamera:VignetteModelParam2="-4.23577"
+        stCamera:VignetteModelParam3="12.070707"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.281452"
+        stCamera:RadialDistortParam2="0.53771"
+        stCamera:RadialDistortParam3="-1.449364">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.281452"
+        stCamera:RadialDistortParam2="0.53771"
+        stCamera:RadialDistortParam3="-1.449364"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000104"
+        stCamera:VignetteModelParam1="-0.91545"
+        stCamera:VignetteModelParam2="-16.955961"
+        stCamera:VignetteModelParam3="129.178574"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.281452"
+        stCamera:RadialDistortParam2="0.53771"
+        stCamera:RadialDistortParam3="-1.449364">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.281452"
+        stCamera:RadialDistortParam2="0.53771"
+        stCamera:RadialDistortParam3="-1.449364"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000117"
+        stCamera:VignetteModelParam1="-2.445633"
+        stCamera:VignetteModelParam2="-14.380999"
+        stCamera:VignetteModelParam3="141.298111"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.281452"
+        stCamera:RadialDistortParam2="0.53771"
+        stCamera:RadialDistortParam3="-1.449364">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.281452"
+        stCamera:RadialDistortParam2="0.53771"
+        stCamera:RadialDistortParam3="-1.449364"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000009"
+        stCamera:VignetteModelParam1="-2.25042"
+        stCamera:VignetteModelParam2="10.767857"
+        stCamera:VignetteModelParam3="-19.788191"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="69"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.642254"
+        stCamera:RadialDistortParam2="-0.105168"
+        stCamera:RadialDistortParam3="3.577744">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.642254"
+        stCamera:RadialDistortParam2="-0.105168"
+        stCamera:RadialDistortParam3="3.577744"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00005"
+        stCamera:VignetteModelParam1="-0.732582"
+        stCamera:VignetteModelParam2="24.619425"
+        stCamera:VignetteModelParam3="-416.911896"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="69"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.642254"
+        stCamera:RadialDistortParam2="-0.105168"
+        stCamera:RadialDistortParam3="3.577744">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.642254"
+        stCamera:RadialDistortParam2="-0.105168"
+        stCamera:RadialDistortParam3="3.577744"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00002"
+        stCamera:VignetteModelParam1="-0.002837"
+        stCamera:VignetteModelParam2="0.362227"
+        stCamera:VignetteModelParam3="-162.430313"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="69"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.642254"
+        stCamera:RadialDistortParam2="-0.105168"
+        stCamera:RadialDistortParam3="3.577744">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.642254"
+        stCamera:RadialDistortParam2="-0.105168"
+        stCamera:RadialDistortParam3="3.577744"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000077"
+        stCamera:VignetteModelParam1="-1.548729"
+        stCamera:VignetteModelParam2="-47.659481"
+        stCamera:VignetteModelParam3="652.157593"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="69"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.642254"
+        stCamera:RadialDistortParam2="-0.105168"
+        stCamera:RadialDistortParam3="3.577744">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.642254"
+        stCamera:RadialDistortParam2="-0.105168"
+        stCamera:RadialDistortParam3="3.577744"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000335"
+        stCamera:VignetteModelParam1="-3.770414"
+        stCamera:VignetteModelParam2="-123.451614"
+        stCamera:VignetteModelParam3="2761.43335"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Hasselblad"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="E 18-200mm F3.5-6.3 OSS"
+       stCamera:LensInfo="180/10 2000/10 35/10 63/10"
+       stCamera:CameraPrettyName="Hasselblad"
+       stCamera:LensPrettyName="Hasselblad LF18-200mm F3.5-6.3 OSS"
+       stCamera:ProfileName="Adobe (Hasselblad LF18-200mm F3.5-6.3 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="69"
+       stCamera:FocusDistance="100000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.642254"
+        stCamera:RadialDistortParam2="-0.105168"
+        stCamera:RadialDistortParam3="3.577744">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.642254"
+        stCamera:RadialDistortParam2="-0.105168"
+        stCamera:RadialDistortParam3="3.577744"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000012"
+        stCamera:VignetteModelParam1="-0.963782"
+        stCamera:VignetteModelParam2="27.953291"
+        stCamera:VignetteModelParam3="-115.169434"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
