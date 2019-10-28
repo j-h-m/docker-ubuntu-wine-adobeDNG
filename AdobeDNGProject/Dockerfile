@@ -10,9 +10,6 @@ RUN apt-get update && \
 # install git so we can pull the adobedng exe file from the repo
 RUN apt-get -y install git wget gnupg software-properties-common
 
-# install necessary packages for using dpkg / apt functions
-# RUN apt-get -y install
-
 # install wine
 WORKDIR /home/wine_install
 
